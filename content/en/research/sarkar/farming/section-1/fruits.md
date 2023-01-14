@@ -1,6 +1,5 @@
 ---
 title: "Fruits, Nuts, Coffee, Tea"
-
 weight: 14
 author: "PR Sarkar"
 description: "Fruits are a vital part of the human diet and the easiest food for humans to digest. "
@@ -11,7 +10,7 @@ aliases:
 ---
 
 
-## Frui
+## Fruit
 
 Fruits are a vital part of the human diet and the easiest food for humans to digest. 
 - Many fruits have a purifying and cleansing effect on the body
@@ -162,6 +161,7 @@ The fruit of chalpa is usually made into chutney. It can be grown as a roadside 
 
 Mulberry is widely used as a host for silk worms. The worms eat the leaves of the plant and produce garad silk.
 
+
 ## Coconut
 
 The coconut palm is very common in most tropical countries. 
@@ -174,7 +174,7 @@ Shredded coconut, sweetened or plain, is a popular ingredient in biscuits, cakes
 
 Coconut is good for digestion and helps to alleviate constipation. It has other medicinal uses as well.
 
-Green coconut water (d́áb) is rich in potassium, so it has a sweet taste; but it should be taken only from the authentic source. 
+Green coconut water (d́áb) is rich in potassium, so it has a sweet taste. But it should be taken only from the authentic source. 
 - Vendors sometimes replace the coconut water with ordinary water through a syringe.
 
 **A particularly good variety of coconut is the Paraguaya coconut.** 
@@ -227,6 +227,7 @@ If the flour is adulterated, it will leave a blackened mark in the vessel.
 Mango and litchi grow successfully in the Nadia district of Bengal. 
 
 Mango, like all fruit trees, has fibrous roots which help to conserve water and protect the soil. It also makes a good roadside plant.
+
 
 
 ## Mangosteen

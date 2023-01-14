@@ -1,6 +1,5 @@
 ---
 title: "Sugar Crops"
-
 weight: 38
 author: "PR Sarkar"
 description: "Sugar is an important part of the human diet. For many farmers, sugar crops are an essential source of income"

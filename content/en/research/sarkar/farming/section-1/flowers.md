@@ -1,6 +1,5 @@
 ---
-title: "Flowers and Trees"
-
+title: "Flowers"
 weight: 12
 author: "PR Sarkar"
 description: "Self-reliance is the main objective of our farming projects, hence they should be oriented towards production"
@@ -70,6 +69,9 @@ Research on opium poppy should be conducted by the government.
 ## Kaiṋcan
 
 Kaiṋcan is a small flowering tree which is often used as a boundary plant.
-Shveta Karabii
+
+
+## Shveta Karabii
+
 Shveta Karabii is a decorative flower plant which grows to a height of about feet. It is used as a boundary plant.
 

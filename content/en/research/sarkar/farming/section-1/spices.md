@@ -82,7 +82,9 @@ Onion is also a good blended crop with rice in certain seasons. Onions can be so
 
 The method for rotating onion crops is as follows. 
 
-In the month of Paoś, onion seeds are sown. The seedlings should be transplanted along with late boro paddy in the month of Mágha. In the middle of Vaeshákha, the late boro should be harvested. After that, the onions should be dug up. 
+In the month of Paoś, onion seeds are sown. 
+
+The seedlings should be transplanted along with late boro paddy in the month of Mágha. In the middle of Vaeshákha, the late boro should be harvested. After that, the onions should be dug up. 
 
 These small onions (chota piaú or kali piaz) are very pungent. The soil requirements for small onions are the same as for áman paddy, that is, clay soil. These small onions should then be sown with early boro paddy. 
 
@@ -119,11 +121,18 @@ Ginger stalks, like onion stalks, should be twisted down so that within 15 days 
 
 Chilli is very common in India. There are many varieties which vary in size, spiciness and growing conditions. 
 
-For example, the kacha lanka variety is a three year crop. In the first year it will produce a good yield, in the second year a medium yield, and in the third year a very low yield. 
+For example, the kacha lanka variety is a 3-year crop.
+- In year 1, it will produce a good yield
+- In year 2, a medium yield
+- In year 3, a very low yield. 
 
-Thus, the plants should be removed after the second year and new ones grown. Dhani lanka is not suitable as a blended crop because it grows very large and affects the nearby plants. The indigenous and suryamukhi varieties have similar yields, but the dhani lanka variety produces more than either of these two. 
+Thus, the plants should be removed after the second year and new ones grown. 
 
-The indigenous, suryamukhi and dhani lanka varieties are all summer varieties of green chilli. There is also a red winter variety which is often dried and made into powder. Chilli can also be made into a spicy sauce.
+Dhani lanka is not suitable as a blended crop because it grows very large and affects the nearby plants. The indigenous and suryamukhi varieties have similar yields, but the dhani lanka variety produces more than either of these two. 
+
+The indigenous, suryamukhi and dhani lanka varieties are all summer varieties of green chilli. 
+
+There is also a red winter variety which is often dried and made into powder. 
 
 
 ## Turmeric (Halud)

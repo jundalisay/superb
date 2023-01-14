@@ -1,13 +1,35 @@
 restrict meat farming, land is for grains
 
+Legumes (creates nitrogen) + Corn (uses nitrogen)
 
-Lenovo IdeaPad D330-10IGL 82H0000JPH/10.1in HD Detachable/Celeron N4020/8GB DDR4/128GB eMMC/UHD Graphics 600/Win10 Pro @ 1569 
 
-Acer aspire is Intel Pentium N4200 @ 1.10GHz @ 2160 score
+Vegetables which require direct sunlight should not be planted with creeping tubers because the creepers will cover the other plants. 
 
-Lenovo N4500 @ 2000 score 
+For example, cauliflower needs direct sunlight, so it should not be planted with creepers.
 
-baccarat gil puyat 
+**All tuber crops should be harvested only after the stalk dries up.** 
+
+If the stalks of tubers are allowed to grow freely, the plants will bear flowers and seeds, but the tubers may disappear. 
+
+The stalks of onion tubers should be twisted down before harvesting.
+
+**Rotten vegetables are the best manure for green vegetables**
+
+mustard cakes are fertilizer and pest repellant
+
+Pepsin from papaya tree.
+
+
+The land between banana plants must not remain vacant. The following crops can be planted:
+
+1. Áśáŕha to Kárttika – turmeric and black gram.
+2. Agraháyańa to Mágha – sweet potato or sweet juice potato and winter chilli or winter brinjal. 
+
+The seedlings should be quite big.
+
+3. Phálguna to Jyaeśt́ha – peanut or ginger under the ground and sesame or soybean above the ground.
+
+
 
 
 <html>
@@ -38,50 +60,11 @@ warrior
 thinker
 trader
 
-ant financial remitance 
 
-
-luis ygg
-chris xave
-nate globe 
-tonivhi metago 
-gcash
-melvin ng huawei 100 partners, customers in PH
-lee zhu bnbchain superior tech GameFi sponsorbiggest community of users bunance ecosystem
-play to earn does not work because in=out need other source of revenue like ads, subscription, esoprts 
-avenger dao - communityled security initiative 
-archipelago labs = pdax coinbase froge 
-
-50-250k USD
-
-USE BNB CHAIN
-
-flame framework flutter
-
-playdex 
-acadarena
-
-
-i5-1135G7 emil
-i5-11400 adrian 
-
-
-opgames  arcadia 
-
-
-jen bilango: blockchain space 
-
-ethereum openzepellin 
-- amm liqduity pool 
-- abi
-- stablecoin 
-- market exchange 
-- ICP EOS Solana 
-
-ant financial remitance 
-
-
-
+purple sp
+orange mat
+pink medical
+green social
 
 
 

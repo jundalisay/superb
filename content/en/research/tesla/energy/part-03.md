@@ -8,7 +8,7 @@ description: "This problem is by far the most important to consider, not only be
 ---
 
 
-## HARNESSING THE SUN'S ENERGY
+## Harnessing The Sun's Energy
 
 This problem is by far the most important to consider, not only because of its intrinsic significance, but also because of its intimate bearing on all the many elements and conditions which determine the movement of humanity. 
 

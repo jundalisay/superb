@@ -1,6 +1,5 @@
 ---
 title: "Research"
-
 weight: 28
 author: "PR Sarkar"
 description: "Research centres should be developed on all large farming projects and master units"
@@ -9,6 +8,8 @@ icon: "/icons/sarkar.png"
 aliases:
   /research/indian/farming/section-1/research
 ---
+
+
 
 ## Research Centres
 
@@ -46,11 +47,19 @@ Paper can be made from bamboo, bamboo leaves, safia grass, soft wood, sugar cane
 
 All sweet seeds should be sown after proper sprouting, otherwise ants will eat them up. Radish seeds should always be brought from at least three miles away from the field where they are to be grown, otherwise they will be prone to disease. To produce seeds for sunflowers, varieties which produce more seeds should be used; for ginger, varieties which have sprouts; for peanuts, the Gujarat variety, the Andhra Pradesh variety or the Tamil Nadu variety; and for paddy, the late boro variety.
 
-There should be a seed production centre at Ánanda Nagar or Ánanda Shiila where the climate is very cold. In the plains of India, good seeds cannot be produced. The best places for producing sugar beet seeds are the Garhwal Himalayas of Uttar Pradesh, Himachal Pradesh and the Kashmir Valley. We should try to produce seeds at Ánanda Nagar or at Calcutta in a green house. 
+There should be a seed production centre at Ánanda Nagar or Ánanda Shiila where the climate is very cold. In the plains of India, good seeds cannot be produced. 
+
+The best places for producing sugar beet seeds are the Garhwal Himalayas of Uttar Pradesh, Himachal Pradesh and the Kashmir Valley. We should try to produce seeds at Ánanda Nagar or at Calcutta in a green house. 
 
 Ánanda Nagar jágrti is the highest point in central Ánanda Nagar, so the seeds of broccoli, sugar beet and cabbage should be grown there.
 
-Herbs and medicinal plants should be given special importance. Some plants are very useful in helping cure mental disorders. For example, brahmi sag [Herpestis monniera H. B. & K.] increases memory power and is good for the brain. Bottle gourd (lau) [Lagenaria vulgaris Seringe] is good for the mentally disturbed. Bhringaraj [Wedelia calendulacea Less.] oil can be used to treat the insane. 
+Herbs and medicinal plants should be given special importance. 
+
+Some plants are very useful in helping cure mental disorders. For example, brahmi sag [Herpestis monniera H. B. & K.] increases memory power and is good for the brain. 
+
+Bottle gourd (lau) [Lagenaria vulgaris Seringe] is good for the mentally disturbed. 
+
+Bhringaraj [Wedelia calendulacea Less.] oil can be used to treat the insane. 
 
 Tulsi nishanda or oil extracted from basil seeds can be used to treat madness. Other plants are useful in treating physical disorders. For example, kalmegh [Andrographis paniculata Nees.] or cirota, which is dried kalmegh, prevents malaria. Cinchona is a source of quinine. Phaniphal [Trapa bispinosa Roxb.] is good for stomach and intestinal disorders.
 
@@ -62,13 +71,40 @@ Creepers to be grown in protected areas include the gach pán variety of betel 
 
 ## Special Features of Farming Projects
 
-All integrated farming projects and master units should endeavour to include some special features such as a wheat grinding machine to produce flour, a bakery to produce bread, a cheap seed distribution centre (sulabha biija vitarańa kendra), a free plant distribution centre, sericulture, a bio-gas plant to utilize the waste of dairy cows, solar energy, apiculture and a school and children’s home.
+All integrated farming projects and master units should try to include special features such as:
+- a wheat grinding machine to produce flour
+- bakery to produce bread
+- a cheap seed distribution centre (sulabha biija vitarańa kendra)
+- a free plant distribution centre
+- sericulture
+- a bio-gas plant to utilize the waste of dairy cows
+- solar energy
+- apiculture
+- a school and children’s home.
 
-A cheap seed distribution centre should collect good quality seeds and sell them at cheap rates. Seeds may be purchased from local farmers at the end of each harvest, or purchased at cheap rates in the market, or cultivated, but the centre should provide good quality seeds at cheap rates to the local people.
+A cheap seed distribution centre should collect good quality seeds and sell them at cheap rates. 
 
-A free plant distribution centre should grow plants from seeds and seedlings for free distribution to local people. The following system should be used to prepare plants for distribution. The seedlings should be grown until they are one and a half feet tall. 
+Seeds may be:
+- purchased from local farmers at the end of each harvest
+- purchased at cheap rates in the market
+- cultivated
 
-The plants should then be uprooted and their roots soaked in water for half an hour. Next, the main root of each plant should be cut off one inch below the base of the plant, and the remaining roots should again be soaked in water for ten minutes. The plants should then be planted in a field or packed for distribution. Plants which are prepared in this way will produce large, sweet fruits. The fruits will be better than those produced from seedlings, but not as good as those produced from grafted plants.
+But the centre should provide good quality seeds at cheap rates to the local people.
+
+A free plant distribution centre should grow plants from seeds and seedlings for free distribution to local people. 
+
+The following system should be used to prepare plants for distribution. 
+
+1. The seedlings should be grown until they are 1.5 feet tall 
+2. The plants should then be uprooted
+3. Their roots soaked in water for half an hour
+4. The main root of each plant should be cut off 1 inch below the base of the plant
+5. The remaining roots should again be soaked in water for 10 minutes. 
+6. The plants should then be planted in a field or packed for distribution. 
+
+Plants which are prepared in this way will produce large, sweet fruits. 
+- The fruits will be better than those produced from seedlings, but not as good as those produced from grafted plants.
+
 
 20 February 1988, Calcutta
 

@@ -1,6 +1,5 @@
 ---
 title: "Oilseed Plants"
-
 weight: 22
 author: "PR Sarkar"
 description: "Numerous plants have known medicinal value"

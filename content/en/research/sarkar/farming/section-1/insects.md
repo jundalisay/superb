@@ -1,47 +1,15 @@
 ---
-title: "Pest Control, Sericulture, Dairy, Fish"
-
-weight: 18
+title: "Useful Products From Insects"
+weight: 24
 author: "PR Sarkar"
-description: "Cereals are the staple food of human beings. Cereals vary in their type, nutritional value and use. "
+description: "In Bengal, production based on insects has 3 main branches"
 image: "/covers/farming.jpg"
 icon: "/icons/sarkar.png"
 aliases:
-  /research/indian/farming/section-1/insects
+  /research/indian/farming/section-1/pulses
 ---
 
 
-## Pest Control
-
-In the rainy season in the last week of Shrávańa there is water in the paddy fields of Bengal. 
-
-In these fields we should cultivate fish, but fishermen should not be allowed to catch these fish while the paddy is still growing. Harmful insecticides or pesticides should not be used in these fields because they will kill the fish and pollute the water system.
-
-Alternative pesticides like neem paste pesticide should be used. 
-
-If copper sulphate spray is used, care should be taken to use the minimum amount because it is harmful. 
-
-Neem paste can be prepared from neem leaves. Before planting the paddy, during the last ploughing, neem oil cakes should be ploughed into the fields. 
-
-In addition, neem paste pesticide with urea should be used whenever there is an attack of insects. Copper sulphate solution can also be mixed with urea.
-
-Fish should not be the food of human beings, but the food of jackals, birds, foxes and other fish and crabs. 
-
-If the paddy water drains into ponds, lakes or rivers, small fish will flourish and become the food of larger fish, birds and animals. In this way the farmers will be helping maintain ecological balance.
-
-<!-- Some special medicines can be prepared for particular crops. For example,  -->
-
-To kill the worms which attack cauliflower crops, soapy water mixed with a small amount of kerosene may be sprayed on the cauliflowers. The soapy water will let the kerosene wash off the cauliflowers easily and not harm humans.
-
-Snakes will likely be found wherever wax gourd is cultivated. 
-
-To avoid this, iishanmula [Aristolochia indica Linn.] is used because snakes are afraid of its smell. Snakes are also afraid of any copper salt. Wherever there is copper salt snakes will not be found, as in Ghatshila and Maobhandar, near Tatanagar. 
-
-Water kept in a bronze pot becomes antiseptic due to the copper in the bronze. Copper sulphate is poisonous for human beings.
-
-
-
-## Useful Products From Insects
 
 In Bengal, production based on insects has 3 main branches:
 
@@ -79,15 +47,18 @@ Non-grafted seedlings of mulberry give more foliage for silk production than gra
 
 The following should be grown between 2 mulberry plants:
 
-1. Where the land is extremely rocky and there is no soil, soil should be brought from outside so that palm, Indian plum and custard-apple saplings, not seedlings, can be planted between two mulberry plants. Research should be done on the custard-apple and the Indian plum.
+  1. Where the land is extremely rocky and there is no soil, soil should be brought from outside so that palm, Indian plum and custard-apple saplings, not seedlings, can be planted between two mulberry plants. Research should be done on the custard-apple and the Indian plum.
 
-2. Where the land is extremely rocky but there are accumulations of soil between the rocks, thorny puneala plum (thorny paniala) [Flacourtia jangomas (Lour) Raeusch.] and custard-apple can be planted between two mulberry plants. Research should be done on the thorny puneala plum.
+  2. Where the land is extremely rocky but there are accumulations of soil between the rocks, thorny puneala plum (thorny paniala) [Flacourtia jangomas (Lour) Raeusch.] and custard-apple can be planted between two mulberry plants. Research should be done on the thorny puneala plum.
 
-3. Where the land is less rocky, non-thorny puneala plum (non-thorny paniala) and custard-apple can be planted between two mulberry plants. Research should be done on the non-thorny puneala plum.
+  3. Where the land is less rocky, non-thorny puneala plum (non-thorny paniala) and custard-apple can be planted between two mulberry plants. Research should be done on the non-thorny puneala plum.
 
-4. Where the land is a bit better than in number three above, date palm (khejur) and custard-apple saplings can be planted between two mulberry plants.
+  4. Where the land is a bit better than in number three above, date palm (khejur) and custard-apple saplings can be planted between two mulberry plants.
 
-Custard-apple varieties from abroad should be brought to India as far as possible, especially the variety from the Philippines, which is a large variety. Sporting goods can be made from mulberry wood. Mulberry can be grown successfully in Ánanda Nagar.
+<!-- Custard-apple varieties from abroad should be brought to India as far as possible, especially the variety from the Philippines, which is a large variety.  -->
+
+Sporting goods can be made from mulberry wood. Mulberry can be grown successfully in Ánanda Nagar.
+
 
 
 2. Lac culture. 

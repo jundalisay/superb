@@ -1,6 +1,5 @@
 ---
 title: "Summer Vegetables"
-
 weight: 32
 author: "PR Sarkar"
 description: "Most pulses are high in protein but have varying degrees of fat. They are easier to digest than casein, but less substantial"

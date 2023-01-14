@@ -1,6 +1,5 @@
 ---
 title: "Fiber Crops"
-
 weight: 10
 author: "PR Sarkar"
 description: "Most pulses are high in protein but have varying degrees of fat. They are easier to digest than casein, but less substantial"
@@ -11,7 +10,11 @@ aliases:
 ---
 
 
-Many different kinds of plants are grown as fibre crops. The fibres themselves vary in their consistency. Some fibres may be rough and are used for making mats, baskets, string, rope, etc., while others may be fine and are used for making clothing, etc.
+<!-- Many different kinds of plants are grown as fibre crops. The fibres themselves vary in their consistency.  -->
+
+Some fibres from fiber crops may be rough and are used for making mats, baskets, string, rope, etc.
+- Others may be fine and are used for making clothing, etc.
+
 
 Some of the more common fibre crops are:
 - linseed (tisi, mosne, chikaná)
@@ -214,6 +217,7 @@ Previously, the West Bengal government grew Cannabis indica in Nogong. But now i
 We do not need to grow narcotic plants for research. Rather, this should be done by the government.
 
 Mat stick is a grass of the paddy group which is used for making mats. It is called “mádur” in Bengali. Mat making using mat stick is a large cottage industry in Midnapur. Mat stick is grown in Midnapur and Lontai.
+
 Bichali, especially the Patna variety, is used for making ropes, and the seeds are used as animal fodder. 
 
 Safia grass is used for making baskets and paper, notably in Saheb Ganj.

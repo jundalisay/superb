@@ -52,6 +52,8 @@ When the water dries up, wash the pulp and refill it with water. After some time
 
 **Radish seeds should not be sown within a radius of three miles from where they were produced. Seeds should always be brought from outside the locality, otherwise the radish crop will be prone to disease.**
 
+When growing rainy season radish, miśt́i danta shák (a sweet green leafy vegetable) should be planted in between the radish plants. The seedlings of the radish should be planted with áus paddy. For this the soil should be wet, but not waterlogged.
+
 
 
 ## Potato and Radish

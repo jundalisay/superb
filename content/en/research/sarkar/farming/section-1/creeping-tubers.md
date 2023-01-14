@@ -1,6 +1,5 @@
 ---
 title: "Tubers Winter Vegetables"
-
 weight: 6
 author: "PR Sarkar"
 description: "Cereals are the staple food of human beings. Cereals vary in their type, nutritional value and use. "
@@ -13,6 +12,12 @@ aliases:
 
 ## Creeping Tuber Vegetables
 
+Partners | Rivals
+--- | ---
+Bamboo, cane, banana, papaya | Veg that need sunlight
+
+
+
 Vegetables which require direct sunlight should not be planted with creeping tubers because the creepers will cover the other plants. 
 
 For example, cauliflower needs direct sunlight, so it should not be planted with creepers.
@@ -24,9 +29,14 @@ Creeping tuber vegetables include:
 - Sweet juice potato and sweet potato are also sugar crops and are discussed in that section.
 - Elephantum Potato (Khámálu)
 
-Elephantum potato is a three year crop. It has more food value than sugar beet, but it takes longer to grow. 
+Elephantum potato is a 3-year crop. It has more food value than sugar beet, but it takes longer to grow. 
 
-It should be pruned every 45 days, and the offcuts fed to farm animals. The land may also be suitably used for cultivating bamboo, cane, banana, papaya, etc. As this variety of potato is a climber, it can use these plants for the purpose of ascending.
+It should be pruned every 45 days, and the offcuts fed to farm animals. 
+
+The land may also be suitably used for cultivating bamboo, cane, banana, papaya, etc. As this variety of potato is a climber, it can use these plants to climb up.
+
+
+
 
 
 ## Non-creeping Tuber Vegetables
@@ -34,10 +44,6 @@ It should be pruned every 45 days, and the offcuts fed to farm animals. The land
 Non-creeping tuber crops include:
 
 - potato
-<!-- , The varieties include:
-red
-cream
-milk white -->
 - anthurium group
 - caladium group
 - elephant root (elephant foot yam, ol)

@@ -1,7 +1,6 @@
 ---
 title: "Integrated Farming"
-
-weight: 10
+weight: 8
 author: "PR Sarkar"
 description: "Self-reliance is the main objective of our farming projects, hence they should be oriented towards production"
 image: "/covers/farming.jpg"
@@ -188,6 +187,3 @@ They also create a congenial environment for other plants.
 Dairy farming includes milk production from dairy cows, goats, sheep and buffaloes. Milk powder and dehydrated curd should also be produced. 
 
 Animals are not to be sold for slaughter.
-
-
-
