@@ -5,24 +5,52 @@ description: Immediate certainty does not make the truth its own, for its truth 
 image: /covers/phenom.jpg
 author: Hegel
 icon: /avatars/hegel.png
-weight: 8
+weight: 10
 ---
 
 
-{{< s v='111' >}} Immediate certainty does not make the truth its own, for its truth is something universal, whereas certainty wants to deal with the This. 
+{{< s v='111' >}} Immediate certainty does not make the truth its own. 
 
-Perception, on the other hand, takes what exists for it to be a universal. Universality being its principle in general, its moments immediately distinguished within it are also universal; I is a universal, and the object is a universal. That principle has arisen and come into being for us who are tracing the course of experience; and our process of apprehending what perception is, therefore, is no longer a contingent series of acts of apprehension, as is the case with the apprehension of sense-certainty; it is a logically necessitated process. 
+This is because its truth is something universal, whereas certainty only wants to deal with the This.
 
-With the origination of the principle, both the moments, which as they appear merely fall apart as happenings, have at once together come into being: the one, the process of pointing out and indicating, the other the same process, but as a simple fact – the former the process of perceiving, the latter the object perceived. The object is in its essential nature the same as the process; the latter is the unfolding and distinguishing of the elements involved; the object is these same elements taken and held together as a single totality. For us (tracing the process) or in itself,(2) the universal, qua principle, is the essence of perception; and as against this abstraction, both the moments distinguished-that which perceives and that which is perceived – are what is non-essential. 
+Perception, on the other hand, takes what exists for it to be a universal. 
 
-But in point of fact, because both are themselves the universal, or the essence, they are both essential: but since they are related as opposites, only one can in the relation (constituting perception) be the essential moment; and the distinction of essential and non-essential has to be shared between them. 
+Universality being its principle in general, its moments immediately distinguished within it are also universal.
+- I is a universal
+- The object is a universal. 
+
+That principle has arisen and come into being for us who are tracing the course of experience.
+
+Our process of apprehending what perception is, therefore, is no longer a contingent series of acts of apprehension, as is the case with the apprehension of perception (sense-certainty). 
+
+It is a logically necessitated process. 
+
+With the origination of the principle, both the moments, which as they appear merely fall apart as happenings, have at once together come into being. 
+
+The one, the process of pointing out and indicating, the other the same process, but as a simple fact – the former the process of perceiving, the latter the object perceived.
+
+The object is in its essential nature the same as the process. 
+
+The process is the unfolding and distinguishing of the elements involved.
+
+The object is these same elements taken and held together as a single totality. 
+
+For us (tracing the process) or in itself,(2) the universal, qua principle, is the essence of perception; and as against this abstraction, both the moments distinguished-that which perceives and that which is perceived – are what is non-essential. 
+
+But because both are themselves the universal, or the essence, they are both essential.
+
+But since they are related as opposites, only one can in the relation (constituting perception) be the essential moment; and the distinction of essential and non-essential has to be shared between them. 
 
 The one characterized as the simple fact, the object, is the essence, quite indifferent as to whether it is perceived or not: perceiving, on the other hand, being the process, is the insubstantial, the inconstant factor, which can be as well as not be, is the non-essential moment.
 
 
-{{< s v='112' >}} This object we have now to determine more precisely, and to develop this determinate character from the result arrived at: the more detailed development does not fall in place here. Since its principle, the universal, is in its simplicity a mediated principle, the object must express this explicitly as its own inherent nature. 
+{{< s v='112' >}} This object we have now to determine more precisely, and to develop this determinate character from the result arrived at: the more detailed development does not fall in place here. 
 
-The object shows itself by so doing to be the thing with many properties. The wealth of sense-knowledge belongs to perception, not to immediate certainty, where all that wealth was merely something alongside and by the way; for it is only perception that has negation, distinction, multiplicity in its very nature.
+Since its principle, the universal, is in its simplicity a mediated principle, the object must express this explicitly as its own inherent nature. 
+
+The object shows itself by so doing to be the thing with many properties. 
+
+The wealth of sense-knowledge belongs to perception, not to immediate certainty, where all that wealth was merely something alongside and by the way; for it is only perception that has negation, distinction, multiplicity in its very nature.
 
 
 ## 1. The Notion of a “Thing”
@@ -44,9 +72,13 @@ This salt is a simple Here and at the same time manifold: it is white, and also 
 At the same time, without being divided by different Heres, they do not affect each other in their interpenetration; its being white does not affect or alter the cubical shape it has, and neither affects its tart taste, and so on: on the contrary, since each is simple relation to self, it leaves the others alone and is related to these merely by being also along with them, a relation of mere indifference. This “Also” is thus the pure universal itself, the “medium”, the “Thinghood” keeping them together.
 
 
-{{< s v='114' >}} In this relation, which has emerged, it is merely the character of positive universality that is first noticed and developed. But there is still a side presented to view which must also be taken into account. It is this. If the many determinate properties were utterly indifferent to each other, and were entirely related to themselves alone, they would not be determinate; for they are so, merely in so far as they are distinguished and related to others as their opposites. 
+{{< s v='114' >}} In this relation, which has emerged, it is merely the character of positive universality that is first noticed and developed. But there is still a side presented to view which must also be taken into account. 
 
-In view of this opposition, however, they cannot exist together in the bare and simple unity of their “medium”, which unity is just as essential to them as negation. The process of distinguishing them, so far as it does not leave them indifferent, but effectually excludes, negates one from another, thus falls outside this simple “medium”. 
+It is this. If the many determinate properties were utterly indifferent to each other, and were entirely related to themselves alone, they would not be determinate; for they are so, merely in so far as they are distinguished and related to others as their opposites. 
+
+In view of this opposition, however, they cannot exist together in the bare and simple unity of their “medium”, which unity is just as essential to them as negation. 
+
+The process of distinguishing them, so far as it does not leave them indifferent, but effectually excludes, negates one from another, thus falls outside this simple “medium”. 
 
 This, consequently, is not merely an “also”, an unity indifferent to what is in it, but a “one” as well, an excluding repelling unity.
 
@@ -94,5 +126,3 @@ Consciousness is aware that this aspect is at the same time its own, and takes i
 In this way we have, now, in the case of perception, as happened in the case of sensuous certainty, the aspect of consciousness being forced back upon itself; but, in the first instance, not in the sense in which this took place in the former case – i.e. not as if the truth of perception fell within it. 
 
 Rather consciousness is aware that the untruth, that comes out there, falls within it. By knowing this, however, consciousness is able to cancel and supersede this untruth. It distinguishes its apprehension of the truth from the untruth of its perception, corrects this untruth, and, so far as itself takes in hand to make this correction, the truth, qua truth of perception, certainly falls within its own consciousness. The procedure of consciousness, which we have now to consider, is thus so constituted that it no longer merely perceives, but is also conscious of its reflection into self, and keeps this apart from the simple apprehension proper.
-
-

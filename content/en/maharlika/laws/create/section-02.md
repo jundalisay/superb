@@ -1,7 +1,7 @@
 ---
 heading: "Section 2"
 title: "Policy"
-description: ""
+description: "The State shall develop the national economy towards global competitiveness by implementing tax policies that will attract investments"
 image: "/photos/tax.jpg"
 date: 2020-07-27 
 weight: 6

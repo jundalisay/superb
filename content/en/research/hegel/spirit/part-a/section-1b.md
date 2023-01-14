@@ -58,53 +58,62 @@ It exists in a two-fold form* as:
 
 > *Superphysics Note: From starting with the aethereal consciousness, Hegel's reasoning goes to the spacetime 'here' and 'now'. 
 
-Its dialectic will take a form as intelligible as the This itself.
+Its dialectic will take a form as intelligible as the This-perception itself.
 
 What is the Now?
 - The Now is night-time, for example. 
 
 To test the truth of this perception (sense-certainty), a simple experiment is all we need: **write that truth down**. 
 - A truth cannot lose anything by being written down, and just as little by our preserving and keeping it. 
-- We then look at the truth we have written down now, at this noon-time. We say it has turned stale and become out of date.
+- We then look at the truth we have written down now, at this noon-time. 
+
+We say it has turned stale and become out of date.
 
 
-{{< s v="96" >}} The Now that is night is kept fixed.
+{{< s v="96" >}} But the Now that was night is kept fixed.
 - The night-Now is still the night-Now, but not the noon-Now.
 - The noon-Now maintains itself. 
 <!-- , i.e. it is treated as what it is given out to be, as something which is; but it proves to be rather a something which is not.  -->
-- The Now itself maintains itself, but as what is not night.
-- Similarly in its relation to the day which the Now is at present, it maintains itself as something that is also not day, or as altogether something negative. 
+- The Now-idea maintains itself, but is no longer the night-Now-perception.
+<!-- - Similarly in its relation to the day which the Now is at present, it maintains itself as something that is also not day, or as altogether something negative.  -->
 
 This self-maintaining Now is therefore not something immediate but something mediated. 
 
 <!-- ; for, qua something that remains and preserves itself, it is determined through and by means of the fact that something else, namely day and night, is not. -->
 
-Thereby, Now is indifferent to what is still associated with it. Now has also day and night as its being. 
-
+- By this mediation, the Now-idea is indifferent to what is associated with it.
+  - Now has both day and night as its being. 
 <!-- ; just as little as night or day is its being, it is just as truly also day and night; i -->
-- It is not at all affected by this otherness, as either night or day, through which it is what it is. 
+  - It is not at all affected by this otherness, as either night or day
+  <!-- , through which it is what it is.  -->
 
 > *Superphysics Note: Because of spacetime, perceptions are now split into Universal and Instances of the Universal. This matches David Hume's entity within an entity or citizens within a Republic. 
 
 
-A 'Universal' is a simple entity of this sort. 
+A 'Universal Idea' is a simple entity of this sort. 
 - Through negation, it is neither this nor that. 
 
 <!-- , which is a not-this, and with equal indifference this as well as that – a thing of this kind we call .  -->
 
-A Universal is therefore the truth of sense-certainty, the true content of sense-experience.
+A Universal Idea is therefore the truth of perception (sense-certainty), the true content of sense-experience.
 
+<!-- A Universal is therefore the truth of sense-certainty. -->
 
 {{< s v="97" >}} Sensuous fact is also a Universal. 
 
  <!-- too, that we(3) give utterance to .  -->
 
-What we say is: “This”, i.e. the universal this; or we say: “it is”, i.e. being in general. 
+Therefore:
+- when we say “this”, we mean a universal this. 
+- when we say “It is”, we mean being in general. 
 
-Of course we do not present before our mind in saying, so the universal this, or being in general, but we utter what is universal; 
 
-In other words, we do not actually and absolutely say what in this sense-certainty we really mean. 
+Of course, we do not philosophize about the universal "this" when we say it. Instead, we utter what is universal without thinking about it being a Universal.
 
-Language, however, is the more truthful. 
+<!--  present before our mind in saying, so the universal this, or being in general, but we ; 
 
-In it we ourselves refute directly and at once our own “meaning”; and since universality is the real truth of sense-certainty, and language merely expresses this truth, it is not possible at all for us even to express in words any sensuous existence which we “mean”.
+In other words, we do not actually and absolutely say what in this sense-certainty we really mean.  -->
+
+<!-- Language, however, is the more truthful. 
+
+In it we ourselves refute directly and at once our own “meaning”; and since universality is the real truth of sense-certainty, and language merely expresses this truth, it is not possible at all for us even to express in words any sensuous existence which we “mean”. -->
