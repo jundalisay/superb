@@ -101,6 +101,14 @@
 [[navbar]]
     parent = "enl"
     weight = 121
+    name = "Hegel"
+    url = "/research/hegel"
+    pre = "<img src='/avatars/hegel.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+
+[[navbar]]
+    parent = "enl"
+    weight = 123
     name = "Hume"
     url = "/research/hume"
     pre = "<img src='/icons/hume.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"

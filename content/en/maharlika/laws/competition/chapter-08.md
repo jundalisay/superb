@@ -25,11 +25,15 @@ Any temporary restraining order, preliminary injunction or preliminary mandatory
 
 ### Section 48. Trade Associations
 
-Nothing contained in this Act shall be construed to prohibit the existence and operation of trade associations organized to promote quality standards and safety issues: Pi’ovided, That, these associations shall not in any way be used to justify any violation of this Act: Provided, however, That it shall not be illegal to use the association as a forum to discuss or promote quality standards, efficiency, safety, security, productivity, competitiveness and other matters of common interest involving the industry: Provided, further, That such is done without any anti-competitive intent or effect.
+This Act does not prohibit the existence and operation of trade associations organized to promote quality standards and safety issues as long as  these associations shall not violate this Act. 
 
-Section 49. Congressional Oversight Committee. – To oversee the implementation of this Act, there shall be created a Congressional Oversight Committee on Competition (COCC) to be composed of the Chairpersons of the Senate Committees on Trade and Commerce, Economic Affairs, and Finance, the Chairpersons of the House of Representatives Committees on Economic Affairs, Trade and Industry, and Appropriations and two (2) members each from the Senate and the House of Representatives who shall be designated by the Senate President and the Speaker of the House of Representatives: Provided, That one (1) of the two (2) Senators and one (1) of the two (2) House Members shall be nominated by the respective Minority Leaders of the Senate and the House of Representatives. The Congressional Oversight Committee shall be jointly chaired by the Chairpersons of the Senate Committee on Trade and Commerce and the House of Representatives Committee on Economic Affairs. The Vice Chairperson of the Congressional Oversight Committee shall be jointly held by the Chairpersons of the Senate Committee on Economic Affairs and the House of Representatives Committee on Trade and Industry.
+It is not illegal to use the association as a forum to discuss or promote quality standards, efficiency, safety, security, productivity, competitiveness and other matters of common interest involving the industry as long as those things are done without any anti-competitive intent or effect.
+
+
+### Section 49. Congressional Oversight Committee
+
+To oversee the implementation of this Act, there shall be created a Congressional Oversight Committee on Competition (COCC) to be composed of the Chairpersons of the Senate Committees on Trade and Commerce, Economic Affairs, and Finance, the Chairpersons of the House of Representatives Committees on Economic Affairs, Trade and Industry, and Appropriations and 2 members each from the Senate and the House of Representatives who shall be designated by the Senate President and the Speaker of the House of Representatives: Provided, That one (1) of the two (2) Senators and one (1) of the two (2) House Members shall be nominated by the respective Minority Leaders of the Senate and the House of Representatives. 
+
+The Congressional Oversight Committee shall be jointly chaired by the Chairpersons of the Senate Committee on Trade and Commerce and the House of Representatives Committee on Economic Affairs. The Vice Chairperson of the Congressional Oversight Committee shall be jointly held by the Chairpersons of the Senate Committee on Economic Affairs and the House of Representatives Committee on Trade and Industry.
 
 The Secretariat of the COCC shall be drawn from the existing personnel of the Senate and House of Representatives committees comprising the Congressional Oversight Committee.
-
-
-

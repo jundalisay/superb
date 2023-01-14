@@ -42,6 +42,7 @@
 
 
 
+
   <h4 class="title is-6 mt-6 mb-4">{{ i18n "latest_articles"}}</h4>
 
   {{ range .Site.Params.latests }}    
@@ -153,6 +154,14 @@
         {{ .Icon | safeHTML }}
       </a>
     {{ end }}
+
+
+  <div class="h mt-4">Donate</div>
+
+  <div class=""><small style="font-size: 12px; color: dimgray;">Help Superphysics develop its theories and systems faster by donating via GCash</small></div>
+    <figure class="image">
+      <img src="/graphics/gcash.png" alt="GCash" class="p-4">
+    </figure>
 
 
 </section>

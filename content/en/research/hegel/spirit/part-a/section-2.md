@@ -55,26 +55,52 @@ The wealth of sense-knowledge belongs to perception, not to immediate certainty,
 
 ## 1. The Notion of a “Thing”
 
-{{< s v='113' >}} The This, then, is established as not This, or as superseded, and yet not nothing (simpliciter). It is a determinate nothing, a nothing with a certain content, viz. the This. 
+{{< s v='113' >}} The This, then, is actually a determinate nothing that has a content that is This. 
 
-The sense-element is in this way itself still present, but not in the form of some particular that is “meant” – as had to be the case in immediate certainty – but as a universal, as that which will have the character of the property. 
+<!--  established as not This, or as superseded, and yet not nothing (simpliciter). 
 
-Cancelling, superseding, brings out and lays bare its true twofold meaning which we found contained in the negative: to supersede (aufheben) is at once to negate and to preserve. The nothing being a negation of the This, preserves immediacy and is itself sensuous, but a universal immediacy. Being, however, is a universal by its having in it mediation or negation. When it brings this explicitly out as a factor in its immediacy, it is a specifically distinct determinate property. 
+It is a determinate nothing, a nothing with a certain content, viz. the This.  -->
 
-As a result, there are many such properties set up at once, one the negation of the other. Since they are expressed in the simple form of the universal, these determinate characters – which, strictly speaking, become properties only by a further additional characteristic – are self-related, are indifferent to each other, each is by itself, free from the rest. The simple self-identical universality, however, is itself again distinct and detached from these determinate characteristics it has. 
+In this view, the sense-element is still present. But it is not in the form of some particular that is “meant” – as had to be the case in immediate certainty – but as a universal, as that which will have the character of the property.
+
+Cancelling, superseding, brings out and lays bare its true twofold meaning which we found contained in the negative: to supersede (aufheben) is at once to negate and to preserve. 
+
+The nothing is a negation of the This. 
+- It preserves immediacy and is itself sensuous, but a universal immediacy. 
+
+Being, however, is a universal by its having in it mediation or negation. 
+
+When it brings this explicitly out as a factor in its immediacy, it is a specifically distinct determinate property. 
+
+As a result, there are many such properties set up at once, one the negation of the other. 
+
+Since they are expressed in the simple form of the universal, these determinate characters – which, strictly speaking, become properties only by a further additional characteristic – are self-related, are indifferent to each other, each is by itself, free from the rest. 
+
+The simple self-identical universality, however, is itself again distinct and detached from these determinate characteristics it has. 
 
 It is pure self-relation, the “medium” wherin all these characteristics exist: in it, as in a bare, simple unity, they interpenetrate without affecting one another; for just by participating in this universality they are indifferent to each other, each by itself.
 
-This abstract universal medium, which we can call “Thinghood” in general or pure essential reality, is nothing else than the Here and Now as this on analysis turned out to be, viz. a simple togetherness of many Heres and Nows. But the many (in the present case) are in their determinateness themselves simply universals. 
+This abstract universal medium we can call as “Thinghood”. 
+- It is nothing else than the Here and Now as this on analysis turned out to be.
+- It is a simple togetherness of many Heres and Nows.
 
-This salt is a simple Here and at the same time manifold: it is white, and also pungent, also cubical in shape, also of a specific weight, and so on. All these many properties exist in a simple Here, where they interpenetrate each other. None of these has a different Here from the others; each is everywhere in the same Here where the others are. 
+But the many (in the present case) are in their determinateness themselves simply universals.
+
+ <!-- in general or pure essential reality, is  -->
+
+This salt is a simple Here and at the same time manifold: it is white, and also pungent, also cubical in shape, also of a specific weight, and so on. 
+
+All these many properties exist in a simple Here, where they interpenetrate each other. None of these has a different Here from the others; each is everywhere in the same Here where the others are. 
 
 At the same time, without being divided by different Heres, they do not affect each other in their interpenetration; its being white does not affect or alter the cubical shape it has, and neither affects its tart taste, and so on: on the contrary, since each is simple relation to self, it leaves the others alone and is related to these merely by being also along with them, a relation of mere indifference. This “Also” is thus the pure universal itself, the “medium”, the “Thinghood” keeping them together.
 
 
-{{< s v='114' >}} In this relation, which has emerged, it is merely the character of positive universality that is first noticed and developed. But there is still a side presented to view which must also be taken into account. 
 
-It is this. If the many determinate properties were utterly indifferent to each other, and were entirely related to themselves alone, they would not be determinate; for they are so, merely in so far as they are distinguished and related to others as their opposites. 
+{{< s v='114' >}} This relation has emerged. 
+
+It is merely the character of positive universality that is first noticed and developed. 
+
+But there is still a side presented to view which must also be taken into account -- If the many determinate properties were utterly indifferent to each other, and were entirely related to themselves alone, they would not be determinate; for they are so, merely in so far as they are distinguished and related to others as their opposites. 
 
 In view of this opposition, however, they cannot exist together in the bare and simple unity of their “medium”, which unity is just as essential to them as negation. 
 
@@ -85,7 +111,9 @@ This, consequently, is not merely an “also”, an unity indifferent to what is
 The “One” is the moment of negation, as, in a direct and simple manner, relating itself to itself, and excluding an other: and is that by which “Thinghood” is determined qua Thing. In the property of a thing the negation takes the form of a specific determinateness, which is directly one with the immediacy of its being, an immediacy which, by this unity with negation, is universality. Qua “one”, however, negation, the specific quality, takes a form in which it is freed from this unity with the object, and exists per se on its own account.
 
 
-{{< s v='115' >}} These moments taken together exhaust the nature of the Thing, the truth of perception, so far as it is necessary to develop it here. It is:
+{{< s v='115' >}} These moments taken together exhaust the nature of the Thing, the truth of perception, so far as it is necessary to develop it here. 
+
+It is:
 
 1. a universality, passive and indifferent, the “also” which forms the sole bond of connection between the qualities, or rather constituent elements, “matters”, existing together
 2. negation, likewise in a simple form, or the “one”, which consists in excluding properties of an opposite character
