@@ -127,10 +127,12 @@ Superphysics is rooted in the aether, as the highest layer in the 5-layer univer
 
 {{< img src="/graphics/physics/layercomp.jpg" cap="Superphysics has the aether as the highest layer or element, based on the neatly-ordered and intuitive Hindu Pancabhutas and Taoist Wu-xing framework. Materialist Physics has matter as the highest layer or element, as an effect of fully embracing the illusion created  by Nature" >}}
 
+> We can expose Newton's misunderstanding of the vortices theory in another post.
 
-Instead of a material big bang, the universe began as [aethereal ideas of the Supreme Mind](/material/principles/part-1/chapter-02/) (Saguna Brahma).
 
-These ideas flow down (as per Taoism) as Thoughts onto the Spacetime layer, manifesting as vortices (as per Descartes). 
+Instead of a material big bang, the universe began as [aethereal ideas of the Supreme Mind](/material/principles/part-1/chapter-02/) which Hindu science calls *Saguna Brahma*.
+
+These ideas flow down (as explained by Taoist science) as Thoughts onto the Spacetime layer, manifesting as vortices (as explained by Descartes). 
 - Clockwise vortices convert matter and objects into energy and ideas. In cosmology, this manifests as quasars.
 - Counter-Clockwise vortices convert energy and ideas into matter and objects. This manifests as galaxies.
 
@@ -150,11 +152,11 @@ Therefore, **the age of a universe depends on the layer where the perceiving min
 
 - From a species in the spacetime layer, the universe is a few 'days' old. 
 
-- From a species in the aethereal layer, the universe is a few 'seconds' old and even instantaneous. This is because the aethereal layer is closes to the non-layer which we call 'probabilty' and because it is above spacetime, making time irrelevant. 
+- From a species in the aethereal layer, the universe is a few 'seconds' old and even instantaneous. This is because the aethereal layer is closest to the non-layer which we call 'probabilty'. Moreover, it is also above spacetime, making time irrelevant. This then makes questions of age or timespan irrelevant.  
 
-The layer where the mind is then depends on the strength of [the Negative Force](/superphysics/principles/chapter-05/) on it. 
+The layer that the mind occupies then depends on the strength of [the Negative Force](/superphysics/principles/chapter-05/) on it. As material creatures, the human species has a lot of Negativity within it, as well as other material animals and plants. This negativity manifests as the conflicts, recessions, inequality, stress from working for money, and other kinds of suffering that seems inseparable from human nature. 
 
-> We can expose Newton's misunderstanding of the vortices theory in another post.
+
 
 
 ## Our Unification Solution for Newton and Descartes
