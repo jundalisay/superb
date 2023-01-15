@@ -4,13 +4,15 @@ heading: "Chapter 1"
 description: "Why Traditional Theories of Wages Are Wrong"
 image: "/covers/progress.jpg"
 author: "Henry George"
+weight: 2
 ---
+
 
 Why does poverty persist despite increasing wealth?
 
 The decline of wages also leads to poverty. So why do wages decrease to subsistence level, even when productive power increases?
 
-Current theory explains that= 
+Current theory explains that:
 - wages are set by the ratio between the number of workers and the amount of capital available for labor
 - population increases faster than the increase in capital
 - therefore, wages always move toward the lowest level that the workers will tolerate. 
@@ -19,7 +21,7 @@ That is, wages are equal to capital divided by population. Increasing population
 
 The current theory incorrectly claims that wages cannot rise faster than the population among which capital must be divided. Only low wages will slow the population growth of workers.
 
-This false doctrine is virtually undisputed. People accept the mistaken belief= 
+This false doctrine is virtually undisputed. People accept the mistaken belief:
 - that each community only has a fixed amount of wages available, and
 - that this would be further divided among "foreign competition." 
 
@@ -31,7 +33,7 @@ If wages are set by the ratio between labor and capital, then the relative abund
 
 According to this theory, then, high wages mean scarce labor and must be accompanied by low interest as abundant capital. In the reverse case, low wages mean abundant labor must be accompanied by high interest as scarce capital.
 
-But, in fact, the opposite is true=  Interest is high when wages are high. Interest is low when wages are low. 
+But, in fact, the opposite is true: **Interest is high when wages are high. Interest is low when wages are low.** 
 
 Wherever labor goes seeking higher wages, capital also flows seeking higher interest. Whenever there has been a general rise or fall in wages, there has been a similar rise or fall in interest at the same time.
 
@@ -41,7 +43,7 @@ Consider the economics of "good times" and "hard times." A brisk demand for labo
 
 It is true that rates may be high during commercial panics. However, this is not properly called a high rate of interest. Rather, it is a rate of insurance against risk.
 
-The present depression of 1879 has seen
+The present depression of 1879 has seen:
 - unemployment and lower wages
 - the accumulation of unused capital in all the great cities, with nominal interest on safe investments.
 
@@ -60,8 +62,11 @@ I am aware that the idea that wages are drawn from capital is one of the most fu
 I assert that wages are drawn from the sale of the products of labor and not from capital. 
 
 The current theory says that wages are drawn from capital and that capital is replenished by the sale of goods and services. But this appears as a distinction without a difference. 
+
 If this were merely a change in terminology, any discussion would only add to the meaningless petty arguments that comprise so much of economics. 
+
 But it will become apparent that this is much more than a formal distinction. 
+
 All the current theories on the relation between capital and labor are built on this difference. 
 
 Among the beliefs based on the assumption that wages are drawn directly from capital -- not from the product of labor -- are the following=  industry is limited by capital; labor can only be employed as capital is accumulated; every increase of capital enables additional employment; conversion of circulating capital into fixed capital reduces the fund available to labor; more laborers can be employed at low wages than at high wages; profits are high when wages are low; profits are low when wages are high.
@@ -85,6 +90,7 @@ Consider the example of a primitive fishing village. Under the simplest conditio
 Next the advantages of canoes are discovered. Instead of each person building a canoe, only one stays behind to make and repair canoes for the others. In reality, the canoe-maker is devoting labor to catching fish as much as those actually fishing. The fish eaten each night are as much a product of the labor of the canoe-maker as they are of the labor of those fishing. As the division of labor continues, we find that one group fishes, another hunts, a third picks berries, a fourth gathers fruit, a fifth makes tools, a sixth builds huts, and a seventh prepares clothing.
 
 Division of labor benefits all by common pursuit. 
+
 
 It is used instead of individuals attempting to satisfy all of their wants by directly resorting to nature on their own. 
 

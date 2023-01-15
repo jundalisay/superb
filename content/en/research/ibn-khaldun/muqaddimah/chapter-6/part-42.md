@@ -4,7 +4,7 @@ description: "In the beginning, Islam had no sciences or crafts because of the s
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 42"
-weight: 1
+weight: 120
 ---
 
 

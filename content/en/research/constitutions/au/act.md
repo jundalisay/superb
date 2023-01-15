@@ -1,9 +1,17 @@
-An Act to constitute the Commonwealth of Australia
-[9th July 1900]
+---
+title: "An Act to constitute the Commonwealth of Australia"
+# date: 1900-07-09
+heading: "Chapter 2"
+weight: 4
+image: "/flags/au.png"
+description: "The executive power of the Commonwealth is vested in the Queen and is exercisable by the Governor-General as the Queen’s representative"
+icon: "/flags/au.png"
+---
 
-WHEREAS the people of New South Wales, Victoria, South Australia, Queensland, and Tasmania, humbly relying on the blessing of Almighty God, have agreed to unite in one indissoluble Federal Commonwealth under the Crown of the United Kingdom of Great Britain and Ireland, and under the Constitution hereby established:
 
-And whereas it is expedient to provide for the admission into the Commonwealth of other Australasian Colonies and possessions of the Queen:
+The people of New South Wales, Victoria, South Australia, Queensland, and Tasmania have agreed to unite in one indissoluble Federal Commonwealth under the Crown of the UK and under this Constitution.
+
+This is needed to admit into the Commonwealth of other Australasian Colonies and possessions of the Queen.
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 

@@ -2,9 +2,10 @@
 heading: "Part 1b"
 title: "The Study of The Law"
 description: "The science which needs most examples from other sciences is that of Law."
-image: "/covers/averroes.jpg"
+image: "/covers/theo.jpg"
 weight: 6
 author: Averroes
+icon: /avatars/averroes.jpg
 ---
 
 
@@ -21,7 +22,9 @@ From what has been said, it may be taken that a search into the books of the Anc
 
 If, by studying these books, a man has been led astray and gone wrong on account of some natural defect, bad training of the mind, inordinate passion, or the want of a teacher who might explain to him the true significance of things, by all or some of these causes, we ought not on this account to prevent one fit to study these things from doing so. For such harm is not innate in man, but is only an accident of training.
 
-It is not right that a drug which is medically useful by its nature should be discarded because it may prove harmful by accident. The Prophet told a man whose brother was suffering with diarrhea to treat him with honey. But this only increased the ailment. On his complaining, the Prophet said: “God was right and thy brother’s stomach was wrong.” We would even say that a man who[24] prevents another fit for it, from studying the books of philosophy, because certain worthless people have been misled by them, is like a man who refused a thirsty man cold and sweet water, till he died, because some people under the same circumstances have been suffocated by it and have died. For death by suffocation through drinking cold water is accidental, while by thirst it is natural and inevitable.
+It is not right that a drug which is medically useful by its nature should be discarded because it may prove harmful by accident. The Prophet told a man whose brother was suffering with diarrhea to treat him with honey. But this only increased the ailment. On his complaining, the Prophet said: “God was right and thy brother’s stomach was wrong.”
+
+We would even say that a man who[24] prevents another fit for it, from studying the books of philosophy, because certain worthless people have been misled by them, is like a man who refused a thirsty man cold and sweet water, till he died, because some people under the same circumstances have been suffocated by it and have died. For death by suffocation through drinking cold water is accidental, while by thirst it is natural and inevitable.
 
 This state of things is not peculiar to this science only, but is common to all. How many jurists there are in whom jurisprudence has become the cause of worldliness and lack of piety? We should say that a large majority of jurists are of this kind, although their science should result in better action than other sciences which only lead to better knowledge.
 
@@ -89,5 +92,17 @@ These are the very four or five kinds of methods of knowing reality mentioned by
 
 When this has once been established it will become clear to you that interpretation is not lawful in the exoteric part of the Law. If the canon of interpretation be used in the principles of the Law, it is infidelity, and if used in general things it is an innovation. But there is also a certain exoteric law which requires an interpretation from learned men. It is not misbelief for them to take it exoterically, but it is so or is at least an innovation in religion if ignorant men try to interpret or explain it.
 
-Among these is the verse of Equalisation and the Tradition of Descent. For the Prophet said of a Negro slave girl who told him that God was in heaven: “Emancipate her, for she is a believer.” For there are persons who cannot believe a thing except through their imagination, that is, it is difficult for them to[48] believe a thing which they cannot imagine. Among these may be classed men who cannot understand a thing except with a reference to space, and hence believe in God as though physical, notwithstanding that these are the very persons who have dealt very harshly with those mentioned above. They ought to be told that things of his character are parabolical, and that we should pause and consider the saying of God: “Yet none knoweth the interpretation thereof except God.” Although learned men agree that these are to be interpreted, they differ in the interpretation according to their knowledge of principles of philosophy. There is a third part of the Law which occupies an intermediate position, on account of some doubt about it. Some say that it should be taken exoterically, and that no interpretation should be allowed in it; while there are others who say that they have some esoteric meaning, and should not be taken exoterically by the learned.[49] This is on account of the obscurity of their meaning. A learned man may be excused if he makes a mistake about them.
+Among these is the verse of Equalisation and the Tradition of Descent. 
+
+A Negro slave girl told the Prophet that God was in heaven. The Prophet replied: “Emancipate her, for she is a believer.” 
+
+There are persons who cannot believe a thing except through their imagination, that is, it is difficult for them to[48] believe a thing which they cannot imagine. 
+
+Among these may be classed men who cannot understand a thing except with a reference to space, and hence believe in God as though physical, notwithstanding that these are the very persons who have dealt very harshly with those mentioned above. 
+
+They should be told that things of his character are parabolical, and that we should pause and consider the saying of God: “Yet none knoweth the interpretation thereof except God.” 
+
+Learned men agree that these are to be interpreted. But they differ in the interpretation according to their knowledge of principles of philosophy.
+
+There is a third part of the Law which occupies an intermediate position, on account of some doubt about it. Some say that it should be taken exoterically, and that no interpretation should be allowed in it; while there are others who say that they have some esoteric meaning, and should not be taken exoterically by the learned.[49] This is on account of the obscurity of their meaning. A learned man may be excused if he makes a mistake about them.
 

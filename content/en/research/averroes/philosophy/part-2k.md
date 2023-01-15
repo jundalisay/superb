@@ -4,7 +4,7 @@ title: "Question 5: The Day of Judgment"
 author: Averroes
 weight: 32
 description: "The Day of Judgment is a thing in which all the religions are agreed. All the learned men have proved it by arguments."
-image: "/covers/averroes.jpg"
+image: "/covers/theo.jpg"
 ---
 
 

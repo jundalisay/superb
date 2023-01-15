@@ -1,7 +1,7 @@
 ---
 title: "The Executive Government"
 heading: "Chapter 2"
-weight: 4
+weight: 5
 image: "/flags/au.png"
 description: "The executive power of the Commonwealth is vested in the Queen and is exercisable by the Governor-General as the Queen’s representative"
 icon: "/flags/au.png"

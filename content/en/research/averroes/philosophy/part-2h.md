@@ -4,7 +4,7 @@ title: "Question 2: Prophetic Mission"
 author: Averroes
 description: ""
 weight: 26
-image: "/covers/averroes.jpg"
+image: "/covers/theo.jpg"
 ---
 
 

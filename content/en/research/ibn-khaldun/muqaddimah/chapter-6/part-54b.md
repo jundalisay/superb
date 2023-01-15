@@ -4,7 +4,7 @@ description: "The poet should have the rhyme in mind, when the verse is first gi
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 54b"
-weight: 1
+weight: 150
 ---
 
 

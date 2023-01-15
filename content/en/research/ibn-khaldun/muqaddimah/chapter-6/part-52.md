@@ -4,7 +4,7 @@ description: "This originated in Islam when the sciences became crafts and schol
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 52"
-weight: 1
+weight: 146
 ---
 
 

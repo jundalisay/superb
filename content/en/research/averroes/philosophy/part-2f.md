@@ -4,7 +4,7 @@ title: "Direction"
 author: Averroes
 description: ""
 weight: 22
-image: "/covers/averroes.jpg"
+image: "/covers/theo.jpg"
 ---
 
 

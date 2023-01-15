@@ -4,7 +4,7 @@ description: "The Zairajah is a branch of the science of letter magic, practiced
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 28d"
-weight: 1
+weight: 84
 ---
 
 

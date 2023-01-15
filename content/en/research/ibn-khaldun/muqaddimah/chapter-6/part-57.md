@@ -4,7 +4,7 @@ description: "How contrived speech may be either good or deficient"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 55"
-weight: 1
+weight: 154
 ---
 
 

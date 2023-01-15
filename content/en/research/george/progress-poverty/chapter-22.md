@@ -1,15 +1,15 @@
-+++
-title=  "The Root Cause of Recessions"
-heading=  "Chapter 22 of Progress and Poverty"
-description=  "The Root Cause of Recessions"
-image=  "/covers/progress.jpg"
-linkb=  "/research/george/progress-poverty/chapter-12"
-linkbtext=  "The Cause of Interest"
-linkf=  "/research/george/progress-poverty/chapter-25"
-linkftext=  "The True Remedy"
-+++ 
+---
+heading: "Chapter 22"
+title: "The Root Cause of Recessions"
+description: "Land speculation is the primary cause producing recessions"
+weight: 44
+image: "/covers/progress.jpg"
+author: Henry George
+---
 
-Depressions and recessions are caused by= 
+
+
+Depressions and recessions are caused by:
 - Land speculation which inflates land values, reduces wages and interest, and thereby checks production. 
 - The complexity and interdependence of production
 - Problems with money and credit

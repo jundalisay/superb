@@ -4,7 +4,7 @@ description: "There are seven purposes for creating a literary work."
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 33"
-weight: 1
+weight: 106
 ---
 
 
@@ -19,7 +19,9 @@ Such communication takes place through "verbal expression," 1112 that is, speech
 
 After this first step in communication, there is a second. It is the communication of one's thoughts to persons who are out of sight or bodily far away, or to persons who live later and whom one has not met, since they are not contemporaries.
 
-This kind of communication is written communication. Writing is figures made by the hand, whose shapes and forms, by convention, indicate the individual letters (sounds) and words of speech. Thus, they communicate thought through the medium of speech. Writing, therefore, constitutes the second step of communication and is one of its two parts. It gives information about the noblest part of thinking, namely, science and knowledge. 
+This kind of communication is written communication. Writing is figures made by the hand, whose shapes and forms, by convention, indicate the individual letters (sounds) and words of speech.
+
+Thus, they communicate thought through the medium of speech. Writing, therefore, constitutes the second step of communication and is one of its two parts. It gives information about the noblest part of thinking, namely, science and knowledge. 
 
 Scholars take care to deposit all their scientific thoughts in books by means of writing, so that all those who are absent and live at a later time may have the benefit of them. People who do that are authors. 
 
@@ -31,7 +33,9 @@ The philosophical sciences on the contrary <!--  do not show such differences. T
 
 Differences occur in the religious sciences because of differences among the various religions, and in the historical sciences because of differences in the outward character of historical information.
 
-Writing differs in that human beings have come to use different forms and shapes of it. (These differences) are called "pen" and script. 1113 There is the Himyarite script, which is called musnad. It is the script of the Himyar and theancient inhabitants of the Yemen. It differs from the writing of the later Mudar Arabs, exactly as the (language written in the Himyarite script) is different from the language of (the Mudar Arabs), though all of them are Arabs. 
+Writing differs in that human beings have come to use different forms and shapes of it. (These differences) are called "pen" and script. 1113 There is the Himyarite script, which is called musnad. 
+
+It is the script of the Himyar and theancient inhabitants of the Yemen. It differs from the writing of the later Mudar Arabs, exactly as the (language written in the Himyarite script) is different from the language of (the Mudar Arabs), though all of them are Arabs. 
 
 However, the habit of linguistic expression among (the Himyar) differed from that of (the Mudar Arabs).
 

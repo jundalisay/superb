@@ -1,13 +1,13 @@
-+++
-title=  "The True Remedy"
-heading=  "Chapter 25 of Progress and Poverty"
-description=  "The True Remedy"
-image=  "/covers/progress.jpg"
-linkb=  "/research/george/progress-poverty/chapter-12"
-linkbtext=  "The Cause of Interest"
-linkf=  "/research/george/progress-poverty/chapter-25"
-linkftext=  "The True Remedy"
-+++ 
+---
+heading: "Chapter 25"
+title: "The True Remedy"
+description: "Lower taxes taken from production would raise productivity just as increased population and technological improvements do"
+weight: 50
+image: "/covers/progress.jpg"
+author: Henry George
+---
+
+
 
 The unequal distribution of wealth is caused by private land ownership. As long private property exists, no increase in production will permanently benefit the masses. On the contrary, any improvements must depress their condition further. 
 

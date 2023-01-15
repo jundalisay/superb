@@ -4,7 +4,7 @@ description: "Examples of natural speech which is free from contrived technique 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 57b"
-weight: 1
+weight: 156
 ---
 
 

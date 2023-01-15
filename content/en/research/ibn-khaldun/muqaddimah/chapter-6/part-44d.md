@@ -5,7 +5,7 @@ description: "The inimitability of (the Qur'an) consists in the fact that the (l
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 44d"
-weight: 1
+weight: 132
 ---
 
 

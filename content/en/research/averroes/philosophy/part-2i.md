@@ -2,31 +2,95 @@
 heading: "Part 2i"
 title: "Question 3: Fate and Predestination"
 author: Averroes
-description: ""
+description: "This is one of the most intricate problems of religion"
 weight: 28
-image: "/covers/averroes.jpg"
+image: "/covers/theo.jpg"
 ---
 
 
 This is one of the most intricate problems of religion. 
+- The traditional arguments about this problem are contradictory, similar to the arguments of reason. 
 
-For if you look into the traditional arguments about this problem you will find them contradictory; such also being the case with arguments of reason. The contradiction in the arguments of the first kind is found in the Quran and the Traditions. There are many verses of the Quran, which by their universal nature, teach that all the things are predestined, and that man is compelled to do his acts; then there are verses which say that man is free in his acts and not compelled in performing them. 
+The contradiction in the arguments of the first kind is found in the Quran and the Traditions. 
 
-The following verses tell us that all the things are by compulsion, and are predestined, “Everything[261] have We created bound by a fixed degree;”[118] again, “With Him everything is regulated according to a determined measure.”[119] Further, He says, “No accident happeneth in the earth, nor in your persons, but the same was entered in the Book verily it is easy with God.”[120] 
+Many verses of the Quran teach that:
+- all things are predestined
+- man is compelled to do his acts. 
 
-There may be quoted many other verses on this subject. Now, as to the verses which say that man can acquire deeds by free will, and that things are only possible and not necessary, the following may be quoted: “Or He destroyeth them (by ship-wreck), because of that which their crew have merited; though He pardoneth many things.”[121] 
+It also has verses which say that man is:
+- free in his acts
+- not compelled in performing them. 
 
-“Whatever misfortune befalleth you is sent you by God, for that which your hands have deserved.”[122] Further, He says, “But they who commit evil, equal thereunto.”[123] Again, He says, “It shall have the good which it gaineth, and it shall have the evil which it gaineth.”[124] and,[262] “And as to Thamud, We directed them, but they loved blindness better than the true directions.”[125] Sometimes contradiction appears even in a single verse of the Quran. 
+The following verses assert that all the things are by compulsion, and are predestined:
 
-For instance, He says, “After a misfortune hath befallen you (you had already attained two equal advantages), do you say, whence cometh this? Answer, This is from yourselves.”[126] In the next verse, He says, “And what happenth unto you, on the day whereon the two armies met, was certainly by permission of the Lord.”[127] Of this kind also is the verse, “Whatever good befalleth thee, O man, it is from God; and whatever evil befalleth thee, it is from thyself;”[128] while the preceding verse says, “All is from God.”[129]
+“Everything[261] have We created bound by a fixed degree;”[118]
 
-Such is also the case with the Traditions. The Prophet says, “Every child is born in the true religion; his parents afterwards turn him into a Jew or a Christian.” On another occasion he said, “The following[263] people have been created for hell, and do the deeds of those who are fit for it. 
+“With Him everything is regulated according to a determined measure.”[119]
 
-These have been created for heaven, and do deeds fit for it.” The first Tradition says that the cause of disbelief is one’s own environments; while faith and belief are natural to man. The other Tradition says that wickedness and disbelief are created by God, and man is compelled to follow them.
+“No accident happeneth in the earth, nor in your persons, but the same was entered in the Book verily it is easy with God.”[120] 
 
-This condition of things has led Muslims to be divided into two groups. The one believed that man’s wickedness or virtue is his own acquirement, and that according to these he will be either punished or rewarded. These are the Mutazilites. The belief of the other party is quite opposed to this. They say that man is compelled to do his deeds. They are the Jabarites. The Asharites have tried to adopt a mean between these two extreme views. They say that man can do action, but the deeds done, and the power of doing it, are both created by God. But this is quite meaningless. For if the deed and[264] the power of doing it be both created by God, then man is necessarily compelled to do the act. This is one of the reasons of the difference of opinion about this problem.
+Other verses say that man can acquire deeds by free will, and that things are only possible and not necessary:
 
-As we have said there is another cause of difference of opinion about this problem, than the traditional one. This consists of the contradictory arguments advanced. For if we say that man is the creator of his own deeds, it would be necessary to admit that there are things which are not done according to the will of God, or His authority. So there would be another creator besides God, while the Muslims are agreed that there is no creator but He. If, on the other hand, we were to suppose that man cannot act freely, we admit that he is compelled to do certain acts, for there is no mean between compulsion and freedom. Again, if man is compelled to do certain deeds, then on him has been imposed a task which he cannot bear; and when he is made to bear a burden, there is no difference between his work and the work of inorganic matter. 
+“Or He destroyeth them (by ship-wreck), because of that which their crew have merited; though He pardoneth many things.”[121] 
+
+“Whatever misfortune befalleth you is sent you by God, for that which your hands have deserved.”[122] 
+
+“But they who commit evil, equal thereunto.”[123]
+
+“It shall have the good which it gaineth, and it shall have the evil which it gaineth.”[124] [262] 
+
+“And as to Thamud, We directed them, but they loved blindness better than the true directions.”[125] 
+
+Sometimes contradiction appears even in a single verse of the Quran:
+
+“After a misfortune hath befallen you (you had already attained two equal advantages), do you say, whence cometh this? Answer, This is from yourselves.”
+
+[126] In the next verse, He says 
+
+“What happenth to you, on the day whereon the two armies met, was certainly by permission of the Lord.”[127] 
+
+“Whatever good befalleth thee, O man, it is from God; and whatever evil befalleth thee, it is from thyself;”[128] 
+
+Yet the preceding verse says: 
+
+“All is from God.”[129]
+
+
+Such is also the case with the Traditions. The Prophet says: 
+
+“Every child is born in the true religion; his parents afterwards turn him into a Jew or a Christian.” 
+
+On another occasion he said:
+
+“The following[263] people have been created for hell, and do the deeds of those who are fit for it. These have been created for heaven, and do deeds fit for it.” 
+
+The first Tradition says that the cause of disbelief is one’s own environments; while faith and belief are natural to man. 
+
+The other Tradition says that wickedness and disbelief are created by God, and man is compelled to follow them.
+
+This has led Muslims to be divided into 2 groups:
+
+1. Mutazilites
+
+These believed that man’s wickedness or virtue is his own acquirement, and that according to these he will be either punished or rewarded.
+
+
+2. Jabarites
+
+They say that man is compelled to do his deeds.
+
+The Asharites have tried to adopt a mean between these two extreme views. 
+
+They say that man can do action, but the deeds done, and the power of doing it, are both created by God. 
+
+But this is quite meaningless. For if the deed and[264] the power of doing it be both created by God, then man is necessarily compelled to do the act. This is one of the reasons of the difference of opinion about this problem.
+
+
+There is another cause of difference of opinion about this problem, than the traditional one. 
+
+This consists of the contradictory arguments advanced. For if we say that man is the creator of his own deeds, it would be necessary to admit that there are things which are not done according to the will of God, or His authority. So there would be another creator besides God, while the Muslims are agreed that there is no creator but He. 
+
+If, on the other hand, we were to suppose that man cannot act freely, we admit that he is compelled to do certain acts, for there is no mean between compulsion and freedom. Again, if man is compelled to do certain deeds, then on him has been imposed a task which he cannot bear; and when he is made to bear a burden, there is no difference between his work and the work of inorganic matter. 
 
 For inorganic matter has[265] no power, neither has the man the power for that which he cannot bear. Hence all people have made capability one of the conditions for the imposition of a task, such as wisdom we find Abul Maali, saying in his Nizamiyyah, that man is free in his own deeds and has the capability of doing them. He has established it upon the impossibility of imposing a task which one cannot bear, in order to avoid the principle formerly disproved by the Mutazilites, on account of its being unfit by reason. 
 
@@ -54,15 +118,29 @@ All that we have said being true, it must have become evident how we can acquire
 
 It may be said is a good answer, and here reason is in perfect agreement with religion, but it is based upon the principles that these are agreed that there are creative causes bringing into existence other things; while the Muslims are agreed that there is no Creator but God. We would say that whatever they have agreed upon is quite right, but the objection can be answered in two ways. One of them is that this objection itself can be understood in two ways; one of them being that there is no Creator but God, and all those causes which He has created, cannot[271] be called creators, except speaking figuratively. Their existence also depends upon Him. He alone has made them to be causes, nay, He only preserves their existence as creative agents, and protects their effects after their actions. He again, produces their essences at the moment when causes come together. He alone preserves them as a whole. Had there been no divine protection they could not have existed for the least moment of time. 
 
-Abu Hamid (Al-Ghazzali) has said that a man who makes any of the causes to be co-existent with God is like a man who makes the pen share the work of a scribe in writing; that is, he says that the pen is a scribe and the man is a scribe too. He means that writing is a word which may be applied to both, but in reality they have no resemblance in anything but word, for otherwise there is no difference between them. 
+Abu Hamid (Al-Ghazzali) has said that a man who makes any of the causes to be co-existent with God is like a man who makes the pen share the work of a scribe in writing. He says that the pen is a scribe and the man is a scribe too. 
 
-Such is also the case with the word Creator, when applied to God and the Causes. We say that in this illustration there are doubts. It should have been[272] clearly shown, whether the scribe was the Creator of the essence (Jawhar) of pen, a preserver of it, as long as it remains a pen, and again a preserver of the writing after it is written, a Creator of it after it has come in touch with the pen, as we have just explained that God is the Creator of the essences (Jawahir) of everything which come into contact with its causes, which are so called only by the usage. This is the reason why there is no creator but God—a reason which agrees with our feelings, reason and religion. Our feelings and reason see that there are things which produce others. 
+He means that writing is a word which may be applied to both, but in reality they have no resemblance in anything but word, for otherwise there is no difference between them. 
 
-The order found in the universe is of two kinds: that which God has put in the nature and disposition of things; and that which surround the universe from outside. This is quite clear in the movement of the heavenly bodies. For it is evident that the sun and the moon, the day and night, and all other stars are obedient to us; and it is on this arrangement and order which God has put in their movements that our existence and that of[273] all other things depends. So even if we imagine the least possible confusion in them, with them in any other position, size and rapidity of movement which God has made for them, all the existent things upon the earth would be destroyed. This is so because of the nature in which God has made them and the nature of the things which are effected by them. This is very clear in the effects of the sun and the moon upon things of this world; such also being the case with the rains, winds, seas and other tangible things. But the greater effect is produced upon plants, and upon a greater number, or all, on the animals. 
+Such is also the case with the word Creator, when applied to God and the Causes. We say that in this illustration there are doubts. 
 
-Moreover, it is apparent that had there not been those faculties which God has put in our bodies, as regulating them that could not exist even for a single moment after birth. But we say, had there not been the faculties found in all the bodies of the animals, and plants and those found in the world by the movement of the heavenly bodies, then they would not have existed at all, not even for a[274] twinkling of the eye. 
+It should have been[272] clearly shown, whether the scribe was the Creator of the essence (Jawhar) of pen, a preserver of it, as long as it remains a pen, and again a preserver of the writing after it is written, a Creator of it after it has come in touch with the pen, as we have just explained that God is the Creator of the essences (Jawahir) of everything which come into contact with its causes, which are so called only by the usage. 
 
-So praised be the “Sagacious, the Knowing.”[134] God has called our attention to this fact in His book, “And He hath subjected the night and the day to your service; and the sun and the moon and the stars, which are compelled to serve by His Command;”[135] again, “Say, what think ye, if God should cover you with perpetual night, until the day of Resurrection;”[136] and again, “Of His mercy, He hath made you night and the day, that ye may rest in the one, and may seek to obtain provision for yourselves of His abundance, by your industry; in the other;”[137] and, “And He obligeth whatever is in heaven or on earth to serve you.”[138] Further He says, “He likewise compelleth the sun and the moon, which diligently perform their courses, to serve you; and hath subjected the day and night to your service,”[139] There may be[275] quoted many other verses on the subject. Had there been any wisdom in their existence by which God has favoured us, and there would not have been those blessings for which we are to be grateful to Him.
+This is the reason why there is no creator but God—a reason which agrees with our feelings, reason and religion. Our feelings and reason see that there are things which produce others. 
+
+The order found in the universe is of two kinds: that which God has put in the nature and disposition of things; and that which surround the universe from outside. 
+
+This is quite clear in the movement of the heavenly bodies. For it is evident that the sun and the moon, the day and night, and all other stars are obedient to us; and it is on this arrangement and order which God has put in their movements that our existence and that of[273] all other things depends. 
+
+So even if we imagine the least possible confusion in them, with them in any other position, size and rapidity of movement which God has made for them, all the existent things upon the earth would be destroyed. This is so because of the nature in which God has made them and the nature of the things which are effected by them. This is very clear in the effects of the sun and the moon upon things of this world; such also being the case with the rains, winds, seas and other tangible things. But the greater effect is produced upon plants, and upon a greater number, or all, on the animals. 
+
+Had there not been those faculties which God has put in our bodies, as regulating them that could not exist even for a single moment after birth. But we say, had there not been the faculties found in all the bodies of the animals, and plants and those found in the world by the movement of the heavenly bodies, then they would not have existed at all, not even for a[274] twinkling of the eye. 
+
+So praised be the “Sagacious, the Knowing.”[134] 
+
+God has called our attention to this fact in His book, “And He hath subjected the night and the day to your service; and the sun and the moon and the stars, which are compelled to serve by His Command;”[135] again, “Say, what think ye, if God should cover you with perpetual night, until the day of Resurrection;”[136] and again, “Of His mercy, He hath made you night and the day, that ye may rest in the one, and may seek to obtain provision for yourselves of His abundance, by your industry; in the other;”[137] and, “And He obligeth whatever is in heaven or on earth to serve you.”[138] 
+
+Further He says, “He likewise compelleth the sun and the moon, which diligently perform their courses, to serve you; and hath subjected the day and night to your service,”[139] There may be[275] quoted many other verses on the subject. Had there been any wisdom in their existence by which God has favoured us, and there would not have been those blessings for which we are to be grateful to Him.
 
 The second answer to the objection is, that we say that the things produced out of it are of two kinds: essences and substances; and movements, hardness, coldness and all other accidents. The essences and substances are not created by any but God. Their causes effect the accidents of those essences, and not the essences themselves. For instance, man and woman are only the agents, while God is the real creator of the child, and the life in it. Such is also the case with agriculture. The earth is prepared and made ready for it, and the seed scattered in it. 
 
@@ -72,9 +150,13 @@ On the whole, if the matter about the creator and the doer be understood on this
 
 So God has said, “God created you, and that which ye know.” It should be known[277] that one who denies the effect of the causes on the results of them, also denies philosophy and all the sciences. For science is the knowledge of the things by their causes, and philosophy is the knowledge of hidden causes. To deny the causes altogether is a thing which is unintelligible to human reason. It is to deny the Creator, not seen by us. For the unseen in this matter must always be understood by a reference to the seen.
 
-So those men can have no knowledge of God, when they admit that for every action there is an actor. It being so, the agreement of the Muslims on the fact that there is no Creator but God cannot be perfect, if we understand by it the denial of the existence of an agent in the visible world. For from the existence of the[278] agent in it, we have brought an argument for the Creator in the invisible world. But when we have once admitted the existence of the Creator in the invisible world, it becomes clear that there is no Creative agent except one by His command and will. 
+So those men can have no knowledge of God, when they admit that for every action there is an actor. It being so, the agreement of the Muslims on the fact that there is no Creator but God cannot be perfect, if we understand by it the denial of the existence of an agent in the visible world. 
 
-We can perform our own deeds, and that one who takes up only one side of the question is wrong, as is the case with the Mutazilites and the Jabarites. Those who adopt the middle Course, like the Asharites, for discovering the truth, cannot find it. For they make no difference for a man between the trembling and the movement of his hand by intention. There is no meaning in their admitting that both the movements are not by ourselves. 
+For from the existence of the[278] agent in it, we have brought an argument for the Creator in the invisible world. But when we have once admitted the existence of the Creator in the invisible world, it becomes clear that there is no Creative agent except one by His command and will. 
+
+We can perform our own deeds, and that one who takes up only one side of the question is wrong, as is the case with the Mutazilites and the Jabarites. Those who adopt the middle Course, like the Asharites, for discovering the truth, cannot find it. For they make no difference for a man between the trembling and the movement of his hand by intention. 
+
+There is no meaning in their admitting that both the movements are not by ourselves. 
 
 Because if they are not by ourselves we have no power to check them, so we are compelled to do them. Hence there is no difference between trembling of hand and voluntary movement, which they would call acquired. So there is no difference between them, except in their names, which never effect[279] the things themselves.
 

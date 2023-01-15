@@ -4,7 +4,7 @@ title: "Divine Perfection"
 author: Averroes
 description: ""
 weight: 20
-image: "/covers/averroes.jpg"
+image: "/covers/theo.jpg"
 ---
 
 
@@ -16,19 +16,43 @@ The Law teaches the common people:
 
 <!-- , and the extent to which they have been explained in details in it, one after another.  -->
 
-It is really an addition to, and deduction from, and change and interpretation of this very limit and extent which has not been productive of good to any and all the people. Now it remains for us to know the method which the Law has adopted in explaining to the common people the perfection of God and freedom from all defects, and the length to which it has gone in detailing it, and the cause of restricting its knowledge to them. Then we should mention the methods which it adopts in teaching the people the knowledge of His actions, and the latitude which it has allowed in this respect. Having[158] done so, we shall have accomplished the purpose for which we began this book.
+It is really an addition to, and deduction from, and change and interpretation of this very limit and extent which has not been productive of good to any and all the people. 
 
-So we say that the knowledge of things known as perfection and holiness are found in many verses of the Quran, the most clear and definite of them being the following, “There is nothing like Him, and it is He who heareth and seeth;”[64] and, “Shall God, therefore, Who createth, be as he who createth not.”[65] The second verse is an argument for the verse “there is nothing like Him.” For it is one of the characteristics of the dispositions of all the people to think that the Creator must either be unlike the things which He has created, or having qualities which may be different from these which He has given to the created; otherwise he who is himself created cannot be a Creator.
+What is the method which the Law has adopted to explain to the common people the perfection of God and freedom from all defects?
 
-When we have admitted that the created cannot be the creator then it becomes incumbent upon us to say that the qualities of the created should either[159] be not found in the Creator, or found in Him in some different way than they are in the created. We say, “in some different way,” because we have proved the divine qualities to be those which are found in the noblest of God’s creatures, man, as knowledge, life, power, volition and so on. This is the meaning of the Tradition of the Prophet, “God created Adam after His own image.” So it has been established that the Law has denied the similarity between the Creator and the created with fitting arguments. The denial of similarity is of two kinds, first, that there may not be found in the Creator many qualities of the created; and secondly; there may be found in him the qualities of the created in so perfect and excellent a form as could not be imagined. Of these two kinds it should be seen which one the Law has explained, and about which it is reticent. We would also try to find out the cause for this reticence.
+<!-- , and the length to which it has gone in detailing it, and the cause of restricting its knowledge to them. Then we should mention the methods which it adopts in teaching the people the knowledge of His actions, and the latitude which it has allowed in this respect. Having[158] done so, we shall have accomplished the purpose for which we began this book. -->
+
+The knowledge of things known as perfection and holiness are found in many verses of the Quran. The most clear and definite are:
+
+“There is nothing like Him, and it is He who heareth and seeth;”[64]
+
+“Shall God, therefore, Who createth, be as he who createth not.”[65] 
+
+The second verse is an argument for the verse “there is nothing like Him.” 
+
+For it is one of the characteristics of the dispositions of all the people to think that the Creator must either be unlike the things which He has created, or having qualities which may be different from these which He has given to the created; otherwise he who is himself created cannot be a Creator.
+
+When we have admitted that the created cannot be the creator then it becomes incumbent upon us to say that the qualities of the created should either[159] be not found in the Creator, or found in Him in some different way than they are in the created. We say, “in some different way,” because we have proved the divine qualities to be those which are found in the noblest of God’s creatures, man, as knowledge, life, power, volition and so on. 
+
+This is the meaning of the Tradition of the Prophet, “God created Adam after His own image.” So it has been established that the Law has denied the similarity between the Creator and the created with fitting arguments. 
+
+The denial of similarity is of two kinds, first, that there may not be found in the Creator many qualities of the created; and secondly; there may be found in him the qualities of the created in so perfect and excellent a form as could not be imagined. Of these two kinds it should be seen which one the Law has explained, and about which it is reticent. We would also try to find out the cause for this reticence.
 
 We would say that the qualities of[160] the created which have been denied by Law as pertaining to God are those which show some defects; for example, death, as God says, “And do ye not trust in him who liveth, and dieth not,”[66] or sleep and things which lead to negligence and carelessness, as regards senses and the protection of the existent things, as He says, “Neither slumber nor sleep seizeth Him.”[67] Of such qualities are error and forgetfulness, as God has said, “The knowledge thereof is with my Lord, in the book of His decrees: my Lord erreth not, neither doth He forget.”[68] 
 
 A knowledge of those qualities the existence of which has been denied in God is one of the necessary things of common education and is why the Law has been very explicit about them. It only warns us not to meddle with those things which are far from the primary principles of knowledge, because it knows the small limits of human knowledge, as God has[161] said in many different verses of the Quran, “But the greater part of men do not understand.” 
 
-For example He says, “Verily the creation of heaven and earth is more considerable, than the creation of man; but the greater part of men do not understand,”[69] and “The institution of God to which He has created mankind disposed; there is no change in what God hath created. This is the right religion; but the greater part of men know it not.”[70] Now it may be said, what is the proof—that is, the proof advanced by the Law—of the fact that these defects are not found in God. We would say that it is apparent from the universe itself. It is quite safe. No confusion or corruption overtakes it. Had the Creator been subject to negligence, carelessness, error or forgetfulness the whole of the universe would have been destroyed. God has made this clear in many verses of the Quran. He says, “Verily God[162] sustaineth the heaven and the earth, lest they fail: and if they should fail, none could support the same besides him;”[71] and, “The preservation of both is not burden unto him, He is the high, the mighty.”[72]
+For example He says, “Verily the creation of heaven and earth is more considerable, than the creation of man; but the greater part of men do not understand,”[69] and “The institution of God to which He has created mankind disposed; there is no change in what God hath created. 
 
-If our opinion be asked about the anthropomorphic attributes of God, whether the Law has denied them as attributes to the Creator or is only silent about them, we would say, that it is evident that the Law is quite silent about them, and their mention in it is quite near to their denial altogether. It has come to be so because the Quran in many verses speaks of His hands and face, and these verses are taken as showing physical attributes which the Creator has bestowed upon the created, just as He has given him the qualities of power, volition and so on—qualities which are common between the Creator and created, except that they are more perfect in the former. 
+This is the right religion; but the greater part of men know it not.”[70] Now it may be said, what is the proof—that is, the proof advanced by the Law—of the fact that these defects are not found in God. We would say that it is apparent from the universe itself. It is quite safe. 
+
+No confusion or corruption overtakes it. Had the Creator been subject to negligence, carelessness, error or forgetfulness the whole of the universe would have been destroyed. God has made this clear in many verses of the Quran. 
+
+He says, “Verily God[162] sustaineth the heaven and the earth, lest they fail: and if they should fail, none could support the same besides him;”[71] and, “The preservation of both is not burden unto him, He is the high, the mighty.”[72]
+
+If our opinion be asked about the anthropomorphic attributes of God, whether the Law has denied them as attributes to the Creator or is only silent about them, we would say, that it is evident that the Law is quite silent about them, and their mention in it is quite near to their denial altogether.
+
+It has come to be so because the Quran in many verses speaks of His hands and face, and these verses are taken as showing physical attributes which the Creator has bestowed upon the created, just as He has given him the qualities of power, volition and so on—qualities which are common between the Creator and created, except that they are more perfect in the former. 
 
 On account of[163] this many Muslims believed that the Creator has a body different from all other bodies. Such is the case with the Hanbalites and their many followers. But in my opinion we should follow the path of the Law; and this should neither deny nor try to prove them, and whenever asked by the common people to do so, we should answer with words of God, “There is nothing like him; and it is He who heareth and seeth,”[73] in this way preventing them from questioning. It is so because of three reasons. It is neither near to the first, nor to the second, nor to the third grade. This would be quite clear to you from the method adopted by the Mutakallimun. 
 

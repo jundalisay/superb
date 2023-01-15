@@ -1,7 +1,8 @@
 ---
-weight: 16
-description: "Treatise of Human Nature"
+description: "Treatise of Human Nature Simplified"
 title: "Treatise of Human Nature"
 image: "/covers/treatise.jpg"
+author: David Hume
+weight: 8
 ---
 

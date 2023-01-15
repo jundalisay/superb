@@ -4,7 +4,7 @@ description: "This discipline is one of the disciplines connected with Arab spee
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 54"
-weight: 1
+weight: 148
 ---
 
 

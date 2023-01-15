@@ -1,10 +1,11 @@
 ---
 heading: Part 1 Appendix
 title: "The Problem Of Eternal Knowledge"
-author: Averroes
 description: ""
 weight: 4
-image: "/covers/averroes.jpg"
+image: "/covers/theo.jpg"
+icon: /avatars/averroes.jpg
+author: Averroes
 ---
 
 <!-- ON THE PROBLEM OF ETERNAL KNOWLEDGE, WHICH AVERROES HAS MENTIONED IN HIS DECISIVE DISCOURSE. -->

@@ -5,7 +5,7 @@ description: "Habits result only from repeated action. An action is done first o
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 44c"
-weight: 1
+weight: 130
 ---
 
 
@@ -20,21 +20,21 @@ This is as follows:
 These (concepts) are indicated by individual nouns, verbs, and particles. Or, (what
 the speaker intends to convey) may be the distinction between the things that are
 dependent and those that depend on them and (the distinction between) tenses. These(concepts) are indicated by the change of vowel endings and the forms of the words.
+
 All this belongs to grammar.
 
-Among the things that are part of the facts and need to be indicated, there still remain the conditions of speakers and agents and the requirements of the situation under which the action takes place. 1283 This needs to be indicated, because
-it completes (the information) to be conveyed. 
+Among the things that are part of the facts and need to be indicated, there still remain the conditions of speakers and agents and the requirements of the situation under which the action takes place. 1283 This needs to be indicated, because it completes (the information) to be conveyed. 
 
 If the speaker is able to bring out these (facts), his speech conveys everything that it can possibly convey. If his speech
-does not have anything of that, it is not real Arabic speech. The Arabic language is
-vast. The Arabs have a particular expression for each situation, in addition to a
-perfect use of vowel endings and clarity.
+does not have anything of that, it is not real Arabic speech. 
 
-"Zayd came to me" does not mean the same as "There came to me Zayd." Something mentioned in the first place (such as "Zayd" in the first example) has greater importance in the mind of the speaker. The person who says:
-"There came to me Zayd," indicates that 1284 he is more concerned with the coming
-than with the person who comes. (On the other hand,) the person who says= "Zayd
-came to me," indicates that he is more concerned with the person than with his
-coming, which (grammatically) depends on (the person who comes).
+The Arabic language is vast. The Arabs have a particular expression for each situation, in addition to a perfect use of vowel endings and clarity.
+
+"Zayd came to me" does not mean the same as "There came to me Zayd." Something mentioned in the first place (such as "Zayd" in the first example) has greater importance in the mind of the speaker. 
+
+The person who says:
+
+"There came to me Zayd," indicates that 1284 he is more concerned with the coming than with the person who comes. (On the other hand,) the person who says= "Zayd came to me," indicates that he is more concerned with the person than with his coming, which (grammatically) depends on (the person who comes).
 
 The same applies to the indication of the parts of a sentence by relative pronouns, demonstrative pronouns, or determinations appropriate to the situation. It also applies to "emphatic" 1285 connection in general. For instance, (the three
 sentences)= "Zayd is standing," "Behold, Zayd is standing," and "Behold, Zayd is

@@ -4,7 +4,7 @@ title: "The 4 Divine Attributes"
 author: Averroes
 description: "The Quran assigned attributes to the Creator. These are only the perfect forms of those which are found in man"
 weight: 18
-image: "/covers/averroes.jpg"
+image: "/covers/theo.jpg"
 ---
 
 

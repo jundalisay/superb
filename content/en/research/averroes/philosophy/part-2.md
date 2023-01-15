@@ -4,7 +4,7 @@ title: "Arguments On The Beliefs Of The Faith"
 author: Averroes
 description: ""
 weight: 12
-image: "/covers/averroes.jpg"
+image: "/covers/theo.jpg"
 ---
 
 

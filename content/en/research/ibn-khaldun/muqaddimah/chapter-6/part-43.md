@@ -4,7 +4,7 @@ description: "A person whose first language was not Arabic has a harder time to 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 43"
-weight: 1
+weight: 124
 ---
 
 
@@ -79,5 +79,4 @@ It is also not in contradiction with the fact that the Greeks were highly accomp
 
 The nonArab Muslim who studies to become a scholar learns his subject in a language other than his first (native) one and from a writing other than the one whose habit he has mastered. 
 
-This, then, becomes a veil for him, as we have stated.This applies quite generally to all kinds of speakers of non-Arab languages, such as the Persians, the Turks, the Berbers, the European Christians, and all others
-whose language is not Arabic. 
+This, then, becomes a veil for him, as we have stated.This applies quite generally to all kinds of speakers of non-Arab languages, such as the Persians, the Turks, the Berbers, the European Christians, and all others whose language is not Arabic. 

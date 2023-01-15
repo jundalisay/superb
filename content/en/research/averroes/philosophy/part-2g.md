@@ -4,7 +4,7 @@ title: "The Actions Of God"
 author: Averroes
 description: ""
 weight: 24
-image: "/covers/averroes.jpg"
+image: "/covers/theo.jpg"
 ---
 
 

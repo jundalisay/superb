@@ -1,15 +1,15 @@
-+++
-title=  "Ineffective Solutions"
-heading=  "Chapter 24 of of Progress and Poverty"
-description=  "Ineffective Solutions"
-image=  "/covers/progress.jpg"
-linkb=  "/research/george/progress-poverty/chapter-12"
-linkbtext=  "The Cause of Interest"
-linkf=  "/research/george/progress-poverty/chapter-25"
-linkftext=  "The True Remedy"
-+++ 
+---
+heading: "Chapter 24"
+title: "Ineffective Solutions"
+description: "Lower taxes taken from production would raise productivity just as increased population and technological improvements do"
+weight: 46
+image: "/covers/progress.jpg"
+author: Henry George
+---
 
-The current solutions are= 
+
+
+The current solutions are:
 
 1. More efficient government
 2. Better education and work habits
@@ -18,11 +18,10 @@ The current solutions are=
 5. Government regulation
 6. Redistribution of land
 
-<br>
 
 ### 1.More efficient government
 
-Social distress are due to= 
+Social distress are due to:
 - huge public debts, 
 - military establishments,
 - general extravagance especially in large cities

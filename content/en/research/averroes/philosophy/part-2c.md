@@ -4,7 +4,7 @@ title: "The Unity Of God"
 author: Averroes
 description: ""
 weight: 16
-image: "/covers/averroes.jpg"
+image: "/covers/theo.jpg"
 ---
 
 

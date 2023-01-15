@@ -1,8 +1,9 @@
 ---
-title:  "Manila in 1819"
-# image:  "/covers/war.jpg"
-description: "The art of war is of vital importance to the State. It is a matter of life and death"
+title:  "Manila Bay, the People"
+image:  "/covers/1819.png"
+description: "The fine bay of Manila is 30 leagues in circumference"
 heading:  "Chapter 8"
+weight: 2
 author: Lieutenant John White
 ---
 
@@ -13,9 +14,19 @@ The fine bay of Manila is 30 leagues in circumference.
 
 <!--  is situated near the middle of the west side of the island, and has good and clear anchorage in all parts of it, excepting on a coral ledge, called the Shoal of St. Nicholas, which is the only visible danger in the bay.  -->
 
-The dangerous part of it is, however, of small extent, and with proper attention easily avoided; the least of water found on it at present is 11 feet, but its summit is constantly approaching the surface of the sea, as has been ascertained by surveys made at different periods by orders of government, which circumstance seems to indicate the presence of Zoophytes, that compound of animal and vegetable life, whose incessant and rapid labors, and, as we are told by naturalists, whose polypus-like powers of receiving perfect form and vitality into numberless dismembered portions of their bodies, have long excited much curiosity and admiration.
+The dangerous part of it is small. With proper attention, it is easily avoided. 
 
-These small, compound animals, commence their operations at the bottom of the sea, and proceed upwards, towards the surface, spreading themselves in various ramifications; the older members of the mass become concrete, petrify, and form dangerous shoals; the superior portion of these little colonists always being the last produced, in its turn generates myriads of others, and so on, ad infinitum, till they reach the surface of the ocean. These coral reefs and shoals are found in most parts of the world, within the tropics; but the waters of the eastern hemisphere seem to be peculiarly congenial to their production, and, indeed, there appear to be certain spaces or regions in these seas, which are their favorite haunts. 
+The least of water found on it at present is 11 feet. But its summit is constantly approaching the surface of the sea, as has been ascertained by surveys made at different periods by orders of government. 
+
+It indicates the presence of Zoophytes, that compound of animal and vegetable life. 
+- Their incessant and rapid labors create polypus-like powers of receiving perfect form and vitality into numberless dismembered portions of their bodies.
+<!-- , have long excited much curiosity and admiration. -->
+- These small, compound animals, commence their operations at the bottom of the sea, and proceed upwards, towards the surface. 
+- They spread in various ramifications.
+- The older members of the mass become concrete, petrify, and form dangerous shoals.
+- The superior portion of these little colonists always being the last produced, in its turn generates myriads of others, and so on infinitely till they reach the surface of the ocean. 
+
+These coral reefs and shoals are found in most parts of the world, within the tropics; but the waters of the eastern hemisphere seem to be peculiarly congenial to their production, and, indeed, there appear to be certain spaces or regions in these seas, which are their favorite haunts. 
 
 Among many others may be mentioned the Mozambique channel, and that tract of ocean, from the eastern coast of Africa, quite across to the coast of Malabar, including the Mahé, Chagas, Maldive and Laccadive archipelagos; the southeastern part of the China sea; the Red sea; the eastern part of Java; the coasts of all the Sunda islands; and various places in the Pacific ocean. 
 

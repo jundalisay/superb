@@ -1,13 +1,13 @@
-+++
-title=  "The Cause of Interest"
-description=  "Interest includes all returns from using capital, not just payments from borrower to lender"
-image=  "/covers/progress.jpg"
-linkb=  "/research/george/progress-poverty/chapter-12"
-linkbtext=  "The Cause of Interest"
-linkf=  "/research/george/progress-poverty/chapter-25"
-linkftext=  "The True Remedy"
-heading=  "Chapter 12"
-+++ 
+---
+heading: "Chapter 12"
+title: "The Cause of Interest"
+description: "Interest includes all returns from using capital, not just payments from borrower to lender"
+weight: 26
+image: "/covers/progress.jpg"
+author: Henry George
+---
+
+
 
 I have already warned of confusing profits with interest. Interest includes all returns from using capital, not just payments from borrower to lender.
 

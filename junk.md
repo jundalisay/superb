@@ -1,3 +1,11 @@
+darkblue sp
+orange mat
+pink medical
+green social
+dark cyan economics?
+red bad
+black whatever
+
 restrict meat farming, land is for grains
 
 Legumes (creates nitrogen) + Corn (uses nitrogen)
@@ -60,11 +68,6 @@ warrior
 thinker
 trader
 
-
-purple sp
-orange mat
-pink medical
-green social
 
 
 

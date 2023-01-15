@@ -2,5 +2,5 @@
 title: "Australian Constitution"
 linkTitle: "Australia"
 image: "/flags/au.png"
-weight: 1
+weight: 2
 ---

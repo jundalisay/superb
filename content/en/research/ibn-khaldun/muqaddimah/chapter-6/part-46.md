@@ -4,38 +4,32 @@ description: "Languages and (linguistic) habits are not matters of chance"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 45b"
-weight: 1
+weight: 136
 ---
 
 
-Perhaps, if we were to concern ourselves with the presentday Arabic
-language and evolve its laws inductively, we would find other things and
-possibilities indicating what the vowel endings, which no longer exist, (used to)
-indicate, things that exist in the (present-day language) and that have their own
-peculiar rules. <!-- 1343 --> 
+Perhaps, if we were to concern ourselves with the presentday Arabic language and evolve its laws inductively, we would find other things and
+possibilities indicating what the vowel endings, which no longer exist, used to indicate, things that exist in the (present-day language) and that have their own peculiar rules. <!-- 1343 --> 
 
 Certain rules apply to the endings of (the words of the present-day Arabic language, only) in a manner different from that which existed originally in the language of the Mudar. Languages and (linguistic) habits are not matters of chance.
 
 The relationship of the Mudar language to the Himyarite language was of the same type. 
 
-Many of the meanings and inflections of the words of the Himyarite
-language were changed in Mudar usage. This fact is attested by the transmitted
-material available to us. It is contrary to the opinions of those whose deficient
-(knowledge) leads them to assume that the Mudar and Himyar languages are one
-and the same, and who want to interpret the Himyarite language according to the
-formations and rules of the Mudar language. For instance, certain of these persons
-assume that the Himyarite word qayl "leader" is derived from qawl "speaking," 1344
-and so on. This is not correct. The Himyarite language is another language and
-differs from the Mudar language in most of its (conventional) meanings, inflections,
-and vowels, (and has) the same relationship (to it) that the Mudar language has to
-present-day Arabic. The only difference is that the interest in the Mudar language
-which, we have stated, exists on account of (the connection of that language with)
+Many of the meanings and inflections of the words of the Himyarite language were changed in Mudar usage. This fact is attested by the transmitted
+material available to us. It is contrary to the opinions of those whose deficient (knowledge) leads them to assume that the Mudar and Himyar languages are one and the same, and who want to interpret the Himyarite language according to the formations and rules of the Mudar language. For instance, certain of these persons assume that the Himyarite word qayl "leader" is derived from qawl "speaking," 1344
+and so on. 
+
+This is not correct. 
+
+The Himyarite language is another language and differs from the Mudar language in most of its (conventional) meanings, inflections,
+and vowels, (and has) the same relationship (to it) that the Mudar language has to present-day Arabic. 
+
+The only difference is that the interest in the Mudar language which, we have stated, exists on account of (the connection of that language with)
 the religious law, caused 1345 (scholars) to evolve and derive (its rules). There is
 nothing nowadays to move us to do the same (for presentday Arabic).
-A characteristic feature of the language of present-day Arab (Bedouins),
-wherever they may live, is the pronunciation of q. They do not pronounce it as the
-urban population pronounces it and as it is indicated in works on Arabic philology,
-namely, where the hindmost part of the tongue meets the soft palate above it.
+
+
+A characteristic feature of the language of present-day Arab (Bedouins), wherever they may live, is the pronunciation of q. They do not pronounce it as the urban population pronounces it and as it is indicated in works on Arabic philology, namely, where the hindmost part of the tongue meets the soft palate above it.
 
 Neither 1346 is it pronounced as k is pronounced, even though k is articulated in a place below that where q is articulated in the vicinity of the soft palate, as it is (whenproperly articulated). It is pronounced somewhere between k 1347 and q. This is the case with all Arab Bedouins, wherever they are, in the West or the East. It has eventually become their distinguishing mark among the nations and races. 
 

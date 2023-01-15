@@ -4,7 +4,7 @@ description: "This is concerned with explaining the (conventional) meanings of t
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 44b"
-weight: 1
+weight: 128
 ---
 
 
@@ -28,41 +28,35 @@ works on the subject.
 
 The champion in this respect was al-Khalil b. Ahmad al-Farahidi. 1256 He wrote the Kitab al-'Ayn on lexicography. In it, he dealt with all (possible) combinations of the letters of the alphabet, that is, with words of 2-5 consonants. (Fiveconsonant words) are the longest letter combinations found in Arabic.
 
-It was possible for al-Khalil to calculate arithmetically the total number of
-such combinations. This goes as follows. The total number of two-consonant words
-is the sum of the arithmetical progression from one to twenty-seven. Twentyseven is
-one letter less than the number of letters in the alphabet. For the first consonant (of
-the alphabet) is combined with the remaining twenty-seven letters. This results in
-twenty-seven two-consonant words. Then, the second letter is combined with the
-remaining twenty-six consonants, then the third and the fourth, and so on, to the
+It was possible for al-Khalil to calculate arithmetically the total number of such combinations. This goes as follows. The total number of two-consonant words is the sum of the arithmetical progression from 1-27. 
+
+27 is one letter less than the number of letters in the alphabet. 
+
+For the first consonant (of the alphabet) is combined with the remaining twenty-seven letters. This results in 27 two-consonant words. Then, the second letter is combined with the remaining 26 consonants, then the third and the fourth, and so on, to the
 twentyseventh consonant, which is combined (only) with the twentyeighth consonant. 
 
 This results in one two-consonant word. Thus, the number of two-consonant words is the arithmetical progression from one to twenty-seven. The total can be figured out with the help of a well-known arithmetical operation - that
 is,1257 one adds up the first and last (numbers of the progression) and multiplies the
-total by one-half of the number (of numbers in the progression). The resulting
-number is then doubled, because the position of the consonants can be inverted. The
-position of consonants must be taken into consideration in combining them. The
-result is the total number of two-consonant words. 1258
+total by one-half of the number (of numbers in the progression). 
 
-The number of three-consonant words is the result of multiplying the number
-of two-consonant words by the sum of the arithmetical progression from one to
-twenty-six. For every two-consonant word becomes a three-consonant word through
-the addition of one consonant. Thus, the twoconsonant words may take the place of
-one consonant to be combined with each of the remaining consonants of the
-alphabet, which number twenty-six. Thus, the sum of the arithmetical progression
-from one to twenty-six is calculated and multiplied by the number of two-consonant
-words. The result, then, is multiplied by six, which is the possible number of
-combinations of three consonants. The result is the total number (of words of three
-consonants that can be made) from the consonants of the alphabet. 1259 The same is
-done with four-consonant and five-consonant words. In this way, the total number
-of (possible) letter combinations was calculated (by al-Khalil). 1260
+The resulting number is then doubled, because the position of the consonants can be inverted. 
 
-Al-Khalil did <not?> arrange the chapters of the book according to the
-customary sequence of the letters of the alphabet. (Instead,) he used the sequence of
-the positions (in throat and mouth) in which the various sounds are produced. Thus,
-he started with the laryngeals. They were followed, successively, by velars, dentals,
-and labials. Al-Khalil put the weak consonants, which are the (so-called) airy
-consonants (alif, w, y), in the last place. Among the laryngeals, he started with 'ayn,
+The position of consonants must be taken into consideration in combining them. The result is the total number of two-consonant words. 1258
+
+The number of three-consonant words is the result of multiplying the number of two-consonant words by the sum of the arithmetical progression from one to 26. 
+
+For every two-consonant word becomes a three-consonant word through the addition of one consonant. Thus, the twoconsonant words may take the place of
+one consonant to be combined with each of the remaining consonants of the alphabet, which number 26. 
+
+Thus, the sum of the arithmetical progression from 1-26 is calculated and multiplied by the number of two-consonant words. 
+
+The result, then, is multiplied by six, which is the possible number of combinations of three consonants. The result is the total number (of words of 3 consonants that can be made) from the consonants of the alphabet. 1259 
+
+The same is done with four-consonant and five-consonant words. In this way, the total number of (possible) letter combinations was calculated (by al-Khalil). 1260
+
+Al-Khalil did <not?> arrange the chapters of the book according to the customary sequence of the letters of the alphabet. (Instead,) he used the sequence of the positions (in throat and mouth) in which the various sounds are produced. 
+
+Thus, he started with the laryngeals. They were followed, successively, by velars, dentals, and labials. Al-Khalil put the weak consonants, which are the (so-called) airy consonants (alif, w, y), in the last place. Among the laryngeals, he started with 'ayn,
 because it is the (sound produced) farthest (back in the throat). Therefore, his book
 was called Kitab al-'Ayn. The ancient (scholars) did such things when they selected
 titles for their works. They called them after the first words or phrases that occurred
@@ -81,6 +75,7 @@ Spain in the fourth [tenth] century, abridged the (Kitab al-'Ayn) but preserved 
 complete character. He omitted all the words that are not used. He also omitted
 many of the examples clarifying words in use. Thus, he produced a very good
 abridgment for memorizing.
+
 Among eastern scholars, al-Jawhari 1262 composed the Kitab as-Sihah,
 which follows the ordinary alphabetical sequence. He started with hamzah (alif). He
 arranged the words according to their last letter, since people have mostly to do with

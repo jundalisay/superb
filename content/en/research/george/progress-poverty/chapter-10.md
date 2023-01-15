@@ -1,14 +1,11 @@
-+++
-title=  "The Law of Human Progress"
-heading=  "Chapter 10"
-description=  "The prevailing belief is that civilizations progress by development or evolution. That is, by the survival of the fittest and hereditary transmission of acquired qualities"
-image=  "/covers/progress.jpg"
-author=  "Henry George"
-linkb=  "/research/george/progress-poverty"
-linkbtext=  "Progress Poverty"
-linkf=  "/research/george/progress-poverty/chapter-12"
-linkftext=  "The Cause of Interest"
-+++ 
+---
+heading: "Chapter 10"
+title: "The Law of Human Progress"
+description: "The prevailing belief is that civilizations progress by development or evolution. That is, by the survival of the fittest and hereditary transmission of acquired qualities"
+weight: 24
+image: "/covers/progress.jpg"
+author: Henry George
+---
 
 
 ## The Cause of Human Progress
