@@ -22,7 +22,7 @@ Name 				 | Nominal 						| Real (Effort Theory) | Market | Natural
 Energy Manifestation | Commodities and Stores of Value | Fixed Capital | Circulating Capital | Taxes
 Energy Origin 		 | Consumption Motive 			| Force of Capital | Tools of Trade | GDP and Purchasing Power
 Energy Movement      | Absolute Demand Effective Demand | Primary Arbitrage | Secondary Arbitrage | Types of Effort
-Energy Institution   | Minimum Requirements 		| Business Organizations | Banking, Barter system | Government Institutions (Resources Dept, Education) 
+Energy Institution   | Minimum Requirements (Farming?) 		| Business Organizations | Banking, Barter system | Government Institutions (Resources Dept, Education) 
 Energy Model 		 | Demand Model 				| Supply Model | Demand-Supply | Targetted Development
 Energy Flow (Crisis?)| Demand Inflation Deflation 	| Core Competency | 4 Revenues | DCTI
 Energy Index 		 | Grain Index 					| Cost Curves 	| Economic Table | Ratios GDP

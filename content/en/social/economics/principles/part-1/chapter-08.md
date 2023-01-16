@@ -3,7 +3,7 @@ heading: "Chapter 8"
 title: "Grain Index"
 weight: 32
 # date: 2022-08-06
-image: /covers/econsp.jpg
+image: "/photos/grains.jpg"
 description: ""
 author: Dalisay
 ---
@@ -12,3 +12,4 @@ author: Dalisay
 
 In order to prevent inflation, Superphysics pegs exchangeable value to grains. 
 
+More to come..

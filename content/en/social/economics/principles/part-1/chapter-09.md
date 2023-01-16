@@ -3,8 +3,8 @@ heading: "Chapter 9"
 title: "The Rural Economy"
 weight: 34
 # date: 2022-08-04
-image: /photos/egypt.jpg
-description: ""
+image: /photos/medieval/camels.jpg
+description: "In The Lectures on Jurisprudence, Adam Smith enumerated the 7 obstacles to agriculture"
 author: Dalisay
 ---
 

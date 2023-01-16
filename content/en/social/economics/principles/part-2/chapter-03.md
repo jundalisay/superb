@@ -5,9 +5,9 @@ description : "Economic Karma is the cause and effect of economic actions"
 # date: 2022-01-28
 weight: 16
 date: 2016-01-01
-image: /covers/econsp.jpg
-description: ""
-author: Juan Dalisay Jr
+image: /photos/meta/buddhism.jpg
+description: "Smith was one of the few Western intellectuals to hint at the concept of dharma, or the natural and sustainable activities of humans, and apply it both for moral and economic purporses"
+author: Dalisay
 ---
 
 

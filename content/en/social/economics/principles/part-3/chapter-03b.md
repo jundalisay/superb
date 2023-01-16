@@ -1,12 +1,13 @@
 ---
 title: The 3 Problems with Money
-heading: "Mo' Money, Mo' Problem"
+heading: Chapter 3b
+# heading: "Mo' Money, Mo' Problem"
 date: 2020-04-18
 weight: 24
 image: "/photos/objects/money.jpg"
 description: Money conquered the world after the Spanish discovered silver mines in South America. This gave fuel for colonization and the oppression of the world.
 youtube: "OV1JHTiDdkQ"
-author: Juan
+author: Dalisay
 icon: /icons/pantry.png
 aliases:
   /social/economics/problems-with-money

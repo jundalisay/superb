@@ -1,6 +1,6 @@
 ---
 title: "Ibn Khaldun"
-heading: Enlightened
+heading: Semi-Enlightened but Dogmatic
 # date: 2022-07-08
 weight: 44
 # date        = "2020-06-16"

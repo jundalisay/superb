@@ -4,8 +4,8 @@ title: "International Institutions"
 # date: 2022-12-24
 date: 2021-12-17
 weight: 40
-image: /covers/econsp.jpg
-description: ""
+image: /flags/eu.png
+description: "Few people know that Adam Smith was making a free trade system as part of a world government which we call an Earth Government (EG)."
 author: Dalisay
 ---
 

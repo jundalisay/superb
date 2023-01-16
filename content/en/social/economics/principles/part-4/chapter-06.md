@@ -3,8 +3,8 @@ heading: "Chapter 6"
 title: "Targetted Development"
 date: 2022-01-03
 weight: 28
-image: /covers/econsp.jpg
-description: ""
+image: /photos/city.jpg
+description: "The same maxims given by Adam Smith on economic development which he observed from the Roman times up to his time in 1776 will still apply to humans from 1777 onwards until the human homo-sapiens change into homo-futurus"
 author: Dalisay
 aliases:
   /social/economics/principles/development/    
@@ -37,7 +37,7 @@ This post was made in 2015 because the model predicted a huge crisis starting in
 {{< /me >}} -->
 
 
-The main advantage of Economic Superphysics over Neoclassical Economics is that it is based on the dynamics of the human mind as explained by David Hume which was later applied by Adam Smith into his Theory of Moral Sentiments and The Wealth of Nations.
+The main advantage of Supereconomics over Neoclassical Economics is that it is based on the dynamics of the human mind as explained by David Hume which was later applied by Adam Smith into his Theory of Moral Sentiments and The Wealth of Nations.
 
 To David Hume and Eastern philosophy, the mind is a metaphysical thing, different from the physical brain. Metaphysical things are less bound by space and time compared to physical things, and so the mind's dynamics can remain the same throughout space and time. 
 

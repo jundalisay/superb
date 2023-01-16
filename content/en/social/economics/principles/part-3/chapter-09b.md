@@ -1,6 +1,7 @@
 ---
 title: "Import Substitution versus Export Promotion"
-heading: "Import Substitution for austere nations. Export Promotion for liberal nations"
+heading: Chapter 9b
+# heading: "Import Substitution for austere nations. Export Promotion for liberal nations"
 date: 2015-01-01
 weight: 46
 image: /photos/objects/ship.jpg

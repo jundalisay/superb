@@ -4,7 +4,7 @@ heading: "Chapter 7b"
 date: 2020-12-14
 weight: 32
 image: /photos/grains.jpg
-description : "Superphysics uses two measures combined to replace GDP as a measure of a country's wealth: Purchasing Power and the Grain Index"
+description : "Supereconomics uses 2 measures combined to replace GDP as a measure of a country's wealth: Purchasing Power and the Grain Index"
 author: Juan Dalisay Jr.
 icon: /icons/pantry.png
 aliases:
@@ -17,7 +17,7 @@ Superphysics uses Purchasing Power as its alternative to GDP, as explained in [T
 
 In that Digression, Adam Smith proved that money supply, as the prices of gold and silver, are not correlated with a society's wealth or poverty. Instead, it is the money price of some rude produce relative to the main food grain (such as wheat), which is the clearest indicator of a society's wealth or poverty.
 
-Economics | Superphysics
+Economics | Supereconomics
 --- | ---
 Value of Economy = Quantity of Money | Value of Economy = Quantity of Effort, as grain values 
 

@@ -6,7 +6,7 @@ weight: 8
 ---
 
 
-Poor soils:
+<!-- Poor soils:
 - sunflower: seeds and oil
 - okra: oil and boiled food
-
+ -->

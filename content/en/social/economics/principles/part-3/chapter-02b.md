@@ -4,8 +4,9 @@ title: "The Fallacy of Liquidity Preference"
 # date: 2022-03-27
 date: 2021-12-30
 weight: 20
-image: /covers/econsp.jpg
-description: ""
+image: /covers/keynes.jpg
+# image: /photos/objects/money.jpg
+description: "The most common suffering imposed by Neoclassical Economics on the people, aside from recessions and financial crises, is inequality"
 author: Dalisay
 # draft: true
 ---

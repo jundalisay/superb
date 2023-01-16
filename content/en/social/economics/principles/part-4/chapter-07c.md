@@ -4,8 +4,8 @@ title: "How Profit Maximization Disrupted The Natural Balance of Economies"
 weight: 34
 date: 2021-12-27
 # date: 2022-03-06
-image: /photos/buy.jpg
-description: ""
+image: /photos/econ/crash.jpg
+description: "The prevalence of profits led to concept of profit maximization taught in universities under the Marginal Revolution of the 1870's"
 author: Dalisay
 ---
 

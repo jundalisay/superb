@@ -1,4 +1,5 @@
 ---
+heading: Chapter 1c
 title: "Free Competition"
 description: "Free Competition is an essential part of our third and fourth law of value. Competition is the third law. Freedom is the fourth law"
 image: /photos/psych/freedom.jpg

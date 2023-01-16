@@ -3,8 +3,8 @@ heading: "Chapter 2"
 title: "Consumable Goods"
 weight: 12
 # date: 2022-08-27
-image: /covers/econsp.jpg
-description: ""
+image: /photos/objects/cake.jpg
+description: "The HS Code is administered by the World Customs Organization (WCO) and is updated every 5 years"
 author: Juan Dalisay Jr
 ---
 
@@ -12,7 +12,7 @@ author: Juan Dalisay Jr
 
 ## The Harmonized System Code
 
-All imports and exports are classified under a system.
+<!-- All imports and exports are classified under a system. -->
 
 
 The HS Code is administered by the World Customs Organization (WCO) and is updated every 5 years. 

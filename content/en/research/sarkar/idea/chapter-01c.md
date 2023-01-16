@@ -99,7 +99,6 @@ This is the centre-seeking or interial force that tries to maintain the object's
 Energy = (Divisive Static Pressure from Activity + Unifying Static Pressure from Activity) 5 Layers
 ```
 
-#
 
 <!-- The collective name of these exterial and interial forces is  or .  -->
 

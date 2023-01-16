@@ -5,8 +5,8 @@ title: "The Five Layers of Existence and Mind"
 date: 2020-12-03
 # 2020-01-04
 weight: 30
-image: /photos/psych/freedom.jpg
-description: ""
+image: /graphics/super/5layers.png
+description: "We are inside the Mind of the Supreme Entity, as its thoughts in Existence"
 author: Juan
 icon: /icons/sp.png
 ---

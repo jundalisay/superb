@@ -9,6 +9,7 @@ icon: "/icons/sarkar.png"
 ---
 
 
+
 Our system of integrated farming is designed to utilize every inch of land. <!-- Not only should the surface land be fully utilized, but the space under the surface, and even the space above the surface, should be used to the maximum.  --> The surface, the sub-surface and the space above the surface is to be used 100%.
 
 This is done through 3 main systems of cropping:

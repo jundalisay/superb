@@ -3,15 +3,15 @@ heading: "Chapter 11"
 title: "Communism, Shariah, Inca System"
 weight: 44
 date: 2021-12-12
-image: /covers/econsp.jpg
-description: ""
+image: /covers/marx.jpg
+description: "Karl Marx and Frederick Engels listed the 10 demands of Communism in The Communist Manifesto"
 author: Dalisay
 ---
 
 
 ## The Demands of Communism
 
-Karl Marx and Frederick Engels listed the 10 demands of Communism in The Communist Manifesto 
+Karl Marx and Frederick Engels listed the 10 demands of Communism in The Communist Manifesto: 
 
 1. Abolition of [capitalist] property in land and application of all rents of land to public purposes.
 2. A heavy progressive or graduated income tax.

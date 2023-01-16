@@ -7,5 +7,6 @@ weight: 32
 image: /covers/econsp.jpg
 description: ""
 author: Dalisay
+draft: true
 ---
 

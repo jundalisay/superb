@@ -1,8 +1,8 @@
 ---
-title: "The Radiant Layer"
-description: "We introduce the principles of Superphysics"
-image: "/covers/spblack.jpg"
-# type: "featured"
+title: "The Radiant Layer (Electromagnetism)"
+description: "The Radiant Layer is called electromagnetism in Physics"
+image: "/photos/physics/star.jpg"
+author: Dalisay
 date: 2020-10-31
 weight: 8
 ---

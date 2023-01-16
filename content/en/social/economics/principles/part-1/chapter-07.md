@@ -4,8 +4,8 @@ title: "Demand Inflation Deflation"
 # date: 2022-03-27
 # date: 2022-08-10
 weight: 28
-image: /photos/buy.jpg
-description: ""
+image: /photos/econ/crash.jpg
+description: "Neoclassical Economics shallowly defines 'inflation' as a rise in prices, and 'deflation' as its decline"
 author: Dalisay
 aliases:
   /social/economics/inflation-deflation
