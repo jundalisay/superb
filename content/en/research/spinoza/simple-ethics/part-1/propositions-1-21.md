@@ -1,87 +1,129 @@
-+++
-title=  "Propositions 1 to 20"
-
-image=  "/covers/ethics.jpg"
-description=  "Substance is by nature prior to its modifications"
-linkf=  "/research/spinoza/simple-ethics/part-1/propositions-22-29"
-linkftext=  "Propositions 21"
-linkb=  "/research/spinoza/simple-ethics"
-linkbtext=  "The Ethics"
-+++
+---
+title: "Propositions 1 to 20"
+weight: 4
+author: Spinoza
+image: "/covers/ethics.jpg"
+icon: "/avatars/spinoza.png"
+description: "Substance is by nature prior to its modifications"
+---
 
 
-## Propositions
+1. Substance is by nature prior to its modifications.
 
-### 1. Substance is by nature prior to its modifications.
 
-### 2. Two substances, whose attributes are different, have nothing in common.
+2. Two substances, whose attributes are different, have nothing in common.
 - For each must exist in itself, and be conceived through itself.
 - In other words, the conception of one does not imply the conception of the other.
 
-### 3. Things which have nothing in common cannot be one the cause of the other.
+
+3. Things which have nothing in common cannot be one the cause of the other.
     
-<!-- Proof=  If they have nothing in common, it follows that one cannot be apprehended by means of the other (Axiom 5).
-- Therefore, one cannot be the cause of the other (Axiom 4). Q.E.D. -->
+Proof: If they have nothing in common, it follows that one cannot be apprehended by means of the other (Axiom 5).
+- Therefore, one cannot be the cause of the other (Axiom 4). Q.E.D.
 
 
-### 4. Two or more distinct things are distinguished one from the other, either= 
+4. Two or more distinct things are distinguished one from the other, either: 
 - by the difference of the attributes of the substances, or 
 - the difference of their modifications. 
     
-<!--     Proof=  Everything which exists, exists either in itself or in something else (Axiom 1).
-    - Nothing is granted (by Def.3 and 5.) in addition to the understanding, except substance and its modifications.
-    - Therefore, nothing is given besides the understanding, by which several things may be distinguished one from the other, except the substances, or, in other words (see Axiom 4), their attributes and modifications. Q.E.D. -->
+Proof: Everything which exists, exists either in itself or in something else (Axiom 1).
+- Nothing is granted (by Def.3 and 5.) in addition to the understanding, except substance and its modifications.
+- Therefore, nothing is given besides the understanding.
+  - The understanding allows several things to be distinguished from the other, except the substances.
+<!-- , or, in other words (see Axiom 4), their attributes and modifications. Q.E.D. -->
 
 
-### 5. Two or more substances cannot have the same nature or attribute. 
-<!-- 
-    Proof=  Distinct substances must be distinguished from the other, either= 
-      - by the difference of their attributes, or 
-        - In this case, an identical attribute can only exist in one.
-      - by the difference of their modifications (Prop. 4).
-        - In this case, 
+5. Two or more substances cannot have the same nature or attribute. 
 
-        —as substance is naturally prior to its modifications (Prop. 1),—it follows that setting the modifications aside, and considering substance in itself, that is truly, (Def. 3. and 6), there cannot be conceived one substance different from another,—that is (by Prop. 4), there cannot be granted several substances, but one substance only. Q.E.D.
- -->
-
-
-### 6. One substance cannot be produced by another substance. 
-<!-- - Proof=  It is impossible for two substances to have an identical attribute (Prop. 2).
-- Therefore (Prop. 3), one cannot be the cause of the other, neither can one be produced by the other. Q.E.D.
-- Corollary=  It follows that a substance cannot be produced by anything external to itself.
-- For in the universe nothing is granted, save substances and their modifications (as appears from Axiom 1 and Def. 3 and 5).
-- By the last Proposition, substance cannot be produced by another substance.
-- Therefore it cannot be produced by anything external to itself. Q.E.D.
-- This is shown still more readily by the absurdity of the contradictory.
-- For, if substance be produced by an external cause, the knowledge of it would depend on the knowledge of its cause (Axiom 4), and (by Def. 3) it would itself not be substance. -->
-
-
-### 7. Existence belongs to the nature of substances.
-<!--     - Proof=  Substance cannot be produced by anything external (Corollary, Prop 6).
-    - Therefore, it must be its own cause.
-    - Its essence necessarily involves existence, or existence belongs to its nature. -->
-
-
-### 8. Every substance is necessarily infinite. 
-<!--     - Proof=  There can only be one substance with an identical attribute, and existence follows from its nature (Prop. 7).
-    - Therefore, its nature involves existence, either as finite or infinite.
-    - It does not exist as finite, for (by Def. 2) it would then be limited by something else of the same kind, which would also necessarily exist (Prop. 7). and there would be two substances with an identical attribute, which is absurd (Prop. 5).
-    - It therefore exists as infinite. Q.E.D.
+Proof: Distinct substances must be distinguished from the other, either:
+- by the difference of their attributes, or 
+  - In this case, an identical attribute can only exist in one.
+- by the difference of their modifications (Prop. 4).
+  - In this case, since substance is naturally prior to its modifications (Prop. 1) then, setting the modifications aside, and considering substance in itself, (Def. 3. and 6), we cannot conceive one substance different from another
+  - This means there is only 1 subtance
+<!-- ,—that is (by Prop. 4), there cannot be granted several substances, but one substance only. Q.E.D. -->
  
-    - Note 1=  Finite existence involves a partial negation. Infinite existence is the absolute affirmation of the given nature. It follows (solely from Prop. 7) that every substance is necessarily infinite.
-    -  Note 2=  It will be difficult for those who think about things loosely, and have not been accustomed to know them by their primary causes, to comprehend the demonstration of Prop. 7. Such persons make no distinction between the modifications of substances and the substances themselves, and are ignorant of how things are produced. Hence, they may attribute to substances the beginning which they observe in natural objects. Those who are ignorant of true causes, make complete confusion—think that trees might talk just as well as men—that men might be formed from stones as well as from seed; and imagine that any form might be changed into any other. So, also, those who confuse the two natures, divine and human, readily attribute human passions to the deity, especially so long as they do not know how passions originate in the mind.
+
+
+6. One substance cannot be produced by another substance. 
+
+Proof: It is impossible for 2 substances to have an identical attribute (Prop. 2).
+- Therefore (Prop. 3), one cannot be the cause of the other, neither can one be produced by the other. Q.E.D.
+
+Corollary: It follows that a substance cannot be produced by anything external to itself.
+- This is because, in the universe, nothing is granted other than substances and their modifications. This is from Axiom 1 and Def. 3 and 5.
+
+By the last Proposition, substance cannot be produced by another substance.
+- Therefore, it cannot be produced by anything external to itself. Q.E.D.
+  - If substance were produced by an external cause, the knowledge of it would depend on the knowledge of its cause (Axiom 4), and (by Def. 3) it would itself not be substance.
+
+
+7. Existence belongs to the nature of substances.
+
+Proof: Substance cannot be produced by anything external (Corollary, Prop 6).
+- Therefore, it must be its own cause.
+- Its essence necessarily involves existence, or existence belongs to its nature.
+
+
+8. Every substance is necessarily infinite. 
+
+Proof:  There can only be 1 substance with an identical attribute.
+- Existence follows from its nature (Prop. 7).
+
+Therefore, its nature involves existence, either as finite or infinite.
+- If it were finite then (by Def. 2) it would then be limited by something else of the same kind.
+  - This would mean there would be 2 substances with an identical attribute, which is absurd (Prop. 5).
+    
+Therefore it exists as infinite. Q.E.D.
+ 
+
+{{< box >}}
+### Note 1
+
+- Finite existence involves a partial negation. 
+- Infinite existence is the absolute affirmation of the given nature. 
+
+It follows (solely from Prop. 7) that every substance is necessarily infinite.
+
+### Note 2
+
+People who think about things loosely, and have not been used to know them by their primary causes will find it difficult to comprehend the demonstration of Prop. 7. 
+
+Such persons:
+- make no distinction between the modifications of substances and the substances themselves, and
+- are ignorant of how things are produced. 
+
+Hence, they may attribute to substances the beginning which they observe in natural objects. 
+
+Those who are ignorant of true causes, make complete confusion. They think that:
+- trees might talk just as well as men
+- men might be formed from stones as well as from seed
+- any form might be changed into any other. 
+
+So, also, those who confuse the 2 natures, divine and human, readily attribute human passions to the deity, especially so long as they do not know how passions originate in the mind.
 
 But if people considered the nature of substance, they would have no doubt about the truth of Prop. 7.
+
 In fact, this proposition would be a universal axiom, and accounted a truism.
-For, by substance, would be understood that which is in itself, and is conceived through itself—that is, something of which the conception requires not the conception of anything else;
-whereas modifications exist in something external to themselves, and a conception of them is formed by means of a conception of the thing in which they exist.
+
+For, by substance, would be understood that which is in itself, and is conceived through itself. It is something of which the conception requires not the conception of anything else. 
+
+Whereas modifications exist in something external to themselves, and a conception of them is formed by means of a conception of the thing in which they exist.
+
 Therefore, we may have true ideas of non—existent modifications.
+
 For, although they may have no actual existence apart from the conceiving intellect, yet their essence is so involved in something external to themselves that they may through it be conceived.
+
 Whereas the only truth substances can have, external to the intellect, must consist in their existence, because they are conceived through themselves.
+
 Therefore, for a person to say that he has a clear and distinct—that is, a true—idea of a substance, but that he is not sure whether such substance exists, would be the same as if he said that he had a true idea, but was not sure whether or no it was false (a little consideration will make this plain); or if anyone affirmed that substance is created, it would be the same as saying that a false idea was true—in short, the height of absurdity.
+
 It must, then, necessarily be admitted that the existence of substance as its essence is an eternal truth.
-We can hence conclude by another process of reasoning—that there is but one such substance.
+
+<!-- We can hence conclude by another process of reasoning—that there is but one such substance.
+
 I think that this may profitably be done at once; and, in order to proceed regularly with the demonstration, we must premise= 
+
 The true definition of a thing neither involves nor expresses anything beyond the nature of the thing defined. From this it follows that
 
 2. No definition implies or expresses a certain number of individuals, inasmuch as it expresses nothing beyond the nature of the thing defined.
@@ -98,81 +140,118 @@ Hence we may lay down the absolute rule, that everything which may consist of se
 It has been shown already that existence appertains to the nature of substance, existence must necessarily be included in its definition.
 and from its definition alone existence must be deducible.
 But from its definition (as we have shown, notes 2, 3), we cannot infer the existence of several substances; therefore it follows that there is only one substance of the same nature. Q.E.D.-->
+{{< /box >}}
 
 
+9. The more reality or being a thing has, the greater the number of its attributes (Def. 4). 
 
-#### 9. The more reality or being a thing has, the greater the number of its attributes (Def. 4). 
+10. Each particular attribute of the one substance must be conceived through itself.
 
-#### 10. Each particular attribute of the one substance must be conceived through itself.
+Proof:  An attribute is that which the intellect perceives of substance, as constituting its essence (Def. 4), and, therefore, must be conceived through itself (Def. 3). Q.E.D. 
 
-<!--     Proof=  An attribute is that which the intellect perceives of substance, as constituting its essence (Def. 4), and, therefore, must be conceived through itself (Def. 3). Q.E.D. 
 
-    Note=  It is obvious that though two attributes are, in fact, conceived as distinct—that is, one without the help of the other—yet we cannot, therefore, conclude that they constitute two entities, or two different substances.
+{{< box >}}
+### Note
 
-    For it is the nature of substance that each of its attributes is conceived through itself, inasmuch as all the attributes it has have always existed simultaneously in it, and none could be produced by any other.
-but each expresses the reality or being of substance.
+Two attributes are conceived as distinct. One is conceived without the help of the other. 
+
+Yet we cannot conclude that they constitute 2 entities, or 2 different substances.
+
+The nature of substance is that each of its attributes is conceived through itself, inasmuch as all the attributes it has have always existed simultaneously in it, and none could be produced by any other.
+
+Each expresses the reality or being of substance.
+
 It is, then, far from an absurdity to ascribe several attributes to one substance= 
 for nothing in nature is more clear than that each and every entity must be conceived under some attribute, and that its reality or being is in proportion to the number of its attributes expressing necessity or eternity and infinity.
 Consequently it is abundantly clear, that an absolutely infinite being must necessarily be defined as consisting in infinite attributes, each of which expresses a certain eternal and infinite essence.
+
 If anyone now ask, by what sign shall he be able to distinguish different substances, let him read the following propositions, which show that there is but one substance in the universe, and that it is absolutely infinite, wherefore such a sign would be sought in vain. -->
+{{< /box >}}
+
 
 11. God, or substance, consisting of infinite attributes, of which each expresses eternal and infinite essentiality, necessarily exists. 
     
-<!-- Proof=  If this be denied, conceive, if possible, that God does not exist=  then his essence does not involve existence. But this (Prop. 7) is absurd.
+Proof 1: If this is denied, think that God does not exist and therefore his essence does not involve existence. But Prop. 7 says this is absurd.
 Therefore, God necessarily exists.
 
-Another proof=  Of everything whatsoever a cause or reason must be assigned, either for its existence, or for its non-existence. e.g. if a triangle exist, a reason or cause must be granted for its existence.
-If, on the contrary, it does not exist, a cause must also be granted, which prevents it from existing, or annuls its existence.
-This reason or cause must either be contained in the nature of the thing in question, or be external to it.
+Proof 2: Everything that exists has a cause or reason.
+ <!-- must be assigned, either for its existence, or for its non-existence. e.g. if a triangle exist, a reason or cause must be granted for its existence. -->
+
+If that cause does not exist, a cause must also be granted to explain why that other cause did not exist. 
+- This cause must either be contained in the nature of the thing in question, or be external to it.
 
 For instance, the reason for the non-existence of a square circle is indicated in its nature, namely, because it would involve a contradiction.
 On the other hand, the existence of substance follows also solely from its nature, inasmuch as its nature involves existence. (See Prop. 7)
+
 But the reason for the existence of a triangle or a circle does not follow from the nature of those figures, but from the order of universal nature in extension.
+
 From the latter it must follow, either that a triangle necessarily exists, or that it is impossible that it should exist.
 So much is self-evident.
+
 It follows therefrom that a thing necessarily exists, if no cause or reason be granted which prevents its existence.
 If, then, no cause or reason can be given, which prevents the existence of God, or which destroys his existence, we must certainly conclude that he necessarily does exist.
 If such a reason or cause should be given, it must either be drawn from the very nature of God, or be external to him.
 That is, drawn from another substance of another nature.
 For if it were of the same nature, God, by that very fact, would be admitted to exist.
 But substance of another nature could have nothing in common with God (by Prop. 2), and therefore would be unable either to cause or to destroy his existence.
+
 As, then, a reason or cause which would annul the divine existence cannot be drawn from anything external to the divine nature, such cause must perforce, if God does not exist, be drawn from God's own nature, which would involve a contradiction.
 To make such an affirmation about a being absolutely infinite and supremely perfect is absurd.
 Therefore, neither in the nature of God, nor externally to his nature, can a cause or reason be assigned which would annul his existence.
 Therefore, God necessarily exists. Q.E.D.
-Another proof=  The potentiality of non-existence is a negation of power, and contrariwise the potentiality of existence is a power, as is obvious.
+
+Proof 3: The potentiality of non-existence is a negation of power, and contrariwise the potentiality of existence is a power, as is obvious.
+
 If, then, that which necessarily exists is nothing but finite beings, such finite beings are more powerful than a being absolutely infinite, which is obviously absurd;
+
 Therefore, either nothing exists, or else a being absolutely infinite necessarily exists also.
 Now we exist either in ourselves, or in something else which necessarily exists (see Axiom. 1 and Prop. 7).
+
 Therefore a being absolutely infinite.
+
 In other words, God (Def. 6)—necessarily exists. Q.E.D.
-Note=  In this last proof, I have purposely shown God's existence à posteriori, so that the proof might be more easily followed, not because, from the same premises, God's existence does not follow à priori.
+
+
+{{< /box >}}
+Note: In this last proof, I have purposely shown God's existence à posteriori, so that the proof might be more easily followed, not because, from the same premises, God's existence does not follow à priori.
+
 For, as the potentiality of existence is a power, it follows that, in proportion as reality increases in the nature of a thing, so also will it increase its strength for existence.
 Therefore a being absolutely infinite, such as God, has from himself an absolutely infinite power of existence, and hence he does absolutely exist.
 Perhaps there will be many who will be unable to see the force of this proof, inasmuch as they are accustomed only to consider those things which flow from external causes.
+
 Of such things, they see that those which quickly come to pass.
-That is, quickly come into existence—quickly also disappear;
-whereas they regard as more difficult of accomplishment
+
+That is, quickly come into existence—quickly also disappear; Whereas they regard as more difficult of accomplishment
 that is, not so easily brought into existence—those things which they conceive as more complicated.
-However, to do away with this misconception, I need not here show the measure of truth in the proverb, "What comes quickly, goes quickly," nor discuss whether, from the point of view of universal nature, all things are equally easy, or otherwise= 
+
+However, to do away with this misconception, I need not here show the measure of truth in the proverb, "What comes quickly, goes quickly," nor discuss whether, from the point of view of universal nature, all things are equally easy, or otherwise: 
+
 I need only remark that I am not here speaking of things, which come to pass through causes external to themselves, but only of substances which (by Prop. vi.) cannot be produced by any external cause.
 Things which are produced by external causes, whether they consist of many parts or few, owe whatsoever perfection or reality they possess solely to the efficacy of their external cause; and
+
 therefore their existence arises solely from the perfection of their external cause, not from their own.
+
 On the contrary, whatsoever perfection is possessed by substance is due to no external cause; wherefore the existence of substance must arise solely from its own nature, which is nothing else but its essence.
+
 Thus, the perfection of a thing does not annul its existence, but, on the contrary, asserts it. Imperfection, on the other hand, does annul it; therefore we cannot be more certain of the existence of anything, than of the existence of a being absolutely infinite or perfect—that is, of God.
+
 For inasmuch as his essence excludes all imperfection, and involves absolute perfection, all cause for doubt concerning his existence is done away, and the utmost certainty on the question is given.
-This, I think, will be evident to every moderately attentive reader. -->
+
+This, I think, will be evident to every moderately attentive reader.
 
 
-#### 12. No attribute of substance can be conceived from which it would follow that substance can be divided. 
+12. No attribute of substance can be conceived from which it would follow that substance can be divided. 
 
-<!--   Proof=  The parts into which substance as thus conceived would be divided either will retain the nature of substance, or they will not.
+Proof:  The parts into which substance as thus conceived would be divided either will retain the nature of substance, or they will not.
+
 If the former, then (by Prop. 8) each part will necessarily be infinite, and (by Prop. 6) self—caused, and (by Prop. 5) will perforce consist of a different attribute, so that, in that case, several substances could be formed out of one substance, which (by Prop. 6) is absurd.
+
 Moreover, the parts (by Prop. 2) would have nothing in common with their whole, and the whole (by Def. iv. and Prop. 10) could both exist and be conceived without its parts, which everyone will admit to be absurd.
+
 If we adopt the second alternative—namely, that the parts will not retain the nature of substance—then, if the whole substance were divided into equal parts, it would lose the nature of substance, and would cease to exist, which (by Prop. 7) is absurd. -->
 
 
-#### 13. Substance absolutely infinite is indivisible.
+13. Substance absolutely infinite is indivisible.
 
 <!-- Proof=  If it could be divided, the parts into which it was divided would either retain the nature of absolutely infinite substance, or they would not.
   If the former, we should have several substances of the same nature, which (by Prop. 5) is absurd.
@@ -181,7 +260,7 @@ If we adopt the second alternative—namely, that the parts will not retain the 
   The nature of substance can only be conceived as infinite, and by a part of substance, nothing else can be understood than finite substance, which (by Prop. 8) involves a manifest contradiction. -->
 
 
-#### 14. Besides God, no substance can be granted or conceived. 
+14. Besides God, no substance can be granted or conceived. 
 
 <!-- Proof=  God is a being absolutely infinite. of whom no attribute that expresses the essence of substance can be denied (by Def. 6), and he necessarily exists (by Prop. 11);
 If any substance besides God were granted, it would have to be explained by some attribute of God, and thus two substances with the same attribute would exist, which (by Prop. 5) is absurd; therefore, besides God no substance can be granted, or, consequently, be conceived.
@@ -191,7 +270,7 @@ Therefore, besides God no substance can be granted or conceived. Q.E.D.
 Corollary 1=  Clearly, therefore=  1. God is one, that is (by Def. 6) only one substance can be granted in the universe, and that substance is absolutely infinite, as we have already indicated (in the note to Prop. 10). Corollary 2=  It follows=  2. That extension and thought are either attributes of God or (by Axiom 1) accidents (affectiones) of the attributes of God. -->
 
 
-#### 15. Whatsoever is, is in God, and without God nothing can be, or be conceived.
+15. Whatsoever is, is in God, and without God nothing can be, or be conceived.
 
 <!--   Proof=  Besides God, no substance is granted or can be conceived (by Prop. 14), that is (by Def. 3) nothing which is in itself and is conceived through itself.
 But modes (by Def. 5) can neither be, nor be conceived without substance; wherefore they can only be in the divine nature, and can only through it be conceived.
@@ -265,14 +344,14 @@ But enough of this for the present.
  -->
 
 
-#### 16. From the necessity of the divine nature must follow an infinite number of things in infinite ways. That is, all things which can fall within the sphere of infinite intellect.
+16. From the necessity of the divine nature must follow an infinite number of things in infinite ways. That is, all things which can fall within the sphere of infinite intellect.
 
 <!--   Proof=  This proposition will be clear to everyone, who remembers that from the given definition of any thing the intellect infers several properties, which really necessarily follow therefrom (that is, from the actual essence of the thing defined); and it infers more properties in proportion as the definition of the thing expresses more reality, that is, in proportion as the essence of the thing defined involves more reality.
   As the divine nature has absolutely infinite attributes (by Def. 6), of which each expresses infinite essence after its kind, it follows that from the necessity of its nature an infinite number of things (that is, everything which can fall within the sphere of an infinite intellect) must necessarily follow. Q.E.D.
   Corollary 1=  Hence it follows, that God is the efficient cause of all that can fall within the sphere of an infinite intellect. Corollary 2=  It also follows that God is a cause in himself, and not through an accident of his nature. Corollary 3=  It follows, thirdly, that God is the absolutely first cause. -->
 
 
-#### 17. God acts solely by the laws of his own nature, and is not constrained by anyone. 
+17. God acts solely by the laws of his own nature, and is not constrained by anyone. 
 
 <!-- Proof=  We have just shown (in Prop. 16), that solely from the necessity of the divine nature or the laws of his nature, an infinite number of things absolutely follow in an infinite number of ways.
   We proved (in Prop. 15), that without God nothing can be nor be conceived but that all things are in God.
@@ -327,7 +406,8 @@ But enough of this for the present.
   This reasoning is identical in the case of the will, as anyone can easily see. -->
 
 
-#### 18. God is the indwelling and not the transient cause of all things. 
+
+18. God is the indwelling and not the transient cause of all things. 
 
 <!-- Proof=  All things which are, are in God, and must be conceived through God (by Prop. 15), therefore (by Prop. 16, Coroll. 1) God is the cause of those things which are in him.
 
@@ -336,7 +416,7 @@ Further, besides God there can be no substance (by Prop. 14), that is nothing in
 This is our second point. God, therefore, is the indwelling and not the transient cause of all things. Q.E.D. -->
 
 
-#### 19. God, and all the attributes of God, are eternal. 
+19. God, and all the attributes of God, are eternal. 
 
 <!-- Proof=  God (by Def. 6) is substance, which (by Prop. 11) necessarily exists, that is (by Prop. 7) existence appertains to its nature, or (what is the same thing) follows from its definition; therefore, God is eternal (by Def. 8).
 Further, by the attributes of God we must understand that which (by Def. 4) expresses the essence of the divine substance.
@@ -347,7 +427,7 @@ From that proof, the existence of God, like his essence, is an eternal truth.
 Further (in Prop. 19 of my "Principles of the Cartesian Philosophy"), I have proved God's eternity in another way which I do not need to repeat here. -->
 
 
-#### 20. God's existence and are one and the same. 
+20. God's existence and are one and the same. 
 
 
 
@@ -362,7 +442,7 @@ That God, and all of God's attributes, are unchangeable.
 For if they could be changed in respect to existence, they must also be able to be changed in respect to essence—that is, obviously, be changed from true to false, which is absurd. -->
 
 
-#### 21. All things which follow from the absolute nature of any attribute of God must always exist and be infinite, or, in other words, are eternal and infinite through the said attribute. 
+21. All things which follow from the absolute nature of any attribute of God must always exist and be infinite, or, in other words, are eternal and infinite through the said attribute. 
 
 <!-- Proof.—Conceive, if it be possible (supposing the proposition to be denied), that something in some of God's attributes can follow from the absolute nature of the said attribute, and that at the same time it is finite, and has a conditioned existence or duration.
 For instance, the idea of God expressed in the attribute thought.
