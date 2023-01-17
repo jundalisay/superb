@@ -209,35 +209,45 @@ Now we exist either in ourselves, or in something else which necessarily exists 
 
 Therefore a being absolutely infinite.
 
-In other words, God (Def. 6)—necessarily exists. Q.E.D.
+In other words, God (Def. 6) necessarily exists. Q.E.D.
 
 
-{{< /box >}}
-Note: In this last proof, I have purposely shown God's existence à posteriori, so that the proof might be more easily followed, not because, from the same premises, God's existence does not follow à priori.
+{{< box >}}
+### Note
 
-For, as the potentiality of existence is a power, it follows that, in proportion as reality increases in the nature of a thing, so also will it increase its strength for existence.
-Therefore a being absolutely infinite, such as God, has from himself an absolutely infinite power of existence, and hence he does absolutely exist.
-Perhaps there will be many who will be unable to see the force of this proof, inasmuch as they are accustomed only to consider those things which flow from external causes.
+In this last proof, I have purposely shown God's existence à posteriori, so that the proof might be more easily followed, not because, from the same premises, God's existence does not follow à priori.
 
-Of such things, they see that those which quickly come to pass.
+**The potentiality of existence is a power. It follows that, in proportion as reality increases in the nature of a thing, so also will it increase its strength for existence.**
 
-That is, quickly come into existence—quickly also disappear; Whereas they regard as more difficult of accomplishment
-that is, not so easily brought into existence—those things which they conceive as more complicated.
+Therefore, a being absolutely infinite, such as God, has from himself an absolutely infinite power of existence. 
+- Hence he absolutely exists.
 
-However, to do away with this misconception, I need not here show the measure of truth in the proverb, "What comes quickly, goes quickly," nor discuss whether, from the point of view of universal nature, all things are equally easy, or otherwise: 
+Many people will be unable to see the force of this proof because they are used only to consider those things which flow from external causes.
+- They only see such things which quickly come into existence and quickly disappears. 
 
-I need only remark that I am not here speaking of things, which come to pass through causes external to themselves, but only of substances which (by Prop. vi.) cannot be produced by any external cause.
+They think that those things that are not so easily brought into existence as more difficult to conceive and therefore more complicated.
+
+This proverb is correct: "What comes quickly, goes quickly."
+
+<!-- However, to do away with this misconception, I need not here show the measure of truth in the proverb,  nor discuss whether, from the point of view of universal nature, all things are equally easy, or otherwise:  -->
+
+I am only referring to substances which (by Prop. vi.) cannot be produced by any external cause.
+- I am not talking about things which come to exist through causes external to themselves.
+
 Things which are produced by external causes, whether they consist of many parts or few, owe whatsoever perfection or reality they possess solely to the efficacy of their external cause; and
 
-therefore their existence arises solely from the perfection of their external cause, not from their own.
+Therefore their existence arises solely from the perfection of their external cause, not from their own.
 
-On the contrary, whatsoever perfection is possessed by substance is due to no external cause; wherefore the existence of substance must arise solely from its own nature, which is nothing else but its essence.
+On the contrary, whatsoever perfection is possessed by substance is due to no external cause. Wherefore the existence of substance must arise solely from its own nature, which is nothing else but its essence.
 
 Thus, the perfection of a thing does not annul its existence, but, on the contrary, asserts it. Imperfection, on the other hand, does annul it; therefore we cannot be more certain of the existence of anything, than of the existence of a being absolutely infinite or perfect—that is, of God.
 
 For inasmuch as his essence excludes all imperfection, and involves absolute perfection, all cause for doubt concerning his existence is done away, and the utmost certainty on the question is given.
 
 This, I think, will be evident to every moderately attentive reader.
+{{< /box >}}
+
+
 
 
 12. No attribute of substance can be conceived from which it would follow that substance can be divided. 
