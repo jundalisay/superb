@@ -1,19 +1,21 @@
 ---
 heading: Chapter 7
 title: A CHAPTER IN THE HISTORY OF SCIENCE-- WIRELESS TELEGRAPHY
-weight: 6
+weight: 40
 description: The First idea of Ether due to Descartes—Ether must be imponderable—Fresnel shows light vibrations to be transverse—Transverse vibrations cannot exist in fluid—Ether must be discontinuous
-image: "/covers/time.jpg"
+image: "/covers/physics.jpg"
 author: "Lucien Poincare"
 ---
 
 
 
-I have endeavoured in this book to set forth impartially the ideas dominant at this moment in the domain of physics, and to make known the facts essential to them. 
+<!-- I have endeavoured in this book to set forth impartially the ideas dominant at this moment in the domain of physics, and to make known the facts essential to them. 
 
-I have had to quote the authors of the principal discoveries in order to be able to class and, in some sort, to name these discoveries; but I in no way claim to write even a summary history of the physics of the day.
+I have had to quote the authors of the principal discoveries in order to be able to class and, in some sort, to name these discoveries; but I in no way claim to write even a summary history of the physics of the day. -->
 
-I am not unaware that, as has often been said, contemporary history is the most difficult of all histories to write. A certain step backwards seems necessary in order to enable us to appreciate correctly the relative importance of events, and details conceal the full view from eyes which are too close to them, as the trees prevent us from seeing the forest. The event which produces a great sensation has often only insignificant consequences; while another, which seemed at the outset of the least importance and little worthy of note, has in the long run a widespread and deep influence.
+Contemporary history is the most difficult of all histories to write. 
+
+A certain step backwards seems necessary in order to enable us to appreciate correctly the relative importance of events, and details conceal the full view from eyes which are too close to them, as the trees prevent us from seeing the forest. The event which produces a great sensation has often only insignificant consequences; while another, which seemed at the outset of the least importance and little worthy of note, has in the long run a widespread and deep influence.
 
 If, however, we deal with the history of a positive discovery, contemporaries who possess immediate information, and are in a position to collect authentic evidence at first hand, will make, by bringing to it their sincere testimony, a work of erudition which may be very useful, but which we may be tempted to look upon as very easy of execution. Yet such a labour, even when limited to the study of a very minute question or of a recent invention, is far from being accomplished without the historian stumbling over serious obstacles.
 

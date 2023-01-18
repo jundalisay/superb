@@ -56,7 +56,6 @@ The dung of hybrid animals is not as good as that of pure or natural breeds beca
 
 In the case of gourd, oil cakes and mustard cakes mixed equally with soil will increase production.
 
-<!-- Farmers need fertilizers for the .  -->
 
 Animal fertilizers are insufficient for the maximum utilization of agricultural land. 
 
@@ -67,7 +66,7 @@ Farmers need chemical fertilizers.
 
 Intensive research should be conducted on how to use chemical fertilizers without producing any ill effects on the land. **In the system of individual farming it is not possible to escape the ill effects of chemical fertilizers.**
 
-The solution is in the cooperative system where there is great scope for research and development to discover new ways to better utilize and prolong the land's vitality. 
+The solution is in the cooperative system where there is great scope for research and development to discover new ways to better utilize and prolong the land's vitality.
 
 Cooperatives combine the wealth and resources of many individuals and harness them in a united way.
 

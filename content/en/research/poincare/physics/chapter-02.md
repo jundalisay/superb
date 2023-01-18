@@ -1,10 +1,10 @@
 ---
 heading: Chapter 2
 title: Measurements and Metrology
-weight: 6
+weight: 10
 description: Lord Kelvin's view of its necessity— Its definition § 2. The Measure of Length Necessity for unit— Absolute length—History of Standard
-image: "/covers/time.jpg"
-author: "Lucien Poincare"
+image: "/covers/physics.jpg"
+author: Lucien Poincaré
 ---
 
 

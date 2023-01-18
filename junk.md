@@ -10,6 +10,22 @@ restrict meat farming, land is for grains
 
 Legumes (creates nitrogen) + Corn (uses nitrogen)
 
+2,500 seedlings 
+
+3 sacks ferts
+
+chemicals 4k
+
+weeding ploughing 4k
+
+potash 
+urea 
+fertilizer weekly 
+
+prevathon for worms 
+repsol 
+funguran 1 month after transplanting 
+
 
 Vegetables which require direct sunlight should not be planted with creeping tubers because the creepers will cover the other plants. 
 

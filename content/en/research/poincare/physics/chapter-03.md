@@ -1,11 +1,17 @@
-## CHAPTER 3: PRINCIPLES
+---
+heading: Chapter 3
+title: The Principles of Physics
+weight: 15
+description: Lord Kelvin's view of its necessity— Its definition § 2. The Measure of Length Necessity for unit— Absolute length—History of Standard
+image: "/covers/physics.jpg"
+author: Lucien Poincaré
+---
+
 
 § 1. The Principles of Physics: The Principles of Mechanics affected by recent discoveries—Is mass indestructible?—Landolt and Heydweiller's experiments —Lavoisier's law only approximately true—Curie's principle of symmetry. § 2. The Principle of the Conservation of Energy: Its evolution: Bernoulli, Lavoisier and Laplace, Young, Rumford, Davy, Sadi Carnot, and Robert Mayer—Mayer's drawbacks—Error of those who would make mechanics part of energetics—Verdet's predictions—Rankine inventor of energetics—Usefulness of Work as standard form of energy—Physicists who think matter form of energy— Objections to this—Philosophical value of conservation doctrine. § 3. The Principle of Carnot and Clausius: Originality of Carnot's principle that fall of temperature necessary for production of work by heat— Clausius' postulate that heat cannot pass from cold to hot body without accessory phenomena—Entropy result of this—Definition of entropy—Entropy tends to increase incessantly—A magnitude which measures evolution of system—Clausius' and Kelvin's deduction that heat end of all energy in Universe—Objection to this— Carnot's principle not necessarily referable to mechanics —Brownian movements—Lippmann's objection to kinetic hypothesis. § 4. Thermodynamics: Historical work of Massieu, Willard Gibbs, Helmholtz, and Duhem—Willard Gibbs founder of thermodynamic statics, Van t'Hoff its reviver—The Phase Law—Raveau explains it without thermodynamics. § 5. Atomism: Connection of subject with preceding Hannequin's essay on the atomic hypothesis—Molecular physics in disfavour—Surface-tension, etc., vanishes when molecule reached—Size of molecule—Kinetic theory of gases—Willard Gibbs and Boltzmann introduce into it law of probabilities—Mean free path of gaseous molecules—Application to optics—Final division of matter.
 
 
-CHAPTER III
-PRINCIPLES
-§ 1. THE PRINCIPLES OF PHYSICS
+
 
 Facts conscientiously observed lead by induction to the enunciation of a certain number of laws or general hypotheses which are the principles already referred to. These principal hypotheses are, in the eyes of a physicist, legitimate generalizations, the consequences of which we shall be able at once to check by the experiments from which they issue.
 

@@ -1,6 +1,14 @@
-CHAPTER 9: CATHODE RAYS AND RADIOACTIVE BODIES
+---
+heading: Chapter 9
+title: Cathode Rays And Radioactive Bodies
+weight: 50
+description: A wire traversed by an electric current is, as has just been explained, the seat of a movement of electrons
+image: "/covers/physics.jpg"
+author: "Lucien Poincare"
+---
 
-§ 1. THE CATHODE RAYS
+
+## THE CATHODE RAYS
 
 A wire traversed by an electric current is, as has just been explained, the seat of a movement of electrons. If we cut this wire, a flood of electrons, like a current of water which, at the point where a pipe bursts, flows out in abundance, will appear to spring out between the two ends of the break.
 

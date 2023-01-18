@@ -1,15 +1,19 @@
 ---
 heading: Chapter 1
-title: THE EVOLUTION OF PHYSICS
+title: The Evolution Of Physics
 weight: 6
 description: The revolutionary change in modern Physics only apparent. Evolution is not revolution the rule in Physical Theory. The revival of metaphysical speculation and influence of Descartes
-image: "/covers/time.jpg"
-author: "Lucien Poincare"
+image: "/covers/physics.jpg"
+author: Lucien Poincaré
 ---
 
 
 
-The now numerous public which tries with some success to keep abreast of the movement in science, from seeing its mental habits every day upset, and from occasionally witnessing unexpected discoveries that produce a more lively sensation from their reaction on social life, is led to suppose that we live in a really exceptional epoch, scored by profound crises and illustrated by extraordinary discoveries, whose singularity surpasses everything known in the past. Thus we often hear it said that physics, in particular, has of late years undergone a veritable revolution; that all its principles have been made new, that all the edifices constructed by our fathers have been overthrown, and that on the field thus cleared has sprung up the most abundant harvest that has ever enriched the domain of science.
+Many people think that we 
+
+umerous public which tries with some success to keep abreast of the movement in science, from seeing its mental habits every day upset, and from occasionally witnessing unexpected discoveries that produce a more lively sensation from their reaction on social life, is led to suppose that we live in a really exceptional epoch, scored by profound crises and illustrated by extraordinary discoveries, whose singularity surpasses everything known in the past. 
+
+Thus we often hear it said that physics, in particular, has of late years undergone a veritable revolution; that all its principles have been made new, that all the edifices constructed by our fathers have been overthrown, and that on the field thus cleared has sprung up the most abundant harvest that has ever enriched the domain of science.
 
 It is in fact true that the crop becomes richer and more fruitful, thanks to the development of our laboratories, and that the quantity of seekers has considerably increased in all countries, while their quality has not diminished. We should be sustaining an absolute paradox, and at the same time committing a crying injustice, were we to contest the high importance of recent progress, and to seek to diminish the glory of contemporary physicists. Yet it may be as well not to give way to exaggerations, however pardonable, and to guard against facile illusions. On closer examination it will be seen that our predecessors might at several periods in history have conceived, as legitimately as ourselves, similar sentiments of scientific pride, and have felt that the world was about to appear to them transformed and under an aspect until then absolutely unknown.
 

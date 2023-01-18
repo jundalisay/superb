@@ -1,9 +1,21 @@
-CHAPTER 8: THE CONDUCTIVITY OF GASES AND THE IONS
+---
+heading: Chapter 8
+title: The Conductivity Of Gases And The Ions
+weight: 45
+description: Two classes of phenomena are today being interpreted with increasing correctness in spite of the few difficulties which have been pointed out
+image: "/covers/physics.jpg"
+author: "Lucien Poincare"
+---
 
 
-§ 1. THE CONDUCTIVITY OF GASES
 
-If we were confined to the facts I have set forth above, we might conclude that two classes of phenomena are to-day being interpreted with increasing correctness in spite of the few difficulties which have been pointed out. The hypothesis of the molecular constitution of matter enables us to group together one of these classes, and the hypothesis of the ether leads us to co-ordinate the other.
+## THE CONDUCTIVITY OF GASES
+
+<!-- If we were confined to the facts I have set forth above, we might conclude that  -->
+
+Two classes of phenomena are today being interpreted with increasing correctness in spite of the few difficulties which have been pointed out. 
+
+The hypothesis of the molecular constitution of matter enables us to group together one of these classes, and the hypothesis of the ether leads us to co-ordinate the other.
 
 But these two classes of phenomena cannot be considered independent of each other. Relations evidently exist between matter and the ether, which manifest themselves in many cases accessible to experiment, and the search for these relations appears to be the paramount problem the physicist should set himself. The question has, for a long time, been attacked on various sides, but the recent discoveries in the conductivity of gases, of the radioactive substances, and of the cathode and similar rays, have allowed us of late years to regard it in a new light. Without wishing to set out here in detail facts which for the most part are well known, we will endeavour to group the chief of them round a few essential ideas, and will seek to state precisely the data they afford us for the solution of this grave problem.
 

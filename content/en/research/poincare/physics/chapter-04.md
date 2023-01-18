@@ -1,5 +1,14 @@
-CHAPTER 4: THE VARIOUS STATES OF MATTER
-§ 1. THE STATICS OF FLUIDS
+---
+heading: Chapter 4
+title: The Various States of Matter
+weight: 20
+description: The division of bodies into gaseous, liquid, and solid, and the distinction established for the same substance between the three states, retain a great importance for the applications and usages of daily life
+image: "/covers/physics.jpg"
+author: Lucien Poincaré
+---
+
+
+## THE STATICS OF FLUIDS
 
 The division of bodies into gaseous, liquid, and solid, and the distinction established for the same substance between the three states, retain a great importance for the applications and usages of daily life, but have long since lost their absolute value from the scientific point of view.
 

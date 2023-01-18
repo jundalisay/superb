@@ -1,8 +1,19 @@
-CHAPTER 10: THE ETHER AND MATTER
+---
+heading: Chapter 10
+title: The Ether And Matter
+weight: 55
+description: For some time past, it has been the more or less avowed ambition of physicists to construct with the particles of ether all possible forms of corporeal existence
+image: "/covers/physics.jpg"
+author: "Lucien Poincare"
+---
 
-§ 1. THE RELATIONS BETWEEN THE ETHER AND MATTER
 
-For some time past it has been the more or less avowed ambition of physicists to construct with the particles of ether all possible forms of corporeal existence; but our knowledge of the inmost nature of things has hitherto seemed too limited for us to attempt such an enterprise with any chance of success. The electronic hypothesis, however, which has furnished a satisfactory image of the most curious phenomena produced in the bosom of matter, has also led to a more complete electromagnetic theory of the ether than that of Maxwell, and this twofold result has given birth to the hope of arriving by means of this hypothesis at a complete co-ordination of the physical world.
+
+## THE RELATIONS BETWEEN THE ETHER AND MATTER
+
+For some time past, it has been the more or less avowed ambition of physicists to construct with the particles of ether all possible forms of corporeal existence. 
+
+But our knowledge of the inmost nature of things has hitherto seemed too limited for us to attempt such an enterprise with any chance of success. The electronic hypothesis, however, which has furnished a satisfactory image of the most curious phenomena produced in the bosom of matter, has also led to a more complete electromagnetic theory of the ether than that of Maxwell, and this twofold result has given birth to the hope of arriving by means of this hypothesis at a complete co-ordination of the physical world.
 
 The phenomena whose study may bring us to the very threshold of the problem, are those in which the connections between matter and the ether appear clearly and in a relatively simple manner. Thus in the phenomena of emission, ponderable matter is seen to give birth to waves which are transmitted by the ether, and by the phenomena of absorption it is proved that these waves disappear and excite modifications in the interior of the material bodies which receive them. We here catch in operation actual reciprocal actions and reactions between the ether and matter. If we could thoroughly comprehend these actions, we should no doubt be in a position to fill up the gap which separates the two regions separately conquered by physical science.
 

@@ -1,6 +1,17 @@
-CHAPTER 11: THE FUTURE OF PHYSICS
+---
+heading: Chapter 11
+title: The Future Of Physics
+weight: 60
+description: It would be exceedingly rash and presumptuous to predict the future of physics
+image: "/covers/physics.jpg"
+author: "Lucien Poincare"
+---
 
-It would doubtless be exceedingly rash, and certainly very presumptuous, to seek to predict the future which may be reserved for physics. The rôle of prophet is not a scientific one, and the most firmly established previsions of to-day may be overthrown by the reality of to-morrow.
+
+
+It would be exceedingly rash and presumptuous to predict the future of physics. 
+
+The rôle of prophet is not a scientific one, and the most firmly established previsions of to-day may be overthrown by the reality of to-morrow.
 
 Nevertheless, the physicist does not shun an extrapolation of some little scope when it is not too far from the realms of experiment; the knowledge of the evolution accomplished of late years authorises a few suppositions as to the direction in which progress may continue.
 
@@ -22,7 +33,9 @@ To-day things have greatly changed, and those even who ignored it have been sedu
 
 The electron has conquered physics, and many adore the new idol rather blindly. Certainly we can only bow before an hypothesis which enables us to group in the same synthesis all the discoveries on electric discharges and on radioactive substances, and which leads to a satisfactory theory of optics and of electricity; while by the intermediary of radiating heat it seems likely to embrace shortly the principles of thermodynamics also. Certainly one must admire the power of a creed which penetrates also into the domain of mechanics and furnishes a simple representation of the essential properties of matter; but it is right not to lose sight of the fact that an image may be a well-founded appearance, but may not be capable of being exactly superposed on the objective reality.
 
-The conception of the atom of electricity, the foundation of the material atoms, evidently enables us to penetrate further into Nature's secrets than our predecessors; but we must not be satisfied with words, and the mystery is not solved when, by a legitimate artifice, the difficulty has simply been thrust further back. We have transferred to an element ever smaller and smaller those physical qualities which in antiquity were attributed to the whole of a substance; and then we shifted them later to those chemical atoms which, united together, constitute this whole. To-day we pass them on to the electrons which compose these atoms. The indivisible is thus rendered, in a way, smaller and smaller, but we are still unacquainted with what its substance may be. The notion of an electric charge which we substitute for that of a material mass will permit phenomena to be united which we thought separate, but it cannot be considered a definite explanation, or as the term at which science must stop. It is probable, however, that for a few years still physics will not travel beyond it. The present hypothesis suffices for grouping known facts, and it will doubtless enable many more to be foreseen, while new successes will further increase its possessions.
+The conception of the atom of electricity, the foundation of the material atoms, evidently enables us to penetrate further into Nature's secrets than our predecessors; but we must not be satisfied with words, and the mystery is not solved when, by a legitimate artifice, the difficulty has simply been thrust further back.
+
+We have transferred to an element ever smaller and smaller those physical qualities which in antiquity were attributed to the whole of a substance; and then we shifted them later to those chemical atoms which, united together, constitute this whole. To-day we pass them on to the electrons which compose these atoms. The indivisible is thus rendered, in a way, smaller and smaller, but we are still unacquainted with what its substance may be. The notion of an electric charge which we substitute for that of a material mass will permit phenomena to be united which we thought separate, but it cannot be considered a definite explanation, or as the term at which science must stop. It is probable, however, that for a few years still physics will not travel beyond it. The present hypothesis suffices for grouping known facts, and it will doubtless enable many more to be foreseen, while new successes will further increase its possessions.
 
 Then the day will arrive when, like all those which have shone before it, this seductive hypothesis will lead to more errors than discoveries. It will, however, have been improved, and it will have become a very vast and very complete edifice which some will not willingly abandon; for those who have made to themselves a comfortable dwelling-place on the ruins of ancient monuments are often too loth to leave it.
 
@@ -34,5 +47,7 @@ It is probable that in the future, as in the past, the greatest discoveries, tho
 
 If, as has already happened, unfortunately, in the history of science, these conditions are not complied with; if the freedoms of the workers are trammelled, their unity disturbed, and if material facilities are too parsimoniously afforded them,—evolution, at present so rapid, may be retarded, and those retrogressions which, by-the-by, have been known in all evolutions, may occur, although even then hope in the future would not be abolished for ever.
 
-There are no limits to progress, and the field of our investigations has no boundaries. Evolution will continue with invincible force. What we to-day call the unknowable, will retreat further and further before science, which will never stay her onward march. Thus physics will give greater and increasing satisfaction to the mind by furnishing new interpretations of phenomena; but it will accomplish, for the whole of society, more valuable work still, by rendering, by the improvements it suggests, life every day more easy and more agreeable, and by providing mankind with weapons against the hostile forces of Nature.
+There are no limits to progress, and the field of our investigations has no boundaries. Evolution will continue with invincible force. What we to-day call the unknowable, will retreat further and further before science, which will never stay her onward march. 
+
+Thus physics will give greater and increasing satisfaction to the mind by furnishing new interpretations of phenomena; but it will accomplish, for the whole of society, more valuable work still, by rendering, by the improvements it suggests, life every day more easy and more agreeable, and by providing mankind with weapons against the hostile forces of Nature.
 

@@ -1,3 +1,13 @@
+---
+heading: Chapter 6e
+title: X-rays
+weight: 35
+description: Vaporization and fusion are not the only means by which the physical state of a body may be changed without modifying its chemical constitution
+image: "/covers/physics.jpg"
+author: Lucien Poincaré
+---
+
+
 § 5. THE X RAYS
 
 It appears to-day quite probable that the X rays should be classed among the phenomena which have their seat in the luminous ether. Doubtless it is not necessary to recall here how, in December 1895, Röntgen, having wrapped in black paper a Crookes tube in action, observed that a fluorescent platinocyanide of barium screen placed in the neighbourhood, had become visible in the dark, and that a photographic plate had received an impress. The rays which come from the tube, in conditions now well known, are not deviated by a magnet, and, as M. Curie and M. Sagnac have conclusively shown, they carry no electric charge. They are subject to neither reflection nor refraction, and very precise and very ingenious measurements by M. Gouy have shown that, in their case, the refraction index of the various bodies cannot be more than a millionth removed from unity.

@@ -82,10 +82,17 @@ Thus a first reason for the validity of the law of downward-sloping demand comes
 
 Smith points to Thomas Mun's [England’s Treasure on Foreign Trade](/research/mun/englands-treasure)  as the origin of equilibrium, so we look for Mun's version of the demand curve.
 
-{{< quote >}}
-By lowering the price of our cloth in Turkey, we have sold more. The Venetians have lost because theirs is dearer. When our cloth was expensive, we lost at the least half our clothing to foreigners. 25% lower prices raises sales by over 50%, to the public benefit. When our cloth is expensive, other nations sell more cloths. When our cloth is cheap, they lose business. We therefore should increase the sale of our cloth.
+{{< q >}}
+By lowering the price of our cloth in Turkey, we have sold more. The Venetians have lost because theirs is dearer. When our cloth was expensive, we lost at the least half our clothing to foreigners. 25% lower prices raises sales by over 50%, to the public benefit. 
+
 <cite>Thomas Mun, Simple England's Treasure, Chapter 3</cite>
-{{< /quote >}}
+{{< /q >}}
+
+{{< q >}}
+When our cloth is expensive, other nations sell more cloths. When our cloth is cheap, they lose business. We therefore should increase the sale of our cloth.
+<cite>Thomas Mun, Simple England's Treasure, Chapter 3</cite>
+{{< /q >}}
+
 
 Plotting this, we get the same downward sloping demand curve. We thus prove that Samuelson, Smith, and Mun agree on a downward sloping demand curve:
 

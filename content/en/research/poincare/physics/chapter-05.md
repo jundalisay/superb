@@ -1,4 +1,13 @@
-CHAPTER 5: SOLUTIONS AND ELECTROLYTIC DISSOCIATION
+---
+heading: Chapter 5
+title: SOLUTIONS AND ELECTROLYTIC DISSOCIATION
+weight: 25
+description: Vaporization and fusion are not the only means by which the physical state of a body may be changed without modifying its chemical constitution
+image: "/covers/physics.jpg"
+author: Lucien Poincaré
+---
+
+
 
 § 1. SOLUTION
 

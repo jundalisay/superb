@@ -161,9 +161,9 @@ The nature of substance is that each of its attributes is conceived through itse
 
 Each expresses the reality or being of substance.
 
-It is, then, far from an absurdity to ascribe several attributes to one substance= 
-for nothing in nature is more clear than that each and every entity must be conceived under some attribute, and that its reality or being is in proportion to the number of its attributes expressing necessity or eternity and infinity.
-Consequently it is abundantly clear, that an absolutely infinite being must necessarily be defined as consisting in infinite attributes, each of which expresses a certain eternal and infinite essence.
+It is then alright to ascribe several attributes to one substance. This is because it is natural that each and every entity must be conceived under some attribute, and that its reality or being is in proportion to the number of its attributes expressing necessity or eternity and infinity.
+
+Consequently, it is abundantly clear, that an absolutely infinite being must necessarily be defined as consisting in infinite attributes, each of which expresses a certain eternal and infinite essence.
 
 If anyone now ask, by what sign shall he be able to distinguish different substances, let him read the following propositions, which show that there is but one substance in the universe, and that it is absolutely infinite, wherefore such a sign would be sought in vain. -->
 {{< /box >}}
@@ -180,25 +180,33 @@ Proof 2: Everything that exists has a cause or reason.
 If that cause does not exist, a cause must also be granted to explain why that other cause did not exist. 
 - This cause must either be contained in the nature of the thing in question, or be external to it.
 
-For instance, the reason for the non-existence of a square circle is indicated in its nature, namely, because it would involve a contradiction.
-On the other hand, the existence of substance follows also solely from its nature, inasmuch as its nature involves existence. (See Prop. 7)
+For instance, the reason for the non-existence of a square circle is indicated in its nature. 
+<!-- , namely, because it would involve a contradiction. -->
+The existence of substance follows also solely from its nature, inasmuch as its nature involves existence. (See Prop. 7)
 
-But the reason for the existence of a triangle or a circle does not follow from the nature of those figures, but from the order of universal nature in extension.
+But the reason for the existence of a triangle or a circle does not follow from the nature of those shapes, but from the order of universal nature in space.
 
-From the latter it must follow, either that a triangle necessarily exists, or that it is impossible that it should exist.
-So much is self-evident.
+From the latter it follows, either that a triangle necessarily exists, or that it is impossible that it should exist.
 
 It follows therefrom that a thing necessarily exists, if no cause or reason be granted which prevents its existence.
+
 If, then, no cause or reason can be given, which prevents the existence of God, or which destroys his existence, we must certainly conclude that he necessarily does exist.
+
 If such a reason or cause should be given, it must either be drawn from the very nature of God, or be external to him.
+
 That is, drawn from another substance of another nature.
+
 For if it were of the same nature, God, by that very fact, would be admitted to exist.
+
 But substance of another nature could have nothing in common with God (by Prop. 2), and therefore would be unable either to cause or to destroy his existence.
 
 As, then, a reason or cause which would annul the divine existence cannot be drawn from anything external to the divine nature, such cause must perforce, if God does not exist, be drawn from God's own nature, which would involve a contradiction.
+
 To make such an affirmation about a being absolutely infinite and supremely perfect is absurd.
+
 Therefore, neither in the nature of God, nor externally to his nature, can a cause or reason be assigned which would annul his existence.
 Therefore, God necessarily exists. Q.E.D.
+
 
 Proof 3: The potentiality of non-existence is a negation of power, and contrariwise the potentiality of existence is a power, as is obvious.
 

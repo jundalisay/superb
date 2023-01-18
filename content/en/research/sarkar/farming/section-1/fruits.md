@@ -168,14 +168,14 @@ The coconut palm is very common in most tropical countries.
 
 Spiritual aspirants should emulate the coconut – they should be hard and resilient on the outside, but soft and sweet on the inside. 
 
-There are numerous products which can be produced from the young or fully ripe coconut. Coconut milk is a standard base for cooked dishes in Southeast Asia and South India. 
+There are numerous products which can be produced from the young or fully ripe coconut.
 
-Shredded coconut, sweetened or plain, is a popular ingredient in biscuits, cakes and all types of baked goods. 
-
-Coconut is good for digestion and helps to alleviate constipation. It has other medicinal uses as well.
-
+- Coconut milk is a standard base for cooked dishes in Southeast Asia and South India. 
+- Shredded coconut, sweetened or plain, is a popular ingredient in biscuits, cakes and all types of baked goods. 
 Green coconut water (d́áb) is rich in potassium, so it has a sweet taste. But it should be taken only from the authentic source. 
 - Vendors sometimes replace the coconut water with ordinary water through a syringe.
+
+Coconut is good for digestion and helps to alleviate constipation. It has other medicinal uses as well.
 
 **A particularly good variety of coconut is the Paraguaya coconut.** 
 
