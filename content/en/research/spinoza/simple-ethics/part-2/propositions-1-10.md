@@ -1,33 +1,36 @@
-+++
-title=  "Propositions 1 to 10"
-description=  "Thought is an attribute of God, or God is a thinking thing"
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-2/definitions"
-linkbtext=  "Definitions"
-linkf=  "/research/spinoza/simple-ethics/part-2/propositions-11-20"
-linkftext=  "Propositions 11-20"
-+++
+---
+title: "Propositions 1 to 10"
+description: Thought is an attribute of God, or God is a thinking thing.
+image: /covers/ethics.jpg
+author: Spinoza
+weight: 4
+---
 
-#### 1. Thought is an attribute of God, or God is a thinking thing. 
 
-<!-- Proof=  Particular thoughts are modes which express God's nature, in a certain conditioned manner (Pt. 1, Prop. 25, Coroll.).
+
+1. Thought is an attribute of God, or God is a thinking thing. 
+
+ Proof: Particular thoughts are modes which express God's nature, in a certain conditioned manner (Pt. 1, Prop. 25, Coroll.).
 - God therefore possesses the attribute (Pt. 1, Def. 5) of which the concept is involved in all particular thoughts, which latter are conceived thereby.
 - Therefore, thought is one of God's infinite attributes, which express God's eternal and infinite essence (Pt. 1, Def. 6).
 - In other words, God is a thinking thing. Q.E.D.
  
-Note=  This proposition is also evident from the fact, that we are able to conceive an infinite thinking being.
+Note: This proposition is also evident from the fact, that we are able to conceive an infinite thinking being.
 For, in proportion as a thinking being is conceived as thinking more thoughts, so is it conceived as containing more reality or perfection.
+
+
 Therefore a being, which can think an infinite number of things in an infinite number of ways, is necessarily infinite, in respect of thinking.
+
 As, therefore, from the consideration of thought alone, we conceive an infinite being, thought is necessarily (Pt. 1, Def. 4 and 6) one of the infinite attributes of God.
--->
 
 
-#### 2. Extension is an attribute of God, or God is an extended thing.
 
-<!--  Proof=  The proof of this proposition is similar to the proof of the last.   Proposition  -->
+2. Extension is an attribute of God, or God is an extended thing.
+
+Proof: The proof of this proposition is similar to the proof of the last.
 
 
-#### 3. In God, there is necessarily the idea of his essence and also of all things which necessarily follow from his essence. 
+3. In God, there is necessarily the idea of his essence and also of all things which necessarily follow from his essence. 
 
 <!-- Proof=  God (by the Prop. 1 of this Part) can think an infinite number of things in infinite ways.
 - He (what is the same thing, by Prop. 16, Part 1) can form the idea of his essence, and of all things which necessarily follow from it.
@@ -48,15 +51,15 @@ I can only beg the reader repeatedly to turn to what I have said in Part 1 from 
 No one will be able to follow my meaning, unless he is careful not to confound God's power with the human power and right of kings. -->
 
 
-#### 4. The idea of God, from which an infinite number of things follow in infinite ways, can only be one. 
+4. The idea of God, from which an infinite number of things follow in infinite ways, can only be one. 
 
-<!-- Proof=  Infinite intellect comprehends nothing except God's attributes and his modifications (Part 1, Prop. 30).
+Proof: Infinite intellect comprehends nothing except God's attributes and his modifications (Part 1, Prop. 30).
 
 Now God is one (Part 1, Prop. 14, Coroll.).
-Therefore the idea of God, wherefrom an infinite number of things follow in infinite ways, can only be one. Q.E.D. -->
+Therefore the idea of God, wherefrom an infinite number of things follow in infinite ways, can only be one. Q.E.D.
 
 
-#### 5. The actual being of ideas owns God as its cause, only as he is considered as a thinking thing, not as he is unfolded in any other attribute.
+5. The actual being of ideas owns God as its cause, only as he is considered as a thinking thing, not as he is unfolded in any other attribute.
 
 That is, the ideas both of the attributes of God and of particular things do not own as their efficient cause their objects (ideata) or the things perceived, but God himself in so far as he is a thinking thing.
 
