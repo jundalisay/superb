@@ -755,11 +755,11 @@ A drug is added to the sugar-cane juice to create liquor superior to coconut liq
 
 Their agricultural products are the same as Java. There is a lot of pepper. 
 
-brewed
+<!-- brewed
 into a
 
 of the soil are, on the whole, not different from those of
-a great abundance of pepper. 
+a great abundance of pepper.  -->
 
 At the right season and in good years, 25 taels of trade money will buy from 10-20 packages of pepper, each package holding 50 pecks (shong). 
 

@@ -7667,19 +7667,15 @@ Publication of tender notices
 www.tenders.gov.au
 Brunei Darussalam:
 Publication of procurement rules and regulations
-• https://www.mofe.gov.bn/divisions/state-tenders-board-general-
-information.aspx
+• https://www.mofe.gov.bn/divisions/state-tenders-board-general-information.aspx
 • https://www.mofe.gov.bn/divisions/financial-regulation-1983.aspx
-• https://www.mofe.gov.bn/divisions/ministry-of-finance-circulars-
-22009.aspx
-• https://www.mofe.gov.bn/divisions/ministry-of-finance-circulars-
-32004.aspx
-• https://www.mofe.gov.bn/divisions/ministry-of-finance-circulars-
-12014.aspx
-• https://www.mofe.gov.bn/divisions/ministry-of-finance-circulars-
-12015.aspx
+• https://www.mofe.gov.bn/divisions/ministry-of-finance-circulars-22009.aspx
+• https://www.mofe.gov.bn/divisions/ministry-of-finance-circulars-32004.aspx
+• https://www.mofe.gov.bn/divisions/ministry-of-finance-circulars-12014.aspx
+• https://www.mofe.gov.bn/divisions/ministry-of-finance-circulars-12015.aspx
 • https://www.mofe.gov.bn/divisions/debarment-policy.aspx
 • https://www.mofe.gov.bn/divisions/Custom-Duty.aspx
+
 Publication of tender advertisement
 •
 http://www.pelitabrunei.gov.bn/lists/iklaniklan/iklan%20tawaran.aspx
@@ -7759,8 +7755,14 @@ Publication of general laws, regulations, procedures, and tender
 notices
 •
 www.muasamcong.mpi.gov.vn
+
+
+
 16A-4CHAPTER 17
+
+
 GENERAL PROVISIONS AND EXCEPTIONS
+
 Article 17.1: Definition
 For the purposes of this Chapter, administrative ruling of general
 application means an administrative ruling or interpretation that applies

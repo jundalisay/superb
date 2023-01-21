@@ -53,9 +53,9 @@ We may be permitted here, in this appeal to universal experience, to anticipate(
 
 Some philosophers insist on the truth and certainty of the reality of objects of sense.
 
-They say that they had better be sent back to the most elementary school of wisdom. 
-
-, the ancient Eleusinian mysteries of Ceres and Bacchus; they have not yet learnt the inner secret of the eating of bread and the drinking of wine. 
+They say that:
+- they had better be sent back to the most elementary school of wisdom -- the ancient Eleusinian mysteries of Ceres and Bacchus
+- they have not yet learnt the inner secret of the eating of bread and the drinking of wine. 
 
 Any person initiated into these mysteries not only comes to doubt the being of things of sense. 
 - He also gets into a state of despair about it altogether.

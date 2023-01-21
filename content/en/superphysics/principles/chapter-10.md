@@ -85,7 +85,7 @@ In other words, Science has only "my ego" and "my limited five senses" as the ju
 In this way, science resembles a religion that treats other beliefs as false religions*. This prevents scientific minds from tapping the infinite solutions lying in wait in the invisible part of the universe. 
 
 
-> *This corruption is a natural effect of the Negative Force (Maya, Yin) against the Positive Force (Shiva, Yang). We expect that the Negative Force will also try to corrupt Superphysics in the distant future. This is why our focus is to build [ISAIAH](/pantrynomics/isaiah) which is the AI to maintain the positivity or 'Truthiness' of Superphysics
+> *This corruption is a natural effect of the Negative Force (Maya, Yin) against the Positive Force (Shiva, Yang). We expect that the Negative Force will also try to corrupt Superphysics in the distant future. This is why our focus is to build [ISAIAH](/superphysics/solutions/isaiah) which is the AI to maintain the positivity or 'Truthiness' of Superphysics
 
 
 In contrast, the Asian sciences, such as Ayurveda and Yoga, are based on all 6-senses and are not as compartmentalized. These accept the non-obvious inferences from the feelings of the soul and apply them onto different domains. 

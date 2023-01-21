@@ -9,20 +9,6 @@ icon: /flags/gb.png
 ---
 
 
-+++
-title= "Articles "
-heading= ""
-description= "Articles 1 to 27"
-image= "/covers/magna.jpg"
-author= "King John"
-# image= "https://sorasystem.sirv.com/photos/planter.jpg"
-linkb= "/research/england/magna-carta"
-linkbtext= "Index"
-linkf= "/research/england/magna-carta"
-linkftext= "Index"
-icons = "/flags/gb.png"
-+++ 
-
 
 **Article 28**
 

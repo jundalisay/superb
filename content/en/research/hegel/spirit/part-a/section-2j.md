@@ -25,13 +25,23 @@ There consciousness is turned back upon itself as the truth; but, being consciou
 
 This inner nature is therefore for it an extreme placed over against it. But it is on that account the truth for it, because therein, as in something essentially real, it possesses at the same time the certainty of its own self, the moment of its own self-existence. But it is not yet conscious of this basis [its self-existence], for the independence, its being on its own account, which should have the inner world within it, would be nothing else than the negative process. This negative process, however, is for consciousness still objective vanishing appearance, and not yet its own proper self-existence (Fürsichseyn). Hence the, inner is no doubt taken to be notion., but consciousness does yet know the nature of the notion.
 
+
 ## The Supersensible World: The Inner ; Appearance ; Understanding
 
-Φ 144. Within this inner truth, this absolute universal which has got rid of the opposition between universal and particular, and become the object of understanding, is a supersensible world which henceforth opens up as the true world, lying beyond the sensuous world which is the world of appearance. Away remote from the changing vanishing present (Diesseits) lies the permanent beyond (Jenseits): an immanent inherent reality (ein Ansich), which is the first and therefore imperfect manifestation of Reason, i.e. it is merely the pure element where the truth finds its abode and its essential being.
+<!-- Φ 144. -->
 
-Φ 145. Our object henceforward has thus the form of a syllogistic inference (Schluss), whose extremes are the inner being of things and understanding, and its middle term the sphere of appearance. The course of this inferential process, however, furnishes the further characterization of what understanding detects in the. inner world by the aid of the middle term; and gives rise to the experience understanding goes through regarding this relation of the terms when joined and united together.
+Within this inner truth, this absolute universal which has got rid of the opposition between universal and particular, and become the object of understanding, is a supersensible world which henceforth opens up as the true world, lying beyond the sensuous world which is the world of appearance. 
 
-Φ 146. The inner world is so far for consciousness a bare and simple beyond, because consciousness does not as yet find itself in it. It is empty, for it is the nothingness of appearance, and positively the naked universal.
+Away remote from the changing vanishing present (Diesseits) lies the permanent beyond (Jenseits): an immanent inherent reality (ein Ansich), which is the first and therefore imperfect manifestation of Reason, i.e. it is merely the pure element where the truth finds its abode and its essential being.
+
+
+<!-- Φ 145.  -->
+
+Our object henceforward has thus the form of a syllogistic inference, whose extremes are the inner being of things and understanding, and its middle term the sphere of appearance. The course of this inferential process, however, furnishes the further characterization of what understanding detects in the. inner world by the aid of the middle term; and gives rise to the experience understanding goes through regarding this relation of the terms when joined and united together.
+
+<!-- Φ 146.  -->
+
+The inner world is so far for consciousness a bare and simple beyond, because consciousness does not as yet find itself in it. It is empty, for it is the nothingness of appearance, and positively the naked universal.
 
 This type of inwardness suits those who say that the inner being of things cannot be known; (2) but the reason for the position would have to be taken in some other sense. Certainly there is no knowledge to be had of this inner world, as we have it here; not, however, owing to reason being too short-sighted, or limited, or whatever you care to call it (on this point there is as yet nothing known at this stage; we have not gone deep enough for that yet), but on account simply of the nature of the case, because in the void there is nothing known, or, putting it from the point of view of the other side, because its very characteristic lies in being beyond consciousness.
 

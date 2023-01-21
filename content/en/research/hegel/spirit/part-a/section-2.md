@@ -55,44 +55,74 @@ The wealth of sense-knowledge belongs to perception, not to immediate certainty,
 
 ## 1. The Notion of a “Thing”
 
-{{< s v='113' >}} The This, then, is actually a determinate nothing that has a content that is This. 
+{{< s v='113' >}} The This is actually a determinate nothing that has a content that is This. 
 
 <!--  established as not This, or as superseded, and yet not nothing (simpliciter). 
 
 It is a determinate nothing, a nothing with a certain content, viz. the This.  -->
 
-In this view, the sense-element is still present. But it is not in the form of some particular that is “meant” – as had to be the case in immediate certainty – but as a universal, as that which will have the character of the property.
+In this view, the sense-element is still present.
+- Our sense-perceptions give us immediate certainty
+  - This certainty leads to "meaning"
 
-Cancelling, superseding, brings out and lays bare its true twofold meaning which we found contained in the negative: to supersede (aufheben) is at once to negate and to preserve. 
+But this "This" is not a type of immediate certainty.
+- Instead, it is a universal.
+  - It has the character of being the property.
+
+<!-- it is not in the form of some particular that is “meant” – as had to be the case in  – but as a universal, as that which will have  -->
+
+Cancelling the This reaveals the twofold meaning which we found contained in the negative.
+- To cancel is both to negate and to preserve at the same time.
+
+<!-- "Superseding"   -->
 
 The nothing is a negation of the This. 
 - It preserves immediacy and is itself sensuous, but a universal immediacy. 
 
 Being, however, is a universal by its having in it mediation or negation. 
+- When it brings this explicitly out as a factor in its immediacy, it is a specifically distinct determinate property. 
+- As a result, there are many such properties set up at once, one the negation of the other. 
 
-When it brings this explicitly out as a factor in its immediacy, it is a specifically distinct determinate property. 
+They are expressed in the simple form of the universal.
+- They only become properties by adding another characteristic -- they are self-related.
+- That is why these determinate characters are indifferent to each other.
+  - Each is by itself, free from the rest
 
-As a result, there are many such properties set up at once, one the negation of the other. 
 
-Since they are expressed in the simple form of the universal, these determinate characters – which, strictly speaking, become properties only by a further additional characteristic – are self-related, are indifferent to each other, each is by itself, free from the rest. 
+The simple self-identical universality, however, is itself distinct and detached from these determinate characteristics that it has. 
+- **It is pure self-relation, the “medium” wherin all these characteristics exist.** 
 
-The simple self-identical universality, however, is itself again distinct and detached from these determinate characteristics it has. 
-
-It is pure self-relation, the “medium” wherin all these characteristics exist: in it, as in a bare, simple unity, they interpenetrate without affecting one another; for just by participating in this universality they are indifferent to each other, each by itself.
+In a bare, simple unity, one thing interpenetrates another, each without affecting the other. 
+- Likewise, the parts of the simple self-identical universality are indifferent to each other
+  - Each is by itself simply by participating in this universality.
 
 This abstract universal medium we can call as “Thinghood”. 
-- It is nothing else than the Here and Now as this on analysis turned out to be.
+- It is merely the Here and Now, as This on analysis turned out to exist.
 - It is a simple togetherness of many Heres and Nows.
 
-But the many (in the present case) are in their determinateness themselves simply universals.
+But the many (in the present case) are themselves simply universals in their determinateness.
 
  <!-- in general or pure essential reality, is  -->
 
-This salt is a simple Here and at the same time manifold: it is white, and also pungent, also cubical in shape, also of a specific weight, and so on. 
+This salt is a simple Here. 
+- At the same time it is manifold. It is
+  - white
+  - pungent
+  - cubical in shape
+  - of a specific weight
+  - and so on. 
 
-All these many properties exist in a simple Here, where they interpenetrate each other. None of these has a different Here from the others; each is everywhere in the same Here where the others are. 
+All these many properties exist in a simple Here, where they interpenetrate each other. 
 
-At the same time, without being divided by different Heres, they do not affect each other in their interpenetration; its being white does not affect or alter the cubical shape it has, and neither affects its tart taste, and so on: on the contrary, since each is simple relation to self, it leaves the others alone and is related to these merely by being also along with them, a relation of mere indifference. This “Also” is thus the pure universal itself, the “medium”, the “Thinghood” keeping them together.
+None of these has a different Here from the others. 
+- Each is everywhere in the same Here where the others are. 
+
+At the same time, without being divided by different Heres, they do not affect each other in their interpenetration.
+- Its being white does not affect or alter the cubical shape it has, and neither affects its tart taste, and so on.
+
+On the contrary, since each is simple relation to self, it leaves the others alone and is related to these merely by being also along with them, a relation of mere indifference. 
+
+This “Also” is thus the pure universal itself, the “medium”, the “Thinghood” keeping them together.
 
 
 
@@ -121,7 +151,9 @@ It is:
 
 Taking the aspect that these differences belong to a “medium” indifferent to what is within it, they are themselves universal, they are related merely to themselves and do not affect each other. 
 
-Taking, however, the other aspect, that they belong to the negative unity, they at the same time mutually exclude one another; but do no necessarily in the shape of properties that have a separate existence apart from the “also” connecting them. The sensuous universality, the immediate unity of positive being and negative exclusion, is only then a property, when oneness and pure universality are evolved from it and distinguished from one another, and when that sensuous universality combines these with one another. Only after this relation of the unity to those pure essential moments is effected, is the “Thing” complete.
+Taking, however, the other aspect, that they belong to the negative unity, they at the same time mutually exclude one another; but do no necessarily in the shape of properties that have a separate existence apart from the “also” connecting them. 
+
+The sensuous universality, the immediate unity of positive being and negative exclusion, is only then a property, when oneness and pure universality are evolved from it and distinguished from one another, and when that sensuous universality combines these with one another. Only after this relation of the unity to those pure essential moments is effected, is the “Thing” complete.
 
 
 {{< s v='116' >}} This, then, is the way the “Thing” in perception is constituted, and consciousness is perceptual in character so far as this “Thing” is its object: it has merely to “take” the object (capio-per-ception) and assume the attitude of pure apprehension, and what comes its way in so doing is truth (das Wahre). 
@@ -147,10 +179,21 @@ The simple and true fact, which I perceive, is, however, in virtue of this resul
 
 But the particular quality is a property only when attached to a “one”, and determinate only in relation to others. By being this bare relation of self to self, it remains merely sensuous existence in general, since it no longer contains the character of negativity; and the mode of consciousness, which is now aware of a being of sense, is merely a way of “meaning” (Meinen) or “intending”, i.e. it has left the attitude of perception entirely and gone back into itself. But sense existence and “meaning” themselves pass over into perception: I am thrown back on the beginning, and once more dragged into the same circuit, that supersedes itself in every moment and as a whole.
 
-{{< s v='118' >}} Consciousness, then, has to go over this cycle again, but not in the same way as on the first occasion. For it has found out, regarding perception, that the truth and outcome of perception is its dissolution, is reflection out of and away from the truth into itself. In this way consciousness becomes definitely aware of how its perceptual process is essentially constituted, viz. that this is not a simple bare apprehension, but in its apprehension is at the same time reflected out of the true content back into itself. This return of consciousness into itself, which is immediately involved and implicated in that pure apprehension – for this return to self has proved to be essential to perception – alters the true content. 
+{{< s v='118' >}} Consciousness, then, has to go over this cycle again, but not in the same way as on the first occasion. For it has found out, regarding perception, that the truth and outcome of perception is its dissolution, is reflection out of and away from the truth into itself. 
 
-Consciousness is aware that this aspect is at the same time its own, and takes it upon itself and by so doing consciousness will thus get the true object bare and naked.
+In this way consciousness becomes definitely aware of how its perceptual process is essentially constituted, viz. that this is not a simple bare apprehension, but in its apprehension is at the same time reflected out of the true content back into itself. 
+
+This return of consciousness into itself, which is immediately involved and implicated in that pure apprehension – for this return to self has proved to be essential to perception – alters the true content. 
+
+Consciousness:
+- is aware that this aspect is at the same time its own. 
+- takes it upon itself 
+
+By so doing, consciousness will thus get the true object bare and naked.
 
 In this way we have, now, in the case of perception, as happened in the case of sensuous certainty, the aspect of consciousness being forced back upon itself; but, in the first instance, not in the sense in which this took place in the former case – i.e. not as if the truth of perception fell within it. 
 
-Rather consciousness is aware that the untruth, that comes out there, falls within it. By knowing this, however, consciousness is able to cancel and supersede this untruth. It distinguishes its apprehension of the truth from the untruth of its perception, corrects this untruth, and, so far as itself takes in hand to make this correction, the truth, qua truth of perception, certainly falls within its own consciousness. The procedure of consciousness, which we have now to consider, is thus so constituted that it no longer merely perceives, but is also conscious of its reflection into self, and keeps this apart from the simple apprehension proper.
+Rather consciousness is aware that the untruth, that comes out there, falls within it. By knowing this, however, consciousness is able to cancel and supersede this untruth. It distinguishes its apprehension of the truth from the untruth of its perception, corrects this untruth, and, so far as itself takes in hand to make this correction, the truth, qua truth of perception, certainly falls within its own consciousness. 
+
+The procedure of consciousness, which we have now to consider, is thus so constituted that it no longer merely perceives, but is also conscious of its reflection into self, and keeps this apart from the simple apprehension proper.
+

@@ -72,6 +72,3 @@ Then they extend their liberty from motives of interest which counterbalance one
 
 [14] There are many kinds and degrees of folly, but every one who is a fool from the effect of a badly-organised brains is hurried away by a physical law which does not permit him to make the best choice, or to conduct himself with wisdom. To be a fool is not to be free. Liberty presupposes examination and reason.
 [15] The natural order the most advantageous to man, is not perhaps most advantageous to other animals. But man has an unlimited right to make his part the best possible. The superiority he has belongs to his intelligence; it is a natural right, since he holds it from the author of nature, who has decreed it so by the laws which he has ordained in the formation of the universe.
-
-
-Political Economy Archive | Quesnay Archive | Classics of Political Economy

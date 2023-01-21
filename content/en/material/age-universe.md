@@ -176,7 +176,7 @@ My work can lay the foundation to discover how this Spirit operates.
 
 Therefore, Netwon ascribes gravity to matter which is then dominated by an aethereal Spirit. In short form, this makes gravity caused by the aether, made perceivable by matter. This is the same as what Descartes was explaining. 
 
-Both Newton and Descartes ascribe the cause of reality to vibrations of the aether. Superphysics interprets such vibrations as waves and is why Superphysics is technically [a wave-based science](social/economics/principles/intro/chapter-01/), notated by [qualimath](/superphysics/principles/chapter-04b) in order to realize shiny new spacetime and aethereal technologies. 
+Both Newton and Descartes ascribe the cause of reality to vibrations of the aether. Superphysics interprets such vibrations as waves and is why Superphysics is technically [a wave-based science](/social/economics/principles/intro/chapter-01/), notated by [qualimath](/superphysics/principles/chapter-04b) in order to realize shiny new spacetime and aethereal technologies. 
 
 Newton explained that the vibrational Spirit operates on both gravity and impulses in the brain. This is why Superphysics has Material Superphysics for gravitational vibrations, and Medical Superphysics for 'brain vibrations' (soul vibrations). We also have Social Superphysics for social vibrations such as the ones that trigger economic, political, and social actions. We even test vibrations on plants, as part of Agricultural Supereconomics, by trying out different sounds to increase crop yield. 
 
