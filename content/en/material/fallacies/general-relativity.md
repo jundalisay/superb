@@ -239,7 +239,7 @@ Physicists believe that reality is dictated by matter. Metaphysicians believe th
 {{< /cap >}}
 
 
-The next post will explain the solution to Relativity which is gravitational signatures.
+The [next post](/material/principles/intro/chapter-02/) will explain the solution to Relativity which is gravitational signatures.
 
 <!-- merely the necessary consequence of artificially turning spacetime into a fabric which was caused by Einstein setting light as a constant -- all because he couldn't define time!  This is why Relativity "kind of" works for classical mechanics (which is of lower rank), just as a CEO can "kind of" do the work of his company's janitor, but the janitor can never do the work of the CEO. -->
 
