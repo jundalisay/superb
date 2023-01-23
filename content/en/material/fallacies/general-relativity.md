@@ -116,6 +116,11 @@ We say: "Sure, but what mechanism causes the flares to happen in the first place
 
 {{< img src="/photos/physics/messier87.jpg" alt="Black Hole" cap="A quasar-black hole behaves differently from what General Relativity predicts. " >}}
 
+Our disdain for Einstein is supported by Nikola Tesla who fully supported the aether.
+
+
+![Tesla](/graphics/tesla.jpg)
+
 
 
 ### Shallow Humans Fall Into the Trap
