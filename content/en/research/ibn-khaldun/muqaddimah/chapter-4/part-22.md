@@ -1,6 +1,6 @@
 ---
-title: "The dialects of the urban population"
-description: "This is because the activities of the citizens necessitate each other, since mutual co-operation is innate in civilization. The necessary activities are restricted to certain inhabitants of the city"
+title: "The Dialects of the Urban Population"
+description: "This is because the activities of the citizens necessitate each other, since mutual co-operation is innate in civilization. "
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 22"
@@ -9,6 +9,7 @@ author: Ibn Khaldun
 ---
 
 
+<!-- The necessary activities are restricted to certain inhabitants of the city -->
 
 
 The dialects of the urban population follow the language of the nation or race that has control of (the cities in question) or has founded them. 
@@ -30,16 +31,13 @@ The Arabic language became corrupt through contact with (foreign languages) in s
 
 Furthermore, most of the inhabitants of the cities of Islam at this time are descendants of the Arabs who were in possession of these cities and perished in their luxury. 
 
-They outnumbered the non-Arabs who lived there and inherited their land and country. Now, languages are inherited. Thus, the language spoken by the descendants has remained close to that of their forefathers, even though its rules
-have gradually become corrupted by contact with non-Arabs. 
+They outnumbered the non-Arabs who lived there and inherited their land and country. Now, languages are inherited. Thus, the language spoken by the descendants has remained close to that of their forefathers, even though its rules have gradually become corrupted by contact with non-Arabs. 
 
-It was called "sedentary" with reference to the inhabitants of settled region's and cities, in contrast
-to the language of the desert Arabs, which is more deeply rooted in Arabism.
+It was called "sedentary" with reference to the inhabitants of settled region's and cities, in contrast to the language of the desert Arabs, which is more deeply rooted in Arabism.
 
 When non-Arabs, such as the Daylam and, after them, the Saljuqs in the East and the Zanitah and Berbers in the West, became the rulers and obtained royal authority and control over the whole Muslim realm, the Arabic language suffered corruption. 
 
-It would almost have disappeared, if the concern of the Muslims with the Qur'an and the Sunnah, which preserve Islam, had not (also) preserved the Arabic language. This (concern) became an element in favor of the persistence of the sedentary dialect used in the cities as an Arabic (sedentary dialect in its original
-form). 
+It would almost have disappeared, if the concern of the Muslims with the Qur'an and the Sunnah, which preserve Islam, had not (also) preserved the Arabic language. This (concern) became an element in favor of the persistence of the sedentary dialect used in the cities as an Arabic (sedentary dialect in its original form). 
 
 But when the Tatars and Mongols, who were not Muslims, became the rulers in the East, this element in favor of the Arabic language disappeared, and the Arabic language was absolutely doomed. 
 
@@ -57,3 +55,4 @@ The Arabic methods of poetry and speech have disappeared, save for a remnant. In
 It is restricted) to those persons whom God has equipped for it. The sedentary Arabic dialect has largely remained in Egypt, Syria, Spain, and the Maghrib, because Islam still remains (there) and requires it. 
 
 Therefore, it has been preserved to some degree. But in the provinces of the 'Iraq and beyond (to the East), no trace or source of (the Arabic language) has remained. Even scientific books have come to be written in the non-Arabic (Persian) language, which is also used for instruction in (Arabic) <!-- 189 --> in class.
+
