@@ -59,7 +59,9 @@ We might have confined ourselves to the supposition that the state of the aether
 
 ### The Ego Hates the Aether
 
-Einstein's high ego made him a determinist who disliked the unpredictability of Nature (Quantum mechanics and the [EPR Paradox](/research/einstein/epr/part-1)). The mystery of the aether irked him just as the idea of a superior, immaterial God irks materialists. 
+Einstein's high ego led him to become a determinist who disliked* the unpredictability of Nature which manifests as "quantum nonlocality" in Quantum Mechanics. The mystery of the aether irked him just as the idea of a superior, immaterial God irks materialists. 
+
+> *This is evident in the [EPR Paradox](/research/einstein/epr/part-1)
 
 {{< q a="ein">}}
 But why must I distinguish the non-moving K body above all moving K' bodies by assuming that the ether is at rest relatively to the non-moving K body?  I think that such an asymmetry.. is intolerable.
@@ -83,15 +85,15 @@ He called this unification as "special relativity" leading to mass-energy equiva
 {{< /q >}}
 
 
-{{< img src="https://sorasystem.sirv.com/graphics/emc.png" alt="E=mc2" cap="Thanks to the egotistic Einstein, the aether is out of reach and with it the solution to fusion, anti-gravity, and nuclear war (He pushed for nukes)" >}}
+{{< img src="https://sorasystem.sirv.com/graphics/emc.png" alt="E=mc2" cap="Thanks to the egotistic Einstein, the aether is out of reach, and with it the solution to fusion, anti-gravity, and nuclear war. The fact that Einstein pushed for nukes is consistent with such a type of ego" >}}
 
 
 
 ### Not so fast, Einstein!
 
-Instead of a natural immaterial aether (substance 1) that confined materials (substance 2), Einstein used light which had the properties of both immaterial (massless) wave-substance and material (mass-ive) particle-substance.
+Instead of a natural immaterial aether (substance 1) that confined materials (substance 2), Einstein used light which had the properties of both an immaterial (massless) wave-substance and a material (mass-ive) particle-substance.
 
-He destroyed the natural division of labor of Nature, into a single monopoly under power of the human physicist.     
+He destroyed the natural division of labor of Nature in order to create a single monopoly under power of the human physicist.     
 
 He then extended this theory, as General Relativity, to the movement of objects in outer space which was really governed by the aethereal force of Gravitation. 
 
@@ -116,28 +118,27 @@ We say: "Sure, but what mechanism causes the flares to happen in the first place
 
 {{< img src="/photos/physics/messier87.jpg" alt="Black Hole" cap="A quasar-black hole behaves differently from what General Relativity predicts. " >}}
 
-Our disdain for Einstein is supported by Nikola Tesla who fully supported the aether.
+Our disdain and even hatred for General Relativity, as something that goes against how Nature works, is supported by Nikola Tesla who instead supported the aether.
 
 
 ![Tesla](/graphics/tesla.jpg)
 
+How could Einstein end up with such mistakes? 
 
 
 ### Shallow Humans Fall Into the Trap
-
 
 Here, we turn on our Socratic dialectics to troubleshoot Einstein's understanding. Our principle states that in observing the heavens:
 - there should be no constant
 - light should not be used to build the core principle 
 
-Socrates says that future astronomers would likely fall for this trap and that's exactly what happened to Einstein*. We suspect it to be the cause for the mistakes of General Relativity. 
+Socrates says that future astronomers would likely violate these maxims due to a predisposition towards mathematics*. That's exactly what happened to Einstein*. 
 
-> *We can even work backwards and see the same mistakes from Newton, Ptolemy, and Aristotle who went with the obvious, instead of digging deeper into the metaphysical or noumenal causes. A clear example is Hubble's classification system for galaxies wherein Messier87 is an elliptical galaxy just because it doesn't have spirals. In our system, it is a quasar that has counterclockwise rotation.
+> *This is why we invented Qualimath
+  
+> **We can even work backwards and see the same mistakes from Newton, Ptolemy, and Aristotle who went with the obvious, instead of digging deeper into the metaphysical or noumenal causes. A clear example is Hubble's classification system for galaxies wherein Messier87 is an elliptical galaxy just because it doesn't have spirals. In our system, it is a quasar that has counterclockwise rotation.
 
-
-
-
-So why did Einstein do it? For this, we need to go back to 1905:
+This is evident in his 1905 paper:
 
 {{< q a="einblah">}}
 <p>a mathematical description of this kind has no physical meaning unless we are quite clear as to what we understand by “time”.. We have so far defined only an “A time” and a “B time.” We have not defined a common “time” for A and B, for the latter cannot be defined at all unless we establish by definition that the “time” required by light to travel from A to B equals the “time” it requires to travel from B to A.
@@ -147,8 +148,7 @@ So why did Einstein do it? For this, we need to go back to 1905:
 
 <br>
 
-Einstein did it because his ego couldn't define time. Instead, he covered it up with circular reasoning:
-
+Einstein did it because his ego couldn't define time metaphysically. Instead, he covered it up a physical (mathematical) definition, inevitably leading to circular reasoning:
 
 {{< q a="einblah">}}
 <p>Two lightning flashes occurred simultaneously at A and B seen by an observer at the middle. [We thus define time as simultaniety, and define simultaniety as light appearing at the same time.]  <i>It would thus appear that we are reasoning in a logical circle</i>.</p>
@@ -156,7 +156,7 @@ Einstein did it because his ego couldn't define time. Instead, he covered it up 
 {{< /q >}}
 <!-- But we only demand that ‘simultaniety’ supply us with an empirical decision. -->
 
-This is very different from other physicists who had egos that were subservient to Nature. This kept time subjective and never objective:
+This is very different from other physicists who had egos that were subservient to Nature. This kept time subjective or metaphysical and never objective or physical:
 
 {{< q a="poincare">}}
 We have not a direct intuition of simultaneity, nor of the equality of two durations.  If we think we have this intuition, <b>this is an illusion</b>
@@ -166,9 +166,11 @@ We have not a direct intuition of simultaneity, nor of the equality of two durat
 
 ## The Deep Metaphysics of Spacetime
 
-All movement happens within a distance and the all observations of such movement happens within timespan. Thus, all formulation of the rules on movement must take into account *distance* and *timespan*, which humans carelessly bunch up as "space" and "time". 
+All movement happens within a distance and all observations of such movement happens within timespan. Thus, all formulations of the rules on movement must take into account *distance* and *timespan*, which humans carelessly bunch up as "space" and "time". 
 
-The movements of everyday objects are quite slow. Usually, distance is just `Spot Z`* occupied by the object at timespan now `Time Z`, while `Spot Y` is the distance that it occupied a while ago at `Time Y` (timespan Y). 
+The movements of everyday objects are quite slow. Usually, distance is just:
+- `Spot Z`* occupied by the object at timespan now `Time Z`
+- `Spot Y` is the distance that it occupied a while ago at `Time Y` (timespan Y)
 
 > *Newton uses the word 'place' in Principia Mathematica, while he uses an entity called "Lord God" as the source of this time. This is consistent with Superphysics where we call the Mind of God as the Aether
 
