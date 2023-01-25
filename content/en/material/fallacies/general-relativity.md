@@ -219,12 +219,14 @@ The fabric idea, on the other hand, logically led to the following sub-ideas:
 - Dark Matter that glues galaxies together since there is not enough ordinary matter to create the mass to create the gravity to hold them together
 
 
-![The speed of light](https://sorasystem.sirv.com/graphics/c.png)
-<figcaption>The observations of classical mechanics (left) can be done with the same observer. Those of special relativity, however, require using a higher c (speed of light) as a tool to unify the observations. This c takes the form of the lasers in the LIGO observatory that is used to observe gravitational waves that 'move' space itself</figcaption>
-
+{{< img src="https://sorasystem.sirv.com/graphics/c.png" cap="The observations of classical mechanics (left) can be done with the same observer. Those of special relativity, however, require using a higher c (speed of light) as a tool to unify the observations. This c takes the form of the lasers in the LIGO observatory that is used to observe gravitational waves that 'move' space itself" alt="The speed of light" >}}
+  
 {{< youtube pTn6Ewhb27k >}}
-<figcaption>Veritasium has the guts to expose the sophistry of Einstein in setting the 2-way speed of light as a constant. However, his solution, as the one-way speed of light, is as arbitrary as the c of Einstein.</figcaption>
-
+{{< cap >}}
+Veritasium has the guts to expose the sophistry of Einstein in setting the 2-way speed of light as a constant. However, his solution, as the one-way speed of light, is as arbitrary as the c of Einstein.
+{{< /cap >}}
+  
+  
 <!-- To explain such strange movements of pure gravity within the fabric of spacetime, General Relativity has no choice but to resort to material solutions:
 - phantom wormholes that actually pierce spacetime to suck matter and spew it out in another dimension,
 - phantom dark matter that glues galaxies in place or bend light to create gravitational lensing -->
@@ -233,7 +235,12 @@ Such singularities, phantom dark matter, and worm holes have never been found si
 - Newton ascribing gravity to matter
 - Einstein ascribing time to the speed of light
 
-The results of such sophistry are the concepts of warp drives, star gates, and "back to the future" time travel where Marty McFly magically disappears after changing the past of his parents. But none of them will ever exist.  This is because, from the perspective of Nature, the opposite is true:
+Quack physics then leads to science fiction:
+- warp drives which 'warp' spacetime in order to cover vast distances quickly 
+- star gates that act as artificial wormholes
+- 'back to the future' time travel where Marty McFly magically disappears after changing the past of his parents. 
+  
+None of these will ever exist because, from the perspective of Nature, the opposite is true:
 - matter comes from gravity (spatial layer) 
 - gravity comes from [the aether](/articles/material/aethereal) (aethereal layer), as the medium of space
 - from the perspective of Creation, the speed of light comes from the perception of that light (as Newton's first law). Both light and time are the effects of perception. From the perspective of Creator, the speed of light comes from the aether acting against it (as Newton's third law).  
@@ -246,7 +253,7 @@ Physicists believe that reality is dictated by matter. Metaphysicians believe th
 {{< /cap >}}
 
 
-The [next post](/material/principles/intro/chapter-02/) will explain the solution to Relativity which is gravitational signatures.
+The [next post](/material/principles/intro/chapter-02/) will explain the solution to Relativity, as gravitational signatures.
 
 <!-- merely the necessary consequence of artificially turning spacetime into a fabric which was caused by Einstein setting light as a constant -- all because he couldn't define time!  This is why Relativity "kind of" works for classical mechanics (which is of lower rank), just as a CEO can "kind of" do the work of his company's janitor, but the janitor can never do the work of the CEO. -->
 
