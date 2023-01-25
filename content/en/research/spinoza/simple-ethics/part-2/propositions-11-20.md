@@ -1,41 +1,60 @@
-+++
-title=  "Propositions 11 to 20"
-description=  "The first element, which constitutes the actual being of the human mind, is the idea of some particular thing actually existing"
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-2/propositions-1-10"
-linkbtext=  "Propositions 1-10"
-linkf=  "/research/spinoza/simple-ethics/part-2/propositions-11-20"
-linkftext=  "Propositions 11-20"
-+++
+---
+title: "Propositions 11 to 20"
+weight: 6
+author: Spinoza
+image: "/covers/ethics.jpg"
+icon: "/avatars/spinoza.png"
+description: "The first element, which constitutes the actual being of the human mind, is the idea of some particular thing actually existing"
+---
 
-#### 11. The first element, which constitutes the actual being of the human mind, is the idea of some particular thing actually existing. 
 
-<!-- Proof=  The essence of man (by the Coroll. of the last Prop.) is constituted by certain modes of God's attributes, namely (by 2. Ax. 2), by the modes of thinking, of all which (by 2. Ax. 3) the idea is prior in nature.
+
+
+11. The first element, which constitutes the actual being of the human mind, is the idea of some particular thing actually existing. 
+
+Proof: The essence of man (by the Coroll. of the last Prop.) is constituted by certain modes of God's attributes, namely (by 2. Ax. 2), by the modes of thinking, of all which (by 2. Ax. 3) the idea is prior in nature.
 
 When the idea is given, the other modes (namely, those of which the idea is prior in nature) must be in the same individual (by the same Axiom).
 Therefore, an idea is the first element constituting the human mind.
 But not the idea of a non—existent thing, for then (2.8. Coroll.) the idea itself cannot be said to exist.
 It must therefore be the idea of something actually existing.
 But not of an infinite thing.
+
 For an infinite thing (1.21, 1.22), must always necessarily exist.
+
 This would (by 2. Ax. 1) involve an absurdity.
+
 Therefore, the first element, which constitutes the actual being of the human mind, is the idea of something actually existing. Q.E.D.
-Corollary=  It follows that the human mind is part of the infinite intellect of God.
+
+Corollary: It follows that the human mind is part of the infinite intellect of God.
+
 Thus when we say, that the human mind perceives this or that, we assert that God has this or that idea, not as he is infinite, but as he is displayed through the human mind's nature, or as he constitutes the human mind's essence.
+
 When we say that God has this or that idea, not only as he constitutes the human mind's essence, but also as he, simultaneously with the human mind, has the further idea of another thing, we assert that the human mind perceives a thing in part or inadequately.ote.
+
 Here, readers will come to a stand.
 They will call to mind many things which will cause them to hesitate.
 I therefore beg them= 
 to accompany me slowly, step by step, and
-not to pronounce on my statements, until they have read to the end. -->
+not to pronounce on my statements, until they have read to the end.
 
 
-#### 12. Whatsoever comes to pass in the object of the idea, which constitutes the human mind, must be perceived by the human mind, or there will necessarily be an idea in the human mind of the said occurrence. That is, if the object of the idea constituting the human mind be a body, nothing can take place in that body without being perceived by the mind.
+12. Whatsoever comes to pass in the object of the idea, which constitutes the human mind, must be perceived by the human mind, or there will necessarily be an idea in the human mind of the said occurrence. 
 
-<!-- Proof=  Whatsoever comes to pass in the object of any idea, the knowledge thereof is necessarily in God (2.9 Coroll.), in so far as he is considered as affected by the idea of the said object, that is (2.11), in so far as he constitutes the mind of anything.
+That is, if the object of the idea constituting the human mind be a body, nothing can take place in that body without being perceived by the mind.
+
+Proof: Whatsoever comes to pass in the object of any idea, the knowledge thereof is necessarily in God (2.9 Coroll.), in so far as he is considered as affected by the idea of the said object, that is (2.11), in so far as he constitutes the mind of anything.
+
 Therefore, whatsoever takes place in the object constituting the idea of the human mind, the knowledge thereof is necessarily in God, as he makes up the human mind's essence.
+
 That is (by 2.11. Coroll.) the knowledge of the said thing will necessarily be in the mind, in other words the mind perceives it.
-Note=  This proposition is also evident, and is more clearly to be understood from 2.7., which see. -->
+
+{{< box >}}
+### Note
+
+This proposition is also evident, and is more clearly to be understood from 2.7., which see.
+{{< /box >}}
+
 
 13. The object of the idea constituting the human mind is the body, in other words a certain mode of extension which actually exists, and nothing else. 
 
@@ -110,9 +129,10 @@ If we further conceive a third kind of individuals composed of individuals of th
 We may easily proceed thus to infinity, and conceive the whole of nature as one individual, whose parts, that is, all bodies, vary in infinite ways, without any change in the individual as a whole.
 I should feel bound to explain and demonstrate this point at more length, if I were writing a special treatise on body.
 But I have already said that such is not my object.
-I have only touched on the question, because it enables me to prove easily that which I have in view.
+I have only touched on the question, because it enables me to prove easily that which I have in view. -->
 
-POSTULATES
+
+## POSTULATES
 
 1. The human body is composed of a number of individual parts, of diverse nature, each one of which is in itself extremely complex. 
 
@@ -125,7 +145,7 @@ POSTULATES
 5. When the fluid part of the human body is determined by an external body to impinge often on another soft part, it changes the surface of the latter, and, as it were, leaves the impression thereupon of the external body which impels it. 
 
 6. The human body can move external bodies, and arrange them in a variety of ways. 
- -->
+
 
 14. The human mind is capable of perceiving a great number of things, and is so in proportion as its body is capable of receiving a great number of impressions. 
 
@@ -199,10 +219,11 @@ But the ideas of the modifications of body are in God, in so far as he constitut
 
 20. The idea or knowledge of the human mind is also in God, following in God in the same manner, and being referred to God in the same manner, as the idea or knowledge of the human body. 
 
-<!-- Proof=  Thought is an attribute of God (2.1.).
+Proof: Thought is an attribute of God (2.1.).
+
 Therefore (2.3) there must necessarily be in God the idea both of thought itself and of all its modifications, consequently also of the human mind (2.11).
+
 Further, this idea or knowledge of the mind does not follow from God, in so far as he is infinite, but in so far as he is affected by another idea of an individual thing (2.9).
+
 But (2.7.) the order and connection of ideas is the same as the order and connection of causes.
 Therefore this idea or knowledge of the mind is in God and is referred to God, in the same manner as the idea or knowledge of the body. Q.E.D.
- -->
-
