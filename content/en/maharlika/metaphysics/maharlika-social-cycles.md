@@ -15,12 +15,13 @@ aliases:
 
 According to Socrates, all societies have [alternating seasons](/social/supersociology/principles/law-social-cycles) that begin with democracy that switches to tyranny, then aristocracy, then oligarchy, and finally back to democracy.
 
-![Cycles Plato](https://sorasystem.sirv.com/graphics/cyclesplato.jpg)
+{{< img src="/graphics/social/cycles.png" alt="Cycles Plato" >}}
 
-- A democracy is dominated by freedom-loving people. Its positive aspect is social justice, while its negative is chaos and mob rule. This chaos leads people to want order, paving the way for tyranny
+
+- A democracy is dominated by workers and freedom-loving people. Its positive aspect is social justice, while its negative is chaos and mob rule. This chaos leads people to want order, paving the way for tyranny
 - A tyranny is dominated by warriors and generals. Its positive aspect is peace and order, while its negative is abuse and corruption. This abuse leads people to want wisdom, paving the way for aristocrats
-- An aristocracy is dominated by intellectuals. Its positive aspect is wisdom, and scientific and cultural advancement, while its negative is dogma and stagnation. This stagnation leads people to want material wealth, paving the way for oligarchs
-- An oligarchy is dominated by speculators and businessmen. Its positive is progress, its negative is inequality and environmental destruction. This injustice leads people to want justice, paving the way for democracy
+- An aristocracy is dominated by intellectuals and thinkers. Its positive aspect is wisdom, and scientific and cultural advancement, while its negative is dogma and stagnation. This stagnation leads people to want material wealth, paving the way for oligarchs
+- An oligarchy is dominated by traders, speculators, and businessmen. Its positive is progress, its negative is inequality and environmental destruction. This injustice leads people to want justice, paving the way for democracy
 
 
 {{< quote ava="soc" >}}
@@ -30,10 +31,10 @@ According to Socrates, all societies have [alternating seasons](/social/supersoc
 
 We use this model to expose the current cycle of any society, based on the outcome of events. For example, a successful popular protest that topples a government indicates that the country is in a democractic phase. A successful military crackdown of that protest, on the contrary, will indicate that the society is in a tyranny phase.
 
-![Soul of Society](https://sorasystem.sirv.com/graphics/soulsociety.jpg)
+{{< img src="/graphics/soulsociety.png" alt="The Soul of Society" cap="Workers are Laborers, Warriors are Tyrants, Thinkers are Aristocrats and Intellectuals, and Traders are Materialists" >}}
 
 
-We use outcomes of events to reveal the soul of the society, just as dust reveals an invisible object by establishing markers
+We use outcomes of events to reveal the soul of the society, just as dust reveals an invisible object by establishing markers.
 
 
 ## The Maharlikan* Cycles
@@ -42,7 +43,7 @@ We use outcomes of events to reveal the soul of the society, just as dust reveal
 
 Today marks an important moment in Philippine history because its Congress finally ended the franchise of ABS-CBN, run by a known oligarch family. According to our model, this proves that the country is undeniably no longer in an oligarch cycle.
 
-This then gives us 2 clear data points -- an oligarch and a warrior phase -- which we can connect to two other known data points of the warrior phase in 1972 and the intellectual phase of 1986 to create a full "year" in the life of Maharlika, which lasts around 48 Earth-years, with each season being 12 years:
+This then gives us 2 clear data points -- an oligarch and a warrior phase. We can connect these to two other known data points of the warrior phase in 1972 (starting 1968) and the intellectual phase of 1986 (starting 1981) to create a full "year" in the life of Maharlika, which lasts around 48 Earth-years, with each season being 12 years*:
 
 | Year | Marker Event | Cycle |
 | --- | --- | --- |
@@ -60,6 +61,9 @@ This then gives us 2 clear data points -- an oligarch and a warrior phase -- whi
 | 2064 | _ | _ |
 | 2076 | _ | _ |
 | 2088 | _ | _ | 
+
+
+> *Update November 2022: We used this model to correctly predict a BBM victory. The proper rival against BBM was the warrior Trillanes and not the democrat Robredo
 
 
 
