@@ -135,6 +135,18 @@ Each of these layers has a sound which represents the wave of that layer. This m
 
 The totality of the universe, combining the physical and metaphysical, have eight tones as the octave of the Greeks and the Bagua of the Chinese.
 
+The major tones form general shapes when they are visualized in the same way that audio is visualized by modern mp3 players. This is why Plato organized them into 5 shapes:
+
+1.  Tetrahedron
+2.  Cube
+3.  Octahedron
+4.  Icosahedron
+5.  Dodecahedron
+
+{{< youtube pMK7dTU0jn0 >}}
+
+These tones manifest as waves such as pulse. 
+
 By checking a patient's pulse, the traditional chinese doctor checks the wave of that person through his own feelings. Likewise, the homeopath checks this wave through the electrical current that he runs through his patient. 
 
 <!-- The Greeks on the other hand, used eight sounds to represent the five layers. Three, do-re-mi (C-D-E), are for the lower three layers, while fa-so-la-ti-do (F-G-A-B) are for the spatial and aethereal layers. C and G were common in Western Classical Music.   -->
