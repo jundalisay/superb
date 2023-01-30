@@ -4,15 +4,20 @@ title: "The English Language versus the French and Italian"
 weight: 14
 author: "Adam Smith"
 icon: /icons/smith.png
-image: "/covers/lectures.jpg"
+image: "/covers/formation.jpg"
 description: "As long as any language was spoken by those only who learned it in their infancy, the intricacy of its declensions and conjugations could occasion no great embarrassment"
 ---
 
 
 
-Language would probably have continued upon this footing in all countries, nor would ever have grown more simple in its declensions and conjugations, had it not become more complex in its composition, in consequence of the mixture of several languages with one another, occasioned by the mixture of different nations. 
+<!-- Language would probably have continued on this footing in all countries, nor would ever have grown more simple in its declensions and conjugations, had it not  -->
 
-As long as any language was spoken by those only who learned it in their infancy, the intricacy of its declensions and conjugations could occasion no great embarrassment. The far greater part of those who had occasion to speak it, had acquired it at so very early a period of their lives, so insensibly and by such slow degrees, that they were scarce ever sensible of the difficulty. But when two nations came to be mixed with one another, either by conquest or migration, the case would be very different. 
+Language became more complex in its composition because of the mixture of several languages from the mixture of different nations. 
+
+Those who learned any language from their infancy would be used to the intricacy of its declensions and conjugations. 
+- They would have acquired it at so very early a period of their lives, so insensibly and so slowly, that they would not be deemed difficult. 
+
+But when two nations came to be mixed with one another, either by conquest or migration, the case would be very different. 
 
 Each nation, in order to make itself intelligible to those with whom it was under the necessity of conversing, would be obliged to learn the language of the other. The greater part of individuals too, learning the new language, not by art, or by remounting to its rudiments and first principle, but by rote, and by what they commonly heard in conversation, would be extremely perplexed by the intricacy of its declensions and conjugations. They would endeavour, therefore, to supply their ignorance of these, by whatever shift the language could afford them. Their ignorance of the declensions they would naturally supply by the use of prepositions; 
 

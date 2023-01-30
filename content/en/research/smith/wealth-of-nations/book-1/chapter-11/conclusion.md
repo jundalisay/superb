@@ -1,6 +1,7 @@
 ---
 title: "Conclusion"
 heading: "Chapter 11"
+weight: 42
 #zate: 2015-09-09
 author: Adam Smith
 image: "/covers/wn.jpg"

@@ -4,7 +4,7 @@ title: "The Simplification of Languages"
 weight: 16
 author: "Adam Smith"
 icon: /icons/smith.png
-image: "/covers/lectures.jpg"
+image: "/covers/formation.jpg"
 description: "Language becomes simpler in its principles, just as it grows more complex in its composition"
 ---
 
@@ -13,9 +13,13 @@ description: "Language becomes simpler in its principles, just as it grows more 
 
 In this way, language becomes simpler in its principles, just as it grows more complex in its composition, and the same thing has happened in it, which commonly happens with regard to mechanical engines. 
 
-All machines are generally, when first invented, extremely complex in their principles, and there is often a particular principle of motion for every particular movement which it is intended they should perform. Succeeding improvers observe, that one principle may be so applied as to produce several of those movements; and thus the machine becomes gradually more and more simple, and produces its effects with fewer wheels, and fewer principles of motion. 
+All machines are generally, when first invented, extremely complex in their principles, and there is often a particular principle of motion for every particular movement which it is intended they should perform.
 
-In language, in the same manner, every case of every noun, and every tense of every verb, was originally expressed by a particular distinct word, which served for this purpose and for no other. But succeeding observations discovered, that one set of words was capable of supplying the place of all that infinite number, and that four or five prepositions, and half a dozen auxiliary verbs, were capable of answering the end of all the declensions, and of all the conjugations in the ancient languages.
+Succeeding improvers observe, that one principle may be so applied as to produce several of those movements; and thus the machine becomes gradually more and more simple, and produces its effects with fewer wheels, and fewer principles of motion. 
+
+In language, in the same manner, every case of every noun, and every tense of every verb, was originally expressed by a particular distinct word, which served for this purpose and for no other. 
+
+But succeeding observations discovered, that one set of words was capable of supplying the place of all that infinite number, and that four or five prepositions, and half a dozen auxiliary verbs, were capable of answering the end of all the declensions, and of all the conjugations in the ancient languages.
 
 This simplification of languages is not the same as the simplification of machines. The latter renders them more and more perfect. But the former makes languages more imperfect, and less proper for the purposes of language.
 

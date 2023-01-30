@@ -4,7 +4,7 @@ title: "The Nature of Prepositions"
 weight: 10
 author: "Adam Smith"
 icon: /icons/smith.png
-image: "/covers/lectures.jpg"
+image: "/covers/formation.jpg"
 description: "Every preposition denotes some relation considered in concrete with the co-relative object"
 ---
 

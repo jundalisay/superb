@@ -1,6 +1,6 @@
 ---
 title: "Digression on the Variations in the Value of Silver During the Last Four Centuries"
-heading: "Part 3b of Chapter 11 of Book 1"
+heading: "Part 3b Digression Part 1-a1"
 weight: 16
 author: Adam Smith
 image: "/covers/wn.jpg"

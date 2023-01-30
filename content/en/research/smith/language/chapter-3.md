@@ -4,7 +4,7 @@ title: "Verbs: Personal and Impersonal"
 weight: 12
 author: "Adam Smith"
 icon: /icons/smith.png
-image: "/covers/lectures.jpg"
+image: "/covers/formation.jpg"
 description: "Verbs must necessarily have been coëval with the very first attempts towards the formation of language"
 ---
 

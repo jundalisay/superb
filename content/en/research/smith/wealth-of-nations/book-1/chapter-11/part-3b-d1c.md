@@ -1,6 +1,6 @@
 ---
 title: "Summary of the Three Periods"
-heading: "Part 3b"
+heading: "Part 3b Digression Part 1c"
 author: Adam Smith
 weight: 24
 image: "/covers/wn.jpg"

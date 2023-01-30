@@ -16,6 +16,13 @@ Legumes (creates nitrogen) + Corn (uses nitrogen)
 
 chemicals 4k
 
+E=mc2 is only true for things that interact with electromagnetism. It does not apply to those that are beyond electromagnetism, such as gravitation, spacetime, and the aether. 
+
+1. It is only true for electromagnetic types of energy, up to those that manifest as contact forces
+2. Mass is the effect of Electromagnetically-detectable potential energy. Newton determined the mass of Jupiter by seeing photons bounce off it onto his telescope. 
+3. The speed of light is determined by spacetime and not by mass. I.e. the whole equation is inside spacetime
+4. This is the same as #3
+
 weeding ploughing 4k
 
 potash 

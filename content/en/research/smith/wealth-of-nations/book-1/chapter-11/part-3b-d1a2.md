@@ -1,6 +1,6 @@
 ---
 title: "Mistakes in Judging Wheat and Silver Prices"
-heading: "Part 3b"
+heading: "Part 3b Digression Part 1-a2"
 weight: 18
 author: Adam Smith
 image: "/covers/wn.jpg"

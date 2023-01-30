@@ -63,7 +63,7 @@ This then gives us 2 clear data points -- an oligarch and a warrior phase. We ca
 | 2088 | _ | _ | 
 
 
-> *Update November 2022: We used this model to correctly predict a BBM victory. The proper rival against BBM was the warrior Trillanes and not the democrat Robredo
+> *Update November 2022: We used this model to correctly predict a BBM victory. The proper rival against BBM was the warrior Trillanes and not the democrat Robredo, This also explains why the Liberal Party (democrats) lost so badly -- because it is not their season anymore.  
 
 
 
