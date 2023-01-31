@@ -32,6 +32,33 @@
 
 
 
+<form method="post" onsubmit="return submitUserForm();" action="https://hub.pantrypoints.com/api/email">
+    <div class="g-recaptcha" data-sitekey="6LeLwjYjAAAAAOUxaHoqteV7-0ZoVKJeh3w_4M8y" data-callback="verifyCaptcha"></div>
+    <div id="g-recaptcha-error"></div>
+    <input class="input" name="email[name]" id="name">    
+    <input type="submit" name="submit" value="Submit" />
+</form>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<script>
+var recaptcha_response = '';
+function submitUserForm() {
+    if(recaptcha_response.length == 0) {
+        document.getElementById('g-recaptcha-error').innerHTML = '<span style="color:red;">This field is required.</span>';
+        return false;
+    }
+    return true;
+}
+ 
+function verifyCaptcha(token) {
+    recaptcha_response = token;
+    document.getElementById('g-recaptcha-error').innerHTML = '';
+}
+</script>
+
+
+
+
+
 
 <footer class="footer section has-background-black has-text-light px-4">
   <div class="container">
@@ -103,22 +130,6 @@
         async defer>
     </script>
 
-
-<script>
-var recaptcha_response = '';
-function submitUserForm() {
-    if(recaptcha_response.length == 0) {
-        document.getElementById('g-recaptcha-error').innerHTML = '<span style="color:red;">This field is required.</span>';
-        return false;
-    }
-    return true;
-}
- 
-function verifyCaptcha(token) {
-    recaptcha_response = token;
-    document.getElementById('g-recaptcha-error').innerHTML = '';
-}
-</script>
 
 
 
