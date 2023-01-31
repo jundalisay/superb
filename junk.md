@@ -1,4 +1,7 @@
-darkblue sp
+    <form id="comments" method="post" action="{{ site.Params.contact_form }}" class="mb-6">
+
+
+    darkblue sp
 orange mat
 pink medical
 green social

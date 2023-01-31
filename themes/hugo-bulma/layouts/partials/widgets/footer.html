@@ -31,32 +31,6 @@
 
 
 
-<form method="post" onsubmit="return submitUserForm();">
-    <div class="g-recaptcha" data-sitekey="6LeLwjYjAAAAAOUxaHoqteV7-0ZoVKJeh3w_4M8y" data-callback="verifyCaptcha"></div>
-    <div id="g-recaptcha-error"></div>
-    <input type="submit" name="submit" value="Submit" />
-</form>
-<script src='https://www.google.com/recaptcha/api.js'></script>
-
-zz
-
-<script>
-var recaptcha_response = '';
-function submitUserForm() {
-    if(recaptcha_response.length == 0) {
-        document.getElementById('g-recaptcha-error').innerHTML = '<span style="color:red;">This field is required.</span>';
-        return false;
-    }
-    return true;
-}
- 
-function verifyCaptcha(token) {
-    recaptcha_response = token;
-    document.getElementById('g-recaptcha-error').innerHTML = '';
-}
-</script>
-
-
 
 
 <footer class="footer section has-background-black has-text-light px-4">
@@ -64,7 +38,8 @@ function verifyCaptcha(token) {
 
     <h4 class="title is-3 has-text-white">We'd Love Your Comment!</h4>
 
-    <form id="comments" method="post" action="{{ site.Params.contact_form }}" class="mb-6">
+    <form id="comments" onsubmit="return submitUserForm();" method="post" action="{{ site.Params.contact_form }}" class="mb-6">
+
       <div id="html_element" class="columns is-mobile is-multiline">
         <div class="column is-6-desktop is-12-touch">
           <div class="field h">
@@ -107,21 +82,46 @@ function verifyCaptcha(token) {
         </div> 
       </div>
       <div class="buttons">
-        <button type="submit" class="button is-primary g-recaptcha" 
+        <div class="g-recaptcha" data-sitekey="6LeLwjYjAAAAAOUxaHoqteV7-0ZoVKJeh3w_4M8y" data-callback="verifyCaptcha"></div>
+        <div id="g-recaptcha-error"></div>
+        <input type="submit" name="submit" value="Submit" />
+
+<!--         <button type="submit" class="button is-primary g-recaptcha" 
           data-sitekey="6LeEGDYjAAAAAFAL0z1Rllnu9bpswJe5Saz7A42t" 
           data-callback='onSubmit' 
           data-action='submit'>
           Submit
-        </button>
-
+        </button> -->
 
         <button type="reset" class="button is-dark">Clear</button>
       </div>          
     </form>
 
+
     <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
         async defer>
     </script>
+
+
+<script>
+var recaptcha_response = '';
+function submitUserForm() {
+    if(recaptcha_response.length == 0) {
+        document.getElementById('g-recaptcha-error').innerHTML = '<span style="color:red;">This field is required.</span>';
+        return false;
+    }
+    return true;
+}
+ 
+function verifyCaptcha(token) {
+    recaptcha_response = token;
+    document.getElementById('g-recaptcha-error').innerHTML = '';
+}
+</script>
+
+
+
+
 
 
     <h4 class="title is-3 has-text-white mt-6">Subscribe</h4>
