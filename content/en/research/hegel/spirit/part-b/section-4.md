@@ -10,13 +10,29 @@ weight: 4
 
 ## 1. Consciousness In Itself
 
-Φ 166. IN the kinds of certainty hitherto considered, the truth for consciousness is something other than consciousness itself. The conception, however, of this truth vanishes in the course of our experience of it. What the object immediately was in itself — whether mere being in sense-certainty, a concrete thing in perception, or force in the case of understanding — it turns out, in truth, not to be this really; but instead, this inherent nature (Ansich) proves to be a way in which it is for an other. 
+<!-- Φ 166.  -->
 
-The abstract conception of the object gives way before the actual concrete object, or the first immediate idea is cancelled in the course of experience. Mere certainty vanished in favour of the truth. There has now arisen, however, what was not established in the case of these previous relationships, viz. a certainty which is on a par with its truth, for the certainty is to itself its own object, and consciousness is to itself the truth. Otherness, no doubt, is also found there; consciousness, that is, makes a distinction; but what is distinguished is of such a kind that consciousness, at the same time, holds there is no distinction made. 
+IN the kinds of certainty hitherto considered, the truth for consciousness is something other than consciousness itself. 
 
-If we call the movement of knowledge conception, and knowledge, qua simple unity or Ego, the object, we see that not only for us [tracing the process], but likewise for knowledge itself, the object corresponds to the conception; or, if we put it in the other form and call conception what the object is in itself, while applying the term object to what the object is qua object or for an other, it is clear that being “in-itself” and being “for an other” are here the same. For the inherent being (Ansich) is consciousness; yet it is still just as much that for which an other (viz. what is “in-itself”) is. And it is for consciousness that the inherent nature (Ansich) of the object, and its “being for an other” are one and the same. Ego is the content of the relation, and itself the process of relating. It is Ego itself which is opposed to an other and, at the same time, reaches out beyond this other, which other is all the same taken to be only itself.
+The conception, however, of this truth vanishes in the course of our experience of it. 
 
-Φ 167. With self-consciousness, then, we have now passed into the native land of truth, into that kingdom where it is at home. We have to see how the form or attitude of self-consciousness in the first instance appears. When we consider this new form and type of knowledge, the knowledge of self, in its relation to that which preceded, namely, the knowledge of an other, we find, indeed, that this latter has vanished, but that its moments have, at the same time, been preserved; and the loss consists in this, that those moments are here present as they are implicitly, as they are in themselves. The being which “meaning” dealt with, particularity and the universality of perception opposed to it, as also the empty, inner region of understanding – these are no longer present as substantial elements (Wesen), but as moments of self-consciousness, i.e. as abstractions or differences, which are, at the same time, of no account for consciousness itself, or are not differences at all, and are purely vanishing entities (Wesen).
+What the object immediately was in itself — whether mere being in sense-certainty, a concrete thing in perception, or force in the case of understanding — it turns out, in truth, not to be this really. But instead, this inherent nature (Ansich) proves to be a way in which it is for an other.
+
+The abstract conception of the object gives way before the actual concrete object, or the first immediate idea is cancelled in the course of experience. 
+
+Mere certainty vanished in favour of the truth. There has now arisen, however, what was not established in the case of these previous relationships, viz. a certainty which is on a par with its truth, for the certainty is to itself its own object, and consciousness is to itself the truth. 
+
+Otherness, no doubt, is also found there; consciousness, that is, makes a distinction; but what is distinguished is of such a kind that consciousness, at the same time, holds there is no distinction made. 
+
+If we call the movement of knowledge conception, and knowledge, qua simple unity or Ego, the object, we see that not only for us [tracing the process], but likewise for knowledge itself, the object corresponds to the conception; or, if we put it in the other form and call conception what the object is in itself, while applying the term object to what the object is qua object or for an other, it is clear that being “in-itself” and being “for an other” are here the same. 
+
+For the inherent being (Ansich) is consciousness; yet it is still just as much that for which an other (viz. what is “in-itself”) is. And it is for consciousness that the inherent nature (Ansich) of the object, and its “being for an other” are one and the same. Ego is the content of the relation, and itself the process of relating. 
+
+It is Ego itself which is opposed to an other and, at the same time, reaches out beyond this other, which other is all the same taken to be only itself.
+
+Φ 167. With self-consciousness, then, we have now passed into the native land of truth, into that kingdom where it is at home. We have to see how the form or attitude of self-consciousness in the first instance appears. When we consider this new form and type of knowledge, the knowledge of self, in its relation to that which preceded, namely, the knowledge of an other, we find, indeed, that this latter has vanished, but that its moments have, at the same time, been preserved; and the loss consists in this, that those moments are here present as they are implicitly, as they are in themselves. 
+
+The being which “meaning” dealt with, particularity and the universality of perception opposed to it, as also the empty, inner region of understanding – these are no longer present as substantial elements (Wesen), but as moments of self-consciousness, i.e. as abstractions or differences, which are, at the same time, of no account for consciousness itself, or are not differences at all, and are purely vanishing entities (Wesen).
 
 What seems to have been lost, then, is only the principal moment, viz. the simple fact of having independent subsistence for consciousness. But, in reality, self-consciousness is reflexion out of the bare being that belongs to the world of sense and perception, and is essentially the return out of otherness. 
 
