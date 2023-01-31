@@ -1,6 +1,7 @@
 ---
 title: "Chinese Constitution"
+linkTitle: China
 image: "/flags/cn.png"
-weight: 1
+weight: 6
 description: "The Chinese Constitution"
 ---

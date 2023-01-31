@@ -3,7 +3,7 @@ title: "North, South, and Champa Vietnam"
 heading: "Chapters 1-3"
 description: "North Vietnam, the ancient Kiau-chou, to the east and the south reaches to the sea and borders on South Vietnam."
 image: "/flags/vn.png"
-weight: 1
+weight: 2
 ---
 
 

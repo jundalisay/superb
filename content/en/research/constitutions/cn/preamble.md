@@ -1,7 +1,6 @@
 ---
 title: "Preamble"
-heading: "The Chinese Constitution Simplified"
-weight: 1
+weight: 2
 image: "/flags/cn.png"
 description: "The People’s Republic of China is a socialist state governed by a people’s democratic dictatorship that is led by the working class and based on an alliance of workers and peasants"
 icon: "/flags/cn.png"

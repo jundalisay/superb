@@ -1,5 +1,14 @@
-Section 6
-Autonomous Organs of Ethnic Autonomous Areas
+---
+title: "The Central Military Commission"
+heading: "Section 6 of Chapter 2"
+weight: 12
+image: "/flags/cn.png"
+description: "The president and the vice president of the PRC shall be elected by the NPC"
+icon: "/flags/cn.png"
+---
+
+
+## Autonomous Organs of Ethnic Autonomous Areas
 
 Article 112The autonomous organs of ethnic autonomous areas are the people’s congresses and the people’s governments of autonomous regions, autonomous prefectures and autonomous counties.
 

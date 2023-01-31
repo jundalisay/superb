@@ -2,5 +2,5 @@
 title: "Indonesian Constitution Simplified"
 linkTitle: "Indonesia"
 image: "/flags/id.png"
-weight: 1
+weight: 12
 ---

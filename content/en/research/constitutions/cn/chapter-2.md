@@ -1,7 +1,7 @@
 ---
 title: "Fundamental Rights and Obligations of Citizens"
-heading: "Chapter 2 of the Chinese Constitution Simplified"
-weight: 1
+heading: "Chapter 2"
+weight: 6
 image: "/flags/cn.png"
 description: "The PRC is a socialist state governed by a people’s democratic dictatorship that is led by the working class and based on an alliance of workers and peasants"
 icon: "/flags/cn.png"

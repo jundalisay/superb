@@ -1,6 +1,6 @@
 ---
 title: "Treaty Establishing A Constitution For Europe"
-linkTitle: "Constitution For Europe"
+linkTitle: "Europe"
 image: "/flags/eu.png"
-weight: 1
+weight: 10
 ---

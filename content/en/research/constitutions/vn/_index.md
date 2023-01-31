@@ -2,5 +2,5 @@
 title: "Vietnamese Constitution"
 linkTitle: "Vietnam"
 image: "/flags/vn.png"
-weight: 1
+weight: 24
 ---

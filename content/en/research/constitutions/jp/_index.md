@@ -2,5 +2,5 @@
 title: "Japanese Constitution"
 linkTitle: "Japan"
 image: "/flags/jp.png"
-weight: 1
+weight: 16
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Dampier, William"
-
 # date: 2022-08-04
 weight: 20
 description: ""

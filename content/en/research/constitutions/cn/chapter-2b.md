@@ -1,7 +1,7 @@
 ---
 title: "The President of the PRC"
-heading: "Section 2 of Chapter 2 of the Chinese Constitution Simplified"
-weight: 1
+heading: "Section 2 of Chapter 2"
+weight: 8
 image: "/flags/cn.png"
 description: "The president and the vice president of the PRC shall be elected by the NPC"
 icon: "/flags/cn.png"
