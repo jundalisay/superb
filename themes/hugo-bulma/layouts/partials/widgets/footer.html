@@ -82,37 +82,35 @@
 
 <!--         <button type="reset" class="button is-dark">Clear</button>
       </div>           -->
+
+      <div class="g-recaptcha" data-sitekey="6LeLwjYjAAAAAOUxaHoqteV7-0ZoVKJeh3w_4M8y" data-callback="verifyCaptcha"></div>
+      <div id="g-recaptcha-error"></div>
+
+      <input type="submit" name="submit" value="Submit" class="button is-primary" />
     </form>
 
+    <script src='https://www.google.com/recaptcha/api.js'></script>
 
-    <div class="g-recaptcha" data-sitekey="6LeLwjYjAAAAAOUxaHoqteV7-0ZoVKJeh3w_4M8y" data-callback="verifyCaptcha"></div>
-    <div id="g-recaptcha-error"></div>
-
-    <input type="submit" name="submit" value="Submit" class="button is-primary" />
-</form>
-
-<script src='https://www.google.com/recaptcha/api.js'></script>
-
-<script>
-var recaptcha_response = '';
-function submitUserForm() {
-    if(recaptcha_response.length == 0) {
-        document.getElementById('g-recaptcha-error').innerHTML = '<span style="color:red;">This field is required.</span>';
-        return false;
+    <script>
+    var recaptcha_response = '';
+    function submitUserForm() {
+        if(recaptcha_response.length == 0) {
+            document.getElementById('g-recaptcha-error').innerHTML = '<span style="color:red;">This field is required.</span>';
+            return false;
+        }
+        return true;
     }
-    return true;
-}
- 
-function verifyCaptcha(token) {
-    recaptcha_response = token;
-    document.getElementById('g-recaptcha-error').innerHTML = '';
-}
-</script>
+     
+    function verifyCaptcha(token) {
+        recaptcha_response = token;
+        document.getElementById('g-recaptcha-error').innerHTML = '';
+    }
+    </script>
 
-    <!-- <script src='https://www.google.com/recaptcha/api.js'></script> -->
-<!--     <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
-        async defer>
-    </script> -->
+        <!-- <script src='https://www.google.com/recaptcha/api.js'></script> -->
+    <!--     <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
+            async defer>
+        </script> -->
 
 
 
