@@ -9,13 +9,13 @@
  -->
 
 
-    <script type="text/javascript">
+<!--     <script type="text/javascript">
       var onloadCallback = function() {
         grecaptcha.render('html_element', {
           'sitekey' : '6LeLwjYjAAAAAOUxaHoqteV7-0ZoVKJeh3w_4M8y'
         });
       };
-    </script>
+    </script> -->
 
 
 
@@ -70,20 +70,19 @@
         </div> 
       </div>
 
-
+<!-- Google -->
       <!-- <div class="g-recaptcha" data-sitekey="6LeLwjYjAAAAAOUxaHoqteV7-0ZoVKJeh3w_4M8y" data-callback="verifyCaptcha"></div> -->
 
       <!-- Cloudflare -->
-      <div class="g-recaptcha" data-sitekey="0x4AAAAAAACSGEAuqFhaiqIV" data-callback="verifyCaptcha"></div>
+      <!-- <div class="g-recaptcha" data-sitekey="0x4AAAAAAACSGEAuqFhaiqIV" data-callback="verifyCaptcha"></div> -->
+      <div class="cf-turnstile" data-sitekey="0x4AAAAAAACSGEAuqFhaiqIV" data-callback="javascriptCallback"></div>
 
-
-
-      <div id="g-recaptcha-error"></div>
+      <!-- <div id="g-recaptcha-error"></div> -->
 
       <input type="submit" name="submit" value="Submit" class="button is-primary" />
     </form>
 
-    <script src='https://www.google.com/recaptcha/api.js'></script>
+<!--     <script src='https://www.google.com/recaptcha/api.js'></script>
 
     <script>
     var recaptcha_response = '';
@@ -100,7 +99,7 @@
         document.getElementById('g-recaptcha-error').innerHTML = '';
     }
     </script>
-
+ -->
 
 
 
