@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 description: "The theory in the form given allowed of a detailed discussion only in the case of periodic systems, and obviously was not able to account in detail for the characteristic difference between the hydrogen spectrum and the spectra of other elements"
-image: "/flags/vn.png"
+image: "/covers/quantum.jpg"
 weight: 2
 ---
 
@@ -21,18 +21,14 @@ UDGIVET PAA CARLSBERGFONDETS BEKOSTNING -->
 In an attempt to develop certain outlines of a theory of line-spectra based on a suitable application of the fundamental ideas introduced by Planck in his theory of temperatureradiation to the theory of the nucleus atom of Sir Ernest Rutherford, the writer has shown that it is possible in this way to obtain a simple interpretation of some of the main laws governing the line-spectra of the elements, and
 especially to obtain a deduction of the well known Balmer formula for the hydrogen spectrum1) 
 
-The theory in the form given allowed of a detailed discussion only in the case of periodic systems, and obviously was not able to account in
-detail for the characteristic difference between the hydrogen spectrum and the spectra of other elements, or for the
-characteristic effects on the hydrogen spectrum of external
-electric and magnetic fields. Recently, however, a way out
-of this difficulty has been opened by Sommerfeld2
-) who,
-by introducing a suitable generalisation of the theory to a
-simple type of non-periodic motions and by taking the small
-variation of the mass of the electron with its velocity into
-account, obtained an explanation of the fine-structure of the
+The theory in the form given allowed of a detailed discussion only in the case of periodic systems, and obviously was not able to account in detail for the characteristic difference between the hydrogen spectrum and the spectra of other elements, or for the characteristic effects on the hydrogen spectrum of external electric and magnetic fields. 
+
+Recently, however, a way out of this difficulty has been opened by Sommerfeld2
+) who, by introducing a suitable generalisation of the theory to a simple type of non-periodic motions and by taking the small
+variation of the mass of the electron with its velocity into account, obtained an explanation of the fine-structure of the
 hydrogen lines which was found to be in brilliant conformity with the measurements. Already in his first paper on
-1
+
+
 ) N. Bohr, Phil. Mag., XXVI, pp. 1, 476, 857 (1913), XXVII,
 p. 506 (1914), XXIX. p. 332 (1915), XXX. p. 394 (1915).
 2
@@ -44,21 +40,18 @@ afterwards Epstein1
 ) and Schwarzschild,
 2
 ) independent
-of each other, by adapting Sommerfeld’s ideas to the treatment of a more extended class of non-periodic systems obtained a detailed explanation of the characteristic effect of an
-electric field on the hydrogen spectrum discovered by Stark.
+of each other, by adapting Sommerfeld’s ideas to the treatment of a more extended class of non-periodic systems obtained a detailed explanation of the characteristic effect of an electric field on the hydrogen spectrum discovered by Stark.
+
 Subsequently Sommerfeld3
 ) himself and Debye4
 ) have on
-the same lines indicated an interpretation of the effect of a
-magnetic field on the hydrogen spectrum which, although no
+the same lines indicated an interpretation of the effect of a magnetic field on the hydrogen spectrum which, although no
 complete explanation of the observations was obtained, undoubtedly represents an important step towards a detailed
-understanding of this phenomenon.
-In spite of the great progress involved in these investigations many difficulties of fundamental nature remained unsolved, not only as regards the limited applicability of the
-methods used in calculating the frequencies of the spectrum
-of a given system, but especially as regards the question of
-the polarisation and intensity of the emitted spectral lines.
-These difficulties are intimately connected with the radical
-departure from the ordinary ideas of mechanics and electro1
+understanding of this phenomenon. 
+
+In spite of the great progress involved in these investigations many difficulties of fundamental nature remained unsolved, not only as regards the limited applicability of the methods used in calculating the frequencies of the spectrum of a given system, but especially as regards the question of the polarisation and intensity of the emitted spectral lines.
+
+These difficulties are intimately connected with the radical departure from the ordinary ideas of mechanics and electro1
 ) P. Epstein, Phys. Zeitschr. XVII, p. 148 (1916), Ann. d. Phys. L,
 p. 489. LI. p. 168 (1916).
 2

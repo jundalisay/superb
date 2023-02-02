@@ -1,6 +1,14 @@
-Part I.
-On the general theory.
-§ 1. General principles.
+---
+heading: "Section 2"
+title: "General principles"
+description: "Part 1 showed that the problem of the fixation of the stationary states of a periodic system of several degrees of freedom, which is subject to the perturbing influence of a small external field"
+weight: 6
+image: "/covers/quantum.jpg"
+author: Niels Bohr
+---
+
+
+
 The quantum theory of line-spectra rests upon the following fundamental assumptions:
 I. That an atomic system can, and can only, exist permanently in a certain series of states corresponding to a discontinuous series of values for its energy, and that consequently any change of the energy of the system, including
 emission and absorption of electromagnetic radiation, must

@@ -1,35 +1,27 @@
-§ 2. The stationary states of a perturbed periodic system.
+---
+heading: "Section 2"
+title: "The stationary states of a perturbed periodic system"
+description: "Part 1 showed that the problem of the fixation of the stationary states of a periodic system of several degrees of freedom, which is subject to the perturbing influence of a small external field"
+weight: 4
+image: "/covers/quantum.jpg"
+author: Niels Bohr
+---
 
-In Part I it was shown that the problem of the fixation of
-the stationary states of a periodic system of several degrees
-of freedom, which is subject to the perturbing influence of a
-small external field, cannot be treated directly on the basis
-of the general principle of the mechanical transformability
-of the stationary states by considering the influence, which
-on ordinary mechanics a slow establishment of the external field would exert on the motion of some arbitrarily chosen stationary state of the undisturbed system (see Part I,
-page 41). This is an immediate consequence of the fact, mentioned in the former section, that the stationary states of the
-perturbed system are characterised by a greater number of
-extra-mechanical conditions than the stationary states of the
-undisturbed system. On the other hand, we were led to assume from the general formal relation between the quantum
-theory of line spectra and the ordinary theory of radiation,
-80
-that it is possible to obtain information about the stationary
-states of the perturbed system from a direct consideration of
-the slow variations which the periodic orbit undergoes as a
-consequence of the mechanical effect of the external field on
-the motion. Thus, if these variations are of periodic or conditionally periodic type, we may expect that, in the presence
-of the external field, the values for the additional energy of
-the system in the stationary states are related to the small
-frequency or frequencies of the perturbations, in a manner
-analogous to the relation between energy and frequency in
-the stationary states of an ordinary periodic or conditionally
-periodic system.
-If the equations of motion for the perturbed system can
-be solved by means of separation of variables, it is easily
-seen that the relation in question is fulfilled if the stationary
-states are determined by the conditions (22). Consider thus
-a system for which every orbit is periodic, and let us assume
-that in the presence of a given small external field a separation of variables is possible in a certain set of coordinates
+
+Part 1 showed that the problem of the fixation of the stationary states of a periodic system of several degrees of freedom, which is subject to the perturbing influence of a small external field, cannot be treated directly on the basis of the general principle of the mechanical transformability of the stationary states by considering the influence, which on ordinary mechanics a slow establishment of the external field would exert on the motion of some arbitrarily chosen stationary state of the undisturbed system (see Part I, page 41). 
+
+This is an immediate consequence of the fact, mentioned in the former section, that the stationary states of the perturbed system are characterised by a greater number of extra-mechanical conditions than the stationary states of the undisturbed system. 
+
+On the other hand, we were led to assume from the general formal relation between the quantum theory of line spectra and the ordinary theory of radiation, that it is possible to obtain information about the stationary states of the perturbed system from a direct consideration of
+the slow variations which the periodic orbit undergoes as a consequence of the mechanical effect of the external field on
+the motion. 
+
+Thus, if these variations are of periodic or conditionally periodic type, we may expect that, in the presence of the external field, the values for the additional energy of the system in the stationary states are related to the small frequency or frequencies of the perturbations, in a manner analogous to the relation between energy and frequency in the stationary states of an ordinary periodic or conditionally
+periodic system. 
+
+If the equations of motion for the perturbed system can be solved by means of separation of variables, it is easily
+seen that the relation in question is fulfilled if the stationary states are determined by the conditions (22). Consider thus
+a system for which every orbit is periodic, and let us assume that in the presence of a given small external field a separation of variables is possible in a certain set of coordinates
 q1, . . . , qs. For the undisturbed system we have then, according to equation (23), that the quantity I, defined by (5),
 is equal to κ1I1 + · · · + κsIs, where I1, . . . , Is are defined
 by (21) and calculated with respect to the set of coordinates

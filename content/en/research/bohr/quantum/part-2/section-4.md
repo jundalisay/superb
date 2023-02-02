@@ -1,15 +1,21 @@
-§ 4. The effect of an external electric field on the hydrogen lines
+---
+heading: "Section 4"
+title: "The effect of an external electric field on the hydrogen lines"
+description: "Part 1 showed that the problem of the fixation of the stationary states of a periodic system of several degrees of freedom, which is subject to the perturbing influence of a small external field"
+weight: 8
+image: "/covers/quantum.jpg"
+author: Niels Bohr
+---
 
-As mentioned in the introduction, a detailed theory of the
-characteristic effect of an external homogeneous electric field
-sideration obtains a striking confirmation by the observation of the
-appearance of new series of lines in the ordinary series spectra of helium and other elements, when the atoms are exposed to an intense
-external electric field. As it will be discussed more closely in Part III,
-it is possible in this way to account in detail for the manifold results,
+
+
+A detailed theory of the characteristic effect of an external homogeneous electric field consideration obtains a striking confirmation by the observation of the appearance of new series of lines in the ordinary series spectra of helium and other elements, when the atoms are exposed to an intense external electric field. 
+
+As it will be discussed more closely in Part III, it is possible in this way to account in detail for the manifold results,
 regarding the appearance of such series in the helium spectrum, which
 have been published quite recently by J. Stark (Ann. d. Phys. LVI,
 p. 577 (1918)) and by G. Liebert (ibid. LVI, p. 589 and p. 610 (1918)).
-137
+
 on the hydrogen spectrum, discovered by Stark, has been
 given by Epstein and Schwarzschild on the basis of the
 general theory of conditionally periodic systems which allow

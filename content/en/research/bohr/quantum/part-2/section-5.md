@@ -1,9 +1,17 @@
-§ 5. The effect of a magnetic field on the hydrogen spectrum.
+---
+heading: "Section 5"
+title: "The effect of a magnetic field on the hydrogen spectrum."
+description: "Part 1 showed that the problem of the fixation of the stationary states of a periodic system of several degrees of freedom, which is subject to the perturbing influence of a small external field"
+weight: 8
+image: "/covers/quantum.jpg"
+author: Niels Bohr
+---
 
-A theory of the Zeeman effect of the hydrogen fines
-based on the quantum theory of line spectra has, as mentioned in the introduction, been given independently by
-Sommerfeld and by Debye. The calculations of these
-authors rest upon the fact, that it is possible, also in the
+
+
+A theory of the Zeeman effect of the hydrogen fines based on the quantum theory of line spectra has, as mentioned in the introduction, been given independently by Sommerfeld and by Debye. 
+
+The calculations of these authors rest upon the fact, that it is possible, also in the
 presence of a magnetic field, to write the equations of mo1
 ) Besides the discussion of this problem, the paper in question will
 contain a general treatment of the theory of perturbed periodic systems

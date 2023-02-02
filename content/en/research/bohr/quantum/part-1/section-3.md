@@ -1,27 +1,34 @@
-§ 3. Conditionally periodic systems.
+---
+heading: "Section 3"
+title: "Conditionally periodic systems."
+description: "Part 1 showed that the problem of the fixation of the stationary states of a periodic system of several degrees of freedom, which is subject to the perturbing influence of a small external field"
+weight: 14
+image: "/covers/quantum.jpg"
+author: Niels Bohr
+---
 
-If we consider systems of several degrees of freedom the
-motion will be periodic only in singular cases and the general conditions which determine the stationary states cannot
-1
+
+
+If we consider systems of several degrees of freedom the motion will be periodic only in singular cases and the general conditions which determine the stationary states cannot 
+
 ) See E. C. Kemble, Phys. Rev., VIII, p. 701, 1916.
 28
-therefore be derived by means of the same simple kind of considerations as in the former section. As mentioned in the introduction, however, Sommerfeld and others have recently
-succeeded, by means of a suitable generalisation of (10), to
+
+therefore be derived by means of the same simple kind of considerations as in the former section. As mentioned in the introduction, however, Sommerfeld and others have recently succeeded, by means of a suitable generalisation of (10), to
 obtain conditions for an important class of systems of several degrees of freedom, which, in connection with (1), have
 been found to give results in convincing agreement with experimental results about line-spectra. Subsequently these
 conditions have been proved by Ehrenfest and especially
 by Burgers1
 ) to be invariant for slow mechanical transformations.
-To the generalisation under consideration we are naturally led, if we first consider such systems for which the motions corresponding to the different degrees of freedom are
-dynamically independent of each other. This occurs if the expression for the total energy E in Hamilton’s equations (4)
-for a system of s degrees of freedom can be written as a sum
-E1 +· · ·+Es, where Ek contains qk and pk only. An illustration of a system of this kind is presented by a particle moving
-in a field of force in which the force-components normal to
-three mutually perpendicular fixed planes are functions of
-the distances from these planes respectively. Since in such a
-case the motion corresponding to each degree of freedom in
-general will be periodic, just as for a system of one degree of
+
+To the generalisation under consideration we are naturally led, if we first consider such systems for which the motions corresponding to the different degrees of freedom are dynamically independent of each other. This occurs if the expression for the total energy E in Hamilton’s equations (4) for a system of s degrees of freedom can be written as a sum
+E1 +· · ·+Es, where Ek contains qk and pk only. 
+
+An illustration of a system of this kind is presented by a particle moving in a field of force in which the force-components normal to
+three mutually perpendicular fixed planes are functions of the distances from these planes respectively. Since in such a
+case the motion corresponding to each degree of freedom in general will be periodic, just as for a system of one degree of
 1
+
 ) J. M. Burgers, Versl. Akad. Amsterdam, XXV, pp. 849,
 918, 1055. (1917), Ann. d. Phys. LII. p. 195 (1917), Phil. Mag. XXXIII,
 p. 514 (1917).

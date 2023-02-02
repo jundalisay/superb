@@ -1,8 +1,17 @@
-## 6. The continuous hydrogen spectrum
-We shall conclude the considerations of this Part by a
-brief discussion of the characteristic continuous spectrum of
-hydrogen in the ultra violet region, which is intimately connected with the series spectrum given by (35). This spectrum
-1
+---
+heading: "Section 6"
+title: "The continuous hydrogen spectrum"
+description: "Part 1 showed that the problem of the fixation of the stationary states of a periodic system of several degrees of freedom, which is subject to the perturbing influence of a small external field"
+weight: 8
+image: "/covers/quantum.jpg"
+author: Niels Bohr
+---
+
+
+The continuous spectrum of hydrogen in the ultra violet region is intimately connected with the series spectrum given by (35). 
+
+This spectrum
+
 ) No experiments, which allow to test the preceding results in detail,
 seem to have been recorded, but it would appear that the above considerations afford an explanation of the general character of the remarkable deviations from a normal Zeeman effect, observed by F Paschen
 and E. Back (Ann. d. Phys. XXXIX, p. 897 (1912)) in experiments

@@ -1,21 +1,30 @@
-§ 2. Systems of one degree of freedom
+---
+heading: "Section 2"
+title: "Systems of one degree of freedom"
+description: "Part 1 showed that the problem of the fixation of the stationary states of a periodic system of several degrees of freedom, which is subject to the perturbing influence of a small external field"
+weight: 10
+image: "/covers/quantum.jpg"
+author: Niels Bohr
+---
 
-As the simplest illustration of the principles discussed in
-the former section we shall begin by considering systems of
-a single degree of freedom, in which case it has been possible to establish a general theory of stationary states. This
-is due to the fact that the motion will be simply periodic,
-provided the distance between the parts of the system will
-1
+
+Systems of a single degree of freedom shows the simplest illustration of the principles in section 1. 
+
+, in which case it has been possible to establish a general theory of stationary states. 
+
+This
+is due to the fact that the motion will be simply periodic, provided the distance between the parts of the system will
+
 ) P. Ehrenfest, Phys. Zeitschr. XV p. 660 (1914). The above
 interpretation of this relation is not stated explicitly by Ehrenfest,
 but it presents itself directly if the quantum theory is taken in the form
 corresponding to the fundamental assumption I.
-15
+
 not increase infinitely with the time, a case which for obvious reasons cannot represent a stationary state in the sense
 defined above. On account of this, the discussion of the
 mechanical transformability of the stationary states can, as
 pointed out by Ehrenfest,
-1
+
 ) for systems of one degree of
 freedom be based on a mechanical theorem about periodic
 systems due to Boltzmann and originally applied by this

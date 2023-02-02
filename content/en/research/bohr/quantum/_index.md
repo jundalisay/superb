@@ -1,7 +1,7 @@
 ---
-title: "The Quantum Theory Of Line-spectra"
+title: "The Quantum Theory Of Line-Spectra"
 weight: 2
-# image: "/covers/chun.jpg"
+image: "/covers/quantum.jpg"
 author: "Niels Bohr"
 ---
 
