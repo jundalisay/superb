@@ -10,15 +10,32 @@ icon: "/icons/descartes.png"
 
 How do the inhabitants of Earth see the face of their heaven as wholly like that of ours?
 
-First, they must see the body marked S as completely full of light and like our sun, given that that body sends rays from all points of its surface toward their eyes.
+First, they must see the body `S` as completely full of light and like our sun, given that that body sends rays from all points of its surface toward their eyes.
 
-Because it is much closer to them than the stars, it must appear much greater to them. The parts of the small heaven ABCD that turns about the earth offer some resistance to those rays. But, because all the parts of the great heaven that are between S and D strengthen the rays, those that are between D and T, being comparatively small in number, can take away only very little of their force from them. 
+Because it is much closer to them than the stars, it must appear much greater to them. 
 
-Even all the action of the parts of the large heaven FGGF does not suffice to impede the rays of many fixed stars from reaching to the earth from the side on which it is not illuminated by the sun.
+The parts of the small heaven `ABCD` that turns around the earth offer some resistance to those rays. 
 
-Solar systems can be rather unequal in size. But they must always be exactly of the same force so that all the matter that is in the line SB must tend as strongly toward ε as that which is in the line εB tends toward S. For, if they do not have that equality among them, they will most certainly be destroyed in a short time, or at least they will change until they have acquired it.
+But, because all the parts of the great heaven that are between `S` and `D` strengthen the rays, those that are between `D` and `T`, being comparatively small in number, can take away only very little of their force from them.
 
-The whole force of the ray SB is just exactly equal to that of the ray εB. The force of the ray TB (which is less) cannot impede the force of the ray εB to extend to T. In the same way, the star A can extend its rays to the earth T, in as much as the matter of the heaven between A and 2 aids them more than that between 4 and T resists them, and in addition in as much as that between 3 and 4 aids them no less than that between 3 and 2 resists them. 
+Even all the action of the parts of the large heaven `FGGF` does not suffice to impede the rays of many fixed stars from reaching to the earth from the side on which it is not illuminated by the sun.
+
+The 'large heavens' are those with a sun or star at its center.
+- Solar systems can be rather unequal in size. 
+- But they must always be exactly of the same force so that all the matter that is in the line `SB` must tend as strongly toward `ε` as that which is in the line `εB` tends toward `S`. 
+- For, if they do not have that equality among them, they will most certainly be destroyed in a short time, or at least they will change until they have acquired it.
+
+The whole force* of the ray `SB` is just exactly equal to that of the ray `εB`. 
+
+> *Superphysics Note: This is now known as Newton's gravitational constant
+
+The force of the ray `TB` is less than the force of `SB`.
+- It cannot impede the force of the ray `εB`* to extend to `T`. 
+
+> *Superphysics Note: This is now known as the pull of a moon on a planet.
+
+
+In the same way, the star A can extend its rays to the earth T, in as much as the matter of the heaven between A and 2 aids them more than that between 4 and T resists them, and in addition in as much as that between 3 and 4 aids them no less than that between 3 and 2 resists them. 
 
 Thus, judging others proportionately, those stars must appear no less confusedly arranged, nor less in number, nor less unequal to one another, than do those we see in the real world.
 
@@ -31,6 +48,7 @@ When the rays meet them obliquely, it is certain, according to what has been dem
 Those lines TB, T4, and ones like them are so extremely long compared to the diameter of Earth's orbit around the sun. This makes the Earthlings always see the stars as fixed in the firmament. This is why astronomers say that they cannot observe parallax in the stars.[63]
 
 <!-- Regarding the number of those stars, consider also that  -->
+
 
 ### Gravitational Lensing 
 
