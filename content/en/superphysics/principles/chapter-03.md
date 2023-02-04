@@ -38,7 +38,8 @@ This property of uniqueness creates all of the dynamism in both physical and met
 
 For example, suppose you have a tray that can only hold 10 apples. 
 
-![Apples](/photos/objects/apples.jpg)
+{{< image="/photos/objects/apples.jpg" alt="Apples" >}}
+
 
 Adding more apples will either:
 - make those additional apples fall off if the tray is strong, or
@@ -75,7 +76,9 @@ However, this is opposite of our assertion that the Universe is dynamic, as we c
 
 This is because the staticity of ideas are from the viewpoint of the Absolute, before or after it takes the role of a Creator. This Absolute is in its own domain which we call 'Pre-Existence'.
 
-![gunas](/graphics/meta/gunas.png)
+
+{{< image="/graphics/meta/gunas.png" alt="Gunas" >}}
+
 
 As it this domain is above Existence, it does not exist. Rather it is entirely probabilistic or theoretical. 
 

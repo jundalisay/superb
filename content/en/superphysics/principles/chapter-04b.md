@@ -48,7 +48,8 @@ The problem is that the processes such as `dℓ` must accommodate numerical vari
 
 It would be like requiring a house-builder to know a house’s entire blueprint before the house is built. This limits the number of house-builders to a few, reducing the number of new houses. Now think that those people are spaceship-builders and navigators instead of house-builders, and you will see an extreme shortage that will increase the cost of space-travel accordingly.
 
-![Equation](https://sorasystem.sirv.com/graphics/equation.jpg)
+
+{{< img src="https://sorasystem.sirv.com/graphics/equation.jpg" alt="Equation" >}}
 
 
 {{< q a="descartes" >}}
@@ -112,7 +113,8 @@ For example, `1 + 1 = 2` might be true for this universe, but it might not be tr
 
 To account for this mind-splitting behavior, <!--  make ratios and relativity permanent, --> we propose a new notation using flexible colons instead of the rigid equals sign. The former represents the flexible nature of the universe as opposed to its strict rigidity as the latter. 
 
-![Mathematics](/graphics/physics/math.jpg)
+{{< img src="/graphics/physics/math.jpg" alt="Mathematics" >}}
+
 
 We can think of the double colon as a rigid equals sign, while the single colon as a flexible ratio. This ratio represents our theory of  "universal relativity*" which is represented in reality by [gravitational relativity](/material/universal-relativity), among others.
 

@@ -45,7 +45,7 @@ This potential linear or nonlinear movement is responsible for the shifting of p
 
 We can call this equation as "eagle" as it is written with the letters `E G l`. 
 
-It predicts the movement of anything by knowing its `G` or [dharma or true nature](/social/economics/principles/invisible-hand) relative to other `G`'s within the same layer and/or the immediate layer above it. 
+It predicts the movement of anything by knowing its `G` or [dharma or true nature](/social/economics/principles/invisible-hand) relative to other `G`'s within the same layer and/or the immediate layer above it.
 
 
 ![The Eagle](/graphics/econ/eagle.jpg)
@@ -53,7 +53,8 @@ It predicts the movement of anything by knowing its `G` or [dharma or true natur
 {{< box >}}
 ### The Eagle Standard
 
-![Aquila on a staff](/photos/objects/aquila.jpg)
+{{< img scr="/photos/objects/aquila.jpg" alt="Aquila on a staff" >}}
+
 
 The idea for the eagle came from the eagle standard of the Roman legions.
 

@@ -97,7 +97,8 @@ Or will it be sad and lonely?
 
 <!-- The changing flow of ideas and feelings of the author about the cat then lead to actual changes to the physical written novel.  -->
 
-![Flipbook about a cat](/graphics/flipbook.gif)
+{{< image="/graphics/flipbook.gif" alt="Flipbook about a cat" >}}
+
 
 The reader of that novel will then experience **the wave of the author's feelings** about the cat through the movement of the characters and events in the novel. The reader will think that those events are single events, and that each character is a single character. In reality, each of those events and characters are made up of many slices of quantized-events and quantized-characters*.
 
