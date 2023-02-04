@@ -4,7 +4,7 @@ title: "The Face of the Heaven of that New World Must Appear to Its Inhabitants 
 weight: 32
 image: "/covers/world.jpg"
 description: "Solar systems can be rather unequal in size. But they must always be exactly of the same force."
-icon: "/icons/descartes.jpg"
+icon: "/icons/descartes.png"
 ---
 
 

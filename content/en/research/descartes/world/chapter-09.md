@@ -4,7 +4,7 @@ title: "The Origin and the Course of the Planets and Comets"
 weight: 20
 image: "/covers/world.jpg"
 description: "The parts of the matter are very diverse"
-icon: "/icons/descartes.jpg"
+icon: "/icons/descartes.png"
 ---
 
 

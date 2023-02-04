@@ -4,7 +4,7 @@ title: "The Creation of the Universe"
 weight: 18
 image: "/covers/world.jpg"
 description: "God put inequality and confusion among the parts of matter at the beginning"
-icon: "/icons/descartes.jpg"
+icon: "/icons/descartes.png"
 ---
 
 

@@ -4,7 +4,7 @@ title: "What gives objects their Weight?"
 weight: 24
 image: "/covers/world.jpg"
 description: "The whole mass of the Earth is caused by the presence of the moon, and also about some particular things that depend on that motion"
-icon: "/icons/descartes.jpg"
+icon: "/icons/descartes.png"
 ---
 
 

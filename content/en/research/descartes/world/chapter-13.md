@@ -4,7 +4,7 @@ title: "Cartesian Relativity"
 weight: 28
 image: "/covers/world.jpg"
 description: "Bodies that revolve always tend to move away from the centers of the circles they describe"
-icon: "/icons/descartes.jpg"
+icon: "/icons/descartes.png"
 ---
 
 

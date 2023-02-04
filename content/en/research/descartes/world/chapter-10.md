@@ -4,7 +4,7 @@ title: "The Planets the Earth and Moon"
 weight: 22
 image: "/covers/world.jpg"
 description: "Descartes explains the movement of the planets"
-icon: "/icons/descartes.jpg"
+icon: "/icons/descartes.png"
 ---
 
 

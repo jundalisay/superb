@@ -37,7 +37,9 @@ At this minute, you might feel happy. But in the next minute, you might remember
 
 This potential linear or nonlinear movement is responsible for the shifting of public opinion, market prices, policy changes, health and disease, the rise and fall of civilizations, etc. and can be simplified as --> We notate this as E = G{{< sub v="l" >}}.
 
-![E = Gl](/graphics/eglrest.png)
+
+{{< img src="/graphics/eglrest.png" alt="E = Gl" >}}
+
 
 - `E` is inherent energy and represents potentiality
 - `G` is the dharma of the thing (as gravitational signature). This represents Shiva or Yang
@@ -48,12 +50,14 @@ We can call this equation as "eagle" as it is written with the letters `E G l`.
 It predicts the movement of anything by knowing its `G` or [dharma or true nature](/social/economics/principles/invisible-hand) relative to other `G`'s within the same layer and/or the immediate layer above it.
 
 
-![The Eagle](/graphics/econ/eagle.jpg)
+{{< img src="/graphics/econ/eagle.jpg" alt="The Eagle" >}}
+
+
 
 {{< box >}}
 ### The Eagle Standard
 
-{{< img scr="/photos/objects/aquila.jpg" alt="Aquila on a staff" >}}
+{{< img src="/photos/objects/aquila.jpg" alt="Aquila on a staff" >}}
 
 
 The idea for the eagle came from the eagle standard of the Roman legions.
@@ -68,7 +72,7 @@ If the dharma of societies stop, then they go to war and destroy each other. If 
 
 Rallying around the dharma and making an effort to keep it up would be similar to how the legions worked hard to secure their eagle from their barbarian enemies. In machines, this would be preventive maintenance. In health, it would be a healthy lifestyle, as 'prevention is better than cure'.
 
-Dharma then leads to related concepts like sustainability, harmony, long happy lives, and making the idea of wars and crisis obsolete (just as typewriters are obsolete and are in museums   than offices).
+Dharma then leads to related concepts like sustainability, harmony, long happy lives, and making the idea of wars and crisis obsolete (just as typewriters are obsolete and are in museums than offices).
 {{< /box >}}
 
 <!-- <br><br>If G is neglected in the metaphysical dimension, then selfish-interest will slowly creep in, manifesting as blind belief, oligrachy, liberalism (or libertarianism), and then tyranny.<br> If G is neglected in the physical dimension, then inferior theories and technologies will dominate. An example is rocketry which dangerous, expensive, and is unable to allow travel to other galaxies.  -->
@@ -115,7 +119,8 @@ Our genuine and perfect rule of practice is that <b>it should be certain, free a
 
 The Eagle in the dimension of resource allocation manifests as supply and demand ratios:
 
-![Supply and Demand Equation](https://sorasystem.sirv.com/graphics/pspdD.png)
+{{< img src="https://sorasystem.sirv.com/graphics/pspdD.png" alt="Supply and Demand Equation" >}}
+
 
 The `G` manifests as the effectual demand or d of the people, while the layer limit {{< sub v="l" >}} manifests as their absolute demand or `D` (a concept that does not exist in Economics). This `D` works in the same way as `c` works in `E = mc{{< s v="2" >}}`, where `c` acts as the speed limit of the physical universe. <!-- In the Material layer, this manifests as g or the gravity of the Earth. -->
 

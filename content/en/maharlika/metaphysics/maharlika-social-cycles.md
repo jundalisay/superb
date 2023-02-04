@@ -127,7 +127,10 @@ https://www.youtube.com/watch?v=o-FjyEpspyw
 
 182 BC
  -->
-![Hannibal](https://sorasystem.sirv.com/photos/medieval/hannibal.jpg)
+
+
+{{< img src="https://sorasystem.sirv.com/photos/medieval/hannibal.jpg" alt="Hannibal" >}}
+
 
 
 | Year | Marker Event | "Roman Empire" Social Age |
@@ -148,7 +151,9 @@ In order to harmonize it with the Roman social cycles, we split our cycles for t
 
 The one from 1572-1860 is actually a totally different entity from the one from 1860 to present. So in Socrates-speak, we are in the Third Democratic Cycle in the life of Americanized Maharlika. 
 
-![American](https://qph.fs.quoracdn.net/main-qimg-a53c2a32fd3cf1accd44a91a0ae1a149-mzj)
+
+{{< img src="https://qph.fs.quoracdn.net/main-qimg-a53c2a32fd3cf1accd44a91a0ae1a149-mzj" alt="American" >}}
+
 
 If we equate social-age to human-age, then we can say the country is in its early adulthood or early 20's. Golden ages usually happen when a society is in its teenage to mid-adulthood, as seen in the Roman Republic's dominance over Carthage and the Empire's Pax Romana. Americanized-Philippines therefore has two social-years left to get its act together and get things right for the rest of its life*.
 
@@ -191,6 +196,7 @@ An event-driven system, on the other hand, measures **the feelings that could no
 The prevalence of big data allows us to have a more scientific basis for getting such event-data to make predictions. In data-science-speak, historical events serve as the training data for artificially-intelligent (AI) predictors to give advice on policy. These predictors then compete with each other on accuracy, just as ancient prophets competed with each other to get the favor of the people and the king, giving us "champion prophets" like Jesus, Mohammad, Isaiah, etc.
 
 
-![Prophet Isaiah](https://sorasystem.sirv.com/photos/medieval/isaiah800.jpg)
+{{< img src="https://sorasystem.sirv.com/photos/medieval/isaiah800.jpg" alt="Prophet Isaiah" >}}
+
 
 In a future post, we will go back in time to trace the life of Maharlika before 1565 as an Islamic country, before 1200 as Chinese, and before 900 as Indianized nation. This earliest Indianization is the reason why we choose the Sanskrit name Maharlika to identify the nation. The era of Maharlika, from pre-900 AD up to 1565, is much longer than the short 300-year reign of the Spanish Philippines. 
