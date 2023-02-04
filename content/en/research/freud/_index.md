@@ -3,8 +3,8 @@ title: "Freud, Sigmund"
 heading: Unenlightened
 # date: 2022-07-21
 weight: 30
-description: ""
+description: "Sigmund Freud was the founder of psychoanalysis, a clinical method for evaluating and treating pathologies through dialogue with a patient"
 author: "Sigmund Freud"
-# image: /avatars/george.jpg
+image: /covers/freud.jpg
 ---
 

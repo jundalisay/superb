@@ -1,5 +1,6 @@
 ---
-title: "The character of merchants are inferior to those of leading personalities and remote from manliness"
+title: "The Character Of Merchants Are Inferior"
+# to those of leading personalities and remote from manliness
 description: "A merchant concerns himself with buying and selling, earning money and making a profit. This requires cunning, willingness to enter into disputes, cleverness, constant quarreling, and great persistence."
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
@@ -56,6 +57,10 @@ because they concern the necessities and there is a large demand for having them
 
 But the instruction in them, as a consequence, is something inferior.
 
-The mind, however, does not cease transforming all kinds of (crafts), including the composite ones, from potentiality into actuality through the gradual discovery of one thing after the other, until they are perfect. This is not achieved all at one stroke. It is achieved in the course of time and of generations. Things are not transformed from potentiality into actuality all at one stroke, especially not technical matters. 
+The mind, however, does not cease transforming all kinds of crafts, including the composite ones, from potentiality into actuality through the gradual discovery of one thing after the other, until they are perfect. 
 
-Consequently, a certain amount of time is unavoidable. Therefore, the crafts are found to be inferior in small cities, and only the simple (crafts) are found there. When sedentary civilization in (those cities) increases, and luxury conditions there cause the use of the crafts, they are transformed from potentiality into actuality. 
+This is not achieved all at one stroke. It is achieved in the course of time and of generations. Things are not transformed from potentiality into actuality all at one stroke, especially not technical matters. 
+
+Consequently, a certain amount of time is unavoidable. Therefore, the crafts are found to be inferior in small cities, and only the simple (crafts) are found there. 
+
+When sedentary civilization in (those cities) increases, and luxury conditions there cause the use of the crafts, they are transformed from potentiality into actuality. 

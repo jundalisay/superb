@@ -1,7 +1,7 @@
 ---
 linkTitle: "Jung"
 title: Carl Jung
-description: ""
+description: "Carl Gustav Jung was a Swiss psychiatrist and psychoanalyst who founded analytical psychology"
 weight: 50
-# image: "/covers/tao.jpg"
+image: "/covers/jung.jpg"
 ---

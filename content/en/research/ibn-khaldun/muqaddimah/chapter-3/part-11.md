@@ -9,7 +9,9 @@ weight: 24
 
 
 
-## 11. The dynasty becomes senile after it claims all glory for itself and establishes luxury and tranquility
+<!-- ## 11. The dynasty becomes senile after it claims all glory for itself and establishes luxury and tranquility -->
+
+The dynasty becomes senile after it claims all glory for itself and establishes luxury and tranquility.
 
 This can be explained in several ways.
 

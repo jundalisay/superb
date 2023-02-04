@@ -1,5 +1,6 @@
 ---
-title: "Agriculture is a way of making a living for weak people and Bedouins in search of subsistence"
+title: "Agriculture is a way of making a living for weak people"
+#  and Bedouins in search of subsistence
 description: "The person of rank who is highly esteemed is in every material aspect more fortunate and wealthier than a person who has no rank. The reason for this is that the person of rank is served by the labor of others"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"

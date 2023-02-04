@@ -1,6 +1,6 @@
 ---
 title: "Niels Bohr"
 weight: 12
-# description: "He wrote the history of trading cities from 960 AD."
-image: "/avatars/bohr.jpg"
+description: "Niels Bohr was a Danish physicist who contributed to quantum theory. He received the Nobel Prize in Physics in 1922. Bohr was also a philosopher and a promoter of scientific research"
+image: "/covers/bohr.jpg"
 ---

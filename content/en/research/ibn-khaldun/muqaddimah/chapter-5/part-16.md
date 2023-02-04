@@ -1,5 +1,5 @@
 ---
-title: "The Crafts are perfected only in a large and perfect sedentary civilization"
+title: "The Crafts Are Perfected Only In A Large And Perfect Sedentary Civilization"
 description: "The crafts are perfected only if there exists a large and perfect sedentary civilization"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"

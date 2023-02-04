@@ -261,7 +261,7 @@ You can help by:
   - Ho Chi Minh City
   - Metro Manila
   - Kuala Lumpur
-- joining our [Facebook group](https://facebook.com/groups/pantrynomics)
+- joining our [Facebook group](https://www.facebook.com/groups/superphysicsorg/)
 - telling us about broken pages, bugs, typos, confusing articles, or factual errors
 - donating cash or in kind
   - translating content into your language

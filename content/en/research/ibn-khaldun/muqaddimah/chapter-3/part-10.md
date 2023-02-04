@@ -1,12 +1,12 @@
 ---
-title: "The royal authority naturally claims all glory for itself, goes for luxury and peace"
+title: "The Royal Authority Naturally Claims All Glory For Itself"
+# , goes for luxury and peace
 description: "The group feeling that leads to royal authority is a composite of the amalgamation of many groups, one of which is stronger than all the others"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 10"
 weight: 22
 ---
-
 
 
 
@@ -43,14 +43,27 @@ From the necessities of life and a life of austerity, they progress to the luxur
 People then also tend toward luxury in food, clothing, bedding (carpets), and household goods. They take pride in such things and
 vie with other nations in delicacies, gorgeous raiment, and fine mounts. 
 
-Every new generation wants to surpass the preceding one in this respect, and so it goes right down to the end of the dynasty. The larger the realm ruled by a dynasty, the greater is the share of its people in these luxuries. The limit eventually to be reached is set for a particular dynasty by its own power and by the customs of its predecessors.
+Every new generation wants to surpass the preceding one in this respect. 
+- This goes on until the end of the dynasty.
 
-As 63 to preferring tranquility and quiet, this is because a nation obtains royal authority only by pressing its claims, having in mind the purpose of obtaining superiority and royal authority. When this purpose is accomplished, all efforts cease.
+The larger the realm ruled by a dynasty, the greater is the share of its people in these luxuries. The limit eventually to be reached is set for a particular dynasty:
+- by its own power and
+- by the customs of its predecessors
+
+
+A nation obtains royal authority only by pressing its claims. 
+<!-- - , having in mind the purpose of obtaining superiority and royal authority.  -->
+- When this purpose is accomplished, all efforts cease.
+- This leads to tranquility and quiet
+
 
 I wondered at the busy efforts fate made in connection with my relationship with her.
 
-Then, when our relationship had ended, fate became quiet. When people have obtained the royal authority, they no (longer) do the
-tiresome chores they had been used to undertake while still in search of it. They prefer rest and quiet and tranquility. Now they seek to enjoy the fruits of royal authority, such as buildings, dwellings, and clothing. They build castles and install running water.
+Then, when our relationship had ended, fate became quiet. 
+
+When people have obtained the royal authority, they no longer do the tiresome chores they had been used to undertake while still in search of it.
+
+They prefer rest and quiet and tranquility. Now they seek to enjoy the fruits of royal authority, such as buildings, dwellings, and clothing. They build castles and install running water.
 
 They plant gardens and enjoy life. They prefer rest to tiresome chores. They take pride in clothing, food, household goods, and bedding (carpets), as much as possible. They get used to this (attitude) and pass it on to later generations.
 
