@@ -1,9 +1,11 @@
 ---
 heading: "Chapter 15"
-title: The (Aetheral) Heaven Appears to Its Inhabitants Completely Like That of Ours
+title: The Aether and Gravitational Lensing 
+# title: The (Aetheral) Heaven Appears to Its Inhabitants Completely Like That of Ours
 # title: "The Face of the Heaven of that New World Must Appear to Its Inhabitants Completely Like That of Our World"
 weight: 32
-image: "/covers/world.jpg"
+image: /graphics/physics/aetherspace.jpg
+# image: "/covers/world.jpg"
 description: "Solar systems can be rather unequal in size. But they must always be exactly of the same force."
 icon: "/icons/descartes.png"
 ---
