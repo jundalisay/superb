@@ -18,7 +18,7 @@ The material layer is the lowest layer in the universe and manifests as physical
 
 According to science, iron ore is made of 'elements', specifically as `Fe` which is one of the 118 known elements. 
 
-{{< img src="/graphics/periodictable.png" alt="Periodic Table" >}}
+{{< img src="/graphics/physics/periodictable.png" alt="Periodic Table" >}}
 
 Instead of elements, Superphysics refers to the 'elements'* as 'versions'. Thus, there are 118 versions of matter which are simply 118 versions of energy in the material layer. 
 
