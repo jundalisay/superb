@@ -1,21 +1,25 @@
 ---
 heading: "Chapter 6"
-title: THE FIGURES OF THE TRANSPARENT BODIES
+title: The Figures Of The Transparent Bodies
 description: We have shown how the movement which constitutes light spreads by spherical waves in any homogeneous matter. And it is evident that when the matter is not homogeneous
 image: /covers/light.jpg
-weight: 30
+weight: 14
 author: Christiaan Huygens
 icon: /avatars/huygens.jpg
 ---
 
 
 
-Which serve for Refraction and for Reflexion.
+<!-- Which serve for Refraction and for Reflexion.
 
-After having explained how the properties of reflexion and refraction follow from what we have supposed concerning the nature of light, and of opaque bodies, and of transparent media, I will here set forth a very easy and natural way of deducing, from the same principles, the true figures which serve, either by reflexion or by refraction, to collect or disperse the rays of light, as may be desired. For though I do not see yet that there are means of making use of these figures, so far as relates to Refraction, not only because of the difficulty of shaping the glasses of Telescopes with the requisite[Pg 106] exactitude according to these figures, but also because there exists in refraction itself a property which hinders the perfect concurrence of the rays, as Mr. Newton has very well proved by experiment, I will yet not desist from relating the invention, since it offers itself, so to speak, of itself, and because it further confirms our Theory of refraction, by the agreement which here is found between the refracted ray and the reflected ray. Besides, it may occur that some one in the future will discover in it utilities which at present are not seen.
+After having explained how the properties of reflexion and refraction follow from what we have supposed concerning the nature of light, and of opaque bodies, and of transparent media,  -->
+
+I will here set forth a very easy and natural way of deducing, from the same principles, the true figures which serve, either by reflexion or by refraction, to collect or disperse the rays of light, as may be desired. 
+
+For though I do not see yet that there are means of making use of these figures, so far as relates to Refraction, not only because of the difficulty of shaping the glasses of Telescopes with the requisite[Pg 106] exactitude according to these figures, but also because there exists in refraction itself a property which hinders the perfect concurrence of the rays, as Mr. Newton has very well proved by experiment, I will yet not desist from relating the invention, since it offers itself, so to speak, of itself, and because it further confirms our Theory of refraction, by the agreement which here is found between the refracted ray and the reflected ray. Besides, it may occur that some one in the future will discover in it utilities which at present are not seen.
 
 
-To proceed then to these figures, let us suppose first that it is desired to find a surface CDE which shall reassemble at a point B rays coming from another point A; and that the summit of the surface shall be the given point D in the straight line AB. I say that, whether by reflexion or by refraction, it is only necessary to make this surface such that the path of the light from the point A to all points of the curved line CDE, and from these to the point of concurrence (as here the path along the straight lines AC, CB, along AL, LB, and along AD, DB), shall be everywhere traversed in equal times: by which principle the finding of these curves becomes very easy.[Pg 107]
+To proceed then to these figures, let us suppose first that it is desired to find a surface CDE which shall reassemble at a point B rays coming from another point A; and that the summit of the surface shall be the given point D in the straight line AB. I say that, whether by reflexion or by refraction, it is only necessary to make this surface such that the path of the light from the point A to all points of the curved line CDE, and from these to the point of concurrence (as here the path along the straight lines AC, CB, along AL, LB, and along AD, DB), shall be everywhere traversed in equal times: by which principle the finding of these curves becomes very easy.
 
 
 So far as relates to the reflecting surface, since the sum of the lines AC, CB ought to be equal to that of AD, DB, it appears that DCE ought to be an ellipse; and for refraction, the ratio of the velocities of waves of light in the media A and B being supposed to be known, for example that of 3 to 2 (which is the same, as we have shown, as the ratio of the Sines in the refraction), it is only necessary to make DH equal to 3/2 of DB; and having after that described from the centre A some arc FC, cutting DB at F, then describe another from centre B with its semi-diameter BX equal to 2/3 of FH; and the point of intersection of the two arcs will be one of the points required, through which the curve should pass. For this point, having been found in this fashion, it is easy forthwith to demonstrate that the time along AC, CB, will be equal to the time along AD, DB.

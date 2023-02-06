@@ -1,3 +1,16 @@
+No, the aether is the medium for spacetime. Spacetime is the medium for electromagnetism (light and c). 
+
+The speed of light limited to c by spacetime which is limited by the aether to a single universe among infinite multiverses.
+
+Therefore the speed of light is not constant. Nor is our universe a constant single universe.
+
+The drag is seen in the differences in the speed of light taken from 1729 to 1983 (the time factor in spacetime which limits c) If there were no aether drag then all measurements of light would be 301,000 km/s (the early Bradley measurement). 
+
+In Cartesian physics, the Michelson-Morley experiment was really a speed of light measurement, one of many measurements done by human beings through time in the same space (Earth). It shows that the drag is decreasing, which is consistent with the accelerated expansion of spacectime measured by the Hubble and James Web Telescope.
+
+https://www.superphysics.org/material/principles/part-1/chapter-01b/
+
+
     <form id="comments" method="post" action="{{ site.Params.contact_form }}" class="mb-6">
 
     <h4 class="title is-3 has-text-white mt-6">Subscribe</h4>

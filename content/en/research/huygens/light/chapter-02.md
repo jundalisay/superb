@@ -3,7 +3,7 @@ heading: "Chapter 2"
 title: Reflection
 description: Dr. Tillotson argues against the real presence of miracles. His argument is the most concise, elegant, and strong against miracles
 image: /covers/light.jpg
-weight: 30
+weight: 6
 author: Christiaan Huygens
 icon: /avatars/huygens.jpg
 ---

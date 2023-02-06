@@ -65,6 +65,8 @@ We then add the original Poincare spacetime into it in order to create the prope
 
 This Poincare spacetime is the bridge to the original Cartesian 'aethereal air', which in Superphysics is the aethereal layer. 
 
+Thus, we correct Maxwell, Fresnel, Huygens, etc who believed that the aether was the direct medium of light. Instead, we say that the aether is the medium of spacetime and that spacetime is the mediumm of light.
+
 The aether is the material of ideas, minds, and feelings. 
 - The idea of a planet starts in the aethereal layer and goes down into the material layer through galaxies which are aethereal vortices in Poincare spacetime.
 - After billions of years (the 'time' in spacetime), the idea-planet manifests as real planet in a certain space. 
