@@ -14,7 +14,10 @@ icon: "/icons/descartes.png"
 
 The comets that are not in the same heaven as the sun are unable to send out as many rays toward the earth as the comets in the heaven of the sun. 
 - This is true even for those that are ready to enter it.
-- Consequently, we cannot see them unless perhaps when their size is extraordinary. 
+- Consequently, we cannot see them unless perhaps when their size is extraordinary*.
+
+> *Superphysics note: This is why supernovae are used as standard candles for measuring the expansion of the universe
+
 
 This is because most of the rays that the sun sends out toward them are:
 - borne away here and there
@@ -22,15 +25,29 @@ This is because most of the rays that the sun sends out toward them are:
 
 <!-- in the part of the firmament through which they pass.  -->
 
-For example, whereas the comet `CD` receives from the sun, marked `S`, all the rays between the lines `SC` and `SD` and sends back toward the earth all those between the lines `CT` and `DT`,[66] one must imagine that the comet `EF` receives from the same sun only the rays between the lines `SGE` and `SHF` because, since they pass much more easily from S to the surface GH (which I take to be a part of the firmament that they cannot pass beyond), their refraction there must be very great and very much outward. 
+For example, the comet `CD` receives from the `sun` all the rays between the lines `SC` and `SD`. 
+- It sends back to the earth all those between the lines `CT` and `DT`[66]
 
-This diverts many of them from going toward the comet `EF`, given first of all that this surface is curved inward toward the sun, just as you know it should curve when a comet approaches it. But, even if it were completely flat, or even curved in the other direction, most of the rays that the sun sent out to it would not cease to be impeded by the refraction, if not from going up to it, at least from returning from there to the earth. For example, if one supposes the part IK of the firmament to be a portion of a sphere of which the center is at `S`, the rays `SIL` and `SKM` should not bend there at all in going toward the comet LM; 
+The comet `EF` receives from the same sun only the rays between the lines `SGE` and `SHF`.
+- This is because those rays pass much more easily from `sun` to the surface `GH` (which I take to be a part of the firmament that they cannot pass beyond)
+- This makes their refraction very great and very much outward. 
 
-by the same token, however, they should bend greatly in returning from the comet toward the earth, so that they can reach the earth only very feebly and in very small quantity. Beyond that, since this can happen when the comet is still rather far from the heaven that contains the sun (for otherwise, if it were close to that heaven, it would cause the heaven's surface to curve inward), its distance also impedes it from receiving as many rays as when it is ready to enter the heaven. As for the rays it receives from the fixed star at the center of the heaven containing it, it cannot send them back toward the earth any more than the moon, being new, can send back those of the sun.
+This diverts many of them from going toward the comet `EF`, given first of all that this surface is curved inward toward the sun, just as you know it should curve when a comet approaches it. 
+
+But, even if it were completely flat, or even curved in the other direction, most of the rays that the sun sent out to it would not cease to be impeded by the refraction, if not from going up to it, at least from returning from there to the earth. 
+
+For example, if one supposes the part IK of the firmament to be a portion of a sphere of which the center is at `S`, the rays `SIL` and `SKM` should not bend there at all in going toward the comet LM; 
+
+By the same token, however, they should bend greatly in returning from the comet toward the earth, so that they can reach the earth only very feebly and in very small quantity. 
+
+Beyond that, since this can happen when the comet is still rather far from the heaven that contains the sun (for otherwise, if it were close to that heaven, it would cause the heaven's surface to curve inward), its distance also impedes it from receiving as many rays as when it is ready to enter the heaven. As for the rays it receives from the fixed star at the center of the heaven containing it, it cannot send them back toward the earth any more than the moon, being new, can send back those of the sun.
 
 But, what is even more noteworthy regarding those comets is a certain refraction of their rays, which is ordinarily the reason why some of them appear about [the comets] in the form of a tail or of a curl.[67] 
 
 You will easily understand this if you cast your eyes on this figure, where 
+
+
+{{< img src="/graphics/physics/world15bb.gif" alt="Comets" cap="" >}}
 
 Let:
 - `S` be the sun
@@ -44,17 +61,24 @@ Thus, each of them is that much weaker as it is carried farther away from the on
 
 The principal and strongest of these, however, is `EH`, and the feeblest is `ES`. In the same way, `CG` passes principally from `G` toward `I`, but in addition it is also carried away from `S` and toward all the spaces between GI and `GS`. 
 
-Finally, all the other rays that can be imagined between those three rays `CE`, `CB`, and `CG` hold more or less to the nature of each of them, according as they are more or less close. To this I might add that they should be a bit bent toward the sun; but that is in fact not necessary for my purposes, and I often omit many things in order to render those I do explain that much simpler and easier.	
+Finally, all the other rays that can be imagined between those three rays `CE`, `CB`, and `CG` hold more or less to the nature of each of them, according as they are more or less close. 
+
+To this I might add that they should be a bit bent toward the sun; but that is in fact not necessary for my purposes, and I often omit many things in order to render those I do explain that much simpler and easier.	
 
 <!-- Now, this refraction having been supposed, it is manifest that,  -->
 
 When the earth is at `A`, not only should the ray BA cause men on it to see the body of comet `C`, but also the rays `LA`, `KA`, and others like them, which come to their eyes more feebly than `BA`, should cause to appear to them a crown or curl of light uniformly spread out in all directions around the comet (as you see at the place marked 11), at least if they are strong enough to be perceived. 
 
-They can often be strong enough coming from comets, which we suppose to be very large, but not coming from planets, or even from fixed stars, which one must imagine to be smaller. It is also manifest that, when the earth is at M and the comet appears by means of the ray CKM, its curl should appear by means of QM and all the other rays tending toward M, so that it extends farther than before in the direction opposite to the sun, and less far or not at all toward the person looking at it, as you can see here at 22.
+They can often be strong enough coming from comets, which we suppose to be very large, but not coming from planets, or even from fixed stars, which one must imagine to be smaller. 
+
+When the earth is at `M` and the comet appears by means of the ray `CKM`, its curl should appear by means of QM and all the other rays tending toward M, so that it extends farther than before in the direction opposite to the sun, and less far or not at all toward the person looking at it, as you can see here at 22.
 
 Thus appearing longer and longer on the side opposite the sun, to the degree that the earth is farther away from point A, it little by little loses the shape of a curl and is transformed into a long tail, which the comet trails behind it. For example, when the earth is at D, the rays QD and VD make it appear like 33. And, when the earth is at O, the rays VO, EO, and others like them make it appear still longer. 
 
 Finally, when the earth is at Y, one can no longer see the comet because of the interposition of the sun; however, the rays VY, EY, and others like them do not cease to cause its tail still to appear in the shape of a chevron or of a torch, such as here at 44. And one should note that, since the sphere EBG is not always exactly round, nor also any of the others it contains (as is easy to judge from what we have set out), those tails or torches should not always appear exactly straight, nor in fact in the same plane as the sun.
+
+{{< img src="/graphics/physics/world15bc.gif" alt="Balls" cap="" >}}
+
 
 The refraction that causes all of this is of a nature very special and very different from all those commonly observed elsewhere. 
 

@@ -37,7 +37,7 @@ Special medical centres would accommodate invalid people for a certain periods b
 
 This special housing scheme for the poor must be immediately established.
 
-There is the necessity of starting Master Units in each and every district and block of the world. Master Units will be the biggest structure of Ananda Marga. 
+There is the necessity of starting Master Units in each and every district and block of the world. Master Units will be the biggest structure of Ananda Marga.
 
 All Master Units will be the minia ture forms of Ánanda Nagar, and these Master Units will be the main centres for the Ánanda Márgiis. Master Units should be a minimum of five acres. The Saḿskrta name of Master Unit is “Cakranemii” which means “the nucleus of the cakra” (wheel). 
 
