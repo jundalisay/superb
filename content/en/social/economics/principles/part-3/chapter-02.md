@@ -17,3 +17,4 @@ Demand-pull money-price Inflation - prices rise because of excessive demand
 
 Cost-push money-price Inflation - prices rise because of increased costs
 
+The USD is like training wheels for world trade. It's essential to get started with trade, but after humans learn to trade, they can get rid of it to maximize trade. 

@@ -6798,7 +6798,7 @@ body {
   background-color: black;
   background-image: url(/avatars/laotzu.png); }
 
-.lor {
+.lor, .lorentz {
   background-color: darkslateblue;
   background-image: url(/icons/lor.jpg); }
 

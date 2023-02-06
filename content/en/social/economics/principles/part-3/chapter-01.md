@@ -15,6 +15,9 @@ aliases:
 ---
 
 
+<!-- Commercial system focuses on self-interest 
+A lot of work is duplicated 
+coordinates work, investments, resources (supply/demand)    -->
 
 
 In order to address all the demand in society, supply has to be exchanged through a medium. 
