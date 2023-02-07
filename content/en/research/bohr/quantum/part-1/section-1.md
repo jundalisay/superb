@@ -67,26 +67,13 @@ and instructive deduction of Planck’s formula by introducing certain supplemen
 
 Einstein compares the emission or absorption of radiation of frequency ν corresponding to a transition between 2 stationary states with the emission or absorption to be expected on ordinary electrodynamics for a system consisting of a particle executing harmonic vibrations of this frequency. 
 
-In analogy with the fact that on the latter theory such a system will without external excitation emit a radiation of frequency ν, Einstein assumes in A. Einstein, loc. cit. 9 the first place that on the quantum theory there will be a certain probability An
+In analogy with the fact that on the latter theory such a system will without external excitation emit a radiation of frequency `ν`, Einstein assumes in the first place that on the quantum theory there will be a certain probability `An'n''dt` that the system in the stationary state of greater energy, characterised by the letter `n'` in the time interval `dt` will start spontaneously to pass to the stationary state of smaller energy, characterised by the letter n''
 
-n00 dt that the system in the stationary
-state of greater energy, characterised by the letter n
-0
-, in the
-time interval dt will start spontaneously to pass to the stationary state of smaller energy, characterised by the letter n
-00
+Moreover, on ordinary electrodynamics the harmonic vibrator will, in addition to the above mentioned independent emission, in the presence of a radiation of frequency `ν` in the surrounding space, and dependent on the accidental phasedifference between this radiation and the vibrator, emit or absorb radiation-energy. 
 
-Moreover, on ordinary electrodynamics the harmonic vibrator will, in addition to the above mentioned independent emission, in the presence of a radiation of frequency ν in the surrounding space, and dependent on the accidental phasedifference between this radiation and the vibrator, emit or absorb radiation-energy. In analogy with this, Einstein assumes secondly that in the presence of a radiation in the surrounding space, the system will on the quantum theory, in addition to the above mentioned probability of spontaneous transition from the state n 0
-to the state n
-00, possess a
-certain probability, depending on this radiation, of passing
-in the time dt from the state n
-0
-to the state n
-00, as well as
-from the state n
-00 to the state n
-0. 
+In analogy with this, Einstein assumes secondly that in the presence of a radiation in the surrounding space, the system will on the quantum theory, in addition to the above mentioned probability of spontaneous transition from the state n' to the state n'', possess a certain probability, depending on this radiation, of passing
+in the time dt from the state n' to the state n'', as well as from the state n
+00 to the state n'. 
 
 These latter probabilities are assumed to be proportional to the intensity of the surrounding radiation and are denoted by ρνBn 0
 n00 dt and ρνBn

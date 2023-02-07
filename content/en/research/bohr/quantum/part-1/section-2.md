@@ -85,50 +85,32 @@ and m0 its mass for zero velocity, while c is the velocity of
 light.
 Let us now assume that the system performs a periodic
 motion with the period σ, and let us form the expression
-I =
-Z σ
-0
-Xs
-1
-pkq˙k dt, (5)
-which is easily seen to be independent of the special choice
-of coordinates q1, . . . , qs used to describe the motion of the
-system. In fact, if the variation of the mass with the velocity
-is neglected we get
-I = 2 Z σ
-0
-T dt
-17
-and if the relativity modifications are included, we get a quite
-analogous expression in which the kinetic energy is replaced
-by T
-00 =
-P 1
-2m0v
-2p
-1 − v
-2/c2
-.
-Consider next some new periodic motion of the system
-formed by a small variation of the first motion, but which
-may need the presence of external forces in order to be a
-mechanically possible motion. For the variation in I we get
-then
-δI =
-Z σ
-0
-Xs
-1
-( ˙qk δpk + pk δq˙k) dt +
-Xs
-1
-pk q˙k δt
-
-
-
-σ
-0
-,
+
+```elixir
+I = ∫σ0 ∑s1 pkqkdt (5)
+```
+
+which is easily seen to be independent of the special choice of coordinates q1, . . . , qs used to describe the motion of the system. 
+
+In fact, if the variation of the mass with the velocity is neglected we get
+
+```elixir
+I = 2∫σ0 Tdt
+``` 
+
+if the relativity modifications are included, we get a quite analogous expression in which the kinetic energy is replaced by
+
+```elixir
+T'' = ∑ 1/2 m0v2 √ 1-v2/c2
+```
+
+
+Consider next some new periodic motion of the system formed by a small variation of the first motion, but which may need the presence of external forces in order to be a mechanically possible motion. For the variation in I we get then
+
+```elixir
+δI = ∫σ0 ∑s1 (qkσpk + pkσpk) dt + ∑s1 pkqk δt|δ0
+```
+
 where the last term refers to the variation of the limit of the
 integral due to the variation in the period σ. By partial integration of the second term in the bracket under the integral
 we get next
