@@ -115,6 +115,13 @@
 
 [[navbar]]
     parent = "enl"
+    weight = 124
+    name = "Huygens"
+    url = "/research/huygens"
+    pre = "<img src='/avatars/hume.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "enl"
     weight = 125
     name = "Ibn Khaldun"
     url = "/research/ibn-khaldun"

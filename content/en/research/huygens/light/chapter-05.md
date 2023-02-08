@@ -11,11 +11,33 @@ icon: /avatars/huygens.jpg
 
 1.
 
-There is brought from Iceland, which is an Island in the North Sea, in the latitude of 66 degrees, a kind of Crystal or transparent stone, very remarkable for its figure and other qualities, but above all for its strange refractions. The causes of this have seemed to me to be worthy of being carefully investigated, the more so because amongst transparent bodies this one alone does not follow the ordinary rules with respect to rays of light. I have even been under some necessity to make this research, because the refractions of this Crystal seemed to overturn our preceding explanation of regular refraction; which explanation, on the contrary, they strongly confirm, as will be seen after they have been brought under the same principle. In Iceland are found great lumps of this Crystal, some of which I have seen of 4 or 5 pounds. But it occurs also in other countries, for I have had some of the same sort which had been found in France near the town of Troyes in Champagne, and some others which came from the Island of Corsica, though both were [Pg 53]less clear and only in little bits, scarcely capable of letting any effect of refraction be observed.
+A kind of crystal or transparent stone was brought from Iceland which .
 
-2. The first knowledge which the public has had about it is due to Mr. Erasmus Bartholinus, who has given a description of Iceland Crystal and of its chief phenomena. But here I shall not desist from giving my own, both for the instruction of those who may not have seen his book, and because as respects some of these phenomena there is a slight difference between his observations and those which I have made: for I have applied myself with great exactitude to examine these properties of refraction, in order to be quite sure before undertaking to explain the causes of them.
+<!-- The causes of this have seemed to me to be worthy of being carefully investigated, the more so because amongst transparent bodies this one alone does not follow the ordinary rules with respect to rays of light. I have even been under some necessity to make this research,  -->
 
-3. As regards the hardness of this stone, and the property which it has of being easily split, it must be considered rather as a species of Talc than of Crystal. For an iron spike effects an entrance into it as easily as into any other Talc or Alabaster, to which it is equal in gravity.
+I researched on it because its refractions seemed to overturn our preceding explanation of regular refraction.
+
+; which explanation, on the contrary, they strongly confirm, as will be seen after they have been brought under the same principle. 
+
+Some countries have a crystal capable of strange refractions. Iceland has great lumps of it, some of which I have seen of 4 or 5 pounds. 
+
+
+It has been found:
+- in France near the town of Troyes in Champagne
+- in the Island of Corsica
+
+Both were less clear and only in little bits, scarcely capable of letting any effect of refraction be observed.
+
+2.
+
+It was first made known through Mr. Erasmus Bartholinus.
+- He described the Iceland Crystal and its chief phenomena.
+
+<!-- But here I shall not desist from giving my own, both for the instruction of those who may not have seen his book, and because as respects some of these phenomena there is a slight difference between his observations and those which I have made: for I have applied myself with great exactitude to examine these properties of refraction, in order to be quite sure before undertaking to explain the causes of them. -->
+
+3. It is easily split like Talc than of Crystal. 
+
+For an iron spike effects an entrance into it as easily as into any other Talc or Alabaster, to which it is equal in gravity.
 
 
 4. The pieces of it which are found have the figure of an oblique parallelepiped; each of the six faces being a parallelogram; and it admits of being split in three directions parallel to two of these opposed faces. Even in such wise, if you will, that all the six faces are equal and similar rhombuses. The figure here added represents a piece of this Crystal. The obtuse angles of all the parallelograms, as C, D, here, are angles of 101 degrees 52 minutes, [Pg 54]and consequently the acute angles, such as A and B, are of 78 degrees 8 minutes.
