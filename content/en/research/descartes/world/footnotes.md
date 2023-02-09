@@ -117,9 +117,7 @@ It is difficult to render this word into English with full precision. Descartes'
 
 [54] Compare this and the following chapter to Discourses I and II of the Dioptrics, for which they supply the real model of light.
 
-[55] It is important to follow the construction of the diagram here, and hence to modify it. Strictly speaking E is a point, the apex of the visual cone EAD. By taking a neighborhood of points about E, Descartes generates a space, which he also calls E. The light coming to that space is the light contained in all the visual cones having a vertex in the space and a base in the sun, i.e. it is the light contained in the truncated cone FADG, where F and G should lie at the upper corners of the space, as shown in the following figure:
 
-The whole argument seems motivated solely by the need to have a person's eye at E see the whole disk of the sun.
 
 [56] Here again the counterfactual use of the void introduced above; cf. n. 51.
 

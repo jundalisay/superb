@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 13"
-title: "Cartesian Relativity"
+title: "Cartesian Gravitation and Relativity"
 weight: 28
 image: "/covers/world.jpg"
 description: "Bodies that revolve always tend to move away from the centers of the circles they describe"
@@ -22,20 +22,22 @@ There are often diverse causes that act together on the same body.
 - These impede each other's effect.
 - The same body can be thought of as tending in different directions at the same time. 
 
-Thus the parts of the earth tend to:
-- move away from its center when they are considered:
+Thus, the parts of the earth tend to:
+- **move away from its center** when they are considered:
   - all alone
   - as opposed to other parts of the Earth that make up bodies more massive <!-- than they are -->
-- move closer to its center when one considers the force of the aether <!--  parts of the heaven --> pushing them there<!-- , and
+- **move closer to its center** when one considers the force of the aether <!--  parts of the heaven --> pushing them there<!-- , and
 - move away from its center if one considers them . -->
 
-For example, the stone turning in a sling along circle AB tends toward C when it is at point A, if we consider only its agitation all alone.
-
-It tends circularly from `A` to `B`, if we consider its motion as regulated and determined by the length of the cord retaining it.
 
 ![AB curve](/graphics/physics/abc.png)
 
-Finally, the same stone tends toward `E` if, without considering the part of its agitation of which the effect is not impeded, one opposes the other part of it to the resistance that this sling continually makes to it.
+
+For example, the stone turning in a sling along the circle `AB` tends toward `C` when it is at point `A`, if we consider only its agitation all alone.
+
+It tends circularly from `A` to `B`, if we consider its motion as regulated and determined by the length of the cord retaining it.
+
+The same stone tends toward `E` if, without considering the part of its agitation of which the effect is not impeded, one opposes the other part of it to the resistance that this sling continually makes to it.
 - Imagine the inclination this stone has to move from `A` toward `C` as if it were composed of two other inclinations, of which one were to turn along the circle `AB` and the other to rise straight up along the line `VXY`. 
 - Imagine the inclinations were in such a proportion that, if the stone were at the place of the sling marked `V` when the sling was at the place of the circle marked `A`, it should thereafter be at the place marked X when the sling is at B, and at the place marked Y when the sling is at `F`, and thus should always remain in the straight line `ACG`. 
 - Then, knowing that one of the parts of its inclination (to wit, that which carries it along the circle AB) is in no way impeded by the sling, you will easily see that the stone meets resistance only for the other part (to wit, for that which would cause it to move along the line `DVXY` if it were not impeded). 
@@ -43,19 +45,30 @@ Finally, the same stone tends toward `E` if, without considering the part of its
 - From this point of view, when the stone is at point `A`, it tends so truly toward `E` that it is not at all more disposed to move toward `H` than toward `I`, although one could easily persuade oneself of the contrary if one failed to consider the difference between the motion it already has and the inclination to move that remains with it.
 
 
-Each of the parts of the <!-- second element --> aetheral air that compose the heavens in the same way that you think of this stone, to wit, that those which are, say, at `E` tend of their own inclination only toward `P`, but that the resistance of the other parts of the heaven which are above them cause them to tend (i.e. dispose them to move) along the circle `ER`. 
+This stone is similar to the aetheral air that compose the heavens.
+- The aethereal air that are at `E` tend of their own inclination only towards `P`.
+- But the resistance of the other parts of the heaven above them cause them to tend (i.e. dispose them to move) along the circle `ER`. 
 
-In turn, this resistance, opposed to the inclination they have to continue their motion in a straight line, causes them to tend (i.e. is the reason why they make an effort to move) toward M. 
+In turn, this resistance, opposed to the inclination they have to continue their motion in a straight line, causes them to tend (i.e. is the reason why they make an effort to move) toward `M`. 
 
-And thus, judging all the others in the same way, you see in what sense one can say that they tend toward the places that are directly opposite the center of the heaven they compose.
+Thus, judging all the others in the same way, they tend towards the places that are directly opposite the center of the heaven they compose.
 
-But there is still more to consider in the parts of the heaven than in a stone turning in a sling. The parts are continually pushed, both by all those like them between them and the star that occupies the center of their heaven and by the matter of that star. 
+But there is still more to consider in the parts of the heaven than in a stone turning in a sling. 
 
-They are not pushed at all by the others. 
+These parts of heaven are continually pushed by 2 phenomena:
+- by all those like them between them and the star that occupies the center* of their heaven and 
+- by the matter of that star**.
+
+ **Superhysics note: This is modern gravity
+
+
+They are also not pushed at all by the others. 
 
 For example, those at E are not pushed by those at M, or at T, or at R, or at K or at H, but only by all those that are between the two lines AF and DG together with the matter of the sun. 
 
-That is why they tend, not only toward M, but also toward L and toward N, and generally toward all the points which the rays or straight lines, coming from some part of the sun and passing through the place where the parts are, can reach.[55]
+That is why they tend, not only toward M, but also toward L and toward N, and generally toward all the points which the rays or straight lines, coming from some part of the sun and passing through the place where the parts are, can reach.*
+
+> *Translator's Note: We should modify the diagram here. `E` is a point, the apex of the visual cone `EAD`. By taking a neighborhood of points about `E`, Descartes generates a space, which he also calls `E`. The light coming to that space is the light contained in all the visual cones having a vertex in the space and a base in the sun, i.e. it is the light contained in the truncated cone FADG, where F and G should lie at the upper corners of the space, as shown in the following figure The whole argument seems motivated solely by the need to have a person's eye at E see the whole disk of the sun.
 
 Imagine the parts of the aethereal air all alone, as if all the spaces occupied by the aethereal fire, both [the space] where the sun is and the other [spaces], were void. 
 

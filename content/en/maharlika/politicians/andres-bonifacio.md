@@ -19,7 +19,7 @@ However, the main problem with Rizal was that he did not believe that the Philip
 
 ## Bonifacio Did Most of the Work
 
-Andres Bonifacio did all of the work required for a revolution.
+Andres Bonifacio did most of the work required for a revolution.
 
 - He had the moral cause and therefore the strongest feelings for the freedom of the country
 - He had an organization with its laws
@@ -35,10 +35,11 @@ Moreover, Bonifacio really wanted a name change for the Philippines:
 
 Aguinaldo was an opportunist landlord who used his wealth and influence to steal the leadership for his own interests. He used Bonifacio and Luna to gain victories and then killed them when they became threats.
 
-Bonifacio's mistake was he did not form a treaty with the Aguinaldo to set territorial boundaries for their own governments, since civil wars often happen with revolutionary wars. The lumads and the Moros fight each other a lot even before the Spanish came and their solution is to set physical boundaries.
+Bonifacio's mistake was he did not form a treaty with the Aguinaldo to set territorial boundaries for their own governments, since civil wars often happen with revolutionary wars. The lumads and the Moros fight each other a lot even before the Spanish came. Their solution was to set physical boundaries.
 
-The disunity in revolutionary struggles is actually common:
+The disunity during revolutionary struggles is actually common:
 - The American revolution split America into rebels and loyalists
+- The Russians were split between the Red and White armies
 - The Vietnam war split Vietnam into North and South
 
 
@@ -57,7 +58,7 @@ Rizal did not believe in the capabilities of the masses at all:
 
 Felipe-nos surrender to policies of foreigners and vested interests, such as exporting its people as overseas workers as OFWs (Overseas Felipe-no Worker)
 
-On the other hand, Katagalugans (River People) or Maharlikans (free people) has Andres Bonifacio as their national hero. These are free from foreign and vested interests, just as rivers flow freely according to their national interests. 
+On the other hand, Katagalugans (River People) or Maharlikans (free people) have Andres Bonifacio as their national hero. These are free from foreign and vested interests, just as rivers flow freely according to their national interests. 
 
 Tagalogs or Maharlikans make their own policies for the benefit of its own people and are against oppression from:
 - High taxes

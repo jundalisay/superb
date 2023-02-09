@@ -8,7 +8,7 @@ description: "The comets that are not in the same heaven as the sun are unable t
 icon: "/icons/descartes.png"
 ---
 
-> Superphysics Note: This section is under construction
+<!-- > Superphysics Note: This section is under construction -->
 
 
 
@@ -28,6 +28,9 @@ This is because most of the rays that the sun sends out toward them are:
 For example, the comet `CD` receives from the `sun` all the rays between the lines `SC` and `SD`. 
 - It sends back to the earth all those between the lines `CT` and `DT`[66]
 
+{{< img src="/graphics/physics/world15b.gif" alt="Comet orbit" cap="" >}}
+
+
 The comet `EF` receives from the same sun only the rays between the lines `SGE` and `SHF`.
 - This is because those rays pass much more easily from `sun` to the surface `GH` (which I take to be a part of the firmament that they cannot pass beyond)
 - This makes their refraction very great and very much outward. 
@@ -40,14 +43,22 @@ For example, if one supposes the part IK of the firmament to be a portion of a s
 
 By the same token, however, they should bend greatly in returning from the comet toward the earth, so that they can reach the earth only very feebly and in very small quantity. 
 
-Beyond that, since this can happen when the comet is still rather far from the heaven that contains the sun (for otherwise, if it were close to that heaven, it would cause the heaven's surface to curve inward), its distance also impedes it from receiving as many rays as when it is ready to enter the heaven. As for the rays it receives from the fixed star at the center of the heaven containing it, it cannot send them back toward the earth any more than the moon, being new, can send back those of the sun.
+This can happen when the comet is still far from the heaven that contains the sun.
+- If it were close to the sun's heaven, it would cause that heaven's surface to curve inward*.
 
-But, what is even more noteworthy regarding those comets is a certain refraction of their rays, which is ordinarily the reason why some of them appear about [the comets] in the form of a tail or of a curl.[67] 
-
-You will easily understand this if you cast your eyes on this figure, where 
+> *Superphysics note: This is the same as the bending of Einstein's spacetime fabric
 
 
-{{< img src="/graphics/physics/world15bb.gif" alt="Comets" cap="" >}}
+Its far distance also impedes it from receiving as many rays as when it is ready to enter the sun's heaven.
+- That commet receives rays from the fixed star at the center of the heaven containing it.
+- It cannot send those rays back toward the earth any more than the moon, being new, can send back those of the sun.
+
+Those comets posses a certain refraction of their rays.
+- This is why some of them appear around the comets as a tail or a curl*. 
+
+> *Translator's Note: In the Assayer (trans. Drake in Drake and O’Malley, Controversy (see n.45), 190), Galileo describes the phenomenon as a “curl” [chioma]. Descartes’ term is chevelure, which literally means “head of hair”
+
+{{< img src="/graphics/physics/world15c.gif" alt="Comets" cap="" >}}
 
 Let:
 - `S` be the sun
@@ -75,18 +86,34 @@ When the earth is at `M` and the comet appears by means of the ray `CKM`, its cu
 
 Thus appearing longer and longer on the side opposite the sun, to the degree that the earth is farther away from point A, it little by little loses the shape of a curl and is transformed into a long tail, which the comet trails behind it. For example, when the earth is at D, the rays QD and VD make it appear like 33. And, when the earth is at O, the rays VO, EO, and others like them make it appear still longer. 
 
-Finally, when the earth is at Y, one can no longer see the comet because of the interposition of the sun; however, the rays VY, EY, and others like them do not cease to cause its tail still to appear in the shape of a chevron or of a torch, such as here at 44. And one should note that, since the sphere EBG is not always exactly round, nor also any of the others it contains (as is easy to judge from what we have set out), those tails or torches should not always appear exactly straight, nor in fact in the same plane as the sun.
+Finally, when the earth is at `Y`, one can no longer see the comet because of the interposition of the sun.
 
-{{< img src="/graphics/physics/world15bc.gif" alt="Balls" cap="" >}}
+However, the rays `VY`, `EY`, and others like them do not cease to cause its tail still to appear in the shape of a chevron or of a torch, such as here at 44. 
+
+Since the sphere `EBG` is not always exactly round, nor also any of the others it contains (as is easy to judge from what we have set out), those tails or torches should not always appear exactly straight, nor in fact in the same plane as the sun.
+
+{{< img src="/graphics/physics/world15d.gif" alt="Balls" cap="" >}}
 
 
 The refraction that causes all of this is of a nature very special and very different from all those commonly observed elsewhere. 
 
 <!-- But you will not fail to see clearly that it should take place in the manner I have just described to you if you consider that the  -->
 
-Ball H, being pushed toward I, also pushes toward I all those below it down to K, but that the latter, K, being surrounded by many other smaller balls, such as 4, 5, and 6, only pushes 5 toward I, and meanwhile pushes 4 toward L and 6 toward M, and so on. 
+Ball `H` is being pushed toward `I`.
+- This causes `H` to push all those below it down to `K`
 
-Nevertheless, it does so in such a way that it pushes the middle one, 5, much more strongly than the others, 4, 6, and those like them which are on the sides. In the same way, the ball N, being pushed toward L, pushes the small balls 1, 2, and 3, one toward L, the other toward I, and the other toward M; but with this difference, that it pushes 1 the most strongly of all, and not the middle one, 2. 
+But `K` is surrounded by many other smaller balls, such as `4`, `5`, and `6`.
+- It only pushes `5` toward `I`
+- It meanwhile pushes:
+  - `4` toward `L`
+  - `6` toward M, and so on. 
+
+
+It does so in such a way that it pushes the middle one, `5`, much more strongly than the others, `4`, `6`, and those like them which are on the sides.
+
+In the same way, the ball `N`, being pushed toward `L`, pushes the small balls `1`, `2`, and `3`, one toward `L`, the other toward `I`, and the other toward `M`. 
+
+But with this difference, that it pushes 1 the most strongly of all, and not the middle one, 2. 
 
 Moreover, the small balls 1, 2, 3, 4, etc., being thus all pushed at the same time by the other balls N, P, H, P, impede one another from being able to go in the directions L and M as easily as toward the middle, I. Thus, if the whole space LIM were full of similar small balls, the rays of their action would be distributed there in the same manner as I have said are those of the comets within the sphere EBG.
 
