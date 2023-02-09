@@ -17,7 +17,7 @@ A kind of crystal or transparent stone was brought from Iceland which .
 
 I researched on it because its refractions seemed to overturn our preceding explanation of regular refraction.
 
-; which explanation, on the contrary, they strongly confirm, as will be seen after they have been brought under the same principle. 
+<!-- ; which explanation, on the contrary, they strongly confirm, as will be seen after they have been brought under the same principle.  -->
 
 Some countries have a crystal capable of strange refractions. Iceland has great lumps of it, some of which I have seen of 4 or 5 pounds. 
 
@@ -40,7 +40,9 @@ It was first made known through Mr. Erasmus Bartholinus.
 For an iron spike effects an entrance into it as easily as into any other Talc or Alabaster, to which it is equal in gravity.
 
 
-4. The pieces of it which are found have the figure of an oblique parallelepiped; each of the six faces being a parallelogram; and it admits of being split in three directions parallel to two of these opposed faces. Even in such wise, if you will, that all the six faces are equal and similar rhombuses. The figure here added represents a piece of this Crystal. The obtuse angles of all the parallelograms, as C, D, here, are angles of 101 degrees 52 minutes, [Pg 54]and consequently the acute angles, such as A and B, are of 78 degrees 8 minutes.
+4. The pieces of it which are found have the figure of an oblique parallelepiped; each of the six faces being a parallelogram; 
+
+It admits of being split in three directions parallel to two of these opposed faces. Even in such wise, if you will, that all the six faces are equal and similar rhombuses. The figure here added represents a piece of this Crystal. The obtuse angles of all the parallelograms, as C, D, here, are angles of 101 degrees 52 minutes, [Pg 54]and consequently the acute angles, such as A and B, are of 78 degrees 8 minutes.
 
 5. Of the solid angles there are two opposite to one another, such as C and E, which are each composed of three equal obtuse plane angles. The other six are composed of two acute angles and one obtuse. All that I have just said has been likewise remarked by Mr. Bartholinus in the aforesaid treatise; if we differ it is only slightly about the values of the angles. He recounts moreover some other properties of this Crystal; to wit, that when rubbed against cloth it attracts straws and other light things as do amber, diamond, glass, and Spanish wax. Let a piece be covered with water for a day or more, the surface loses its natural polish. When aquafortis is poured on it it produces ebullition, especially, as I have found, if the Crystal has been pulverized. I have also found by experiment that it may be heated to redness in the fire without being in anywise altered or rendered less transparent; but a very violent fire calcines it nevertheless. Its transparency is scarcely less than that of water or of Rock Crystal, and devoid of colour. But rays of light pass through it in another fashion and produce those marvellous refractions the causes of which I am now going to try to explain; reserving for the end of this Treatise the statement of my conjectures touching the formation and extraordinary configuration of this Crystal.
 

@@ -19,16 +19,16 @@ The biggest blow to the aether principle was the failure of the Michelson-Morley
 
 Acccording to 19th century physicists, specifically Maxwell, the aether was the medium on which light traveled.  
 
-In order to detect this 'luminiferous ether', Michelson and Morley created an 'interferometer' to make 2 light rays move in different directions to see if they were travelled differently. 
+In order to detect this 'luminiferous ether', Michelson and Morley created an 'interferometer' to make 2 light rays move in different directions in order to see whether they travelled in different speeds. A difference would mean that the aether was acting on one ray more than the other. 
 
-The result showed that both rays travelled in the same speed, and so the ether did not exist. 
+The result showed that both rays travelled at the same speed, and so the ether did not exist. 
 
 {{< youtube ofLtYnyq-nY >}}
 
 
 ## Lorentz to the Rescue
 
-This result prompted Lorentz to create the concept of space expanding and contracting. 
+To save the aether theory, Lorentz created the concept of space expanding and contracting. It meant that the aether really did act on the 2 beams of light to make them travel at different speeds. However, the aether also acted on the space where the 2 beams traveled in. This cancelled the difference.   
 
 {{< q a="lorentz" >}}
 <p>One therefore comes exactly to the influence of motion on the dimensions, which was shown before to be necessary to explain Michelson's experiment.
@@ -43,7 +43,7 @@ If one assumes the theory of Fresnel, then its meaning rather lies in the fact, 
 
 ## Einstein Destroys the Aether
 
-This malleable space was exploited by the scammer Einstein who added time as Minkowski 4-dimensional space. He then pegged this new 'spacetime' to the speed of light, called `c`, in order to create Special Relativity, and then General Relativity. 
+This malleable space was exploited by the scammer Einstein who added **time** in to the mix in order to create Minkowski 4-dimensional space. He then pegged this new 'spacetime' to the speed of light, called `c`, in order to create Special Relativity, and then General Relativity. 
 
 The huge problem with this (and is the reason why we demonize Einstein as a scammer and [nuclear-weapons promoter](https://www.businessinsider.com/albert-einstein-wrote-letter-us-roosvelt-atomic-bomb-2019-8)) is that **light is part of the electromagnetic (radiant) layer which is inferior to both the spacetime and aetheral layers**.
 
@@ -59,13 +59,13 @@ Fresnel* seems to have forgotten this division and put the aether in the same di
 
 ## Solutions to the Michelson-Morley Result: Revealing the True Aether Drag
 
-Lorentz fixed the misunderstanding of Fresnel by creating a maleable space concept. 
+Lorentz fixed the misunderstanding of Fresnel by creating the concept of a malleable and flexible space. 
 
-We then add the original Poincare spacetime into it in order to create the proper spacetime **THAT IS NOT LIMITED** by Einstein's `c`. This frees Physics and consequently Technology from its current shackles. 
+We then add the **original Poincare spacetime** into it in order to create the proper spacetime **THAT IS NOT LIMITED** by Einstein's `c`. This frees Physics and consequently Technology from its current shackles. 
 
-This Poincare spacetime is the bridge to the original Cartesian 'aethereal air', which in Superphysics is the aethereal layer. 
+This Poincare spacetime is the bridge to the original Cartesian 'aethereal air', which in Superphysics is the aethereal layer.
 
-Thus, we correct Maxwell, Fresnel, Huygens, etc who believed that the aether was the direct medium of light. Instead, we say that the aether is the medium of spacetime and that spacetime is the mediumm of light.
+Thus, we correct Maxwell, Fresnel, Huygens, etc who believed that the aether was the direct medium of light. Instead, we say that the aether is the medium of spacetime and that spacetime is the medium of light.
 
 The aether is the material of ideas, minds, and feelings. 
 - The idea of a planet starts in the aethereal layer and goes down into the material layer through galaxies which are aethereal vortices in Poincare spacetime.
@@ -77,7 +77,7 @@ Metaphysicians (such as historian-philosophers like David Hume and Ibn Khaldun) 
 
 > *A nation's history acts like a training dataset to predict what will happen to it, and is the origin of prophecy. We use machine learning to do the same thing -- [predict election results, recessions, war, etc](https://www.superphysics.org/social/cycles/predictions/). 
 
-In the paradigm of Cartesian physics, Michelson-Morley were really testing the idea-of-the-speed-of-light-in-2-directions through their interferometer.
+In the paradigm of Cartesian physics, **Michelson-Morley were really testing the idea-of-the-speed-of-light-in-2-directions through their interferometer**. 
 
 
 {{< img src="/graphics/physics/michelson.png" alt="The aether drag" cap="The Michelson-Morley actually proved the metaphysical aether drag of the original Cartesian aether" >}}
@@ -93,7 +93,7 @@ According to our 5 Elements model, electromagnetism is inside spacetime and spac
 
 The Michelson-Morley measurement done on earth can be compared with current and very old experiments, also done on earth, in order to reveal the aether drag. 
 
-Another option is to test the speed of light on earth and at another star or galaxy at the same time. This will likewise reveal differences in measurement. The farther the distance, the larger the difference. 
+Another option is to test the speed of light on earth and on another star or galaxy at the same time. This will likewise reveal differences in measurement. The farther the distance, the larger the difference. 
 
 In the case of testing at the same place, the speed of light shows less difference with modern measurements from the 18th century ones. The idea of the speed of light has evolved from 301,000 kilometers per second in 1729 to 299,796 thanks to the Michelson-Morley experiment. 
 
@@ -113,6 +113,8 @@ We actually have tested the aether by making a 1 kilogram mass lighter by action
 
 
 The ancient Egyptians used the aether to make their pyramid blocks lighter, allowing them to have cheaper infrastructure costs.
+
+{{< img src="/photos/objects/egypt.jpg" alt="Pyramids" cap="The pyramids are proof that aether technology can do without electromagnetic technology just as an electronic computer can do without a steam engine to power it [combustion from classical mechanics]." >}}
 
 Hindu monks use it to levitate to show off the superiority of Vedic principles. 
 

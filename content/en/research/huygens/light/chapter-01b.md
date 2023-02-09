@@ -67,17 +67,23 @@ Let:
 
 If light requires 1 hour to traverse the space between the Earth and the Moon, it follows that the Earth having arrived at `B`, the shadow which it casts, or the interruption of the light, will not yet have arrived at the point C, but will only arrive there 1 hour after.
 
-It will then be 1 hour after, reckoning from the moment when the Earth was at B, [Pg 6]that the Moon, arriving at C, will be obscured.
+It will then be 1 hour after, reckoning from the moment when the Earth was at `B`, that the Moon, arriving at `C`, will be obscured. But this obscuration or interruption of the light will not reach the Earth till after another hour. 
 
-But this obscuration or interruption of the light will not reach the Earth till after another hour. Let us suppose that the Earth in these two hours will have arrived at E.
+Let us suppose that the Earth in these 2 hours will have arrived at `E`.
 
-The Earth then, being at E, will see the Eclipsed Moon at C, which it left an hour before, and at the same time will see the sun at A. For it being immovable, as I suppose with Copernicus, and the light moving always in straight lines, it must always appear where it is. 
+The Earth then, being at `E`, will see the Eclipsed Moon at `C`, which it left an hour before. 
+
+At the same time will see the sun at A. For it being immovable, as I suppose with Copernicus, and the light moving always in straight lines, it must always appear where it is. 
 
 But one has always observed, we are told, that the eclipsed Moon appears at the point of the Ecliptic opposite to the Sun; and yet here it would appear in arrear of that point by an amount equal to the angle GEC, the supplement of `AEC`. 
 
-This, however, is contrary to experience, since the angle GEC would be very sensible, and about 33 degrees. 
+This, however, is contrary to experience, since the angle `GEC` would be very sensible, and about 33 degrees. 
 
-According to our computation, which is given in the Treatise on the causes of the phenomena of Saturn, the distance BA between the Earth and the Sun is about twelve thousand diameters of the Earth, and hence four hundred times greater than BC the distance of the Moon, which is 30 diameters. Then the angle ECB will be nearly four hundred times greater than `BAE`, which is five minutes; namely, the path which the earth travels in two hours along its orbit; and thus the angle `BCE` will be nearly 33 degrees. 
+Our computation is written in the Treatise on the causes of the phenomena of Saturn.
+- It says that the distance `BA` between the Earth and the Sun is about 12,000 diameters of the Earth
+  - It is hence 400 times greater than `BC`, the distance of the Moon, which is 30 diameters.
+- It follows that the angle `ECB` will be nearly 400 times greater than `BAE`, which is 5 minutes; namely, the path which the earth travels in 2 hours along its orbit
+  - Thus, the angle `BCE` will be nearly 33 degrees. 
 
 Likewise, the angle CEG, which is greater by 5 minutes.
 
@@ -125,9 +131,15 @@ If one considers the vast size of the diameter `KL`, which according to me is so
 
 But Sound, as I have said above, only travels 180 toises in the same time of one second: hence the velocity of Light is more than six hundred thousand times greater than that of Sound. This, however, is quite another thing from being instantaneous, since there is all the difference between a finite thing and an infinite. Now the successive movement of Light being confirmed in this way, it follows, as I have said, that it spreads by spherical waves, like the movement of Sound.
 
-But if the one resembles the other in this respect, they differ in many other things; to wit, in the first production of the movement which causes them; in the matter in which the movement spreads; and in the manner in which it is propagated. As to that which occurs in the production of Sound, one knows that it is occasioned by the agitation undergone by an entire body, or by a considerable part of one, which shakes all the contiguous air. But the movement of the Light must originate as from each point of the luminous object, else we should not be able to perceive all the different parts of that object, as will be more evident in that which follows. And I do not believe that this movement can be better explained than by supposing that all those of the luminous bodies which are liquid, such as flames, and apparently the sun and the stars, are composed of particles which float in a much more subtle medium which agitates them with great rapidity, and makes them strike against the particles of the ether which surrounds them, and which are much smaller than they. But I hold also that in luminous solids such as charcoal or metal made red hot in the fire, this same movement is caused by the violent [Pg 11]agitation of the particles of the metal or of the wood; those of them which are on the surface striking similarly against the ethereal matter. The agitation, moreover, of the particles which engender the light ought to be much more prompt and more rapid than is that of the bodies which cause sound, since we do not see that the tremors of a body which is giving out a sound are capable of giving rise to Light, even as the movement of the hand in the air is not capable of producing Sound.
+But if the one resembles the other in this respect, they differ in many other things; to wit, in the first production of the movement which causes them; in the matter in which the movement spreads; and in the manner in which it is propagated. As to that which occurs in the production of Sound, one knows that it is occasioned by the agitation undergone by an entire body, or by a considerable part of one, which shakes all the contiguous air. But the movement of the Light must originate as from each point of the luminous object, else we should not be able to perceive all the different parts of that object, as will be more evident in that which follows.
 
-Now if one examines what this matter may be in which the movement coming from the luminous body is propagated, which I call Ethereal matter, one will see that it is not the same that serves for the propagation of Sound. For one finds that the latter is really that which we feel and which we breathe, and which being removed from any place still leaves there the other kind of matter that serves to convey Light. This may be proved by shutting up a sounding body in a glass vessel from which the air is withdrawn by the machine which Mr. Boyle has given us, and with which he has performed so many beautiful experiments. But in doing this of which I speak, care must be taken to place the sounding body on cotton or on feathers, in such a way that it cannot communicate its tremors either to the glass vessel which encloses it, or to the machine; a precaution which has hitherto been neglected. For then after having exhausted all the air one hears no Sound from the metal, though it is struck.
+I do not believe that this movement can be better explained than by supposing that all those of the luminous bodies which are liquid, such as flames, and apparently the sun and the stars, are composed of particles which float in a much more subtle medium which agitates them with great rapidity, and makes them strike against the particles of the ether which surrounds them, and which are much smaller than they. But I hold also that in luminous solids such as charcoal or metal made red hot in the fire, this same movement is caused by the violent agitation of the particles of the metal or of the wood; 
+
+Those of them which are on the surface striking similarly against the ethereal matter. The agitation, moreover, of the particles which engender the light ought to be much more prompt and more rapid than is that of the bodies which cause sound, since we do not see that the tremors of a body which is giving out a sound are capable of giving rise to Light, even as the movement of the hand in the air is not capable of producing Sound.
+
+If one examines what this matter may be in which the movement coming from the luminous body is propagated, which I call Ethereal matter, one will see that it is not the same that serves for the propagation of Sound. 
+
+For one finds that the latter is really that which we feel and which we breathe, and which being removed from any place still leaves there the other kind of matter that serves to convey Light. This may be proved by shutting up a sounding body in a glass vessel from which the air is withdrawn by the machine which Mr. Boyle has given us, and with which he has performed so many beautiful experiments. But in doing this of which I speak, care must be taken to place the sounding body on cotton or on feathers, in such a way that it cannot communicate its tremors either to the glass vessel which encloses it, or to the machine; a precaution which has hitherto been neglected. For then after having exhausted all the air one hears no Sound from the metal, though it is struck.
 
 One sees here not only that our air, which does not penetrate through glass, is the matter by which Sound spreads; but also that it is not the same air but another kind of matter in which Light spreads; since if the air is removed from the vessel the Light does not cease to traverse it as before.
 
