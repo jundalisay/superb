@@ -1,3 +1,22 @@
+Hubble constant 
+
+speed = distance per time
+speed (via doppler) = constant * distance of galaxy  
+constant = 70km/s
+
+P2 Andromeda Messier 81
+
+gravity is the distortion of the energy field
+gravity is attraction of like vibrations based on distortions on the electromagnetheric field
+matter is a vortex whirlpool of energy to become larger vortices  
+atoms are empty spaces
+atom motion is the key 
+2 particles are a tube of energy 
+whirlpool 
+sacetiem are only in the flat placces of electromagentic field
+high energy has no time 
+
+
 No, the aether is the medium for spacetime. Spacetime is the medium for electromagnetism (light and c). 
 
 The speed of light limited to c by spacetime which is limited by the aether to a single universe among infinite multiverses.

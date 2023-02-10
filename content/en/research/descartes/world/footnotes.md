@@ -87,7 +87,7 @@ It is difficult to render this word into English with full precision. Descartes'
 
 [39] The rules are contained in pars. 45-52 of Part II of the Principles; for a handy schematic presentation, see E.J. Aiton, The Vortex Theory of Planetary Motions (New York, 1972), 36.
 
-[40] Sapientia, VIII, 21. The statement was a commonplace of medieval thought and was encountered by every schoolboy in the opening line of Johannes de Sacrobosco's Algorismus vulgaris, the standard arithmetic textbook from the mid-thirteenth to the mid-sixteenth century.
+
 
 [41] To compound the vagueness of the measure of "motion," Descartes here seems to suggest a non-linear gradient of motion in the vortex, though he offers no reason for it.
 
@@ -117,8 +117,6 @@ It is difficult to render this word into English with full precision. Descartes'
 
 [54] Compare this and the following chapter to Discourses I and II of the Dioptrics, for which they supply the real model of light.
 
-
-
 [56] Here again the counterfactual use of the void introduced above; cf. n. 51.
 
 [57] The principle of economy again; cf. n.10.
@@ -133,12 +131,3 @@ It is difficult to render this word into English with full precision. Descartes'
 
 [62] Discourse I.
 
-[63] Thus Descartes removes perhaps the strongest empirical argument against the Copernican system. If, that is, the earth makes an annual circuit about the sun at a distance sufficient to account for observed planetary phenomena, observations of the fixed stars made from opposite sides of the orbit ought to differ by some amount. No one had been able to ascertain any difference, nor would anyone do so until the nineteenth century. Descartes joined Galileo and other defenders by arguing away the point with reference to the immense distance of the fixed stars.
-
-[64] Among the startling telescopic discoveries announced by Galileo in his Copernican works of the 1610s was the composition of the Milky Way; magnification revealed it to consist of a huge number of separate stars.
-
-[65] The novae or "new stars" observed in 1572 and 1604 had much to do with the spread of Copernicanism and of opposition to it.
-
-[66] Note the sloppiness of Descartes' mathematics here. C and D cannot be common points of tangency unless T coincides with S. The error makes clear how little of Descartes' argument in fact rested on mathematical reasoning.
-
-[67] In the Assayer (trans. Drake in Drake and O'Malley, Controversy (see n.45), 190), Galileo describes the phenomenon as a "curl" [chioma]; Descartes' term is chevelure, which literally means "head of hair."

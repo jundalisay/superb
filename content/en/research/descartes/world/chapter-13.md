@@ -38,11 +38,31 @@ For example, the stone turning in a sling along the circle `AB` tends toward `C`
 It tends circularly from `A` to `B`, if we consider its motion as regulated and determined by the length of the cord retaining it.
 
 The same stone tends toward `E` if, without considering the part of its agitation of which the effect is not impeded, one opposes the other part of it to the resistance that this sling continually makes to it.
-- Imagine the inclination this stone has to move from `A` toward `C` as if it were composed of two other inclinations, of which one were to turn along the circle `AB` and the other to rise straight up along the line `VXY`. 
-- Imagine the inclinations were in such a proportion that, if the stone were at the place of the sling marked `V` when the sling was at the place of the circle marked `A`, it should thereafter be at the place marked X when the sling is at B, and at the place marked Y when the sling is at `F`, and thus should always remain in the straight line `ACG`. 
+
+
+Imagine the inclination this stone has to move from `A` toward `C` as if it were composed of 2 other inclinations:
+
+1. One sought to turn along the circle `AB`
+2. Another sought to rise straight up along the line `VXY`
+
+Imagine the inclinations were in the following ratios:
+
+Position of Sling | Position of Stone
+--- | ---
+A | A
+B | C
+X | G
+
+Thus, the stone would always be along line `ACG`.
+
+ <!-- a proportion that, if the stone were at the place of the sling marked `A` `V`  when the sling was at the place of the circle marked `A`, it should thereafter be at the place marked X when the sling is at B, and at the place marked Y when the sling is at `F`, and thus should always remain in the straight line `ACG`.  -->
+
 - Then, knowing that one of the parts of its inclination (to wit, that which carries it along the circle AB) is in no way impeded by the sling, you will easily see that the stone meets resistance only for the other part (to wit, for that which would cause it to move along the line `DVXY` if it were not impeded). 
-- Consequently, it tends (makes an effort) only to move directly away from the center `D`. 
-- From this point of view, when the stone is at point `A`, it tends so truly toward `E` that it is not at all more disposed to move toward `H` than toward `I`, although one could easily persuade oneself of the contrary if one failed to consider the difference between the motion it already has and the inclination to move that remains with it.
+
+Consequently, it tends (makes an effort) only to move directly away from the center `D`. 
+
+From this point of view, when the stone is at `A`, it tends truly toward `earth`.
+- It is not at all more disposed to move toward `H` than toward `I`, although one could easily persuade oneself of the contrary if one failed to consider the difference between the motion it already has and the inclination to move that remains with it.
 
 
 This stone is similar to the aetheral air that compose the heavens.

@@ -7,7 +7,7 @@ image: "/covers/physics.jpg"
 author: Lucien Poincaré
 ---
 
-
+<!-- 
 CHAPTER IV
 
 THE VARIOUS STATES OF MATTER
@@ -57,15 +57,11 @@ CHAPTER XI
 THE FUTURE OF PHYSICS
 
 Persistence of ambition to discover supreme principle in physics—Supremacy of electron theory at present time—Doubtless destined to disappear like others— Constant progress of science predicted—Immense field open before it.
+ -->
 
 
 
-
-
-
-CHAPTER 2: MEASUREMENTS
-
-§ 1. METROLOGY
+## 1. METROLOGY
 
 Not so very long ago, the scholar was often content with qualitative observations. Many phenomena were studied without much trouble being taken to obtain actual measurements. But it is now becoming more and more understood that to establish the relations which exist between physical magnitudes, and to represent the variations of these magnitudes by functions which allow us to use the power of mathematical analysis, it is most necessary to express each magnitude by a definite number.
 

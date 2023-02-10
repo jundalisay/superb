@@ -75,7 +75,9 @@ According to my demonstration in the Dioptrics [62], when the rays meet them obl
 <!-- TB -->
 Those lines `earth-R`, `earth-4`, and ones like them are so extremely long compared to the diameter of Earth's orbit around the sun. 
 - This makes the Earthlings always see the stars as fixed in the firmament. 
-- **This is why astronomers say that they cannot observe parallax in the stars**.[63]
+- **This is why astronomers say that they cannot observe parallax in the stars**.*
+
+> *Translator's Note: Descartes removes the strongest empirical argument against the Copernican system. If, that is, the earth makes an annual circuit about the sun at a distance sufficient to account for observed planetary phenomena, observations of the fixed stars made from opposite sides of the orbit should differ by some amount. No one had been able to ascertain any difference, nor would anyone do so until the 19th century. Descartes joined Galileo and other defenders by arguing away the point with reference to the immense distance of the fixed stars.
 
 <!-- Regarding the number of those stars, consider also that  -->
 
@@ -97,7 +99,9 @@ Stars appear much smaller than they are because of their extreme distance. This 
 - most of them must not appear at all
 - others appear only insofar as the rays of stars joined together render the parts of the firmament through which they pass a bit whiter. This is similar to:
   - the stars which astronomers call "nebulous," or
-  - the great belt of our heaven that the poets pretend to be whitened by the milk of Juno.[64] 
+  - the great belt of our heaven that the poets pretend to be whitened by the milk of Juno*.
+
+> *Translator's Note: Among the startling telescopic discoveries announced by Galileo in his Copernican works of the 1610s was the composition of the Milky Way; magnification revealed it to consist of a huge number of separate stars.
 
 Despite this, the less distant stars are about equal to our sun<!-- , in order to judge that they can appear as large as the largest of our world -->.
 
@@ -126,7 +130,11 @@ After a long time, This makes several stars seem to:
 - change a bit in place without changing in size, or
 - change a bit in size without changing in place. 
 
-Some even begin suddenly to appear or disappear, just as one has seen happen in the real world.[65]
+Some even begin suddenly to appear or disappear, just as one has seen happen in the real world*.
+
+> *Translator's Note: The novae or "new stars" observed in 1572 and 1604 had much to do with the spread of Copernicanism and of opposition to it.
+
+
 
 The planets and the comets that are in the heaven of our sun are made up of <!--  that are in the same heaven as the sun, knowing that the parts of the --> aethereal earth.
 - This has parts <!-- of which they are composed are --> so large or so joined severally together that they can resist the action of light.

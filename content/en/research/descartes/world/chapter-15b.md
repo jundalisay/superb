@@ -26,7 +26,10 @@ This is because most of the rays that the sun sends out toward them are:
 <!-- in the part of the firmament through which they pass.  -->
 
 For example, the comet `CD` receives from the `sun` all the rays between the lines `SC` and `SD`. 
-- It sends back to the earth all those between the lines `CT` and `DT`[66]
+- It sends back to the earth all those between the lines `CT` and `DT`
+<!-- [66] -->
+
+<!-- [66] Note the sloppiness of Descartes' mathematics here. C and D cannot be common points of tangency unless T coincides with S. The error makes clear how little of Descartes' argument in fact rested on mathematical reasoning. -->
 
 {{< img src="/graphics/physics/world15b.gif" alt="Comet orbit" cap="" >}}
 

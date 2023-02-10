@@ -1,0 +1,2 @@
+Especially since we shall need hereafter to know exactly the quantity of this refraction, and since it can quite conveniently be understood by the comparison which I have just used, I believe it is apropos that I mark here to explain it all at once, and that I speak first of reflection, in order to make it all the easier to understand. Let us therefore think that a ball being pushed from A towards B[6] encounters at point B the surface of the earth CBE, which, preventing it from passing further, causes it to turn away; and let's see which way.
+

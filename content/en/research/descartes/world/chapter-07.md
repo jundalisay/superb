@@ -146,7 +146,8 @@ Of all motions, only the straight motion is entirely simple. Its whole nature is
 By contrast, a circular motion or any other motion requires us to at least think of:
 <!-- two of its instants or  --> 
 - two of its [past] parts, and
-- the relation between them.[37]
+- the relation between them.
+<!-- [37] -->
 
 The sophists might say here that <!-- the linear motion occurs instantly --> those parts are linear and not curved. [Thus, curves are still made up of straight lines and therefore every motion is a straight line.]
 <!-- But, so that the philosophers (or rather the sophists) do not find occasion here to exercise their superfluous subtleties, note that I do not thereby say that  rectilinear motion can take place in an instant.-->
@@ -161,7 +162,9 @@ For example, suppose a stone is moving in a sling along the circle marked AB.
 ![AB curve](/graphics/physics/abc.png)
 
 - You perceive its movement at the instant when it arrives at point A
-- It is in the act of moving[38] towards C. Its action is directed in that direction in that instant. The difference is that the movement towards C is in a straight line<!--  show linear even if you can find nothing there that makes its motion circular -->. 
+- It is in the act of moving towards C. Its action is directed in that direction in that instant. The difference is that the movement towards C is in a straight line<!--  show linear even if you can find nothing there that makes its motion circular -->. 
+<!-- [38] -->
+
 
 
 Thus, if the stone begins to leave the sling, **God will continue to preserve it as it is at that moment** [when it <!-- decided to leave --> left the sling]. He will not preserve it with the old inclination to go along the curve AB. Instead, He will preserve its inclination to go straight ahead toward point C.
@@ -181,7 +184,13 @@ But these are the three that will be supported by the mathematicians and evidenc
 <!-- I shall be content with showing you that, besides the three laws that I have explained, I wish to suppose no others but those that most certainly follow from the eternal truths on which the mathematicians are wont to support their most certain and most evident demonstrations;  -->
 <!-- the truths, I say, according to which God Himself has taught us  -->
 
-God disposed all things in number, weight, and measure.[40] The knowledge of those laws is so natural to our souls that we take them for granted and we even assume that those laws would apply in all the universes that He created. <!--   cannot but judge them infallible when we conceive them distinctly, nor doubt that, if --> <!-- God had created many worlds, the laws would be as true in all of them as in this one.  -->
+God disposed all things in number, weight, and measure*.
+
+> *Translator's note: Sapientia, 8, 21. The statement was a commonplace of medieval thought and was encountered by every schoolboy in the opening line of Johannes de Sacrobosco's Algorismus vulgaris, the standard arithmetic textbook from the mid-13th-mid-16th century.
+
+
+
+The knowledge of those laws is so natural to our souls that we take them for granted and we even assume that those laws would apply in all the universes that He created. <!--   cannot but judge them infallible when we conceive them distinctly, nor doubt that, if --> <!-- God had created many worlds, the laws would be as true in all of them as in this one.  -->
 
 Thus, those who can examine <!-- sufficiently --> the consequences of these truths and of our rules will be able to know their effects. <!--  by their causes and (to explain myself in the language of the School) --> They will be able to demonstrate *a priori* everything that can be produced in that <!-- new world --> aethereal world.
 
