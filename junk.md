@@ -17,6 +17,24 @@ sacetiem are only in the flat placces of electromagentic field
 high energy has no time 
 
 
+
+Giọng nói em, như âm thanh trầm,
+Êm đềm như gió mùa xuân.
+Mỗi lời nói, là một nụ hôn,
+Làm tình tràn đầy, trong lòng tôi.
+
+Nghe giọng nói em, như nghe nhạc cổ,
+Êm dịu như gió mùa xuân.
+Cảm giác như mình đang trong mơ,
+Vì giọng nói em, rất đáng yêu.
+
+Giọng nói em, như âm thanh trầm,
+Êm đềm như gió mùa xuân.
+Mỗi lời nói, là một nụ hôn,
+Làm tình tràn đầy, trong lòng tôi.
+
+
+
 No, the aether is the medium for spacetime. Spacetime is the medium for electromagnetism (light and c). 
 
 The speed of light limited to c by spacetime which is limited by the aether to a single universe among infinite multiverses.
