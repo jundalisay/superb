@@ -1,14 +1,16 @@
-+++
-title= "Mortal Sins"
-heading= "Chapter 13-15"
-description= "Research from Montesquieu"
-image= "/covers/spirit.jpg"
-date= "2020-03-10"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-24/chapter-7"
-linkbtext= "Chapter 7"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-24/chapter-16"
-linkftext= "Chapter 16"
-+++
+---
+heading: "Chapter 13-15"
+title: "Mortal Sins"
+linkTitle: "Chapter 13-15"
+weight: 24
+# "2021-09-30"
+description: "THE pious man and the atheist always talk of religion; the one speaks of what he loves, and the other of what he fears"
+image: "/covers/spirit.jpg"
+icon: "/icons/mont.png"
+---
+
+
+
 
 <!-- # Unpardonable Crimes -->
 
@@ -27,7 +29,7 @@ Our past sins should make us afraid of:
 - contracting new ones or 
 - filling up beyond the limit of paternal goodness
 
-<br>
+
 
 ## Chapter 14= How Religion Influences Civil Laws
 
@@ -69,7 +71,7 @@ The people of India believe, that the waters of the Ganges have a sanctifying vi
 
 The idea of a place of rewards has a necessary connection with the idea of the abodes of misery. When they hope for the former without fearing the latter, the civil laws have no longer any influence. Men who think themselves sure of the rewards of the other life, are above the power of the legislator; they look upon death with too much contempt= how shall the man be restrained by laws, who believes that the greatest pain the magistrate can inflict, will end in a moment to begin his happiness?
 
-<br>
+
 
 ## Chapter 15= How false Religious are sometimes corrected by the Civil Laws
 
@@ -82,4 +84,3 @@ Aristotle says that the law permits the fathers of families to repair to the tem
 
 Augustus excluded the youth from assisting at any nocturnal ceremony, unless accompanied by a more aged relation. He revived the Lupercalia and would not allow the young men to run naked.
 
-<br>

@@ -32,7 +32,7 @@ Where there is no difference in the penalty, there should be some in the expecta
 
 Letters of grace are of excellent use in moderate governments. This power which the prince has of pardoning, exercised with prudence, is capable of producing admirable effects. The principle of despotic government, which neither grants nor receives any pardon, deprives it of these advantages.
 
-<br>
+
 
 ## Chapter 17= The Rack
 
@@ -43,7 +43,7 @@ We have before us the example of a nation, blessed with an excellent civil gover
 So many men of learning and genius have written against the custom of torturing criminals, that after them I durst not presume to meddle with the subject. I was going to say, that it might suit despotic states, where whatever inspires fear is the properest spring of government; I was going to say, that the slaves among the Greeks and Romans — But nature cries out aloud, and asserts her rights.
 
 
-<br>
+
 
 ## Chapter 18= Pecuniary and corporal Punishments.
 
@@ -51,7 +51,7 @@ OUR ancestors, the Germans, admitted of none but pecuniary punishments. Those fr
 
 A good legislator takes a just medium; he ordains neither always pecuniary, nor always corporal, punishments.
 
-<br>
+
 
 ## Chapter 19= The Law of Retaliation
 
@@ -59,7 +59,7 @@ THE use of the law of retaliation† is very frequent in despotic countries, whe
 
 The law of the twelve tables admitted two; first, it never condemned to retaliation but when the plaintiff could not be satisfied in any other manner‡= secondly, after condemnation they might pay damages and interest∥, and then the corporal was changed into a pecuniary punishment§.
 
-<br>
+
 
 ## Chapter 20= Of the Punishment of Fathers for the Crimes of their Children.
 
@@ -67,5 +67,5 @@ IN China, fathers are punished for the crimes of their children. This was likewi
 
 Little does it signify to say, that, in China, the father is punished for not having exerted that paternal authority which nature has established and the laws themselves have improved. This still supposes that there is no honour among the Chinese. Amongst us, parents, whose children are condemned by the laws of their country, and children*, whose parents have undergone the like fate, are as severely punished by shame, as they would be, in China, by the loss of their lives.
 
-<br>
+
 

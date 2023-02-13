@@ -28,7 +28,7 @@ Again, in proportion as people are tempted to cheat the farmer of the revenues, 
 To stop smuggling, the tax collector must have the extraordinary means of oppressing, and then the country is ruined.
 
 
-<br>
+
 
 ## Chapter 9: A bad kind of Tax
 
@@ -38,7 +38,7 @@ In some countries, taxes are imposed on the different articles of civil contract
 
 A duty on the paper, on which the deeds are drawn, would be of far greater service.
 
-<br>
+
 
 ## Chapter 10= The Greatness of Taxes depends on the Nature of the Government.
 
@@ -52,7 +52,7 @@ A portion of the fruits of the earth, a capitation, a duty of so much per cent. 
 
 Merchants in despotic countries should have a personal safeguard, to which all due respect should be paid. Without this they would be too weak to dispute with the custom-house officers.
 
-<br>
+
 
 ## Chapter 11= Confiscations
 

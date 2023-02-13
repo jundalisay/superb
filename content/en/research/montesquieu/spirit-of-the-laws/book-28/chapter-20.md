@@ -57,7 +57,7 @@ Let us then conclude that our forefathers were extremely sensible of affronts;
 but that affronts of a particular kind, such as being struck with a certain instrument on a certain part of the body, and in a certain manner, were as yet unknown to them.
 All this was included in the affront of being beaten, and in this case the proportion of the excess constituted the greatness of the outrage.
 
-<br>
+
 
 ## Chapter 21=  A new Reflection upon the Point of Honour among the Germans
 

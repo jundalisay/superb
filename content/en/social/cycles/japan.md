@@ -7,7 +7,7 @@ description : "The failure of Abenomics is due to Keynesian Economics which is f
 author: Juan
 icon: /flags/jp.png
 aliases:
-  /social/cycles/how-to-fix-japan  
+  /social/cycles/how-to-fix-japan
   /analysis/taonomics/why-abenomics-and-keynesian-economics-failed
   /analysis/social-cycles/how-to-fix-japan/
   /solutions/social/how-to-fix-japan/

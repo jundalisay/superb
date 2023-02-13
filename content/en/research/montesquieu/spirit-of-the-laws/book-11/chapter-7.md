@@ -1,16 +1,14 @@
-+++
-title= "The Monarchies we are acquainted with"
-heading= "Chapter 7-11"
-date= 2015-09-28
-image= "/covers/spirit.jpg"
-author= "Montesquieu"
-description= "THE monarchies that we know do not have liberty as their goal. Their only aim is the glory of the subject, the state, and the sovereign"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-11/chapter-6"
-linkbtext= "Chapter 6"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-11/chapter-12"
-linkftext= "Chapter 12"
-icon = "/icons/mont.png"
-+++
+---
+heading: "Chapter 7-11"
+title: "The Monarchies we are acquainted with"
+linkTitle: "Chapter 7-11"
+weight: 8
+description: "THE monarchies that we know do not have liberty as their goal. Their only aim is the glory of the subject, the state, and the sovereign"
+image: "/covers/spirit.jpg"
+icon: "/icons/mont.png"
+---
+
+
 
 
 THE monarchies that we know do not have liberty as their goal. Their only aim is the glory of:
@@ -24,9 +22,9 @@ In a monarchy, the three powers are not distributed on the model of the constitu
 
 If they did not border upon it, monarchy would degenerate into despotic government.
 
-<br>
 
-## Chapter 8= Why the Ancients had not a clear Idea of Monarchy
+
+## Chapter 8: Why the Ancients had not a clear Idea of Monarchy
 
 THE ancients had no notion of a government founded on a body of nobles, and much less on a legislative body compose d of the representatives of the people. 
 
@@ -42,7 +40,7 @@ Such is the origin of the Gothic government amongst us. At first, it was mixt wi
 
 The custom afterwards succeeded of granting letters of infranchisement, and was soon followed by so perfect a harmony be tween the civil liberty of the people, the privileges of the nobility and clergy, and the prince's prerogative, that I really think there never was in the world a government so well tempered as that of each part of Eu rope, so long as it lasted. Surprizing, that the corruption of the governme nt of a conquering nation should have given birth to the best species of co nstitution that could possibly be imagined by man!
 
-<br>
+
 
 ## Chapter 9= Aristotle's Way of thinking
 
@@ -52,7 +50,7 @@ Among the number of monarchies, he ranks the Persian empire and the kingdom of S
 
 The ancients, who were strangers to the  distribution of the three powers in the government of a single person, coul d never form a just idea of monarchy.
 
-<br>
+
 
 ## Chapter 10= What other Politicians thought
 
@@ -60,7 +58,7 @@ TO temper monarchy, Arybas, king of Epirus, found no other remedy than a republi
 
 Two kings were tolerable no where but at Sparta; here they did not form, but were only a part of, the constitution.
 
-<br>
+
 
 ## Chapter 11= The Kings of the heroic Times of Greece
 
@@ -78,4 +76,4 @@ But it could not b e in worse hands than in those of the person to whom the exec
 
 They had not as yet discovered that the  true function of a prince was to appoint judges, and not to sit as judge hi mself. The opposite policy rendered the government of a single person insup portable. Hence all these kings were banished. The Greeks had no notion of  the proper distribution of the three powers in the government of one person ; they could see it only in that of many; and this kind of constitution the y distinguished by the name of polityE280A0.
 
-<br>
+

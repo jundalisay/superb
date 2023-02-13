@@ -44,10 +44,10 @@ Though Biden bears some of the blame for such a rapid withdrawal, the entire US 
 
 The American ignorance on how to build morals<!--  souls, and the metaphysics that leads to it, --> is easily seen in the belated attempts at nation-building <!-- and troop surge --> by the American military. More importantly, it is seen in their policy of starting up a democratically-elected government at a time when the soul and moral glue of Afghan society had been obliterated by the Soviet war*. 
 
-> *Our [Supersociology](/social/supersociology) defines a society as a [collection of minds](/social/supersociology/principles/part-1/chapter-01) that are unified or glued together by the morals of common interest. Afghan society therefore is a union of the different tribal society-minds which are made up of individual personal minds. This union is dissociated by internal discord from heightened ego as selfish-interest, or by external pressures, such as war. The Soviet war dissociated the soul of Afghan society, splitting it back to its components: the Pashtun society-soul, Tajik society-soul, Hazara society-soul, Uzbek society-soul, etc. with weak morals.
+> *Our [Supersociology](/social/supersociology) defines a society as a [collection of minds](/social/supersociology/principles/part-1/chapter-01) that are unified or glued together by the morals of common interest. Afghan society therefore is a union of the different tribal society-minds which are made up of individual personal minds. This union is dissociated by internal discord from heightened ego as selfish-interest, or by external pressures, such as war. The Soviet war dissociated the soul of Afghan society, splitting it back to its components: the Pashtun society-soul, Tajik society-soul, Hazara society-soul, Uzbek society-soul, etc. with weak morals. An example of a multi-tribe society that has successfully been glued is Jordan. 
 
 
-We will apply dialectical analysis according to Supersociology in order to list the mistakes of the US policy in Afghanistan. From there, we can come up with solutions that are better than the ones implemented by Bush to Biden. 
+We will apply dialectical analysis according to Supersociology in order to list the mistakes of the US policy in Afghanistan. From there, we can come up with solutions that are better than the ones implemented from Bush to Biden. 
 
 
 ## The Mistakes of the US
@@ -120,7 +120,7 @@ Successful assimilation, such as what happened during the colonial period, took 
 
 ### Mistake 3: Democracy in a Desert
 
-According to the model, popular working-man's democracy is the third phase of the evolution of society. The Americans started with the third "popular" phase when they should have begun with the first -- the thinking phase. 
+According to the model, a working-man's democracy is the third phase of the evolution of society. The Americans started with the third "popular" phase when they should have begun with the first -- the thinking phase. 
 
 Thinking leads to philosophies. Of all the philosophies, Islam is the natural one for Afghanistan, while democracy is the most unnatural one, as explained in Mistake 1. 
 
@@ -133,7 +133,10 @@ This is supported by Adam Smith:
 
 The US failed to understand that the Middle East is a landlocked, barren,  and inhospitable place where labor is not fairly rewarded by Nature. No matter how much hard work you do planting crops, Nature might not reward you with a harvest. The lands of France, Italy, and the US, on the other hand, are naturally fertile, and so farming labor is rewarded with bountiful harvests. 
 
-The goodness of Mother Nature led to the French, Italian, and Americans developing a civilized culture. In contrast, the harshness of Nature in deserts led to the Arabians, Mongolians, and some Native Americans to develop a barbarous culture that is used to raiding, war, and arbitrary laws. This is why civilized policies like democracy and commercial trade work for civilized countries, while barbarous policies like tyranny and simple laws work for barbarous countries. 
+The goodness of Mother Nature led to the French, Italian, and Americans developing a civilized culture. In contrast, the harshness of Nature in deserts led to the Arabians, Mongolians, and some Native Americans to develop a barbarous culture that is used to raiding, war, and arbitrary laws. This is why civilized policies like democracy and commercial trade work for civilized countries, while barbarous policies like tyranny and simple laws work for barbarous countries*. 
+
+> *Update Jan 2023: This is root of the difference between [fertile Ukraine and barren Russia](/social/cycles/russia)
+
 
 <!-- They seem to have forgotten that democracy in Europe took a long time to develop. It did not emerge until the 1800s, after the French revolution, hundreds of years after the fall of the Roman Empire. 
 
@@ -181,7 +184,7 @@ Phase 4: 2061 | With the parties, Protector, and foreign interests stable in the
 _ | The goal for this phase is to counteract the natural low-productivity and rent-seeking behavior that Islam causes.<br> We had relied on Islam to restore, define, and unify Afghanistan's moral standards for the sake of peace and order. But now, we have to unify that standard with the rest of the non-Islamic world for the sake of growth and development.
 
 
-Ideally, this system aims to transform Afghanistan from a barbarous country into a prosperous democracy, similar to how events transformed the barbaric Anglo-Saxons into the British empire. Realistically, it can either transform Afghanistan either into a dictatorship like Syria, Libya, and Iran, or into an imperfect democracy like Pakistan and the ex-Soviet states. Because of Afghanistan's natural limitations, we cannot expect it to become as multicultural and secular like Malaysia or even Indonesia. 
+Ideally, this system aims to transform Afghanistan from a barbarous country into a prosperous democracy, similar to how events transformed the barbaric Anglo-Saxons into the British empire. Realistically, it can either transform Afghanistan either into a dictatorship like Jordan, Syria, Libya, and Iran, or into an imperfect democracy like Pakistan and the ex-Soviet states. Because of Afghanistan's natural limitations, we cannot expect it to become as multicultural and secular like Malaysia or even Indonesia. 
 
 However, this system will surely excel in eliminating terrorism from the country, which is the main reason that the world thought of Afghanistan in the first place. In addition, it can be modified to rebuild destroyed societies like Libya, Sudan, Iraq, and the Rohingya, and can be implemented after successful coups.  
 

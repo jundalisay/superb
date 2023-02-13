@@ -9,6 +9,8 @@ weight: 2
 
 The frequencies of the lines of the series spectrum of hydrogen may, if we look apart from the fine
 structure of the single lines revealed by instruments of high dispersive power, be represented by the formula
+
+```
 ν = K
 
 1
@@ -18,6 +20,8 @@ n002
 n02
 
 , (35)
+```
+
 where K is a constant, and n
 0 and n
 00 a set of two entire

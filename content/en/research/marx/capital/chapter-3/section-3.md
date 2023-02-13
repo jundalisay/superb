@@ -1,10 +1,15 @@
-+++
-title=  "Other Functions of Money"
-author=  "Karl Marx"
-description=  "Money is the measure of value and the medium of circulation. Gold (or silver) is therefore money."
-image=  "/covers/daskapital.jpg"
-date=  2020-01-27
-+++ 
+---
+title: "Other Functions of Money"
+heading: "Section 3"
+author: "Karl Marx"
+image: "/covers/daskapital.jpg"
+description: "Money is the measure of value and the medium of circulation. Gold (or silver) is therefore money"
+weight: 8
+icon: /icons/marx.png
+# date: "2020-01-31"
+---
+
+
 
 Money is the measure of value and the medium of circulation. Gold (or silver) is therefore money. 
 

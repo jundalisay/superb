@@ -5,6 +5,7 @@ heading: "Section 27"
 weight: 50
 description: "Einstein explains General Relativity"
 image: "/covers/rel.jpg"
+icon: "/icons/einbla.png"
 ---
 
 

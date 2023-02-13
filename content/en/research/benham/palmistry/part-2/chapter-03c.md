@@ -1,6 +1,6 @@
 ---
 title: "Grille, Cross-bars, Circle, Trident, Star"
-heading: "Chapter 3c of Part 2"
+heading: "Chapter 3c"
 # date: 2021-11-20
 weight: 11
 image: "/photos/objects/hand.jpg"

@@ -1,19 +1,21 @@
+---
+title: "Religion in General"
+heading: "Chapter 1-4"
+weight: 2
+image: "/covers/spirit.jpg"
+author: "Montesquieu"
+description: "Liberty is favoured by the Nature and Proportion of Punishments"
+icon: "/icons/mont.png"
+---
 
 
 
-+++
-title= "Religion in General"
-heading= "Chapter 1-4"
-description= "Research from Montesquieu"
-image= "/covers/spirit.jpg"
-date= "2020-03-10"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-23/chapter-28"
-linkbtext= "Chapter 22"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-24/chapter-13"
-linkftext= "Chapter 3"
-+++
 
-AS amidst several degrees of darkness we may form a judgment of those which are the least thick, and among precipices, which are the least deep; so we may search among false religions for those that are most conformable to the welfare of society; for those which, though they have not the effect of leading men to the felicity of another life, may contribute most to their happiness in this.
+Amidst several degrees of darkness, we can judge those which are the least thick.
+
+Among precipices, we can judge those which are which are the least deep.
+
+Likewise, we may search among false religions for those that are most conformable to the welfare of society; for those which, though they have not the effect of leading men to the felicity of another life, may contribute most to their happiness in this.
 
 I shall examine therefore the several religions of the world, in relation only to the good they produce in civil society; whether I speak of that which has its root in heaven, or of those which spring from the earth.
 
@@ -23,7 +25,7 @@ With regard to the true religion, a person of the least degree of impartiality m
 
 The Christian religion, which ordains that men should love each other, would, without doubt, have [159] every nation blest with the best civil, the best political laws; because these, next to this religion, are the greatest good that men can give and receive.
 
-<br>
+
 
 ## Chapter 2= A Paradox of Mr. Bayle’s
 
@@ -45,7 +47,7 @@ The question is not to know, whether it would be better that a certain man, or a
 
 To diminish the horror of atheism, they lay too much to the charge of idolatry. It is far from being true, that when the ancients raised altars to a particular vice, they intended to shew that they loved the vice; this signified, on the contrary, that they hated it. When the Lacedæmonians erected a temple to Fear, it was not to shew that this warlike nation desired, that he would in the midst of battle possess the hearts of the Lacedæmonians. They had deities to whom they prayed not to inspire them with guilt; and others whom they besought to shield them from it.
 
-<br>
+
 
 ## Chapter 3= A Moderate Government is Best for Christianity; A Despotic One is Best for Islam
 
@@ -71,7 +73,7 @@ It is owing to this law of nations, that amongst us, victory leaves these great 
 
 Europeans are not at present more disunited than the people and the armies, or even the armies amongst themselves, were under the Roman empire, when it was become a despotic and military government. On the one hand, the armies engaged in war against each other; and, on the other, they pillaged the cities, and divided or confiscated the lands.
 
-<br>
+
 
 ## Chapter 4= Consequences from the Character of Christianity and Islam
 
@@ -83,5 +85,5 @@ It is a misfortune to human nature, when religion is given by a conqueror. Islam
 
 Sabbaco was one of the pastoral kings of Egypt. His story is very extraordinary. The tutelar god of Thebes appeared to him in a dream and ordered him to put to death all the priests of Egypt. He judged, that the gods were displeased at his being on the throne, since they commanded him to commit an action contrary to their ordinary pleasure; and therefore he retired into Ethiopia.
 
-<br>
+
 

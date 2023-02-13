@@ -1,14 +1,14 @@
-+++
-title= "The Laws of Perfection in Religion"
-heading= "Chapter 7-12"
-description= "Research from Montesquieu"
-image= "/covers/spirit.jpg"
-date= "2020-03-10"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-22"
-linkbtext= "Chapter 22"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-3"
-linkftext= "Chapter 3"
-+++
+---
+title: "The Laws of Perfection in Religion"
+heading: "Chapter 7"
+weight: 2
+image: "/covers/spirit.jpg"
+author: "Montesquieu"
+description: "Liberty is favoured by the Nature and Proportion of Punishments"
+icon: "/icons/mont.png"
+---
+
+
 
 HUMAN laws are made to direct the will. These should give precepts, not counsels.
 
@@ -22,7 +22,7 @@ Celibacy was advised by Christianity. When they made it a law, it became necessa
 
 The legislator wearied himself and he wearied society, when he should have given it as counsel instead.<!--  to make men execute by precept, what those who love perfection would have executed as counsel. -->
 
-<br>
+
 
 ## Chapter 8= The Connection between Moral and Religious Laws
 
@@ -31,13 +31,13 @@ IN a country so unfortunate as to have a religion that God has not revealed, it 
 The principal points of religion of the inhabitants of Pegu* are, not to commit murder, not to steal, to avoid uncleanness, not to give the least uneasiness to their neighbour, but to do him, on the contrary, all the good in their power. With these rules they think they should be saved in any religion whatsoever. From hence it proceeds, that those people, though poor and proud, behave with gentleness and compassion to the unhappy.
 
 
-<br>
+
 
 ## Chapter 9= The Essenes
 
 THE Essenes† made a vow to observe justice to mankind, to do no ill to any person, upon whatsoever account, to keep faith with all the world, to hate injustice, to command with modesty, always to side with truth, and to fly from all unlawful gain.
 
-<br>
+
 
 ## Chapter 10= The Stoics
 
@@ -53,7 +53,7 @@ While the Stoics looked upon riches, human grandeur, grief, disquietudes and ple
 
 Born for society, they all believed that it was their destiny to labour for it; with so much the less fatigue, as their rewards were all within themselves. Happy by their philosophy alone, it seemed as if only the happiness of others could increase theirs.
 
-<br>
+
 
 ## Chapter 11= Contemplation
 
@@ -67,11 +67,11 @@ If other causes besides these concur to disengage their affections; for instance
 The religion of the Gaurs formerly rendered Persia a flourishing kingdom; it corrected the bad effects of despotic power. The same empire is now destroyed by the Mahometan religion.
 
 
-<br>
+
 
 ## Chapter 12= Penances
 
 PENANCES ought to be joined with the idea of labour, not with that of idleness; with the idea of good, not with that of super-eminent; with the idea of frugality, not with that of avarice.
 
-<br>
+
 

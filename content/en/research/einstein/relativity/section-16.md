@@ -5,6 +5,7 @@ weight: 26
 # date: 2022-04-02
 description: "Special Relativity is proven by Starlight, Electrons, and the lack of Aether drift"
 image: "/covers/rel.jpg"
+icon: "/icons/einbla.png"
 ---
 
 

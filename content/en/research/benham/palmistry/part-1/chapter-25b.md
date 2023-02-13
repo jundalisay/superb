@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 25b Part 1 "
+heading: "Chapter 25b"
 title: "The Qualities of a Venusian"
 description: "He is often the victim of rogues, who, knowing his sympathetic nature and generosity, impose upon him with ease"
 weight: 134

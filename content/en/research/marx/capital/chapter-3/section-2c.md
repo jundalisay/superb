@@ -1,11 +1,14 @@
-+++
-title=  "Coin and symbols of value"
-heading=  "Section 2c"
-author=  "Karl Marx"
-image=  "/covers/daskapital.jpg"
-description=  "The change of form, C—M—C, by which the circulation of the material products of labour is brought about, requires that a given value in the shape of a commodity shall begin the process"
-date=  2020-01-28
-+++
+---
+title: "Coin and Symbols of Value"
+heading: "Section 2c"
+author: "Karl Marx"
+image: "/covers/daskapital.jpg"
+description: "Money takes the shape of coin because it is the circulating medium"
+weight: 8
+icon: /icons/marx.png
+# date: "2020-01-31"
+---
+
 
 
 Money takes the shape of coin because it is the circulating medium. 

@@ -36,7 +36,7 @@ The viceroy of Goa granted exclusive privileges to particular persons.
 
 The people had no confidence in these men. The commerce declined by the perpetual change of those to whom it was entrusted. Nobody took care to improve it, or to leave it entire to his successor. In short, the profit centered in a few hands, and was not sufficiently extended.
 
-<br>
+
 
 ## Chapter 21= The Commerce of the Nobility in a Monarchy
 
@@ -52,7 +52,7 @@ It is contrary to the spirit of monarchy, to admit the nobility into commerce.
 
 The custom of suffering the nobility of England to trade, is one of those things which has there mostly contributed to weaken the monarchical government.
 
-<br>
+
 
 ## Chapter 22= A singular Reflection
 

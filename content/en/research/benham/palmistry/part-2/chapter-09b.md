@@ -1,4 +1,5 @@
 ---
+heading: "Chapter 9b"
 title: "How to Read the Affection Lines"
 weight: 52
 author: William Benham

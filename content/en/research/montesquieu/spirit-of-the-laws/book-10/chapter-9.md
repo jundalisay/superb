@@ -37,7 +37,7 @@ IT is not sufficient, in those conquests , to let the conquered nation enjoy the
 
 The French have been driven nine times o ut of Italy, because, as historians say,E280A0 of their insolent familiarities with the fair s ex. It is too much for a nation to be obliged to bear, not only with the pr ide of conquerors, but with their incontinence and indiscretion= these are, without doubt, most grievous and intolerable, as they are the source of in finite outrages.
 
-<br>
+
 
 ## Chapter 12= A Law of Cyrus
 
@@ -46,7 +46,7 @@ FAR am I from thinking that a good law w hich Cyrus made to oblige the Lydians t
 
 Aristodemus, tyrant of CumC3A6,E280A1 used all his endeav ours to banish courage, and to enervate the minds of youth. He ordered that boys should let their hair grow in the same manner as girls; that they sho uld deck it with flowers, and wear long robes of different colours down to  their heels; that, when they went to their masters of music and dancing, th ey should have women with them to carry their umbrelloes, perfumes, and fan s, and to present them with combs and looking-glasses whenever they bathed. This education lasted till the age of twenty; an education that could be a greeable to none but to a petty tyrant, who exposes his sovereignty to defe nd his life.
 
-<br>
+
 
 ## Chapter 13= Charles 12th
 

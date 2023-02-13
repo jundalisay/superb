@@ -1,6 +1,7 @@
 ---
 title: "Material Superphysics Principles"
 linkTitle: "Principles"
+weight: 2
 subtitle: "We replace Einstein Physics and some aspects of Newtonian Physics"
 heading: From Socrates to Poincare
 image: "/covers/principles.png"

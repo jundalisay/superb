@@ -57,7 +57,7 @@ These led to the abuse of abortion.
 
 THE regulations made by the Romans to increase the number of their citizens, had their effect, while the republic, in the full vigour of her constitution, had nothing to repair but the losses she sustained by her courage, by her intrepidity, by her firmness, her love of glory, and of virtue. But soon the wisest laws could not re-establish what a dying republic, what a general anarchy, what a military government, what a rigid empire, what a proud despotic power, what [152] a feeble monarchy, what a stupid, weak, and superstitious court had successively pulled down. It might indeed be said, that they conquered the world only to weaken it, and to deliver it up defenceless to barbarians. The Gothic nations, the Getes, the Saracens, and Tartars, by turns harrassed them=  and soon the barbarians had none to destroy but barbarians. Thus, in fabulous times, after the inundations and the deluge, there arose out of the earth armed men, who exterminated one another.
 
-<br>
+
 
 ## Chapter 24=  The Changes in Europe's Population
 
@@ -67,7 +67,7 @@ I have not time to treat fully of this subject. But I shall cite the prodigious 
 
 It is the perpetual re-union of many little states that has produced this diminution. Formerly, every village of France was a capital; there is at present only one large one=  every part of the state was a center of power; at present, all has a relation to one center; and this center is, in some measure, the state itself.
 
-<br>
+
 
 ## Chapter 25=  continued
 
@@ -75,13 +75,13 @@ EUROPE, it is true, has for these two ages past greatly increased its navigation
 
 We must not judge of Europe as of a particular state engaged alone in an extensive navigation. This state would increase in people, because all the neighbouring nations would endeavour to have a share in this commerce; and mariners would arrive from all parts. Europe, separated from the rest of the world by religion†, by vast seas and desarts, cannot be repaired in this manner.
 
-<br>
+
 
 ## Chapter 26=  Consequences
 
 FROM all this we may conclude, that Europe is at present in a condition to require laws to be made [154] in favour of the propagation of the human species. The politics of the ancient Greeks incessantly complain of the inconveniencies attending a republic, from the excessive number of citizens; but the politics of this age call upon us to take proper means to increase ours.
 
-<br>
+
 
 ## Chapter 27=  the French Law to encourage Population Growth
 

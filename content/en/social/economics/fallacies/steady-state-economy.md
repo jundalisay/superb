@@ -3,10 +3,6 @@ title: "The Fallacy of the Steady State Economy"
 heading: "Clearing Up Adam Smith's 200-year Limit"
 image: /graphics/econ/steady.jpg
 description : "The Steady State Economy is a fallacy that leads to draconian policies"
-linkb: "/social/economics/fallacies/surplus"
-linkbtext: producers-consumers-surplus
-linkf: "/social/economics/fallacies/resource-based-economy"
-linkftext: resource based economy
 author: Juan
 icon: /icons/pantry.png
 aliases:

@@ -41,7 +41,7 @@ And scatter’st where thou go’st the kindly seeds of love.
 
 Female animals have an almost constant fecundity. But in the human species, the manner of thinking, the character, the passions, the humour, the caprice, the idea of preserving beauty, the pain of childbearing, and the fatigue of a too numerous family, obstruct propagation a thousand different ways.
 
-<br>
+
 
 ## Chapter 2=  Marriage
 
@@ -60,14 +60,14 @@ Women who have submitted to a public prostitution, cannot have the conveniency o
 It follows from all this, that public continence is naturally connected with the propagation of the species.
 
 
-<br>
+
 
 ## Chapter 3=  Children
 
 IT is a dictate of reason, that when there is a marriage, children should follow the station or condition of the father; and that when there is not, they can belong to the mother only.*
 
 
-<br>
+
 
 ## Chapter 4=  Families
 
@@ -88,7 +88,7 @@ There are countries, where a wife of the second rank enjoys nearly the same hono
 
 By means of this fiction, they have no bastard children; and where such a fiction does not take place, it is obvious, that a law to legitimate the children of concubines, must be considered as an act of violence, as the bulk of the nation would be stigmatised by such a decree. Neither is there any regulation in those countries, with regard to children born in adultery. The recluse lives of women, the locks, the inclosures, and the eunuchs, render all infidelity to their husbands so difficult, that the law judges it impossible. Besides, the same sword would exterminate the mother and the child.
 
-<br>
+
 
 ## Chapter 6=  Bastards in different Governments
 
@@ -110,5 +110,5 @@ Aristotle informs us=
 - that in many cities where there was not enough citizens, their bastards succeeded to their possessions
 - that when there was a proper number, they did not inherit.
 
-<br>
+
 

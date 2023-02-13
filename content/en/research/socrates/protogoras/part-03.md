@@ -1,4 +1,29 @@
-When we entered, we found Protagoras taking a walk in the cloister; and next to him, on one side, were walking Callias, the son of Hipponicus, and Paralus, the son of Pericles, who, by the mother's side, is his half-brother, and Charmides, the son of Glaucon. On the other side of him were Xanthippus, the other son of Pericles, Philippides, the son of Philomelus; also Antimoerus of Mende, who of all the disciples of Protagoras is the most famous, and intends to make sophistry his profession. A train of listeners followed him; the greater part of them appeared to be foreigners, whom Protagoras had brought with him out of the various cities visited by him in his journeys, he, like Orpheus, attracting them his voice, and they following (Compare Rep.). I should mention also that there were some Athenians in the company. Nothing delighted me more than the precision of their movements: they never got into his way at all; but when he and those who were with him turned back, then the band of listeners parted regularly on either side; he was always in front, and they wheeled round and took their places behind him in perfect order.
+---
+title: "Protagoras the Sophist"
+heading: "Part 3"
+weight: 8
+author: Plato
+image: "/covers/prot.png"
+description: "When we entered, we found Protagoras taking a walk in the cloister"
+icon: "/icons/soc.png"
+---
+
+
+When we entered, we found Protagoras taking a walk in the cloister.
+
+Next to him on one side were walking:
+- Callias, the son of Hipponicus
+- Paralus, the son of Pericles, who, by the mother's side, is his half-brother
+- Charmides, the son of Glaucon. 
+
+On the other side of him were:
+- Xanthippus, the other son of Pericles
+- Philippides, the son of Philomelus
+- Antimoerus of Mende, who of all the disciples of Protagoras is the most famous, and intends to make sophistry his profession. 
+
+A train of listeners followed him, most of them were foreigners, whom Protagoras had brought with him out of the various cities visited by him in his journeys, he, like Orpheus, attracting them his voice, and they following (Compare Rep.). 
+
+There were some Athenians in the company. Nothing delighted me more than the precision of their movements: they never got into his way at all; but when he and those who were with him turned back, then the band of listeners parted regularly on either side; he was always in front, and they wheeled round and took their places behind him in perfect order.
 
 After him, as Homer says (Od.), 'I lifted up my eyes and saw' Hippias the Elean sitting in the opposite cloister on a chair of state, and around him were seated on benches Eryximachus, the son of Acumenus, and Phaedrus the Myrrhinusian, and Andron the son of Androtion, and there were strangers whom he had brought with him from his native city of Elis, and some others: they were putting to Hippias certain physical and astronomical questions, and he, ex cathedra, was determining their several questions to them, and discoursing of them.
 

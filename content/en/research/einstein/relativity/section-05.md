@@ -5,6 +5,7 @@ heading: "Section 5"
 weight: 10
 description: "The principle of relativity must therefore apply with great accuracy in mechanics since a broad, general principle that holds with exactness in one domain of phenomena should also be valid for another"
 image: "/covers/rel.jpg"
+icon: "/icons/einbla.png"
 ---
 
 

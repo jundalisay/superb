@@ -28,7 +28,7 @@ In republics, it is plain, that as many formalities, at least, are necessary as 
 
 In republican governments, men are all equal; equal they are, also, in despotic governments= in the former, because they are every thing; in the latter, because they are nothing.
 
-<br>
+
 
 ## Chapter 3= In what Governments, and in what Cases, the Judges ought to determine according to the express Letter of the Law.
 
@@ -48,4 +48,3 @@ The Romans introduced fet forms of actions†, after the example of the Greeks, 
 
 Hence it followed, that the Roman judges granted only the simple demand, without making any addition, deduction, or limitation. But the prætors devised other forms of actions, which were called ex bona fide, where the method of pronouncing sentence was left to the disposition of the judge. This was more agreeable to the spirit of monarchy. Hence it is a saying among the French lawyers, that, in France‡, all actions are ex bona fide.
 
-<br>

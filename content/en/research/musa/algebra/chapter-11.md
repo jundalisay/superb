@@ -1,17 +1,14 @@
-+++
-title=  "Computation Of Returns"
-heading=  "Chapter 11"
-date=  2020-01-30
-image=  "/covers/algebra.jpg"
-description=  "Return of the Dowry"
-linkbtext=  "Chapter 10"
-linkb=  "/research/musa/algebra/chapter-10"
-linkftext=  "Chapter 12"
-linkf=  "/research/musa/algebra/chapter-12"
-draft=  true
-+++
+---
+heading: Chapter 11
+title: "Marriage"
+weight: 80
+image: "/covers/algebra.jpg"
+description: "Three kinds of numbers in calculations"
+draft: true
+---
 
-On Marriage, man, in
+
+, man, in
 marriage
 in Illness.
 his last illness, marries a wife,

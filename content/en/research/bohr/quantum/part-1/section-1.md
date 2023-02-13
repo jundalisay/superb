@@ -1,8 +1,9 @@
 ---
-heading: "Section 2"
+heading: "Section 1"
 title: "General principles"
-description: "Part 1 showed that the problem of the fixation of the stationary states of a periodic system of several degrees of freedom, which is subject to the perturbing influence of a small external field"
-weight: 6
+description: "The quantum theory of line-spectra rests upon the following fundamental assumptions"
+weight: 4
+# date: 2023-02-01
 image: "/covers/quantum.jpg"
 author: Niels Bohr
 ---
@@ -15,7 +16,7 @@ The quantum theory of line-spectra rests upon the following fundamental assumpti
 
 These states will be denoted as the “stationary states” of the system.
 
-2 The radiation absorbed or emitted during a transition between two stationary states is “unifrequentic” and possesses a frequency ν, given by the relation: 
+2. The radiation absorbed or emitted during a transition between two stationary states is “unifrequentic” and possesses a frequency ν, given by the relation: 
 
 ```elixir
 E' - E'' = hv (1)

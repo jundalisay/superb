@@ -1,19 +1,20 @@
-+++
-title= "Religious Sentiments"
-heading= "Chapter 1"
-description= "THE pious man and the atheist always talk of religion; the one speaks of what he loves, and the other of what he fears"
-image= "/covers/spirit.jpg"
-date= "2020-03-10"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-22"
-linkbtext= "Chapter 22"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-3"
-linkftext= "Chapter 3"
-+++
+---
+heading: "Chapter 1"
+title: "Religious Sentiments"
+linkTitle: "Chapter 1"
+weight: 24
+# "2021-09-30"
+description: "THE pious man and the atheist always talk of religion; the one speaks of what he loves, and the other of what he fears"
+image: "/covers/spirit.jpg"
+icon: "/icons/mont.png"
+---
+
+
 
 
 THE pious man and the atheist always talk of religion; the one speaks of what he loves, and the other of what he fears.
 
-<br>
+
 
 ## Chapter 2: Motives to Religion 
 
@@ -41,7 +42,7 @@ In order to raise an attachment to religion, it is necessary that it should incu
 
 When external worship is attended with great magnificence, it flatters our minds, and strongly attaches us to religion. The riches of temples, and those of the clergy, greatly affect us. Thus, even the misery of the people, is a motive that renders them fond of a religion, which has served as a pretext to those who were the cause of their misery.
 
-<br>
+
 
 ## Chapter 3= Temples 
 

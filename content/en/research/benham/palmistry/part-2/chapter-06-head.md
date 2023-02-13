@@ -1,6 +1,6 @@
 ---
 title: "The Line of Head"
-heading: "Chapter 6 of Part 2"
+heading: "Chapter 6 "
 # date: 2021-11-20
 weight: 26
 image: "/photos/objects/hand.jpg"

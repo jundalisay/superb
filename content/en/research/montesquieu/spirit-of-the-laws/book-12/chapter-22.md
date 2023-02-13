@@ -1,14 +1,15 @@
-+++
-title= "Things that strike at Liberty in Monarchies"
-description= "LIBERTY often has been weakened in monar chies by a thing of the least use in the world to the prince"
-date= 2015-09-25
-image= "/covers/spirit.jpg"
-author= "Montesquieu"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-12/chapter-18"
-linkbtext= "Chapter 18"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-12/chapter-25"
-linkftext= "Chapter 25"
-+++
+---
+title: "Things that strike at Liberty in Monarchies"
+heading: "Chapter 22"
+# date: 2015-09-30
+weight: 2
+image: "/covers/spirit.jpg"
+author: "Montesquieu"
+description: "LIBERTY often has been weakened in monar chies by a thing of the least use in the world to the prince"
+icon: "/icons/mont.png"
+---
+
+
 
 LIBERTY often has been weakened in monar chies by a thing of the least use in the world to the prince. This is the naming of commissioners to try a private person.
 
@@ -16,7 +17,7 @@ The prince himself derives so very littl e advantage from those commissioners, t
 
 Upon the arraigning of a peer, under Henry 8th it was customary to try him by a committee of the house of lords=  by which means he put to death as many peers as he pleased.
 
-<br>
+
 
 ## Chapter 23= Spies in Monarchies
 
@@ -28,7 +29,7 @@ Let him not be afraid= he Edition= cur rent; Page= [267] cannot imagine how natu
 
 A proof of his being beloved is, that his subjects have a confidence in him= what the minister refuses, they imagine the prince woul d have granted. Even under public calamities they do not accuse his person= they are apt to complain of his being misinformed or beset by corrupt men= Did the prince but know, say the people= these words are a kind of invocation, and a proof of the confidence they have in his person.
 
-<br>
+
 
 ## Chapter 24= Anonymous Letters
 

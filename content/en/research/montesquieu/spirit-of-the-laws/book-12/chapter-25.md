@@ -1,14 +1,14 @@
-+++
-title= "The Manner of governing in Monarchies"
-description= "THE royal authority is a spring that should move with the greatest freedom and ease."
-date= 2015-09-09
-image= "/covers/spirit.jpg"
-author= "Montesquieu"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-12/chapter-22"
-linkbtext= "Chapter 22"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-13/chapter-1"
-linkftext= "Book 13"
-+++
+---
+title: "The Manner of governing in Monarchies"
+heading: "Chapter 25"
+# date: 2015-09-30
+weight: 6
+image: "/covers/spirit.jpg"
+author: "Montesquieu"
+description: "THE royal authority is a spring that should move with the greatest freedom and ease"
+icon: "/icons/mont.png"
+---
+
 
 THE royal authority is a spring that should move with the greatest freedom and ease. 
 
@@ -18,13 +18,13 @@ There are some cases in which a sovereign should exert the full extent of his po
 
 The whole felicity of monarchies consist s in the opinion which the subjects entertain of the lenity of the governme nt. A weak minister is ever ready to remind us of our slavery. But, grantin g even that we are slaves, he should endeavour to conceal our misery from u s. All he can say or write is, that the prince is uneasy, that he is surpri sed, and that he will redress all grievances. There is a certain ease in co mmanding= the prince ought only to encourage, and let the laws menace*.
 
-<br>
+
 
 ## Chapter 26= In a Monarchy, the Prince should be of easy Access.
 
 THE utility of this maxim will appear fr om the inconveniency attending the contrary practice. E2809CThe Czar Pet er I. says the sieur Perry E280A1, has published a new edict, by which he forbids any of his su bjects to offer him a petition till after having presented it to two of his officers. In case of refusal of justice, they may present him a third; but upon pain of death if they are in the wrong. After this no one ever presum ed to offer a petition to the Czar.
 
-<br>
+
 
 ## Chapter 27= The Manners of a Monarch
 
@@ -33,7 +33,7 @@ THE manners of a prince contribute as mu ch as the laws themselves to liberty= l
 Le t him gain the hearts of his people, without subduing their spirits. Let hi m render himself popular= he ought to be pleased with the affections of the lowest of his subjects; for they too are men. The common people require so very little condescension, that it is fit they should be humoured; the i nfinite distance between the sovereign and them will surely prevent them fr om giving him any uneasiness. Let him be exorable to supplication, and reso lute against demands. Let him be sensible, in fine, that his people have hi s refusals, while his courtiers enjoy his favours.
 
 
-<br>
+
 
 ## Chapter 28= The Regard which Monarchs owe to their Subjects
 
@@ -49,7 +49,7 @@ Princes ought to be overjoyed to have su bjects to whom honour is dearer than li
 
 They should remember the misfortunes tha t have happened to sovereigns for insulting their subjects, Edition= current; Page= [271] the revenge of ChC3A6rea, of the eunuch Narses, of count Julian, and, in fi ne, of the duchess of Montpensier, who, being e nraged against Henry III. for having published some of her private failings , tormented him during her whole life.
 
-<br>
+
 
 ## Chapter 29= the civil Laws proper for mixing some Portion of Liberty in a despotic Government
 
@@ -61,7 +61,7 @@ It is proper there should be some sacred book to serve for a rule; as the Koran 
 
 It is not at all amiss that, in dubious  cases, the judges should consult the ministers of religionE280A0= thus, in Turkey, the Cadis  consult the Mollachs. But, if it is a capital crime, it may be proper for t he particular judge, if such there be, to take the governorE28099s advic e, to the end that the civil and ecclesiastic power may be tempered also by the political authority.
 
-<br>
+
 
 ## Chapter 30= The same Subject continued.
 

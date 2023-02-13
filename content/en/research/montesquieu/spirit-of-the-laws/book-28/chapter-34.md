@@ -37,7 +37,7 @@ I believe that the change was made insensibly and passed from one lordship to an
 Beaumanoir says that witnesses were publicly heard only in cases in which it was allowed to give pledges of battle=  in others, they were heard in secret, and their depositions were reduced to writing. The proceedings became therefore secret, when they ceased to give pledges of battle.
 
 
-<br>
+
 
 ## Chapter 35: Costs
 

@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 14"
+heading: "Chapter 14b"
 title: "The Ring of Solomon, Ring of Saturn"
 image: "/photos/objects/hand.jpg"
 description: "The line of Mars rises on the lower Mount of Mars and runs inside of the Life line and very close beside it"

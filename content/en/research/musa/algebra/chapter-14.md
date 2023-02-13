@@ -1,29 +1,19 @@
-
-+++
-title=  "Notes"
-heading=  "Chapter 11"
-date=  2020-01-30
-image=  "/covers/algebra.jpg"
-description=  "Return of the Dowry"
-linkbtext=  "Chapter 12"
-linkb=  "/research/musa/algebra/chapter-13"
-linkftext=  "Chapter 13"
-linkf=  "/research/musa/algebra/"
-draft=  true
-+++
+---
+heading: Chapter 11
+title: "Notes"
+weight: 2
+image: "/covers/algebra.jpg"
+description: "Three kinds of numbers in calculations"
+draft: true
+---
 
 
 
 NOTES.
-1, line 2-5.
-Page
 
 
-The
-neglected state of the manuscript, in which most
-wanting, makes
-me
-diacritical points are
+
+The neglected state of the manuscript, in which most wanting, makes me diacritical points are
 whether have correctly understood the author's meaning
 I
 in several

@@ -3,7 +3,7 @@ title: "The Foreigner"
 heading: "Part 1"
 weight: 2
 author: Plato
-image: "/covers/prot.jpg"
+image: "/covers/prot.png"
 description: "We bring with us a foreigner from Elea, who is a disciple of Parmenides and Zeno, and a true philosopher"
 icon: "/icons/soc.png"
 ---

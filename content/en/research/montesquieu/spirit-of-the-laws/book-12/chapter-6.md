@@ -28,7 +28,7 @@ It is very odd that these three crimes,  witchcraft, heresy, and that against na
 
 I may venture to affirm, that the crime  against nature will never make any great progress in society, unless people are prompted to it by some particular custom; as among the Greeks, where t he youths of that country performed all their exercises naked; as amongst u s, where domestic education is disused; as among the Asiatics, where partic ular persons have a great number of women whom they despise, while others c an have none at all. Let there be no customs preparatory to this crime; let it, like every other violation of morals, be severely proscribed by the ci vil magistrate; and nature will soon defend or resume her rights. Nature, t hat fond, that indulgent, parent, has strewed her pleasures with a bounteou s hand; and, while she fills us with delights, she prepares us, by means of our issue, (in whom we see ourselves, as it were, reproduced,) she prepare s us, I say, for future satisfactions of a more exquisite kind than those v ery delights.
 
-<br>
+
 
 ## Chapter 7= The Crime of High-Treason
 
@@ -41,7 +41,7 @@ A prince of the blood having inadvertently made some mark on  a memorial signed 
 If the crime of high-treason be indeterm inate, this alone is sufficient to make the government degenerate into arbi trary power. I shall descant more largely on this subject when I come to treat of the co mposition of laws.
 
 
-<br>
+
 
 ## Chapter 8= The bad Application of the Name of Sacrilege and High-Treason
 
@@ -55,7 +55,7 @@ And yet this is the very law which the j udge of Monsieur de Cinq-Mars built upo
 
 By another law of Valentinian, Theodosiu s, and Arcadius, false coiners are declared guilty of high-treason. Edition= current; Page= [252] But is not this confo unding the ideas of things? Is not the very horror of high-treason diminish ed by giving that name to another crime?
 
-<br>
+
 
 ## Chapter 9= The same Subject continued.
 
@@ -67,7 +67,7 @@ It was determined, by a senatus-consultu m, that whoso ever melted down any of t
 
 The Julian law requires this sort of limitations; for, in virtu e of this law, the crime of high-treason was charged, not only upon those who melted down the emperorE28099s statues, but likewise on those who c ommitted any such like action*, which made it an arbitrary crime. When a number of crimes of lC3A6sa majestas had been established, they were  obliged to distinguish the several sorts. Hence Ulpian, the civilian, after saying that the accusation of lC3A6sa majestas did not die with the criminal, adds, that this does not relate toE280A0 all the treasonable acts established by the Julian law, but only to that which implies an atte mpt against the empire or against the emperorE28099s life.
 
-<br>
+
 
 ## Chapter 10= The same Subject continued.
 

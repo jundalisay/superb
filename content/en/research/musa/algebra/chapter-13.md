@@ -1,17 +1,13 @@
-+++
-title=  "Computation Of Returns"
-heading=  "Chapter 13"
-date=  2020-01-30
-image=  "/covers/algebra.jpg"
-description=  "Return of the Dowry"
-linkbtext=  "Chapter 12"
-linkb=  "/research/musa/algebra/chapter-12"
-linkftext=  "Chapter 14"
-linkf=  "/research/musa/algebra/chapter-14"
-draft=  true
-+++
+---
+heading: Chapter 13
+title: "Return of the Dowry"
+weight: 100
+image: "/covers/algebra.jpg"
+description: "Three kinds of numbers in calculations"
+draft: true
+---
 
-Return of the Dowry
+
 
 the illness before his death, makes to
 in

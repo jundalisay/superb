@@ -261,9 +261,18 @@
 
 [[navbar]]
     parent = "non1"
+    weight = 505
+    name = "Averroes"
+    url = "/research/averroes"
+    pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+    
+[[navbar]]
+    parent = "non1"
     weight = 510
     name = "Confucius"
     url = "/research/confucius"
+    pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"    
     # pre = "<img src='/icons/conf.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px;'>"
 
 [[navbar]]
@@ -278,7 +287,7 @@
     weight = 523
     name = "Engels"
     url = "/research/engels"
-    pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+    pre = "<img src='/avatars/engels.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px;'>"
 
 [[navbar]]
     parent = "non1"
@@ -291,8 +300,8 @@
     parent = "non1"
     weight = 540
     name = "Hermes"
-    pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
     url = "/research/hermes"
+    pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
 
 [[navbar]]
     parent = "non1"
@@ -336,13 +345,6 @@
     url = "/research/mun"
     pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
 
-[[navbar]]
-    parent = "non1"
-    weight = 626
-    name = "Piketty"
-    url = "/research/piketty/capital/conclusion/"
-    # pre = "<img src='/icons/ric.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
-
 
 [[navbar]]
     parent = "non1"
@@ -353,7 +355,15 @@
 
 [[navbar]]
     parent = "non1"
-    weight = 630
+    weight = 619
+    name = "Piketty"
+    url = "/research/piketty/capital/conclusion/"
+    pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+
+[[navbar]]
+    parent = "non1"
+    weight = 626
     name = "Say"
     url = "/research/say"
     pre = "<img src='/icons/say.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px;'>"
@@ -370,6 +380,13 @@
 [[navbar]]
     parent = "other"
     weight = 640
+    name = "Al-Kwarizmi"
+    url = "/research/musa/algebra/"
+    pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "other"
+    weight = 641
     name = "Avicenna"
     url = "/research/avicenna/soul/"
     pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"

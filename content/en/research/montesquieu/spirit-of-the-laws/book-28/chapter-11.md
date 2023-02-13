@@ -31,7 +31,7 @@ Compositions, and what they call Fredd, were regulated more by custom than by th
 Thus, as in the establishment of the monarchy they had passed from German customs to written laws; some ages after, they came back from written laws to unwritten customs.
 
 
-<br>
+
 
 ## Chapter 12=  The Local Customs. Revolution of the Laws of barbarous Nations, as well as of the Roman Law
 

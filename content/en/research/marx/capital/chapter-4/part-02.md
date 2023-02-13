@@ -1,7 +1,8 @@
 ---
+heading: Part 2
 title: The General Formula for Capital
-heading: Capital Volume One
-weight: 1
+# heading: Capital Volume One
+weight: 2
 description: The General Formula for Capital
 author: "Karl Marx"
 icon: /icons/marx.png
@@ -11,7 +12,7 @@ icon: /icons/marx.png
 Part 2: The Transformation of Money into Capital
 
 
-{{< c c="red">}}
+{{< c v="red">}}
 The circulation of commodities is the starting-point of capital. 
 {{< /c >}}
 
@@ -106,10 +107,3 @@ Footnotes
 13. “Currency (!) employed in producing articles... is capital.” (Macleod: “The Theory and Practice of Banking.” London, 1855, v. 1, ch. i, p. 55.) “Capital is commodities.” (James Mill: “Elements of Pol. Econ.” Lond., 1821, p. 74.)
 
 14. Capital: “portion fructifiante de la richesse accumulée... valeur permanente, multipliante.” (Sismondi: “Nouveaux Principes d’Econ. Polit.,” t. i., p. 88, 89.)
-
-Transcribed by Martha Giminez and Hinrich Kuhls
-Html Markup by Stephen Baird (1999)
-
-Next: Chapter Five: Contradictions in the General Formula of Capital
-
-Capital Volume One - Index

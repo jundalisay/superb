@@ -1,6 +1,6 @@
 ---
 title: "The Saturn Line"
-heading: "Chapter 10 of Part 2"
+heading: "Chapter 10 "
 weight: 54
 author: William Benham
 image: "/photos/objects/hand.jpg"

@@ -5,6 +5,7 @@ weight: 34
 # date: 2022-03-24
 description: "The sophistry of General Relativity requires inertial and gravitational mass to be the same"
 image: "/covers/rel.jpg"
+icon: "/icons/einbla.png"
 aliases:
   /research/relativity/section-20/
 ---

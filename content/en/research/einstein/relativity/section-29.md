@@ -5,6 +5,7 @@ heading: "Section 29"
 weight: 52
 description: "Einstein explains how gravity works in General Relativity"
 image: "/covers/rel.jpg"
+icon: "/icons/einbla.png"
 ---
 
 

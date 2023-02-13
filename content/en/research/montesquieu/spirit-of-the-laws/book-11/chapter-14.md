@@ -34,7 +34,7 @@ The people tried constantly to have those meetings by curi which had been custom
 
 Thus, when the plebeians obtained the power of trying the patricians, a power which commenced in the affair of Coriolanus, they insisted upon assembling by tribes*, and not by centuries= and, when the new magistracies of tribunes and C3A6d iles were established in favour of the people, the latter obtained that the y should meet by curiC3A6, in order to nominate them; and, after their po wer was quite settled, they gainedE280A1 so far their point as to assemble by tribes, to proce ed to this nomination.
 
-<br>
+
 
 ## Chapter 15= How the Roman Republic, in its flourishing State, suddenly lost its Liberty
 

@@ -1,6 +1,6 @@
 ---
 title: "The Heart Line"
-heading: "Chapter 15 of Part 2"
+heading: "Chapter 5"
 weight: 16
 image: "/photos/objects/hand.jpg"
 description: "The line of Heart rises from some point under or near the finger of Jupiter, and traces its way across the hand under the Mounts, ending on the percussion."

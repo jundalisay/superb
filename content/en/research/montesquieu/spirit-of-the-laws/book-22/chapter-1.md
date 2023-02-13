@@ -30,7 +30,7 @@ But when nations have money, they proceed by buying and selling. Those who take 
 
 Without such demand, the latter would not be able to balance its accounts.
 
-<br>
+
 
 ## Chapter 2= The Nature of Money
 

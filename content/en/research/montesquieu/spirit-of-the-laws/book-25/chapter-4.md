@@ -1,14 +1,14 @@
-+++
-title= "Religious Ministers"
-heading= "Chapter 4"
-description= "Research from Montesquieu"
-image= "/covers/spirit.jpg"
-date= "2020-03-10"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-22"
-linkbtext= "Chapter 22"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-3"
-linkftext= "Chapter 3"
-+++
+---
+title: "Religious Ministers"
+heading: "Chapter 4"
+# date: 2015-09-30
+weight: 2
+image: "/covers/spirit.jpg"
+author: "Montesquieu"
+description: "THE first men, says Porphyry, sacrificed only vegetables. In a worship so simple, every one might be priest in his own family"
+icon: "/icons/mont.png"
+---
+
 
 
 THE first men, says Porphyry, sacrificed only vegetables. In a worship so simple, every one might be priest in his own family.
@@ -19,13 +19,15 @@ Particular places were consecrated to the gods; it then became necessary that th
 
 Men consecrated to the Deity ought to be honoured, especially amongst people who have formed an idea of a personal purity necessary to approach the places most agreeable to the gods, and for the performance of particular ceremonies.
 
-The worship of the gods requiring a continual application, most nations were led to consider the clergy as a separate body. Thus, amongst the Egyptians, the Jews, and the Persians‡, they consecrated to the Deity certain families who performed and perpetuated the service. There have been even religions, which have not only estranged ecclesiastics from business, but have also taken away the embarrassments of a family; [189] and this is the practice of the principal branch of Christianity.
+The worship of the gods requiring a continual application, most nations were led to consider the clergy as a separate body. Thus, amongst the Egyptians, the Jews, and the Persians‡, they consecrated to the Deity certain families who performed and perpetuated the service. 
 
-I shall not here treat of the consequences of the law of celibacy= it is evident, that it may become hurtful, in proportion as the body of the clergy may be too numerous; and, in consequence of this, that of the laity too small.
+There have been even religions, which have not only estranged ecclesiastics from business, but have also taken away the embarrassments of a family; [189] and this is the practice of the principal branch of Christianity.
+
+I shall not deal with the consequences of the law of celibacy. It may become hurtful, in proportion as the body of the clergy may be too numerous; and, in consequence of this, that of the laity too small.
 
 By the nature of the human understanding, we love in religion every thing which carries the idea of difficulty; as in point of morality we have a speculative fondness for every thing which bears the character of severity. Celibacy has been most agreeable to those nations to whom it seemed least adapted, and with whom it might be attended with the most fatal consequences. In the southern countries of Europe, where, by the nature of the climate, the law of celibacy is more difficult to observe, it has been retained; in those of the north, where the passions are less lively, it has been banished. Further, in countries where there are but few inhabitants, it has been admitted; in those that are vastly populous, it has been rejected. It is obvious, that these reflections relate only to the too great extension of celibacy, and not to celibacy itself.
 
-<br>
+
 
 ## Chapter 5= Laws on Church Wealth
 
@@ -48,13 +50,13 @@ Permit them to break the rule, when the rule is become an abuse; suffer the abus
 They still remember at Rome a certain memorial sent thither on some disputes with the clergy, in which was this maxim; “The clergy ought to contribute to the expences of the state, let the Old Testament say what it will.” They concluded from this passage, that the author of this memorial was better versed in the language of the tax-gatherers, than in that of religion.
 
 
-<br>
+
 
 ## Chapter 6= Monasteries 
 
 THE least degree of common sense will let us see, that bodies designed for a perpetual continuance should not be allowed to sell their funds for life, nor to borrow for life; unless we want them to be heirs to all those who have no relations, and to those who do not chuse to have any. These men play against the people, but they hold the bank themselves.
 
-<br>
+
 
 ## Chapter 7= Superstition 
 
@@ -72,14 +74,14 @@ Religion ought not, under the pretence of gifts, to draw from the people, what t
 
 Nor is it proper for religion to encourage expensive funerals. What is there more natural, than to take away the difference of fortune in a circumstance, and in the very moment, which equals all fortunes?
 
-<br>
+
 
 ## Chapter 8= The Pope
 
 WHEN religion has many ministers, it is natural for them to have a chief, and for a sovereign pontif to be established. In monarchies, where the several orders of the state cannot be kept too distinct, and where all powers ought not to be lodged in the same person; it is proper that the pontificate be distinct from the empire. The same necessity is not to be met with in a despotic government, the nature of which is to unite all the different powers in the same person. But in this case it may happen, that the prince may regard religion as he does the laws themselves, as dependent on his own will. To prevent this inconveniency, there ought to be monuments of religion, for instance, sacred books, which fix and establish it. The king of Persia is the chief of the religion; but this religion is regulated by the Koran. The emperor of China is the sovereign pontif; but there are books in the hands of every body, to which he himself must conform. In vain a certain emperor attempted to abolish them= they triumphed over tyranny.
 
 
-<br>
+
 
 ## Chapter 9= Religious Tolerance
 
@@ -89,7 +91,7 @@ When the legislator has believed it a duty to permit the exercise of many religi
 
 It is necessary then that the laws require from the several religions, not only that they shall not embroil the state, but that they shall not raise disturbances amongst themselves. A citizen does not fulfil the laws by not disturbing the government; it is requisite that he should not trouble any citizen whomsoever.
 
-<br>
+
 
 ## Chapter 10= continued.
 
@@ -97,5 +99,5 @@ AS there are scarce any but persecuting religions that have an extraordinary zea
 
 This is then a fundamental principle of the political laws in regard to religion= That when the state is at liberty to receive or to reject a new religion, it ought to be rejected; when it is received, it ought to be tolerated.
 
-<br>
+
 

@@ -25,7 +25,7 @@ The regulation, that decides that portion of which the subject retains or is dep
 
 The public revenues should not be measured by the people's abilities to give, but by what they should give. If they are measured by their abilities to give, it should be considered what they are able to give for a constancy.
 
-<br>
+
 
 ## Chapter 2= It is Wrong to say that the Greatness of Taxes is good in its own Nature.
 

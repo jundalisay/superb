@@ -37,7 +37,7 @@ Incensed at the oppressive extortions of the publicans, Nero formed a magnanimou
 4. that the merchants should pay no duty for their vessels. These were the halcyon days of that emperor.
 
 
-<br>
+
 
 ## Chapter 20= The Tax Collectors [Farmers of the Revenues]
 

@@ -1,6 +1,6 @@
 ---
 title: "The Lines of Influence"
-heading: "Chapter 8b Part 2"
+heading: "Chapter 8b"
 # date: 2021-11-20
 weight: 48
 image: "/photos/objects/hand.jpg"

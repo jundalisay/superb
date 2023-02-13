@@ -1,7 +1,8 @@
 ---
 title: "Liberty"
 heading: "Chapter 1-5"
-date: 2015-09-30
+# date: 2015-09-30
+weight: 2
 image: "/covers/spirit.jpg"
 author: "Montesquieu"
 description: "The laws that establish political liberty, as it relates to the constitution, and those by which it is established, as it relates to the citizen."
@@ -38,7 +39,7 @@ In governments, that is, in societies directed by laws , liberty can consist onl
 
 We must have continually present to our  minds the difference between independence and liberty. Liberty is a right of doing whatever the laws permit; and, if a citizen could do what they forb id, he would be no longer possessed of liberty, because all his fellow-citi zens would have the same power.
 
-<br>
+
 
 ## Chapter 4= The same Subject continued.
 
@@ -46,7 +47,7 @@ DEMOCRATIC and aristocratic states are n ot in their own nature free. Political 
 
 To prevent this abuse, it is necessary,  from the very nature of things, power should be a check to power. A governm ent may be so constituted, as no man shall be compelled to do things to whi ch the law does not oblige him, nor forced to abstain from things which the law permits.
 
-<br>
+
 
 ## Chapter 5= The End or View of different Go vernments.
 

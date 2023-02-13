@@ -26,7 +26,7 @@ This is an amirable policy for monarch that has subdued a large country. It has 
 
 The lack of so wise an institution as this has caused the ruin of almost all the conquerors.
 
-<br>
+
 
 ## Chapter 16= Conquests made by a despotic Prince
 
@@ -38,7 +38,7 @@ The emperor of China has always many Mongols near his person, ready upon all occ
 
 In India, Turkey, and Japan, the prince has always a bodyguard, independent of the other regular forces. This particular corps keeps the dispersed troops in awe.
 
-<br>
+
 
 ## Chapter 17= The same Subject continued.
 

@@ -1,15 +1,15 @@
+---
+title: "The Four Kinds of Crimes"
+heading: "Chapter 4"
+weight: 2
+image: "/covers/spirit.jpg"
+author: "Montesquieu"
+description: "Liberty is favoured by the Nature and Proportion of Punishments"
+icon: "/icons/mont.png"
+---
 
-+++
-title= "The Four Kinds of Crimes"
-heading= "Chapter 4"
-date= 2015-09-29
-image= "/covers/spirit.jpg"
-description= "Liberty is favoured by the Nature and Proportion of Punishments"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-12/chapter-1"
-linkbtext= "Chapter 1"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-12/chapter-6"
-linkftext= "Chapter 6"
-+++
+
+
 
 LIBERTY is perfected when:
 - criminal laws derive each punishment from the nature of the crime. 
@@ -60,7 +60,7 @@ The punishments inflicted upon the latte r crimes are such as are properly disti
 
 All that I have here advanced is founded in nature, and extremely favourable to the liberty of the subject.
 
-<br>
+
 
 ## Chapter 5= Certain Accusations that require particular Moderation and Prudence
 

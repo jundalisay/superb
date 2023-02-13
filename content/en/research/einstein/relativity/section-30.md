@@ -5,6 +5,7 @@ heading: "Section 30"
 weight: 54
 description: "Einstein disproves Newton's theory of the universe having a center"
 image: "/covers/rel.jpg"
+icon: "/icons/einbla.png"
 ---
 
 

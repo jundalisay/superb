@@ -5,6 +5,7 @@ weight: 14
 # date: 2022-04-18
 description: "The constancy of the speed of light makes classical mechanics not universal"
 image: "/covers/rel.jpg"
+icon: "/icons/einbla.png"
 ---
 
 

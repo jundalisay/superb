@@ -1,14 +1,13 @@
-+++
-title= "Relation between the Weight of Taxes and Liberty"
-description= "Chapter 12"
-date= 2015-09-27
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-13/chapter-8"
-linkbtext= "Chapter 8"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-13/chapter-15"
-linkftext= "Chapter 15"
-+++
+---
+heading: "Chapter 12"
+title: "Relation between the Weight of Taxes and Liberty"
+linkTitle: "Chapter 12"
+weight: 8
+description: "Taxes can be higher the more liberty a person has, and should be lower the more enslaved a person is"
+image: "/covers/spirit.jpg"
+icon: "/icons/mont.png"
+---
+
 
 
 **IT is a general rule that taxes:**
@@ -29,9 +28,9 @@ In moderate governments there is an indemnity for the weight of the taxes, which
 
 In some European monarchies there are particular provinces, which, from the very nature of their civil government, are in a more flourishing condition than the rest. It is pretended that these provinces are not sufficiently taxed, because, through the goodness of their government, they are able to be taxed higher= hence the ministers seem constantly to aim at depriving them of this very government, from whence a diffusiveblessing is derived, which redounds even to the prince's advantage.
 
-<br>
 
-## Chapter 13= In what Government Taxes are capable of Increase.
+
+## Chapter 13: In what Government Taxes Can Increase
 
 TAXES may be increased in most republics, because the citizen, who thinks he is paying himself:
 - chearfully submits to them, and
@@ -39,7 +38,7 @@ TAXES may be increased in most republics, because the citizen, who thinks he is 
 
 In a monarchy taxes may be increased, because the moderation of the government can procure opulence. It is a recompence, as it were, granted to the prince for the respect he shews to the laws. In despotic governments they cannot be increased, because there can be no increase of the extremity of slavery.
 
-<br>
+
 
 ## Chapter 14= The Nature of the Taxes is relative to the Government.
 

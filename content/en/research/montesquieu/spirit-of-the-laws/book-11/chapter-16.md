@@ -21,7 +21,7 @@ The censors, and, before them, the consu ls,E280A1 modelled  and created, as it 
 On the other hand, the senate had the po wer of rescuing, as it were, the republic out of the hands of the people, b y creating a dictator, before whom the sovereign bowed his head, and the mo st popular laws were silent.
 
 
-<br>
+
 
 ## Chapter 17= The executive Power in the Roman Republic
 

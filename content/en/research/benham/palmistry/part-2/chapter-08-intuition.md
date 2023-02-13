@@ -1,6 +1,6 @@
 ---
 title: "Line of Intuition, Via Lascivia"
-heading: "Chapter 8 Part 2"
+heading: "Chapter 8"
 # date: 2021-11-20
 weight: 46
 image: "/photos/objects/hand.jpg"

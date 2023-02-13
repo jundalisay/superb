@@ -1,6 +1,7 @@
 ---
-title: "Main, Minor, Chance Lines, Proportion, Two Hands"
-heading: "Defects and Repair"
+heading: Chapter 3a
+# title: "Main, Minor, Chance Lines, Proportion, Two Hands"
+title: "Defects and Repair"
 # date: 2021-11-20
 weight: 8
 image: "/photos/objects/hand.jpg"

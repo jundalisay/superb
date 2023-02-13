@@ -54,7 +54,7 @@ Aristocratical families ought, therefore, as much as possible, to level themselv
 
 But the most imperfect of all is that in which the part of the people that obeys is in a state of civil servitude to those who command; as the aristocracy of Poland, where the peasants are slaves to the nobility.
 
-<br>
+
 
 ## Chapter 4=  The Relation of Laws to the Nature of monarchical Government
 
@@ -100,7 +100,7 @@ The prince’s council are not a proper depositary. They are naturally the depos
 
 Despotic governments, where there are no fundamental laws, have no such kind of depositary. Hence, religion generally has so much influence in those countries, because it forms a kind of permanent depositary. If this cannot be said of religion, it may of the customs that are respected instead of laws.
 
-<br>
+
 
 
 ## Chapter 5=  The Laws relative to the Nature of a despotic Government

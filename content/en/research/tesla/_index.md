@@ -1,7 +1,7 @@
 ---
-title: "Nikola Tesla"
-heading: "Real Genius"
-description: ""
+title: "Tesla, Nikola"
+heading: Enlightened
+description: "Nikola Tesla was a Real Genius"
 image: "/covers/tesla.jpg"
-weight: 108
+weight: 110
 ---

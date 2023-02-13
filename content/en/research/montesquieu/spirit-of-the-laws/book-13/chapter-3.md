@@ -12,13 +12,13 @@ linkftext= "Chapter 8"
 
 THE state of villainage is sometimes established after a conquest. In that case the bondman or villain that tills the land should have a kind of partnership with his master. Nothing but a communication of loss or profit can reconcile those who are doomed to labour to such as are blessed with a state of affluence.
 
-<br>
+
 
 ## Chapter 4= A Republic in the like Case
 
 WHEN a republic has reduced a nation to the drudgery of cultivating her lands, she should never suffer the free subject to have a power of increasing the tribute of the bondman. This was not permitted at Sparta. Those brave people thought the Helotes* would be more industrious in cultivating their lands, upon knowing that their servitude was not to increase:they imagined likewise that the masters would be better citizens, when they desired no more than what they were accustomed to enjoy.
 
-<br>
+
 
 ## Chapter 5= A Monarchy in the like Case
 
@@ -26,7 +26,7 @@ WHEN the nobles of a monarchical state cause the lands to be cultivated for thei
 
 But, if he wants to raise taxes on the vassals of his nobility, the lords of the several districts ought to be answerable for the tax=E2=80=A0, and be obliged to pay it for the vassals, by whom they may be afterwards reimbursed. If this rule be not followed, the lord and the collectors of the public taxes will harrass the poor vassal by turns, till he perishes with misery, or flies into the woods.
 
-<br>
+
 
 ## Chapter 6= A despotic Government in the like Case
 
@@ -34,7 +34,7 @@ THE foregoing rule is still more indispensably necessary in a despotic governmen
 
 When Peter I. thought proper to follow the custom of Germany, and to demand his taxes in money, he made a very prudent regulation, which is still followed in Russia. The gentleman levies thetax on the peasant, and pays it to the Czar. If the number of peasants diminishes, he pays all the same; if it increases, he pays no more; so that it is his interest not to worry or oppress his vassals.
 
-<br>
+
 
 ## Chapter 7= Taxes in Countries where Villainage is not established.
 

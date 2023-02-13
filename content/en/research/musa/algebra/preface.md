@@ -1,3 +1,11 @@
+---
+title: "Preface"
+weight: 2
+image: "/covers/algebra.jpg"
+description: "Three kinds of numbers in calculations"
+draft: true
+---
+
 <!-- 
 Preface 
 IN the study of history, the attention of the

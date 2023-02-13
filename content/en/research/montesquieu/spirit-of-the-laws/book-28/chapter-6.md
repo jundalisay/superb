@@ -21,7 +21,7 @@ The citizens of the new republics had no inclination to adopt a law, which estab
 
 Besides, the institutions of the Lombards had not that extent, that majesty of the Roman law, by which Italy was reminded of her universal dominion. The institutions of the Lombards and the Roman law could be then of no other use than to furnish out statutes for those cities that were erected into republics. Now which could better furnish them, the institutions of the Lombards that determined on some particular cases, or the Roman law which embraced them all?
 
-<br>
+
 
 ## Chapter 7=  How the Roman Law came to be lost in Spain
 
@@ -40,7 +40,7 @@ Besides, the laws of Chaindasuinthus, and of Recessuinthus, contained most sever
 The Goths were the first that were oppressed, because they were the ruling nation. We see in Procopius†, that during their calamities they withdrew out of Narbonne Gaul into Spain. Doubtless, under this misfortune, they took refuge in those provinces of Spain, which still held out; and the number of those, who in South Gaul lived under the law of the Visigoths, was thereby greatly diminished.
 
 
-<br>
+
 
 ## Chapter 8=  A False Capitulary
 

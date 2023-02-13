@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 9"
-title: "'God and Morality"
+title: "'God' and Morality"
 # date: 2015-09-09
 date: 2020-11-30
 # 2020-01-04

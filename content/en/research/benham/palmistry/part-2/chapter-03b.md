@@ -1,6 +1,7 @@
 ---
-title: "Islands"
-heading: "Defects and Repair"
+heading: Chapter 3b
+title: "Islands, Breaks, and Triangle"
+# heading: "Defects and Repair"
 # date: 2021-11-20
 weight: 10
 image: "/photos/objects/hand.jpg"

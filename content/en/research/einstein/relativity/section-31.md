@@ -5,6 +5,7 @@ heading: "Section 31"
 weight: 56
 description: "Elliptical space is another kind of curved space. It has the two “counter-points” are identical (indistinguishable from each other). An elliptical universe can thus be considered to some extent as a curved universe possessing central symmetry"
 image: "/covers/rel.jpg"
+icon: "/icons/einbla.png"
 ---
 
 <!-- Speculations on the structure of the universe also move in another direction. -->

@@ -1,6 +1,6 @@
 ---
 title: "The Strength of the Line of Head"
-heading: "Chapter 6c of Part 2"
+heading: "Chapter 6e"
 # date: 2021-11-20
 weight: 34
 image: "/photos/objects/hand.jpg"

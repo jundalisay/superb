@@ -5,6 +5,7 @@ weight: 17
 # date: 2022-04-14
 description: "Since the speed of light is a constant and since light is the judge, then time becomes relative to the viewpoint. This will allow time dilation via the Lorentz Transformation in Section 12"
 image: "/covers/rel.jpg"
+icon: "/icons/einbla.png"
 ---
 
 

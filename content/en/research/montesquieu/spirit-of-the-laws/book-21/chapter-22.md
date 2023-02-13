@@ -130,7 +130,7 @@ Were some provinces of Castile able to give him a sum equal to that of the custo
 His riches would be the effect of the wealth of the country:
 these provinces would animate all the others, and they would be all together more capable of supporting their respective charges= instead of a great treasury, he would have a great people.
 
-<br>
+
 
 ## Chapter 23= A Problem
 

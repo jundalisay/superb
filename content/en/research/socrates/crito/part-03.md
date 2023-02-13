@@ -3,7 +3,7 @@ title: "Socrates Says It is Wrong to Seek Vengeance"
 heading: "Part 3"
 weight: 8
 author: Plato
-image: "/covers/crito.jpg"
+image: "/covers/crito.png"
 description: "Socrates Says It is Wrong to Flee"
 icon: "/icons/soc.png"
 ---

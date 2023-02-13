@@ -3,7 +3,7 @@ title: "Socrates' Vision"
 heading: "Part 1"
 weight: 2
 author: Plato
-image: "/covers/crito.jpg"
+image: "/covers/crito.png"
 description: "Socrates tells Crito of his vision"
 icon: "/icons/soc.png"
 ---

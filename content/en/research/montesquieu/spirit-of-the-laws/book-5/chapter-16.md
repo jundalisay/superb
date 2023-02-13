@@ -26,7 +26,7 @@ Again, as the law is only the prince’s will, and as the prince can only will w
 
 In fine, as the law is the momentary will of the prince, it is necessary that those who will for him should follow his subitaneous manner of willing.
 
-<br>
+
 
 ## Chapter 17=  Presents
 

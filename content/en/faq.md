@@ -59,7 +59,7 @@ How is Socratic Dialectics different from Dialectics?
 {{< /r >}}
 
 {{< l ava="sp" >}}
-The original dialectics was defined by Socrates to be based on Pythagorean metaphysics. But Aristotle hijacked dialectics and made his own version based an his own matter-based metaphysics (as 'substance'). The Germans, like Kant, Hegel, Engels, and Marx followed Aristotle. 
+The original dialectics was defined by Socrates to be based on Pythagorean metaphysics. But Aristotle hijacked dialectics and made his own version based an his own matter-based metaphysics (as 'substance'). The Germans, like Kant, Engels, Marx, and Einstein followed Aristotle. 
 
 This led to Dialectical Materialism which is based on limited human logic and has caused a lot of problems in the world via Marxism and Communism. The goals of Marxism of freedom and justice are very good and noble, but its underlying metaphysics is totally junk. This leads to suffering instead of goodness.
 
@@ -234,7 +234,7 @@ We need to prove that our principles are solid by demonstrating it in the real w
 
 We've already proven Social Superphysics through our correct predictions both in [politics](/social/cycles/predictions) and [economics](/social/supersociology/precrisis-years). We are already testing our points-based economic system to solve the current stagflation, something that Economics has no solution for. So no worries with those. 
 
-But we still need to prove that Medical Superphysics and Material Superphysics also works by curing diseases and by realizing fusion, levitation, and teleportation (actions at a distance) via the aether of Maxwell and Fresnell.
+But we still need to prove that Medical Superphysics and Material Superphysics also work by curing diseases and by realizing fusion, levitation, and teleportation (actions at a distance) via the aether of Maxwell and Fresnell.
 
 Medicine is highly regulated and Material experiments are expensive. We aim to surmount both impediments through our economic system.
 

@@ -116,7 +116,7 @@ After what has been said, one would imagine that human nature should perpetually
 
 This is a master-piece of legislation, rarely produced by hazard, and seldom attained by prudence. On the contrary, a despotic government offers itself, as it were, at first sight; it is uniform throughout; and, as passions only are requisite to establish it, this is what every capacity may reach.
 
-<br>
+
 
 ## Chapter 15=  The same Subject continued
 

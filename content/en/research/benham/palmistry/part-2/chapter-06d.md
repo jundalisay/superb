@@ -1,9 +1,9 @@
 ---
-title: "Vacillating People"
-heading: "Chapter 6c"
+title: "Defects of the Head Line"
+heading: "Chapter 6d"
 weight: 32
 image: "/photos/objects/hand.jpg"
-description: "Sometimes the line of Head rises inside the line of Life on the lower Mount of Mars, and, after crossing the Life line, winds its way across the hand"
+description: "A downward deflection of the Head line can reveal when a person will be impressed with psychic phenomena and spiritism"
 author: William Benham
 ---
 
@@ -40,7 +40,7 @@ If the line is short, either the mentality is not great, or the termination of i
 
 This matter has been treated under the head of "Length of the Line". 
 
-When the line is very short and turns upward toward Saturn (108) the mental attitude of the subject will be Saturniaa, and a health defect of Saturn will cause early death. As we are considering the Head line, this health defect must apply to something affecting the head, which is manifestly the brain. 
+When the line is very short and turns upward toward Saturn (108) the mental attitude of the subject will be Saturnian, and a health defect of Saturn will cause early death. As we are considering the Head line, this health defect must apply to something affecting the head, which is manifestly the brain. 
 
 Paralysis is a prominent defect of the Saturnian will be the cause to which you may ascribe the end. Nails fluted, turning back, or brittle, yellow color, and many chance lines in the hand, a thin Life line, chained, islanded, broken, or otherwise defective, will enable you to confirm the indication. Older palmists gave to this line the reading " sudden death," the reason for this must be apparent. 
 

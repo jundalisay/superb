@@ -55,9 +55,10 @@ It predicts the movement of anything by knowing its `G` or [dharma or true natur
 
 
 {{< box >}}
+
 ### The Eagle Standard
 
-{{< img src="/photos/objects/aquila.jpg" alt="Aquila on a staff" >}}
+<!-- img src="/photos/objects/aquila.jpg" alt="Aquila on a staff" -->
 
 
 The idea for the eagle came from the eagle standard of the Roman legions.
@@ -87,7 +88,7 @@ The job of knowing or discovering this `G` and predicting its movement-results i
 - `E = G{{< sub v="l" >}}` in the electromagnetic layer manifests as `E = mc{{< s v="2" >}}` and is discovered by graduate-level Physics. `G` becomes `m`, and `{{< sub v="l" >}}` becomes `c{{< s v="2" >}}` which represents the speed limit of Minkowski's four-dimensional space 
 - `E = G{{< sub v="l" >}}` in the gravitational layer manifests as `E = G{{< sub v="AB">}}` and will be discovered by research institutions, where `B` and `A` are locational properties within spacetime of the same `G`
 
-![The five layers](https://sorasystem.sirv.com/graphics/layersegl.png)
+![The five layers](/graphics/egllayers.png)
 
 
 The eagle also extends into metaphysical movement, such as the movement of minds:
@@ -137,7 +138,7 @@ Neoclassical Economics and the commercial system are unable to arrive at the rea
 - If potato can be bartered for 2 lemons, then the real value of 1 bread is 2 lemons or 1 potato
 - If tomorrow, 1 potato exchanges only for 1 lemon, then the real value of 1 bread is 1 potato or 1 lemon
   - This means that the price of bread only crashes for the lemon owners but not for the potato owners. 
-  - If the ratio of 1 bread still exchanges for 1 potato, then the real value or economic G of bread is more linked to potatoes instead of lemons. 
+  - If the ratio of 1 bread still exchanges for 1 potato, then the real value or economic `G` of bread is more linked to potatoes instead of lemons. 
 
 This prevents our proposed system from crashing because [the relativity of prices](/social/economics/principles/four-laws-of-value) are maintained and not made absolute or constant as in the commercial system. 
 
@@ -145,9 +146,15 @@ This prevents our proposed system from crashing because [the relativity of price
 
 We can restore this relativity in Economics by pulling down money from the supreme pedestal where it currently stands on, just as we by fixed Einstein's General Relativity by destroying the constant speed of light `c`, and instead making it variable.
 
-Thus, in order to know a bread's supereconomic G or real value, we need to know what that bread was exchanged with, and not its money price. This chain of exchanges can then be backpropagated in order to know its relativistic value to other goods or services. Once the relative value-motions of goods and services are known, then we can predict the demand for them and so arrange the supply ahead of time in order to address all the demand and achieve constant zero-inflation.
+Thus, in order to know a bread's "supereconomic" `G` or real value, we need to know what that bread was exchanged with, and not its money price. This chain of exchanges can then be backpropagated in order to know its relativistic value to other goods or services. 
 
-Economics, on the other hand, allows only money-purchases so that 1 bread is equal to 1 dollar, for example. But it has no idea of where that 1 dollar came from. Did it come from wages? Or from a sale of a tomato? Was it donated? If you use machine-learning to backpropagate all the transactions for bread, you will end up with a dollar price but still not know what that dollar price really represents since the data was never recorded.
+Once the relative value-motions of goods and services are known, then we can predict the demand for them and so arrange the supply ahead of time in order to address all the demand and achieve constant zero-inflation.
+
+Economics, on the other hand, allows only money-purchases so that 1 bread is equal to 1 dollar, for example. But it has no idea of where that 1 dollar came from. 
+
+Did it come from wages? Or from a sale of a tomato? Was it donated? 
+
+If you use machine-learning to backpropagate all the transactions for bread, you will end up with a dollar price but still not know what that dollar price really represents since the data was never recorded.
 
 The best that they can do is apply stochastic calculus to create "algorithmic trading" and "dynamic stochastic general equilibrium" which have both caused crashes. Economists have no choice but to concede and say that price movements are mysterious, blaming "herd behavior", just as physicists say that gravitation is mysterious, pointing to wormholes that magically defy Physics.
 

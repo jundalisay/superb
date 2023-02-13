@@ -28,7 +28,7 @@ This practice was vastly different from that of the Ripuarian, and other barbaro
 These laws could be suitable only to a people remarkable for their natural simplicity and candour;
 We shall see presently that the legislators were obliged to take proper methods to prevent their being abused.
 
-<br>
+
 
 ## Chapter 14=  Another Difference"
 
@@ -42,7 +42,7 @@ Whoever will please to examine the two famous regulations of Gundebald king of B
 
 Among the Lombards, the laws of Rotharis admitted of cases, in which a man who had made his defence by oath, should not be suffered to undergo the fatigue of a duel. This custom spread itself farther=  we shall presently see the mischiefs that arose from it, and how they were obliged to return to the ancient practice.
 
-<br>
+
 
 ## Chapter 15=  A Reflection
 

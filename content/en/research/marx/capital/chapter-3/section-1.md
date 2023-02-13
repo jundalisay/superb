@@ -5,6 +5,7 @@ author: "Karl Marx"
 image: "/covers/daskapital.jpg"
 description: "The first chief function of money is to express the comparative value of commodities as the universal measure of value"
 weight: 4
+icon: /icons/marx.png
 # date: "2020-01-31"
 ---
 

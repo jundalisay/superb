@@ -53,7 +53,7 @@ Thus well-regulated democracies, by estab lishing domestic frugality, made way, 
 
 The good sense and happiness of individua ls depend greatly on the mediocrity of their abilities and fortunes. Theref ore, as a republic, where the laws have placed many in a middling station,  is composed of wise men, it will be wisely governed; as it is composed of h appy men, it will be extremely happy.
 
-<br>
+
 
 ## Chapter 4=  How the Love of Equality and Frugality is inspired
 

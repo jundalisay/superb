@@ -5,6 +5,7 @@ weight: 28
 # date: 2022-03-31
 description: "Minkowski space has the element of time which is essential to create Einstein's spacetime fabric for General Relativity"
 image: "/covers/rel.jpg"
+icon: "/icons/einbla.png"
 ---
 
 

@@ -1,17 +1,16 @@
-+++
-title= "How dangerous it is, in Republ= ics, to be too severe in punishing the Crime of High-Treason"
-heading= "Chapter 6 "
-date= 2015-09-26
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-description= "The Spirit of the Laws Volume 3"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-12/chapter-11"
-linkbtext= "Chapter 11"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-12/chapter-22"
-linkftext= "Chapter 22"
-+++
+---
+title: "How Dangerous Being Too Severe in punishing the Crime of High-Treason"
+heading: "Chapter 18"
+# date: 2015-09-30
+weight: 2
+image: "/covers/spirit.jpg"
+author: "Montesquieu"
+description: "AS soon as a republic has compassed the destruction of those who wanted to subvert it, there should be an end of terrors, punishments, and even of rewards"
+icon: "/icons/mont.png"
+---
 
-AS soon as a republic has compassed the = destruction of those who wanted to subvert it, there should be an end of te= rrors, punishments, and even of rewards.
+
+AS soon as a republic has compassed the destruction of those who wanted to subvert it, there should be an end of terrors, punishments, and even of rewards.
 
 Great punishments, and consequently grea= t changes, cannot take place without investing some citizens with an exorbi= tant power. It is therefore more adviseable, in this case, to exceed in len= ity, than in severity; to banish but few, rather than many; and to leave th= em their estates, instead of making a vast number of confiscations. Under p= retence of avenging the republic=E2=80=99s cause, the avengers would establ= ish tyranny. The business is not to destroy the rebel, but the rebellion. T= hey ought to return as quick as possible into the usual track of government= , in which every one is protected by the laws, and no one injured.
 
@@ -23,7 +22,7 @@ We find, in the wars of Marius and Sylla= , to what excess the Romans had gradua
 
 Rome was drenched in blood when Lepidus = triumphed over Spain= yet, by an unparallelled absurdity, he ordered public= rejoicings in that city, upon pain of proscription.
 
-<br>
+
 
 ## Chapter 19= How the Use of Libert= y is suspended in a Republic.
 
@@ -31,7 +30,7 @@ IN countries where liberty is most estee= med there are laws by which a single p
 
 These are relative to those Athenian laws by= which a private person was condemned*, provided they were made by the unanimous suffrage of six = thousand citizens. They are relative also to those laws which were made at = Rome against private citizens, and were called privileges. T= hese were never passed but in the great meetings of the people. But, in wha= t manner soever they were enacted, Cicero was for having them abolished, be= cause the force of a law consists in its being made for the whole community= =E2=80=A1. I must own,= notwithstanding, that the practice of the freest nation that ever existed = induces me to think that there are cases in which a veil should be drawn fo= r a while over liberty, as it was customary to cover the statues of the gods.
 
-<br>
+
 
 ## Chapter 20:Laws favourable to the Liberty= of the Subject in a Republic.
 
@@ -39,7 +38,7 @@ IN popular governments it often happens = that accusations are carried on in pub
 
 I have already taken notice of that Athe= nian and Roman law, by which the party accused was allowed to withdraw befo= re judgement was pronounced.
 
-<br>
+
 
 ## Chapter 21= The Cruelty of Laws, in Respect to Debtors, in a Republic
 
@@ -53,4 +52,4 @@ Such was the fate of this city, that new= crimes confirmed the liberty which tho
 
 Since that time creditors were oftener p= rosecuted by debtors for having violated the laws against usury, than the l= atter were sued for refusing to pay them.
 
-<br>
+

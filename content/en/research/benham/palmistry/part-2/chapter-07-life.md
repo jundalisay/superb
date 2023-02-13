@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 7 of Part 2"
+heading: "Chapter 7 "
 title: "The Line of Life"
 weight: 38
 image: "/photos/objects/hand.jpg"

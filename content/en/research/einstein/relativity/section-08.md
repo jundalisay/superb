@@ -5,6 +5,7 @@ weight: 16
 # date: 2022-04-16
 description: "To keep both the constancy of light and relativity, Einstein applies the changes onto spacetime itself, as an out-of-the-box thinking that uses light as the judge"
 image: "/covers/rel.jpg"
+icon: "/icons/einbla.png"
 ---
 
 

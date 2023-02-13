@@ -1,22 +1,26 @@
-+++
-title= "Thoughts and Indiscreet Speeches"
-heading= "Chapter 11"
-date= 2015-09-27
-image= "/covers/spirit.jpg"
-author= "Montesquieu"
-description= "Speech is so subject to interpretation. There is so great a difference be tween indiscretion and malice"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-12/chapter-6"
-linkbtext= "Chapter 6"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-12/chapter-18"
-linkftext= "Chapter 18"
-+++
-
-MARSYAS dreamt that he had cut Dionysius's throat. Dionysius put him to death, pretending that  he would never have dreamt of such a thing by night if he had not thought o f it by day. This was a most tyrannical action; for, though it had been t he subject of his thoughts, yet he had made no attempt towards it. The laws do not take  upon them to punish any other than overt acts.
-
-<br>
+---
+title: "Thoughts and Indiscreet Speeches"
+heading: "Chapter 11"
+# date: 2015-09-30
+weight: 2
+image: "/covers/spirit.jpg"
+author: "Montesquieu"
+description: "Speech is so subject to interpretation. There is so great a difference be tween indiscretion and malice"
+icon: "/icons/mont.png"
+---
 
 
-## Chapter 12= Indiscreet Speeches
+
+MARSYAS dreamt that he had cut Dionysius's throat. 
+
+Dionysius put him to death, pretending that  he would never have dreamt of such a thing by night if he had not thought of it by day. 
+
+This was a most tyrannical action. It had been the subject of his thoughts. But he had made no attempt towards it. **The laws do not take on them to punish any other than overt acts.**
+
+
+
+
+## Chapter 12: Indiscreet Speeches
 
 The crime of high-treason becomes most arbitrary when a person declares another person to be treasonous for indiscreet speeches. 
 
@@ -34,7 +38,7 @@ The emperors, Theod osius, Arcadius, and Honorius, wrote thu s to Rufinus, who w
 
 Therefore, leaving things as they are, you are to inform us accordingly, that we may be able to judge of wor ds by persons, and that we may duly consider whether we ought to punish or  overlook them.
 
-<br>
+
 
 ## Chapter 13= Writings
 
@@ -46,7 +50,7 @@ Satyrical writings are hardly known in d espotic governments, where dejection of
 
 But no government is so averse to satyri cal writings as the aristocratical. There the magistrates are petty soverei gns, but not great enough to despise affronts. If, in a monarchy, a satyric al stroke is designed against the prince, he is placed on such an eminence  that it does not reach him; but an aristocratical lord is pierced to the ve ry heart. Hence the decemvirs, who formed an aristocracy, punished satyrica l writings with death* .
 
-<br>
+
 
 ## Chapter 14= Breach of Modesty in punishing C rimes.
 
@@ -58,7 +62,7 @@ By an ancient custom of the Romans it wa s not permitted to put girls to death t
 
 When the magistrates of Japan caused wom en to be exposed naked in the market-places, and obliged  them to go upon  all four like beasts, modesty was shocked= but, when they wanted to compel a mother +++  when they wanted to force a son +++ I cannot proceed= even nature herself i s struck with horror.
 
-<br>
+
 
 ## Chapter 15= The Infranchisement of Slaves, in Order to accuse their Master
 
@@ -68,13 +72,13 @@ Vindex disco vered the conspiracy that had been formed in favour of Tarquin. But
 
 Hence the emperor Tacitus ordained, that slaves should not be admitted as witnesses against their masters, even in  the case of high-treason E288A5= a law which was not inserted in JustinianE28099s compilement.
 
-<br>
+
 
 ## Chapter 16= Of Calumny, with Regard to the C rime of High-Treason
 
 TO do justice to the CC3A6sars, they w ere not the first devisers of the horrid laws which they enacted. Edition= current; Page= [259] It is S ylla* that taught them that calumniators ought not to be punished= but the abuse was soon carried to such excess as to reward them.
 
-<br>
+
 
 ## Chapter 17= The Revealing of Conspiracies
 

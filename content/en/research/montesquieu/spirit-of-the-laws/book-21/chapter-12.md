@@ -29,7 +29,7 @@ The Romans, in pursuance of a system of which I have spoken elsewhere,> § actin
 
 When the kings of Pontus became masters of the Greek colonies on the Euxine sea, they took care not to destroy what was to be the foundation of their own grandeur.
 
-<br>
+
 
 ## Chapter 13= The Genius of the Romans as to Maritime Affairs
 
@@ -43,7 +43,7 @@ At this time we have neither the same esteem for land-forces, nor the same conte
 
 In the former,> ‡ art is decreased; in the> § latter, it is augmented= now things are generally esteemed in proportion to the degree of ability requisite to discharge them.
 
-<br>
+
 
 ## Chapter 14= The Genius of the Romans with Respect to Commerce
 

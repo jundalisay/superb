@@ -30,7 +30,7 @@ Calvin lived under republican governments or with obscure citizens in monarchies
 
 Each of these two religions was believed to be the most perfect. The Calvinist judging his most conformable to what Christ had said, and the Lutheran to what the Apostles had practised.
 
-<br>
+
 
 ### Chapter 6= Another Paradox of Mr. Bayle
 

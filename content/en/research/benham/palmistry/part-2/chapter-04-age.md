@@ -1,6 +1,6 @@
 ---
 title: "Age As Indicated On The Lines"
-heading: "Chapter 4 of Part 2"
+heading: "Chapter 4 "
 # date: 2021-11-20
 weight: 14
 image: "/photos/objects/hand.jpg"

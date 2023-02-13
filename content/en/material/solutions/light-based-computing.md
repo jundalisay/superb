@@ -1,6 +1,7 @@
 ---
 heading: "Using the advantages of light for computing"
 title: "Light-based Computing"
+image: /photos/physics/light.jpg
 description: "Sequential Light based Computing is one of the technologies that can be developed from Material Superphysics. It aims to complement non-linear quantum computing"
 date: "2020-01-01"
 author: "Juan"

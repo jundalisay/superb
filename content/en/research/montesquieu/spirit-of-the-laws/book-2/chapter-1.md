@@ -24,7 +24,7 @@ THERE are 3 kinds of government:
 <!-- This is what I call the nature of each government=  we must now inquire into those laws which directly conform to this nature, and consequently are the fundamental institutions.
  -->
 
-<br>
+
 
 ## Chapter 2=  The republican Government, and the Laws relative to Democracy
 

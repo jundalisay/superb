@@ -28,7 +28,7 @@ Then if one is not, the others neither are, nor can be conceived to be either on
 
 Nor as the same or different, nor in contact or separation, nor in any of those states which we enumerated as appearing to be;—the others neither are nor appear to be any of these, if one is not?
 
-Then may we not sum up the argument in a word and say truly= If one is not, then nothing is?
+Then may we not sum up the argument in a word and say truly: If one is not, then nothing is?
 
-<b>Let us affirm what seems to be the truth, that, whether one is or is not, one and the others in relation to themselves and one another, all of them, in every way, are and are not, and appear to be and appear not to be.</b>
+**Let us affirm what seems to be the truth, that, whether one is or is not, one and the others in relation to themselves and one another, all of them, in every way, are and are not, and appear to be and appear not to be.**
 

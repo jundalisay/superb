@@ -1,16 +1,17 @@
-+++
-title= "The Government of the Roman Provinces"
-description= "When Rome extended her dominions no far ther than Italy, the people were governed as confederates. The laws of each republic were preserved."
-date= 2015-09-23
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-11/chapter-18"
-linkbtext= "Chapter 18"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-12/chapter-1"
-linkftext= "Book 12"
-+++
+---
+heading: "Book 19"
+title: "The Government of the Roman Provinces"
+linkTitle: "Book 19"
+weight: 24
+# "2021-09-30"
+description: "When Rome extended her dominions no far ther than Italy, the people were governed as confederates. The laws of each republic were preserved"
+image: "/covers/spirit.jpg"
+icon: "/icons/mont.png"
+---
 
-SUCH was the distribution of the three p owers in Rome. But they were far from being thus distributed in the provinc es= liberty prevailed in the center, and tyranny in the extreme parts.
+
+
+SUCH was the distribution of the 3 powers in Rome. But they were far from being thus distributed in the provinces. Liberty prevailed in the center, and tyranny in the extreme parts.
 
 When Rome extended her dominions no far ther than Italy, the people were governed as confederates. The laws of each republic were preserved. 
 

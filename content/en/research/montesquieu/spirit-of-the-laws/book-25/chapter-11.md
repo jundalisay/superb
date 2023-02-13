@@ -1,20 +1,22 @@
-+++
-title= "Changing a Religion"
-heading= "Chapter 11-"
-description= "Research from Montesquieu"
-image= "/covers/spirit.jpg"
-date= "2020-03-10"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-22"
-linkbtext= "Chapter 22"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-3"
-linkftext= "Chapter 3"
-+++
+---
+title: "Changing a Religion"
+heading: "Chapter 11"
+# date: 2015-09-30
+weight: 2
+image: "/covers/spirit.jpg"
+author: "Montesquieu"
+description: "A PRINCE who tries to destroy or change the established religion of his kingdom greatly exposes himself"
+icon: "/icons/mont.png"
+---
 
-A PRINCE who undertakes to destroy or to change the established religion of his kingdom, must greatly expose himself. If his government is despotic, he runs a much greater risk of seeing a revolution arise from such a proceeding, than from any tyranny whatsoever, and a revolution is not an uncommon thing in such states. The reason of this is, because a state cannot change its religion, manners and customs, in an instant, and with the same rapidity as the prince publishes the ordinance which establishes a new religion.
+
+A PRINCE who tries to destroy or change the established religion of his kingdom greatly exposes himself. 
+
+If his government is despotic, he runs a much greater risk of seeing a revolution arise from such a proceeding, than from any tyranny whatsoever, and a revolution is not an uncommon thing in such states. The reason of this is, because a state cannot change its religion, manners and customs, in an instant, and with the same rapidity as the prince publishes the ordinance which establishes a new religion.
 
 Besides, the ancient religion is connected with the constitution of the kingdom, and the new one is not; the former agrees with the climate, and very often the new one is opposite to it. Moreover, the citizens become disgusted with their laws, and look upon the government already established with contempt; they conceive a jealousy against the two religions, instead of a firm belief in one; in a word, these innovations give to the state, at least for some time, both bad citizens and bad believers.
 
-<br>
+
 
 ## Chapter 12= Penal Laws.
 
@@ -28,7 +30,7 @@ The temper of the human mind has appeared even in the nature of punishments. If 
 
 In a word, history sufficiently informs us, that penal laws have never had any other effect but to destroy.
 
-<br>
+
 
 ## Chapter 13= A most humble Remonstrance to the Inquisitors of Spain and Portugal.
 
@@ -67,7 +69,7 @@ WE have already mentioned* the perverse temper of the people of Japan. The magis
 
 Punishments amongst the Japanese are considered as the revenge of an insult done to the prince. The songs of triumph sung by our martyrs appeared as an outrage against him; the title of martyr provoked the magistrates; in their opinion it signified rebel= they did all in their power to prevent their obtaining it. Then it was that their minds were exasperated, and a horrid struggle was seen between the tribunals that condemned, and the accused who suffered; between the civil laws, and those of religion.
 
-<br>
+
 
 ## Chapter 15= The Propagation of Religion
 

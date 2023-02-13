@@ -1,16 +1,14 @@
-+++
-title= "The Muslim Conquest and Tax Exemption"
-heading= "Chapters 16-18 "
-date= 2015-09-25
-image= "/covers/spirit.jpg"
-author= "Montesquieu"
-description= "The Muslim conquest induced our princes to keep up an exorbitant number of troops. As soon as one prince augments his forces, the others do the same"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-13/chapter-15"
-linkbtext= "Chapter 15"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-13/chapter-19"
-linkftext= "Chapter 19-20"
-icon = "/icons/mont.png"
-+++
+---
+heading: "Chapter 16-18"
+title: "The Muslim Conquest and Tax Exemption"
+linkTitle: "Chapter 16-18"
+weight: 8
+description: "The Muslim conquest induced our princes to keep up an exorbitant number of troops. As soon as one prince augments his forces, the others do the same"
+image: "/covers/spirit.jpg"
+icon: "/icons/mont.png"
+---
+
+
 
 
 This excess of taxes helped the Muslims carry on their conquests.
@@ -18,9 +16,7 @@ This excess of taxes helped the Muslims carry on their conquests.
 - They were far happier in obeying a barbarous nation than a corrupt government that enslaved them.
 
 
-<br>
-
-## Chapter 17= Troop Increase
+## Chapter 17: Troop Increase
 
 The Muslim conquest induced our princes to keep up an exorbitant number of troops. As soon as one prince augments his forces, the others do the same. This leads to the public ruin. Each monarch keeps as many armies as if his people were in danger of being exterminated. They call this this general effort of all against all as "peace".
 
@@ -30,9 +26,9 @@ The riches and commerce of the world ruined Europe. By increasing our troops, we
 
 This leads to the perpetual augmentation of taxes. Instead of increasing their revenues, they cannibalize their capitals, which then prevents any solution. Governments usually mortgage their funds even in peacetime, and so they ruin themselves during wartime. 
 
-<br>
 
-## Chapter 18= Tax Exemptions
+
+## Chapter 18: Tax Exemptions
 
 The great eastern empires have a maxim of exempting such provinces from taxes. It should be extended to monarchical states. A country is more oppressed if no such rule took place because, as the monarch of the province prince levies still neither more nor less, the state becomes bound for the whole. 
 

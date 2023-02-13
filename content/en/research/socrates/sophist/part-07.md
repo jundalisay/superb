@@ -3,7 +3,7 @@ title: "The Arts"
 heading: "Part 7"
 weight: 12
 author: Plato
-image: "/covers/sophist.jpg"
+image: "/covers/sophist.png"
 description: "We bring with us a foreigner from Elea, who is a disciple of Parmenides and Zeno, and a true philosopher"
 icon: "/icons/soc.png"
 ---

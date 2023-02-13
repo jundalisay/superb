@@ -46,7 +46,7 @@ Southern China, on the other hand, is traversed by both the Covid line and the f
 
 
 
-This star-based analysis, or out-of-the-box reasoning, is derived from Johannes Kepler who taught people to view phenomena from the perspective of stars and not people.   
+This star-based analysis, or out-of-the-box reasoning, is derived from [Johannes Kepler](/research/kepler) who taught people to view phenomena from the perspective of stars and not people.   
 
 From here, we can suggest the following policies:
 

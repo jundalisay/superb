@@ -30,7 +30,7 @@ The clergy, the prince, the cities, the great men, and some of the principal cit
 
 In this situation they should take the same measures throughout the whole extent of the empire, which the Romans took in a part of theirs; they should practise in their distress what these observed in the midst of plenty; that is, they should distribute land to all the families who are in want, and procure them materials for clearing and cultivating it. This distribution ought to be continued so long as there is a man to receive it; and in such a manner, as not to lose a moment, that can be industriously employed.
 
-<br>
+
 
 ## Chapter 29=  Hospitals
 

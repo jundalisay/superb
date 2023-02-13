@@ -1,18 +1,13 @@
+---
+heading: Chapter 12
+title: "Emancipation in Illness"
+weight: 90
+image: "/covers/algebra.jpg"
+description: "Three kinds of numbers in calculations"
+draft: true
+---
 
-+++
-title=  "COMPUTATION OF RETURNS"
-heading=  "Chapter 11"
-date=  2020-01-30
-image=  "/covers/algebra.jpg"
-description=  "Return of the Dowry"
-linkbtext=  "Chapter 11"
-linkb=  "/research/musa/algebra/chapter-11"
-linkftext=  "Chapter 13"
-linkf=  "/research/musa/algebra/chapter-13"
-draft=  true
-+++
 
-On Emancipation in Illness.
 
 Suppose that a man on his death-bed were to free 2 slaves. The man has a son and a daughter. 
 

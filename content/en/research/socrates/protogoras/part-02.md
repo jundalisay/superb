@@ -1,3 +1,14 @@
+---
+title: "Protagoras the Sophist"
+heading: "Part 2"
+weight: 4
+author: Plato
+image: "/covers/prot.png"
+description: "By the gods, I said, and are you not ashamed at having to appear before the Hellenes in the character of a Sophist?"
+icon: "/icons/soc.png"
+---
+
+
 COMPANION: They call Protagoras a Sophist. 
 
 Socrates: Then we are going to pay our money to him in the character of a Sophist?

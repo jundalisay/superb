@@ -20,7 +20,7 @@ This is the case of China. Hence a father sells his daughters, and exposes his c
 
 For the same reason, the religion of Taiwan does not suffer the women to bring their children into the world until they are 35 years old. Before this age, the priestess procures abortion by bruising the belly.
 
-<br>
+
 
 ## Chapter 17: Greek Population
 

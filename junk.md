@@ -16,25 +16,6 @@ whirlpool
 sacetiem are only in the flat placces of electromagentic field
 high energy has no time 
 
-
-
-Giọng nói em, như âm thanh trầm,
-Êm đềm như gió mùa xuân.
-Mỗi lời nói, là một nụ hôn,
-Làm tình tràn đầy, trong lòng tôi.
-
-Nghe giọng nói em, như nghe nhạc cổ,
-Êm dịu như gió mùa xuân.
-Cảm giác như mình đang trong mơ,
-Vì giọng nói em, rất đáng yêu.
-
-Giọng nói em, như âm thanh trầm,
-Êm đềm như gió mùa xuân.
-Mỗi lời nói, là một nụ hôn,
-Làm tình tràn đầy, trong lòng tôi.
-
-
-
 No, the aether is the medium for spacetime. Spacetime is the medium for electromagnetism (light and c). 
 
 The speed of light limited to c by spacetime which is limited by the aether to a single universe among infinite multiverses.
@@ -584,25 +565,6 @@ We overhauled our site with a faster theme, organized under 3 headings:
 </div>
 
 
-
-
-MEDICAL SUPERPHYSICS
-- varna dharma
-- aging
-- sexuality
-
-
-Oxford, China, Cuba, and Russia didn't need any free market prize system. They had a need, found some capable researchers, and funded them. Simple. No need for AMC for development. They then found friendly countries to export those vaccines to. No need for AMC for mass production. 
-
-The failure of the AMC model is proven by the shortcomings of COVAX -- because the prize-givers wanted the prize for themselves and there is no higher authority (i.e. world government) to police the prize givers. 
-
-Did Gan's advocate for a world government to regulate AMCs? No he did not. 
-
-https://www.nytimes.com/2021/08/02/world/europe/covax-covid-vaccine-problems-africa.html
-
-
-
-
 LAW, POLITICS, SOCIETY
 
 Commmon interest
@@ -663,10 +625,6 @@ social topographic behavior
 
 Ideology 
 
-
-
-
-
 matrix : domains, feelings
 idea : positive negative
 feelings: critical feelings over critical intellect
@@ -676,15 +634,6 @@ consciousness: Desire
 
 Prout 9 12 13 15 18 10 Bangladesh 
 
-Kuya, nasaan CR 'nyo?
-
-Bai, asa inyong CR? 
-
-Bai, asa toilet 'nyo?
-
-Kamarmandi dimana?
-
-More like Jackass 
 
 
 The failure of Prout to be established from the 1990s to the 2010s manifests as the world having no solution to the current stagflation.
@@ -728,19 +677,6 @@ The flaw of Prout is that it starts off with the end goal or intended result.
 4. There should be a proper adjustment amongst these physical, metaphysical, mundane, supramundane and spiritual utilizations.
 5. The method of utilization should vary in accordance with changes in time, space and person, and the utilization should be of progressive nature.
 
-This      
-
-are the end effect. 
-
-
-
- of all mundane, supramundane and spiritual potentialities of the universe.
-3. There should be maximum utilization of physical, metaphysical and spiritual potentialities of unit and collective bodies of human society.
-4. There should be a 
-
-
-
-Instead of starting off with 4 principles of 
 
 
 jiva = self | identity
@@ -858,8 +794,6 @@ A more advanced species would be able to think of a third perspective so that a 
 - Capitalist vs Non-aligned vs Communist -->
 
 
-
-
 gen-rel
 gravsigs
 universal rel
@@ -939,17 +873,6 @@ rich
    fggggggggggggggggggggggggggggggggggggg
         
   {{ else }}
-
-laws
-..
-karma
-tao
-last capitalist
-problems with money
-
-
-
-ricardo ltv
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: "Defects in the Apollo Line "
-heading: "Chapter 11"
+heading: "Chapter 11b"
 weight: 62
 author: William Benham
 image: "/photos/objects/hand.jpg"

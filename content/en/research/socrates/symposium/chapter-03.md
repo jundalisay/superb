@@ -3,7 +3,7 @@ title: "Love is the love of beauty"
 heading: "Chapter 3"
 weight: 8
 author: Plato
-image: "/covers/crito.jpg"
+image: "/covers/sym.png"
 description: "Love is the love of beauty and not of deformity"
 icon: "/icons/soc.png"
 ---

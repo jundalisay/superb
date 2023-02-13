@@ -1,7 +1,8 @@
 ---
 title: "The Buddhist Concept of Work"
-heading: "Buddhist Economics"
-date: 2020-01-01
+heading: "Part 1"
+# date: 2020-01-01
+weight: 2
 image: "/photos/meta/buddhism.jpg"
 description : "Buddhist economics emphasizes the value of work without infringing on others or the environment"
 author: EF Schumacher

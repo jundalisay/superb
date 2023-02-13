@@ -1,4 +1,5 @@
 ---
+heading: "Chapter 9a"
 title: "Affection Lines"
 weight: 50
 author: William Benham

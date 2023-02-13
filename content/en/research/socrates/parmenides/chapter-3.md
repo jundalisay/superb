@@ -55,7 +55,8 @@ But if It contained Itself, then that One container is different from the One be
 <!-- Then, the One cannot be anywhere, either in itself or in another. -->
 
 
-<h2>The One is Immovable</h2>
+
+## The One is Immovable
 
 Can the One have either rest or motion?
 
@@ -94,7 +95,8 @@ But that which is never in the same place is never quiet or at rest.
 The One then is neither at rest nor in motion. 
 
 
-<h2>All Aspects of the One is Unique</h2>
+## All Aspects of The One are Unique
+
 
 The One will also not be the same with itself or other; nor again, other than itself or other, because if It is other than Itself, then It would no longer be one.
 
@@ -113,8 +115,6 @@ Neither will one be the same with itself.
 Surely the nature of the one is not the nature of the same.
 
 It is not when anything becomes the same with anything that it becomes one.
-
-
 
 Anything which becomes the same with the many, necessarily becomes many and not one.
 
@@ -147,7 +147,7 @@ And if it were of one measure, it would be equal to that measure; yet it has bee
 Then it will neither partake of one measure, nor of many, nor of few, nor of the same at all, nor be equal to itself or another; nor be greater or less than itself, or other?
 
 
-<h2>The One is Timeless</h2>
+## The One is Timeless
 
 Can one be older, or younger than anything, or of the same age with it?
 
@@ -192,4 +192,4 @@ Then it is neither named, nor expressed, nor opined, nor known, nor does anythin
 But can all this be true about the One?
 
 
-> *Translator's Note= This is the same as Chapter 24 of the Tao Te Ching= There was something undefined and complete, coming into existence before Heaven and Earth. It was still and formless, standing alone, and undergoing no change. It reaches everywhere yet in no danger of being exhausted! It may be regarded as the Mother of all things. I do not know its name, but I call it as an effect of the Way or Course of the Tao. Making an effort further, I call it 'The Great'.
+> *Superphysics Note: This is the same as Chapter 24 of the Tao Te Ching-- "There was something undefined and complete, coming into existence before Heaven and Earth. It was still and formless, standing alone, and undergoing no change. It reaches everywhere yet in no danger of being exhausted! It may be regarded as the Mother of all things. I do not know its name, but I call it as an effect of the Way or Course of the Tao. Making an effort further, I call it 'The Great'".

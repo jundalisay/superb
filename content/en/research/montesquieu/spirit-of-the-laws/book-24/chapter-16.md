@@ -1,15 +1,15 @@
+---
+heading: "Chapter 16"
+title: "How the Laws of Religion correct the Inconveniencies of a political Constitution"
+linkTitle: "Chapter 16"
+weight: 24
+# "2021-09-30"
+description: "ON the other hand, religion may support a state, when the laws themselves are incapable of doing it"
+image: "/covers/spirit.jpg"
+icon: "/icons/mont.png"
+---
 
-+++
-title= "How the Laws of Religion correct the Inconveniencies of a political Constitution"
-heading= "Chapter 16-22"
-description= "Research from Montesquieu"
-image= "/covers/spirit.jpg"
-date= "2020-03-10"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-24/chapter-13"
-linkbtext= "Chapter 13"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-24/chapter-23"
-linkftext= "Chapter 23"
-+++
+
 
 ON the other hand, religion may support a state, when the laws themselves are incapable of doing it.
 
@@ -22,7 +22,7 @@ In kingdoms, where wars are not entered upon by a general consent, and where the
 
 Every year all hostility ceases between the† Arabian tribes for four months; the least disturbance would then be an impiety. In former times, when every lord in France declared war or peace, religion granted a truce, which was to take place at certain seasons.
 
-<br>
+
 
 ## Chapter 17= continued
 
@@ -32,13 +32,13 @@ The Germans inherited the hatred and enmity of their near relations= but these w
 
 Amongst the inhabitants of Malacca†, where no form of reconciliation is established, he who has committed murder, certain of being assassinated by the relations or friends of the deceased, abandons himself to fury, and wounds or kills all he meets.
 
-<br>
+
 
 ## Chapter 18= How the Laws of Religion have the Effect of Civil Laws
 
 THE first Greeks were small nations, frequently dispersed, pirates at sea, unjust at land, without government, and without laws. The mighty actions of Hercules and Theseus let us see the state of that rising people. What could religion do more, to inspire them with horror against murder? It declared, that the man who had been‡ murdered was enraged against the assassin, that he would possess his mind with terror and trouble, and oblige him to yield to him the places he had frequented when alive. They could not touch the criminal, nor converse with him*, without being defiled= the murderer was to be expelled the city, and an expiation made for the crime†.
 
-<br>
+
 
 ## Chapter 19= It is not so much the Truth or Falsity of a Doctrine which renders it useful or pernicious to Men in Civil Government, as the Use or Abuse of it.
 
@@ -52,13 +52,13 @@ These customs do not so directly proceed from the doctrine of the immortality of
 
 It is not enough for religion to establish a doctrine, it must also direct its influence. This the Christian religion performs in the most admirable manner, particularly with regard to the doctrines of which we have been speaking. It makes us hope for a state, which is the object of our belief; not for a state which we have already experienced, or known= thus every article, even the resurrection of the body, leads us to spiritual ideas.
 
-<br>
+
 
 ## Chapter 20= continued
 
 THE sacred books* of the ancient Persians say, “If you would be holy, instruct your children, because all the good actions which they perform will be imputed to you.” They advise them to marry betimes, because children at the day of judgment will be as a bridge, over which those who have none cannot pass. These doctrines were false, but extremely useful.
 
-<br>
+
 
 ## Chapter 21= Reincarnation
 
@@ -68,7 +68,7 @@ We have just been speaking of the two first, and I shall say of the last, that a
 
 On the other hand, women burn themselves at the death of their husbands; thus it is only the innocent who suffer a violent death.
 
-<br>
+
 
 ## Chapter 22= Religions should not inspire an Aversion for Things in themselves indifferent
 

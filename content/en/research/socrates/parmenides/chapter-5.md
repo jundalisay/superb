@@ -46,7 +46,7 @@ True.
 But 'absolute equality' and 'absolute difference' are opposites. The equality will never be in the difference*.
 
 
-> *Translator's note= This manifests in Physics as the law of conservation of energy and mass. Superphysics adds another law which is the law of identity. This law is the basis for the repulsion of qosts or gravitational centers which manifest as the expansion of spacetime. 
+> *Superphysics Note: This manifests in Physics as the law of conservation of energy and mass. Superphysics adds another law which is the law of identity. This law is the basis for the repulsion of qosts or gravitational centers which manifest as the expansion of spacetime. 
 
 
 If the difference is never in the equality, then there is nothing in which the difference is during any span of time; for during that span of time, however small, the difference would be in the equality.

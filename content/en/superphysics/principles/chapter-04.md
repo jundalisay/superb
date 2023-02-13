@@ -43,7 +43,9 @@ For example, the floodings from global warming is made up of a long chain of cau
 - The increased evaporation cause more water in the air
 - The increased water in the air falls down as severe floods
 
-We call the burning of fossil fuels as karma or action, that leads to severe floods as karma or reaction. We call the formation of carbon dioxide and water in the air as samskara or pending reaction. Treating as humans as individuals, we can say that:
+We call the burning of fossil fuels as karma or action, that leads to severe floods as karma or reaction. We call the formation of carbon dioxide and water in the air as samskara or pending reaction. 
+
+Treating humans as individuals, we can say that:
 - samskara exists in the metaphysical domain since the intervening actions-reactions are outside of the scope of our perception
 - karma exists in the physical domain since our actions and resulting experiences are physical 
 
@@ -67,7 +69,10 @@ For example, the United States allows people to say whatever they want even if i
 - The negative feelings accumulate in the hearts and minds of the people  
 - This explodes into the karma of hate and violence that manifests as mass shootings, race riots, local terrorism, etc. 
 
+And so the best policy to end mass shootings is to restrain people from saying whatever they want. East Asians have such control and so mass shootings are rare in Japan, Korea, and China.
+
 The next post will explain how we notate the chain of cause and effect, as Qualimath. 
+
 
 
 <!-- ## Moral Consequentialism

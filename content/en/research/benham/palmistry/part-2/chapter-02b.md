@@ -1,6 +1,7 @@
 ---
+heading: "Chapter 2b"
 title: "Main, Minor, Chance Lines, Proportion, Two Hands"
-heading: "A Working Hypothesis"
+# heading: "A Working Hypothesis"
 # date: 2021-11-16
 weight: 6
 image: "/photos/objects/hand.jpg"

@@ -1,5 +1,6 @@
 ---
-title: "Christiaan Huygens"
+title: "Huygens, Christiaan "
+linkTitle: Huygens
 # heading: Enlightened
 # date: 2022-07-06
 weight: 42

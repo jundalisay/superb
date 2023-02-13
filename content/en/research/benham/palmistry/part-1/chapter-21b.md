@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 21 Part 1 "
+heading: "Chapter 21"
 title: "The Characteristics of the Apollonian"
 description: "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
 weight: 114

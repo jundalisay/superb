@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 1b"
-title: Rays Propagated In Straight Lines
+title: Does the spreading of light take time?
 description: Dr. Tillotson argues against the real presence of miracles. His argument is the most concise, elegant, and strong against miracles
 image: /covers/light.jpg
-weight: 4
+weight: 5
 author: Christiaan Huygens
 icon: /avatars/huygens.jpg
 ---
@@ -91,13 +91,21 @@ But the speed of light in this argument has been assumed such that it takes a ti
 
 If one supposes that for this it requires only one minute of time, then it is manifest that the angle CEG will only be 33 minutes; and if it requires only 10 seconds of time, the angle will be less than six minutes. And then it will not be easy to perceive anything of it in observations of the Eclipse; nor, consequently, will it be permissible to deduce from it that the movement of light is instantaneous.
 
-It is true that we are here supposing a strange velocity that would be a hundred thousand times greater than that of Sound.
+We are here supposing a strange velocity that would be 100,000 times greater than that of Sound.
 
-For Sound, according to what I have observed, travels about 180 Toises in the time of one Second, or in about one beat of the pulse. But this supposition ought not to seem to be an impossibility; since it is not a question of the transport of a body with so great a speed, but of a successive movement which is passed on from some bodies to others.
+Sound travels about 180 Toises in 1 Second, or in about one beat of the pulse. But this supposition should not be impossibile since it is not a question of the transport of a body with so great a speed, but of a successive movement which is passed on from some bodies to others.
 
-I have then made no difficulty, in meditating on these things, in supposing that the emanation of light is accomplished with time, seeing that in this way all its phenomena can be explained, and that in following the contrary opinion everything is incomprehensible. For it has always seemed tome that even Descartes, whose aim has been to treat all the subjects of Physics intelligibly, and who assuredly has succeeded in this better than any one before him, has said nothing that is not full of difficulties, or even inconceivable, in dealing with Light and its properties.
+It is easy for me to meditate on these things and suppose that the emanation of light is accomplished with time, seeing that in this way all its phenomena can be explained, and that in following the contrary opinion everything is incomprehensible. 
 
-But that which I employed only as a hypothesis, has recently received great seemingness as an established truth by the ingenious proof of Mr. Römer which I am going here to relate, expecting him himself to give all that is needed for its confirmation. It is founded as is the preceding argument upon celestial observations, and proves not only that Light takes time for its passage, but also demonstrates how much time it takes, and that its velocity is even at least six times greater than that which I have just stated.
+
+Descartes aimed to treat all the subjects of Physics intelligibly.
+- He has succeeded in this better than anyone before him.
+
+Even he has said nothing that is not full of difficulties, or even inconceivable, in dealing with Light and its properties.
+
+But that which I employed only as a hypothesis, has recently received great seemingness as an established truth by the ingenious proof of Mr. Römer which I am going here to relate, expecting him himself to give all that is needed for its confirmation. 
+
+It is founded as is the preceding argument upon celestial observations, and proves not only that Light takes time for its passage, but also demonstrates how much time it takes, and that its velocity is even at least six times greater than that which I have just stated.
 
 For this he makes use of the Eclipses suffered by the little planets which revolve around Jupiter, and which often enter his shadow: and see what is his reasoning. 
 
@@ -121,9 +129,11 @@ It must needs be, if the Earth remains at the same place, that, after 42-1/2 hou
 
 If the Earth, for instance, were to remain always at B during 30 revolutions of this Satellite, one would see it again emerge from the shadow after 30 times 42-1/2 hours. 
 
-But the Earth having been carried along during this time to C, increasing thus its distance from Jupiter, it follows that if Light requires time for its passage the illumination of the little planet will be perceived later at [Pg 9]C than it would have been at B, and that there must be added to this time of 30 times 42-1/2 hours that which the Light has required to traverse the space MC, the difference of the spaces CH, BH. Similarly at the other quadrature when the earth has come to E from D while approaching toward Jupiter, the immersions of the Satellite ought to be observed at E earlier than they would have been seen if the Earth had remained at D.
+But the Earth having been carried along during this time to C, increasing thus its distance from Jupiter, it follows that if Light requires time for its passage the illumination of the little planet will be perceived later at `C` than it would have been at `B`, and that there must be added to this time of 30 times 42-1/2 hours that which the Light has required to traverse the space MC, the difference of the spaces CH, BH. 
 
-Now in quantities of observations of these Eclipses, made during ten consecutive years, these differences have been found to be very considerable, such as ten minutes and more; and from them it has been concluded that in order to traverse the whole diameter of the annual orbit KL, which is double the distance from here to the sun, Light requires about 22 minutes of time.
+Similarly at the other quadrature when the earth has come to `E` from `D` while approaching toward Jupiter, the immersions of the Satellite ought to be observed at E earlier than they would have been seen if the Earth had remained at `D`.
+
+Now in quantities of observations of these Eclipses, made during ten consecutive years, these differences have been found to be very considerable, such as ten minutes and more; and from them it has been concluded that in order to traverse the whole diameter of the annual orbit `KL`, which is double the distance from here to the sun, Light requires about 22 minutes of time.
 
 The movement of Jupiter in his orbit while the Earth passed from B to C, or from D to E, is included in this calculation; and this makes it evident that one cannot attribute the retardation of these illuminations or the anticipation of the eclipses, either to any irregularity occurring in the movement of the little planet or to its eccentricity.
 
@@ -147,13 +157,17 @@ This last point is demonstrated even more clearly by the celebrated experiment o
 
 For this proves that a matter different from air exists in this tube, and that this matter must have penetrated the glass or the quicksilver, either one or the other, though they are both impenetrable to the air. And when, in the same experiment, one makes the vacuum after putting a little water above the quicksilver, one concludes equally that the said matter passes through glass or water, or through both.
 
-As regards the different modes in which I have said the movements of Sound and of Light are communicated, one may sufficiently comprehend how this occurs in the case of Sound if one considers that the air is of such a nature that it can be compressed and reduced to a much smaller space than that which it ordinarily occupies. And in proportion as it is compressed the more does it exert an effort to regain its volume; for this property along with its penetrability, which remains notwithstanding its compression, seems to prove that it is made up of small bodies which float about and which are agitated very rapidly in the ethereal matter composed of much smaller parts. So that the cause of the spreading of Sound is the effort which these little bodies make in collisions with one another, to regain freedom when they are a little more squeezed together in the circuit of these waves than elsewhere.
+As regards the different modes in which I have said the movements of Sound and of Light are communicated, one may sufficiently comprehend how this occurs in the case of Sound if one considers that the air is of such a nature that it can be compressed and reduced to a much smaller space than that which it ordinarily occupies. And in proportion as it is compressed the more does it exert an effort to regain its volume; for this property along with its penetrability, which remains notwithstanding its compression, seems to prove that it is made up of small bodies which float about and which are agitated very rapidly in the ethereal matter composed of much smaller parts. 
+
+So that the cause of the spreading of Sound is the effort which these little bodies make in collisions with one another, to regain freedom when they are a little more squeezed together in the circuit of these waves than elsewhere.
 
 But the extreme velocity of Light, and other properties which it has, cannot admit of such a propagation of motion, and I am about to show here the way in which I conceive it must occur. For this, it is needful to explain the property which hard bodies must possess to transmit movement from one to another.
 
 When one takes a number of spheres of equal size, made of some very hard substance, and arranges them in a straight line, so that they touch one another, one finds, on striking with a similar sphere against the first of these spheres, that the motion passes as in an instant to the last of them, which separates itself from the row, without one's being able to perceive that the others have been stirred. And even that one which was used to strike remains motionless with them. Whence one sees that the movement passes with an extreme velocity which is the greater, the greater the hardness of the substance of the spheres.
 
-But it is still certain that this progression of motion is not instantaneous, but successive, and therefore must take time. For if the movement, or the disposition to movement, if you will have it so, did not pass successively through all these spheres, they would all acquire the movement at the same time, and hence would all advance together; which does not happen. For the last one leaves the whole row and acquires the speed of the one which was pushed. Moreover there are experiments which demonstrate that all the bodies which we reckon of the hardest kind, such as quenched steel, glass, and agate, act as springs and bend somehow, not only when extended as rods but also when they are in the form of spheres or of other shapes. That is to say they yield a little in themselves at the place where they are struck, and immediately regain their former figure. For I have found that on striking with a ball of glass or of agate against a large and quite thick [Pg 14]thick piece of the same substance which had a flat surface, slightly soiled with breath or in some other way, there remained round marks, of smaller or larger size according as the blow had been weak or strong. This makes it evident that these substances yield where they meet, and spring back: and for this time must be required.
+But it is still certain that this progression of motion is not instantaneous, but successive, and therefore must take time. For if the movement, or the disposition to movement, if you will have it so, did not pass successively through all these spheres, they would all acquire the movement at the same time, and hence would all advance together; which does not happen. For the last one leaves the whole row and acquires the speed of the one which was pushed. 
+
+Moreover there are experiments which demonstrate that all the bodies which we reckon of the hardest kind, such as quenched steel, glass, and agate, act as springs and bend somehow, not only when extended as rods but also when they are in the form of spheres or of other shapes. That is to say they yield a little in themselves at the place where they are struck, and immediately regain their former figure. For I have found that on striking with a ball of glass or of agate against a large and quite thick [Pg 14]thick piece of the same substance which had a flat surface, slightly soiled with breath or in some other way, there remained round marks, of smaller or larger size according as the blow had been weak or strong. This makes it evident that these substances yield where they meet, and spring back: and for this time must be required.
 
 Now in applying this kind of movement to that which produces Light there is nothing to hinder us from estimating the particles of the ether to be of a substance as nearly approaching to perfect hardness and possessing a springiness as prompt as we choose. It is not necessary to examine here the causes of this hardness, or of that springiness, the consideration of which would lead us too far from our subject. I will say, however, in passing that we may conceive that the particles of the ether, notwithstanding their smallness, are in turn composed of other parts and that their springiness consists in the very rapid movement of a subtle matter which penetrates them from every side and constrains their structure to assume such a disposition as to give to this fluid matter the most overt and easy passage possible. This accords with the explanation which Mr. Des Cartes gives for the spring, though I do not, like him, suppose the pores to be in the form of round hollow canals. And it must not be thought that in this there is anything absurd or impossible, it being on the contrary quite credible that it is this infinite series of different sizes of corpuscles, having different degrees of velocity, of which Nature makes use to produce so many marvellous effects.
 

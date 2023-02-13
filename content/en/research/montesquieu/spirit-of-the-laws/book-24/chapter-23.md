@@ -20,7 +20,7 @@ For the same reason, in a country supported by commerce, the number of festivals
 
 Dampier∥ observes, that the diversions of different nations vary greatly, according to the climate. As hot climates produce a quantity of delicate fruits, the barbarians easily find necessaries, and therefore spend much time in diversions. The Indians of colder countries have not so much leisure, being obliged to fish and hunt continually; hence they have less music, dancing, and festivals. If a new religion should be established amongst these people, it ought to have regard to this in the institution of festivals.
 
-<br>
+
 
 ## Chapter 24= The local Laws of Religion.
 
@@ -34,7 +34,7 @@ The flesh‡ of cattle in that country is insipid, but the milk and butter which
 
 Athens contained a prodigious multitude of people, but its territory was barren. It was therefore a religious [181] maxim with this people, that those who offered some small presents to the gods*, honoured them more than those who sacrificed an ox.
 
-<br>
+
 
 ## Chapter 25= The Inconveniency of transplanting a Religion from one Country to another
 
@@ -46,7 +46,7 @@ IT follows from hence, that there are frequently many inconveniencies attending 
 I shall here make a reflection. Sanctorius has observed that pork transpires but little∥, and that this kind of meat greatly hinders the transpiration of other food; he has found that this diminution amounts to a third§. Besides, it is known that the want of transpiration forms or increases the disorders of the skin. The feeding on pork ought rather to be prohibited in climates where the people are subject to these disorders, as in Palestine, Arabia, Ægypt, and Lybia.
 
 
-<br>
+
 
 ## Chapter 26= continued
 

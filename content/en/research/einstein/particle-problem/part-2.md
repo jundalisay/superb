@@ -1,8 +1,9 @@
 ---
 title: "Two Sheets of Spacetime"
+heading: "Part 2"
 description: "The Schwarzschild Solution"
-image: "/covers/ether.jpg"
 author: "Einstein and Rosen"
+icon: "/icons/einbla.png"
 image: "/covers/pproblem.jpg"
 weight: 6
 # date: 2020-01-30

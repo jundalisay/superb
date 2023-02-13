@@ -3,7 +3,7 @@ title: "Socrates Refuses to Flee Death"
 heading: "Part 2"
 weight: 4
 author: Plato
-image: "/covers/crito.jpg"
+image: "/covers/crito.png"
 description: "Socrates Refuses to Flee Death"
 icon: "/icons/soc.png"
 ---

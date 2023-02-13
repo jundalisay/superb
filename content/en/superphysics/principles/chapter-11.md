@@ -55,12 +55,12 @@ You cannot see your ideas and feelings. Instead, you can make them 'real' in the
 Unlike spiritual theories which are often useless, Socratic Dialectics is meant to solve real world problems. This makes it more in line with science and technology than philosophy. 
 
 {{< quote ava="soc" >}}
-The Pythagoreans who have enquired about harmony. They are wrong as the astronomers.
+The Pythagoreans who have enquired about harmony as are wrong as the astronomers.
 They investigate the numbers of the harmonies which are heard. But they never apply them to problems. They never reach the natural harmonies of number, or reflect why some numbers are harmonious and others not.. Their pursuit will be valuable for our objects if all these studies reach the point of inter-communion and connection with one another and become considered in their mutual affinities. Until then, there is no profit in pursuing them.
 <cite>The Simple Republic by Plato Book 7, Chapter 4</cite>
 {{< /quote >}}
 
-# 
+
 
 ## Science and Math versus Socratic Dialectics and Data Science
 
@@ -68,12 +68,15 @@ Current science is totally based on the physical perceptions of things that alre
 
 
 {{< quote ava="smith" >}}
-Archyta invented the Categories. He may be regarded as the founder of ancient Dialectics.<br><br>The opinions of Empedocles coincide with those of Aristotle. Empedocles authored the doctrine of the Four Elements. He may be regarded as the founder of [its rival] ancient Physics.
+Archyta invented the Categories. He may be regarded as the founder of ancient Dialectics.<br><br>The opinions of Empedocles coincide with those of Aristotle. Empedocles authored the doctrine of the Four Elements. He may be regarded as the founder of [its rival] ancient Physics*.
 <cite>Simplified Origin of Philosophy, Adam Smith</cite>
 {{< /quote >}}
 
 
-Science then uses math to plot the patterns of those physical perceptions. From those patterns, it tries to work back to the cause.
+> *Superphysics marries the invisible metaphysics of Archyta with the visible physics of Empedocles.
+
+
+Science uses math to plot the patterns of its  physical perceptions. From those patterns, it tries to work back to the cause.
 
 The problem here is that **all causes are metaphysical in nature, since all causes are based on ideas and feelings**
 

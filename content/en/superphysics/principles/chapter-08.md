@@ -24,7 +24,7 @@ Rank | Name | Greek-Hindu | Chinese | Physics Force
 1 | Aethereal | Aether, Akasha | 水 (still water) | Pseudo-science  
 2 | Spatial | Air, Vayu | 木 (moving wood) | Gravity  
 3 | Radiant | Fire, Tejas | 水 (expanding fire) | Electromagnetism  
-4 | Radioactive | Water, Jala | 土 (changing earth) | Weak  
+4 | Transformative | Water, Jala | 土 (changing earth) | Weak  
 5 | Material | Earth, Pritvi | 金 (solid metal) | Strong 
 
 

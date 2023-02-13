@@ -8,11 +8,9 @@ author: Niels Bohr
 ---
 
 
-
 A detailed theory of the characteristic effect of an external homogeneous electric field consideration obtains a striking confirmation by the observation of the appearance of new series of lines in the ordinary series spectra of helium and other elements, when the atoms are exposed to an intense external electric field. 
 
-As it will be discussed more closely in Part III, it is possible in this way to account in detail for the manifold results,
-regarding the appearance of such series in the helium spectrum, which
+As it will be discussed more closely in Part III, it is possible in this way to account in detail for the manifold results, regarding the appearance of such series in the helium spectrum, which
 have been published quite recently by J. Stark (Ann. d. Phys. LVI,
 p. 577 (1918)) and by G. Liebert (ibid. LVI, p. 589 and p. 610 (1918)).
 
@@ -37,12 +35,14 @@ the undisturbed motion, we see at once, from considerations
 of symmetry, that this mean value ψ will depend only on the
 component of the external electric force in the direction of
 the major axis of the orbit. We have therefore
+
 ψ = eF cos ϕ
 1
 σ
 Z σ
 0
 r cos ϑ dt,
+
 where ϕ is the angle between the z-axis and the major axis,
 taken in the direction from the nucleus to the aphelium, and
 138

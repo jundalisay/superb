@@ -1,18 +1,17 @@
-+++
-title= "The Liberty of the Citizen"
-heading= "Chapter 1"
-date= 2015-09-30
-image= "/covers/spirit.jpg"
-author= "Montesquieu"
-description= "In most states, liberty is more checked or depressed than their constitution requires"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-11/chapter-19"
-linkbtext= "Chapter 19"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-12/chapter-4"
-linkftext= "Chapter 4"
-+++
+---
+title: "The Liberty of the Citizen"
+heading: "Chapter 1"
+# date: 2015-09-30
+weight: 6
+image: "/covers/spirit.jpg"
+author: "Montesquieu"
+description: "In most states, liberty is more checked or depressed than their constitution requires"
+icon: "/icons/mont.png"
+---
 
 
-Relative to the constitution, political liberty arises from a distribution of the three powers.
+
+Relative to the constitution, political liberty arises from a distribution of the 3 powers.
 
 Relative to the citizen, political liberty is in security. 
 
@@ -27,7 +26,7 @@ But, as it regards the subject, manners, customs, or recei ved examples, may giv
 
 In most states, liberty is more checked or depressed than their constitution requires. It is proper to treat of the particular laws that, in each constitution, are apt to assist or check the principle of liberty, which each state is capable of receiving.
 
-<br>
+
 
 ## Chapter 2= The Citizen's Liberty
 
@@ -35,7 +34,9 @@ PHILOSOPHICAL liberty is the free exercise of the will; or, at least, if we must
 
 This security is never more dangerously  attacked than in public or private accusations. It is therefore on the good ness of criminal laws that the liberty of the subject principally depends.
 
-Criminal laws did not receive their full perfection all at once. Even in places where liberty has been most sought  after it has not been always found. Aristotle* informs us, that, at CumC3A6, the parents of the accuser might be witnesses. So imperfect was the law, under the kings of R ome, that Servius Tullus pronounced sentence against the children of Ancus  Martius, who were charged with having assassinated the king his father-in-law. 
+Criminal laws did not receive their full perfection all at once. Even in places where liberty has been most sought  after it has not been always found. Aristotle* informs us, that, at CumC3A6, the parents of the accuser might be witnesses.
+
+So imperfect was the law, under the kings of R ome, that Servius Tullus pronounced sentence against the children of Ancus  Martius, who were charged with having assassinated the king his father-in-law. 
 
 Under the first kings of France, Clotarius made a law, that nobody should be condemned without be ing heard; which shews that a contrary custom had prevailed in some particu lar case, or among some barbarous people. It was Charondas that first estab lished penalties against false witnesses. When the subject has no fence to secure his in nocence, he has none for his liberty.
 
@@ -44,7 +45,7 @@ The knowledge already acquired in some c ountries, or that may be hereafter atta
 Liberty can be founded on the practice o f this knowledge only; and, supposing a state to have the best laws imagina ble in this respect, a person tried under that state, and condemned to be h anged the next day, would have much more liberty than a bashaw enjoys in Tu rkey.
 
 
-<br>
+
 
 ## Chapter 3= The Citizen's Liberty continued
 

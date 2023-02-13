@@ -55,7 +55,7 @@ Thus, the three powers were re-united in his person. But the people combined at 
 
 <!-- , recollec ted that they were legislators, and there was an end of . -->
 
-<br>
+
 
 ## Chapter 13= The State of Rome after the Expulsion of its Kings
 
@@ -79,5 +79,5 @@ The government of Rome, after the expuls ion of the kings, should naturally have
 
 The prosperity of states is frequently g reater, in the insensible transition from one constitution to another, than in either of those constitutions. Then it is that all the springs of gover nment are upon the stretch; that the citizens assert their claims; that fri endships or enmities are formed amongst the jarring parties; and that there is a noble emulation between those who defend the ancient, and those who a re strenuous in promoting the new, constitution.
 
-<br>
+
 

@@ -31,10 +31,11 @@ Here are the results so far:
 
 Country | Year Prediction was Made: Prediction | Outcome
 --- | --- | --- 
-World | 2015: A global crisis will begin in 2019 as a long crisis | {{< color val="Correct" >}}
-World | 2019: A global financial crisis will emerge in a certain year between 2020-2030 as a result of that 2019 crisis | Pending
+World | 2015: A global crisis will spark in 2019 marking the start of a long crisis which we call 'The Crisis Years' | {{< color val="Correct" >}}
+World | 2019: A global financial crisis will emerge in a certain year between 2020-2030 as a result of that 2019 crisis | {{< c v="orange" >}}Pending{{< /c >}}
+![Russian flag](/flags/ru.png) | 2023: Russia will step up its offensives against Ukraine despite the lack of resources | {{< c v="orange" >}}Pending{{< /c >}}
 ![Philippine flag](/flags/ph.png) | 2022: Bongbong Marcos will win the elections | {{< color val="Correct" >}}
-![Cuba flag](/flags/cu.png) | 2022: The US will reduce sanctions during its mid-philosopher cycle | {{< color color="orange" val="Pending" >}}
+![Cuba flag](/flags/cu.png) | 2022: The US will reduce sanctions during its mid-philosopher cycle | {{< c v="orange" >}}Pending{{< /c >}}
 ![Hungary flag](/flags/hu.png) | 2022 Hungary: Orban will win the elections | {{< color val="Correct" >}}
 ![Japan flag](/flags/jp.png) | 2021: Probing prediction--Kono will be Prime Minister. In reality, Kishida won. This proves that Japanese political system is [a society within a society](/social/cycles/how-to-fix-japan/) that represents itself and not the people, just like China's Communist party. To predict Japan's elections, the model has to be applied to the LDP | {{< color color="Navy" val="Null" >}}
 ![US flag](/flags/us.png) | 2008 & 2012 Obama will win the elections, 2016 Clinton will win the popular vote, 2020 Biden will win the popular vote | {{< color val="Correct" >}}
@@ -50,7 +51,7 @@ World | 2019: A global financial crisis will emerge in a certain year between 20
 ![Philippines flag](/flags/ph.png) | 2017: Duterte allies will win in 2018 | {{< color val="Correct" >}}
 ![Israel flag](/flags/il.png) | 2017: Israeli Crypto Bancor will crash | {{< color val="Correct" >}}
 ![Philippine flag](/flags/ph.png) | 2016: Roxas will win the elections | {{< color color="red" val="Wrong" >}}
-![Iran flag](/flags/ir.png) | 2016: The US will slowly lift more sanctions (In reality, Trump imposed new sanctions | {{< color color="red" val="Wrong" >}}
+![Iran flag](/flags/ir.png) | 2016: The US will slowly lift more sanctions (In reality, Trump imposed new sanctions) | {{< c v="red" >}}Wrong{{< /c >}}
 ![Great Britain flag](/flags/gb.png) | 2016: Scotland will want to leave the UK | {{< color val="Semi-correct" >}}
 ![Syria flag](/flags/sy.png) | 2015: Assad will start losing ground to rebels by late 2016 (Update 2022: This is explained by the concept of [the balance of power](/social/cycles/how-to-fix-russia) | {{< color color="red" val="Wrong" >}}
 ![Saudi flag](/flags/sa.png) | 2015: The Jeddah Tower will not be completed on time | {{< color val="Correct" >}}
@@ -63,7 +64,9 @@ As you can see, there were many mistakes in the beginning. But just like any lea
 
 ## Based on Recurring Social Cycles
 
-The core of the model is based on David Hume‘s maxim that mentality creates reality. The model proposes that human society is a metaphysical entity that is made up of individual metaphysical entities called human minds. This society has its own known dynamics which is explained by the ‘Social Cycle’ model and Adam Smith’s ‘Moral Sentiments’ model.
+The core of the model is based on David Hume‘s maxim that mentality creates reality. The model proposes that human society is a metaphysical entity that is made up of individual metaphysical entities called human souls or abstract minds. 
+
+This society has its own known dynamics which is explained by the ‘Social Cycle’ model of Socrates and the ‘Moral Sentiments’ model of Adam Smith, Hume's best friend.
 
 ![David Hume](/covers/hume.jpg)
 
@@ -79,6 +82,6 @@ Historical events are used as ‘markers’ for plotting the flow of this mental
 ## Some Countries are Easy to Predict, Some are Difficult
 
 It's easy to make accurate predictions for the USA because there is a lot of consistent, historical data from its inception in 1776 up to today. However, it's difficult to make predictions for:
-- Middle Eastern countries like Syria and Iraq as they were bunched up together under the Ottoman Empire for many years,
+- Middle Eastern countries like Syria and Iraq as they were bunched up together under the Ottoman Empire for many years
 - countries whose histories are not in English, such as Vietnam and Thailand
-- countries that have so much historical information such as China and India. This increases the noise which prevents accurate modelling. The Europeans fixed this problem when englightened writers weeded out the noise or inferior historians
+- countries that have so much historical information such as China and India. This increases the noise which prevents accurate modelling. The Europeans fixed this problem when enlightened writers weeded out the noise or inferior historians

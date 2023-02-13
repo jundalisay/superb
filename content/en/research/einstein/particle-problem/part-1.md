@@ -1,8 +1,9 @@
 ---
 title: "The Wormhole Singularity"
+heading: "Part 1"
 description: "We investigate the possibility of an atomistic theory of matter and electricity which, while excluding singularities of the ﬁeld, uses only General Relativity and Maxwell's theory"
-image: "/covers/ether.jpg"
 author: "Einstein and Rosen"
+icon: "/icons/einbla.png"
 image: "/covers/pproblem.jpg"
 # date: 2020-01-30
 weight: 4

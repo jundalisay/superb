@@ -22,7 +22,7 @@ It gives a confidence in:
 
 There, the credit of the individual still has all the weight of public credit.
 
-<br>
+
 
 ### Chapter 17= A Law of Rhodes
 
@@ -36,7 +36,7 @@ A merchant should always:
 - know his obligations, and
 - square his conduct by his circumstances and present fortune
 
-<br>
+
 
 ### Chapter 18= The Judges of Commerce
 

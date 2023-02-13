@@ -25,7 +25,7 @@ But in common institutions, fathers have the disposal of their children in marri
 
 Nay, sometimes they force them to marry, who are scarce 12 and 13 years of age, if they find them well-limbed and strong in body, explaining a point of one of the canons, which alloweth fourteen and fifteen years, Nisi malitia suppleat ætatem.” He saw a list of these taken. It was, says he, a most shameful affair. Thus in an action which ought to be the most free, the Indians are the greatest slaves.
 
-<br>
+
 
 ## Chapter 8=  continuation
 
@@ -33,13 +33,13 @@ IN England, the law is frequently abused by the daughters marrying according to 
 
 In France, on the contrary, young women have always the resource of celibacy; and therefore the law which ordains that they shall wait for the consent of their fathers, may be more agreeable. In this light, the custom of Italy and Spain must be less rational; convents are there established, and yet they may marry without the consent of their fathers.
 
-<br>
+
 
 ## Chapter 9=  Young Women.
 
 YOUNG women who are conducted by marriage alone to liberty and pleasure; who have a mind which dares not think, a heart which dares not feel, eyes which dare not see, ears which dare not hear, who appear only to shew themselves silly, condemned without intermission to trifles and precepts, have sufficient inducements to lead them on to marriage=  it is the young men that want to be encouraged.
 
-<br>
+
 
 ## Chapter 10=  What determines Marriage
 
@@ -47,7 +47,7 @@ WHEREVER a place is found in which two persons can live commodiously, there they
 
 A rising people increase and multiply extremely. This is, because with them it would be a great inconveniency to live in celibacy; and none to have many children. The contrary of which is the case when a nation is formed.
 
-<br>
+
 
 ## Chapter 11=  The Severity of Government
 
@@ -61,7 +61,7 @@ It is pretended by some, who are apt to talk of things which they have never exa
 
 The severity of government may be carried to such an extreme, as to make the natural sentiments destructive of the natural sentiments themselves. Would the women of* America have refused to bear children, had their masters been less cruel?
 
-<br>
+
 
 ## Chapter 12=  Male-Female Ratio in different Countries.
 
@@ -69,13 +69,13 @@ I HAVE already observed,† that there are born in Europe rather more boys than 
 
 We are informed†, that at Bantam there are ten girls to one boy. A disproportion like this must cause the number of families there, to be to the number of those of other climates, as 1 to 51/2; which is a prodigious difference. Their families may be much larger indeed; but there must be few men in circumstances sufficient to provide for so large a family.
 
-<br>
+
 
 ## Chapter 13=  Sea-port Towns
 
 IN sea-port towns, where men expose themselves to a thousand dangers, and go abroad to live or die in distant climates, there are fewer men than women=  and yet we see more children there than in other places. This proceeds from the greater ease with which they procure the means of subsistence. Perhaps even the oily parts of fish are more proper to furnish that matter which contributes to generation. This may be one of the causes of the infinite number of people in ‡Japan and China∥, where they live almost wholly on §fish. If this be the case, certain monastic rules, which oblige the monks to live on fish, must be contrary to the spirit of the legislator himself.
 
-<br>
+
 
 ## Chapter 14=  the Productions of the Earth which require a greater or less Number of Men.
 
@@ -87,7 +87,7 @@ Those countries where coal-pits furnish a proper substance for fuel, have this a
 
 In countries productive of rice, they are at vast pains in watering the land; a great number of men must therefore be employed. Besides, there is less land required to furnish subsistence for a family, than in those which produce other kinds of grain. In fine, the land which is elsewhere employed in raising cattle, serves immediately for the subsistence of man; and the labour, which in other places is performed by cattle, is there performed by men; so that the culture of the soil becomes to man an immense manufacture.
 
-<br>
+
 
 ## Chapter 15=  Population size with relation to the Arts.
 

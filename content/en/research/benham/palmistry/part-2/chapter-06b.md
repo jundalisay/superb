@@ -1,6 +1,6 @@
 ---
 title: "Defects of the Line of Head"
-heading: "Chapter 6b of Part 2"
+heading: "Chapter 6b "
 # date: 2021-11-20
 weight: 28
 image: "/photos/objects/hand.jpg"

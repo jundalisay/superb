@@ -1,10 +1,11 @@
 ---
 title: "The Medium Of Circulation"
-heading: "Section 2 of Das Kapital by Karl Marx"
+heading: "Section 2"
 author: "Karl Marx"
 image: "/covers/daskapital.jpg"
 description: "Circulation of values"
 weight: 6
+icon: /icons/marx.png
 # date: "2020-01-31"
 ---
 

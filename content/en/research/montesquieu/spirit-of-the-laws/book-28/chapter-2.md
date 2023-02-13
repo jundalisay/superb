@@ -33,7 +33,7 @@ We find this custom established in=
 The children followed the laws of their father, the wife that of her husband, the widow came back to her own original law, and the freedman was under that of his patron. Besides, every man could make choice of what laws he pleased; but the constitution of Lotharius I. required this choice should be made public.
 
 
-<br>
+
 
 ## Chapter 3=  Capital Difference between the Salic Laws and those of the Visigoths and Burgundians
 
