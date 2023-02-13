@@ -1,11 +1,10 @@
 ---
-
 title: "Introduction"
 # date: 1767
 weight: 2
 author: François Quesnay
 image: "/covers/rights.png"
-icon: "/flags/fr.png"
+icon: /icons/quesnay.png
 description: "Men may be considered either in a state of solitude, or as congregated into societies"
 ---
 
@@ -18,8 +17,7 @@ Translated:Francis Gilmer
 Transcription/Markup:Steve Palmer -->
 
 
-Part of the Preliminary Discourse of the Editor relative to the Treatise on Natural Right, 
-from the collection entitled "Physiocracy"
+Part of the Preliminary Discourse of the Editor relative to the Treatise on Natural Right,  from the collection entitled "Physiocracy"
 
 
 The natural right of man in its primitive and most comprehensive sense is, the right which man has to whatever is advantageous to him or according to some authors: 'the right which man has to whatever is necessary to his enjoyment'.
@@ -52,8 +50,14 @@ He will labour to procure food, and to preserve himself against the attacks of o
 
 If instead of a single individual, many men had met in an unsettled country, it is certain that .the strong would sometimes have the physical power to take away the provisions of the weak ; that two weak persons united together-nay, that by stratagem and address, even the most feeble person, might have the physical power to overcome the strongest, and take from him his prey, and even his life. 
 
-But it is equally certain, that they would abstain from conduct so dangerous, so disorderly, so fruitless of good, so calculated mutually to disturb the labour necessary to their subsistence, and the palpable danger of which, would be so certainly reciprocal. They would immediately perceive, that such a state of war, could only terminate in the ruin of all and 'that in the mean time, they would all be constrained to lead a most miserable life, in which no one could enjoy, or even hope to enjoy, this right of doing what would be advantageous to him.
+But it is equally certain, that they would abstain from conduct so dangerous, so disorderly, so fruitless of good, so calculated mutually to disturb the labour necessary to their subsistence, and the palpable danger of which, would be so certainly reciprocal. 
 
-But men are interested in nothing more than in securing the enjoyment fundamental right Each individual is admonished by the pressing wants of necessity, to employ his physical power for his preservation, instead of using it to hurt and destroy others. Natural wants, fear, interest, and finally reason, would induce them to unite their efforts for the good of all - to submit to the rules of natural justice, and of reciprocal kindness - and would establish among them, social conventions, tacit or express, to secure to each the lawful use of his natural right to things necessary to his enjoyment-or, in other words, the liberty of profiting from the benefit he may derive from the natural order of things.
+They would immediately perceive, that such a state of war, could only terminate in the ruin of all and 'that in the mean time, they would all be constrained to lead a most miserable life, in which no one could enjoy, or even hope to enjoy, this right of doing what would be advantageous to him.
+
+But men are interested only in securing the enjoyment fundamental right.
+
+Each individual is admonished by the pressing wants of necessity, to employ his physical power for his preservation, instead of using it to hurt and destroy others. 
+
+Natural wants, fear, interest, and finally reason, would induce them to unite their efforts for the good of all - to submit to the rules of natural justice, and of reciprocal kindness - and would establish among them, social conventions, tacit or express, to secure to each the lawful use of his natural right to things necessary to his enjoyment-or, in other words, the liberty of profiting from the benefit he may derive from the natural order of things.
 
 

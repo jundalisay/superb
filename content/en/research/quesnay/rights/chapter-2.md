@@ -5,7 +5,7 @@ title: "The Extent of the Natural Right of Man?"
 weight: 6
 author: François Quesnay
 image: "/covers/rights.png"
-icon: "/flags/fr.png"
+icon: /icons/quesnay.png
 description: "The natural right of man differs from his conventional right, or his right dependent on human laws"
 ---
 

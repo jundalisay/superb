@@ -5,7 +5,7 @@ title: "The Natural Right of Men considered relatively to one another"
 weight: 10
 author: François Quesnay
 image: "/covers/rights.png"
-icon: "/flags/fr.png"
+icon: /icons/quesnay.png
 description: "Men may be considered either in a state of solitude, or as congregated into societies"
 ---
 

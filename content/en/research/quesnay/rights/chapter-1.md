@@ -5,7 +5,7 @@ title: "What is the Natural Right of Man?"
 weight: 4
 author: François Quesnay
 image: "/covers/rights.png"
-icon: "/flags/fr.png"
+icon: /icons/quesnay.png
 description: "The natural right of man may vaguely be defined to be, the right which man has to whatever is proper for his enjoyment"
 ---
 

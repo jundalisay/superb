@@ -5,7 +5,7 @@ title: "Tableau Economique"
 weight: 2
 author: François Quesnay
 image: "/covers/economy.jpg"
-icon: "/flags/fr.png"
+icon: /icons/quesnay.png
 description: "Men may be considered either in a state of solitude, or as congregated into societies"
 ---
 

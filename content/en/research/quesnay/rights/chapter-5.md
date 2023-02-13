@@ -5,7 +5,7 @@ title: "The Natural Right of Men united in Society under a Sovereign Authority"
 weight: 12
 author: François Quesnay
 image: "/covers/rights.png"
-icon: "/flags/fr.png"
+icon: /icons/quesnay.png
 description: "Men may be considered either in a state of solitude, or as congregated into societies"
 ---
 

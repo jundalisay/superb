@@ -5,7 +5,7 @@ title: "Tableau Economique"
 weight: 4
 author: François Quesnay
 image: "/covers/economy.jpg"
-icon: "/flags/fr.png"
+icon: /icons/quesnay.png
 description: "Such is the distributive order of the consumption of the native products among the different classes of citizens, and such is the idea we should have of the practice and the extent of the foreign commerce of a flourishing agricultural Nation"
 ---
 
