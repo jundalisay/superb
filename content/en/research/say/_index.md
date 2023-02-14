@@ -1,5 +1,6 @@
 ---
 title: "Say, John Baptiste"
+linkTitle: Say
 heading: "Unenlightened"
 description: ""
 image: "/covers/say.jpg"
