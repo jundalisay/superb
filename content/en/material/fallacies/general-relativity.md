@@ -246,7 +246,7 @@ None of these will ever exist because, from the perspective of Nature, the oppos
 - from the perspective of Creation, the speed of light comes from the perception of that light (as Newton's first law). Both light and time are the effects of perception. From the perspective of Creator, the speed of light comes from the aether acting against it (as Newton's third law).  
 
 
-![Science vs Superphysics](/graphics/sciencevsp.png)
+![Science vs Superphysics](/graphics/super/5layers1.jpg)
 
 {{< cap >}}
 Physicists believe that reality is dictated by matter. Metaphysicians believe the opposite, that reality is dictated by the aethereal mind.

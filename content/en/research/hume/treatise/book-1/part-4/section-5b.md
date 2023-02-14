@@ -88,15 +88,20 @@ An object may be nowhere when:
 
 This is the case with all our perceptions and objects, except those of the sight and feeling.
 
-A moral reflection cannot be placed on the right or on the left hand of a passion.
-Smell or sound cannot have a circular or square shape.
-These objects and perceptions are absolutely incompatible with location.
-Even the imagination cannot ascribe it to them.
+A moral reflection cannot be placed on the right or on the left hand of a passion
+- Smell or sound cannot have a circular or square shape*.
+- These perceptions are absolutely incompatible with location.
+  - Even the imagination cannot ascribe it to them.
+
 If the passions and feelings appear to the perception to have a location, the idea of space might be derived from them as well as from the sight and touch.
+
+> *Superphysics Note: This will be proven by visualizing the feelings via machine learning
+
 
 But this is contrary to what we have already established.
 
 If they appear not to have any particular place, they may exist in the same way, since whatever we conceive is possible.
+
 We do not need to prove that those simple perceptions that exist nowhere cannot be in a matter or body in a space, since it is impossible to find a relation on quality that is common to all simple perceptions and all bodies in space.
 
 This question occurs in:
@@ -107,6 +112,7 @@ An apple is one end of the table and a lemon at the other.
 
 The apple and lemon have a taste and color, which are complex ideas.
 We conjoin these qualities.
+
 The sweet taste of the apple and the sour taste of the lemon exist in the bodies of the apple and lemon.
 These bodies are separated by the length of the table.
 This is so notable and so natural an illusion.
@@ -362,10 +368,12 @@ Matter and motion produce only a difference in the position and situation of obj
 Divide a body as often as you please, it is still body.
 Place it in any shape and nothing ever results but that shape, or the relation of parts.
 Move it in any way, you still find motion or a change of relation.
+
 It is absurd to imagine that:
-a clockwise motion is just a clockwise motion, but a counterclockwise motion is both a physical motion and a passion or moral reflection,
-the shocking of two spherical particles should become a sensation of pain, and
-the joining of two triangular particles should afford a pleasure.
+- a clockwise motion is just a clockwise motion, but a counterclockwise motion is both a physical motion and a passion or moral reflection,
+- the shocking of 2 spherical particles should become a sensation of pain, and
+- the joining of 2 triangular particles should afford a pleasure.
+
 These different shocks, variations, and mixtures are the only changes matter is susceptible of.
 These never give us any idea of thought or perception.
 It is impossible that thought can ever be caused by matter.

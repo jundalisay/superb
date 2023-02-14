@@ -3,7 +3,7 @@ title: The Legislative Power
 heading: Title 5 of the Malolos Constitution Simplified
 weight: 1
 description: "The Legislative Power according to the malolos consitution"
-image: "/graphics/1899.jpg"
+image: "/covers/1899.jpg"
 icon: /flags/ph.png
 ---
 

@@ -4,7 +4,7 @@ heading: "Article 6"
 weight: 1
 # date: 1899-01-19
 description: "The Congress shall have Legislative power. It will consist of a Senate and a House of Representatives"
-image: "/graphics/1935.jpg"
+image: "/covers/1935.jpg"
 icon: /flags/ph.png
 ---
 

@@ -4,7 +4,7 @@ weight: 1
 heading: Article 1
 # date: 1899-01-19
 description: "The national territory comprises the Philippine archipelago, with all the islands and waters embraced therein"
-image: "/graphics/1973.jpg"
+image: "/covers/1973.jpg"
 icon: /flags/ph.png
 ---
 

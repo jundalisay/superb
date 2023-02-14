@@ -4,7 +4,7 @@ title: "Judicial Department"
 weight: 1
 # date: 1899-01-19
 description: "The judicial power shall be vested in one Supreme Court and in such inferior courts as may be established by law"
-image: "/graphics/1935.jpg"
+image: "/covers/1935.jpg"
 icon: /flags/ph.png
 ---
 

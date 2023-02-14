@@ -4,7 +4,7 @@ weight: 1
 heading: Article 1
 # date: 1899-01-19
 description: ""
-image: "/graphics/1935.jpg"
+image: "/covers/1935.jpg"
 icon: /flags/ph.png
 ---
 

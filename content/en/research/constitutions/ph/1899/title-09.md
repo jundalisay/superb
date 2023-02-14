@@ -4,7 +4,7 @@ weight: 1
 heading: Title 9
 # date: 1899-01-19
 description: "The Secretaries of Government according to the Malolos Constitution"
-image: "/graphics/1899.jpg"
+image: "/covers/1899.jpg"
 icon: /flags/ph.png
 ---
 

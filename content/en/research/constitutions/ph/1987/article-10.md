@@ -1,7 +1,7 @@
 ---
 title: Local Government
 heading: Article 10
-weight: 1
+weight: 14
 description: ""
 image: "/graphics/1987.jpg"
 icon: /flags/ph.png

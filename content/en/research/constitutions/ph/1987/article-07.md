@@ -1,7 +1,7 @@
 ---
 title: The Executive Department
 heading: Article 7 of the 1987 Constitution Simplified
-weight: 1
+weight: 8
 description: "The executive power shall be vested in the President of the Philippines"
 image: "/graphics/1987.jpg"
 icon: /flags/ph.png

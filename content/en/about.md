@@ -41,7 +41,7 @@ Source | Patterned after A Treatise of Human Nature Book 1 | Patterned after Boo
 Notes | This requires a total refutation of Einstein, to be replaced by Lorentz-Poincare  | This is divided into Human, Animal, and Plant. While "medical science" is based on Western medicine, "Human Medical Superphysics" is based on a combination of Western medicine, TCM, Ayurveda, naturopathy, and homeopathy, turing the doctor into a superdoctor | This is made up of Economic Superphysics (Supereconomics) for economic problems and Supersociology for social problems. This turns the economist into a supereconomist and a sociologist and lawmaker into a supersociologist and superlawmaker.
 
 
-{{< img src="/graphics/scirelsp.png" alt="Superphysics" cap="Superphysics goes for the mysterious, invisible Aether (the spooky Actor from a distance) instead of being stuck with oh-so-obvious Matter" >}}
+{{< img src="/graphics/super/5layers4.jpg" alt="Superphysics" cap="Superphysics goes for the mysterious, invisible Aether (the spooky Actor from a distance) instead of being stuck with oh-so-obvious Matter" >}}
 
 
 Materialists would say that all of this is pseudo-science. We would rather say it's Superphysics or [Dialectics](/superphysics/socratic-dialectics).

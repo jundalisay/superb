@@ -4,7 +4,7 @@ heading: Article 7
 weight: 1
 # date: 1899-01-19
 description: "The executive power shall be vested in a President of the Philippines"
-image: "/graphics/1935.jpg"
+image: "/covers/1935.jpg"
 icon: /flags/ph.png
 ---
 

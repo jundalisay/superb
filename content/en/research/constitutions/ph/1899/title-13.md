@@ -4,7 +4,7 @@ heading: "Titles 13-14"
 weight: 1
 # date: 1899-01-19
 description: "Amendment of the Malolos Constitution"
-image: "/graphics/1899.jpg"
+image: "/covers/1899.jpg"
 icon: /flags/ph.png
 ---
 

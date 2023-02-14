@@ -4,7 +4,7 @@ heading: Title 7-8
 weight: 1
 # date: 1899-01-19
 description: "The Executive Power according to the Malolos Constitution"
-image: "/graphics/1899.jpg"
+image: "/covers/1899.jpg"
 icon: /flags/ph.png
 ---
 

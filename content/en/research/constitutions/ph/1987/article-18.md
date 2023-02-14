@@ -1,7 +1,7 @@
 ---
 title: Transitory Provisions
 heading: Article 18
-weight: 1
+weight: 28
 description: "The first elections of Members of the Congress under this Constitution shall be held on the second Monday of May, 1987"
 image: "/graphics/1987.jpg"
 icon: /icons/sun.png

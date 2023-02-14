@@ -44,16 +44,18 @@ Before existence began, the Absolute Creator had nothing to create those experie
 
 
 
-> Some Taoist schools say that it does not matter whether the Yin-Yang symbol is shown in a clockwise or counter-clockwise direction. We say that it *does* matter. The symbol should always be in a counterclockwise direction, as shown in the ba-gua. Moreover, Yang should always be on top as implied by the Tao-te-Ching. <p> This is because, from the Metaphyics of Things, ideas have a shape which implies a proper orientation (right-side up). An idea can be learned or a problem can be solved faster by approaching the idea or problem <b>at the right angle that matches its orientation</b>. This is similar to a spaceshuttle re-entering earth at a proper angle to avoid burning up*. Without the knowledge of this shape, the only alternative is to approach it from all possible angles, leading to a waste of time and effort. Some problems are so complex that the proper angle is hard to achieve with the hit-or-miss approach. This is why Superphysics will be able to solve problems, even the complex ones, faster*** than Science that has no concept of the geometry of ideas**</p>
+> Some Taoist schools say that it does not matter whether the Yin-Yang symbol is shown in a clockwise or counter-clockwise direction. We say that it *does* matter. The symbol should always be in a counterclockwise direction*, as shown in the ba-gua. Moreover, Yang should always be on top as implied by the Tao-te-Ching. <p> This is because, from the Metaphyics of Things, ideas have a shape which implies a proper orientation (right-side up). An idea can be learned or a problem can be solved faster by approaching the idea or problem <b>at the right angle that matches its orientation</b>. This is similar to a spaceshuttle re-entering earth at a proper angle to avoid burning up**. Without the knowledge of this shape, the only alternative is to approach it from all possible angles, leading to a waste of time and effort. Some problems are so complex that the proper angle is hard to achieve with the hit-or-miss approach. This is why Superphysics will be able to solve problems, even the complex ones, faster*** than Science that has no concept of the geometry of ideas****</p>
 
 
-> *This angle and shape is a consequence of the Negative force which surrounds each idea or identity as to separate it from other identities
+> *This is proven by most of the planets in our solar system rotating in counterclockwise direction. Venus was once habitable when it rotated counterclockwise, but became hell when it flipped into a clockwise direction.
 
+> **This angle and shape is a consequence of the Negative force which surrounds each idea or identity as to separate it from other identities
 
-> **Plato alludes to this through the five Platonic shapes. Superphysics visualizes these through the Aethereal Cartesian plane which will be done by machine learning, since it's too complicated for a human 
 
 > ***We actually use this technique to come up with solutions to economic crises and social crises faster than Economists or Sociologists. The problem is in implementing those solutions in the physical real world because of the static 'aether-drag' in human minds   
 
+
+> ****Plato alludes to this through the five Platonic shapes. Superphysics visualizes these through the Aethereal Cartesian plane which will be done by machine learning, since it's too complicated for a human 
 
 
 {{< q="Propery" >}}

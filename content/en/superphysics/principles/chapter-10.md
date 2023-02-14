@@ -1,7 +1,6 @@
 ---
 heading: "Chapter 10"
 title: "What is Superphysics?"
-
 # date: 2021-07-19
 date: 2020-11-20
 weight: 36
@@ -56,7 +55,7 @@ By denying metaphysics, the feelings are ejected. This then leaves only the ego*
 
 
 
-{{< img src="/graphics/sciencevsp.png" alt="Science versus Superphysics" cap="Superphysics interprets the five elements of ether, air, fire, water, and earth as the five forces of the standard model as the higgs, gravitation, electromagnetism, weak and strong, which we call aethereal, spatial, radiant, radioactive, and material layer, respectively. Science is limited to the five senses and so 'scientists' and equipment can only detect up to the radiant (electromagnetic) layer. For example, Einstein's General Relativity uses light to judge all movements. This makes it useful for predicting movement near stars and pulsars, but is totally useless with invisible things like dark matter and black holes" >}}
+{{< img src="/graphics/super/5layers1.jpg" alt="Science versus Superphysics" cap="Superphysics interprets the five elements of ether, air, fire, water, and earth as the five forces of the standard model as the higgs, gravitation, electromagnetism, weak and strong, which we call aethereal, spatial, radiant, radioactive, and material layer, respectively. Science is limited to the five senses and so 'scientists' and equipment can only detect up to the radiant (electromagnetic) layer. For example, Einstein's General Relativity uses light to judge all movements. This makes it useful for predicting movement near stars and pulsars, but is totally useless with invisible things like dark matter and black holes" >}}
 
 
 
@@ -97,7 +96,7 @@ This allows them to find solutions that Western science cannot:
 However, the weakness of the Asian philosophies is that they are much less developed for practical uses unlike Western science which is much more useful materially.
 
 
-{{< img src="/graphics/religionsp.png" alt="Religion versus Superphysics" cap="Religion and metaphysics refuse to be tested and are so useless compared to science" >}}
+{{< img src="/graphics/super/5layers2.jpg" alt="Religion versus Superphysics" cap="Religion and metaphysics refuse to be tested and are so useless compared to science" >}}
 
 <!-- just as Hinduism leads to ayurveda for medical problems, yoga for psychological ones, and the caste system* for social order.
 
@@ -121,19 +120,18 @@ Nuclear Fusion | Confine the plasma magentically | Confine the plasma gravitatio
 Terrorism | Airstrikes | Know the needs of the pre-terrorists before they become terrorists (prevention is better than cure)
 Covid | Vaccines | End the war against the Amazon rainforest
 
-<br>
 
 
-{{< img src="/graphics/scirelsp.png" alt="Superphysics bridges science" cap="Superphysics bridges science and metaphysics to unify all human knowledge and make it useful" >}}
+{{< img src="/graphics/super/5layers4.jpg" alt="Superphysics bridges science" cap="Superphysics bridges science and metaphysics to unify all human knowledge and make it useful" >}}
 
-<br>
+
 
 The weakness of science in not knowing how the flow of feelings work is evident in: 
 - the proposals of scientists to limit global warming not being adopted by countries that only feel for their own national interests
 - the proposals of scientists to stop oil exploration not being adopted by businessmen who only want profit for themselves
 - people not obeying scientific mask-mandates due to their own ego
 
-<br>
+
 <!--  Socratic Dialectics and Hume's Science of Man -->
 
 Since science has been around since the 19th century, it would be naive to think that it will upgrade itself to include human feelings immediately. That's why we suggest a transitional science called Superphysics to represent 6-sense Dialectics of Socrates or David Hume's Science of Man, until science lowers its ego and add feelings back onto itself. 
