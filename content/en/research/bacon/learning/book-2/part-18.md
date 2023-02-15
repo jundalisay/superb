@@ -18,15 +18,30 @@ It is inferior to wisdom. <!-- (as it is said by God to Moses, when he disabled 
 
 Yet, with people, it is the more mighty. 
 
-for so Solomon saith, Sapiens corde appellabitur prudens, sed dulcis eloquio majora reperiet, signifying that profoundness of wisdom will help a man to a name or admiration, but that it is eloquence that prevaileth in an active life.  And as to the labouring of it, the emulation of Aristotle with the rhetoricians of his time, and the experience of Cicero, hath made them in their works of rhetoric exceed themselves.  
+Solomon said: Sapiens corde appellabitur prudens, sed dulcis eloquio majora reperiet. 
 
-The excellency of examples of eloquence in the orations of Demosthenes and Cicero, added to the perfection of the precepts of eloquence, hath doubled the progression in this art; and therefore the deficiences which I shall note will rather be in some collections, which may as handmaids attend the art, than in the rules or use of the art itself.
+It signifies that profoundness of wisdom will help a man to a name or admiration, but that it is eloquence that prevaileth in an active life.
 
-(2)  Notwithstanding, to stir the earth a little about the roots of this science, as we have done of the rest, the duty and office of rhetoric is to apply reason to imagination for the better moving of the will.  For we see reason is disturbed in the administration thereof by three means—by illaqueation or sophism, which pertains to logic; by imagination or impression, which pertains to rhetoric; and by passion or affection, which pertains to morality.  And as in negotiation with others, men are wrought by cunning, by importunity, and by vehemency; so in this negotiation within ourselves, men are undermined by inconsequences, solicited and importuned by impressions or observations, and transported by passions.  
+As to the labouring of it, the emulation of Aristotle with the rhetoricians of his time, and the experience of Cicero, hath made them in their works of rhetoric exceed themselves.  
 
-Neither is the nature of man so unfortunately built, as that those powers and arts should have force to disturb reason, and not to establish and advance it.  For the end of logic is to teach a form of argument to secure reason, and not to entrap it; the end of morality is to procure the affections to obey reason, and not to invade it; the end of rhetoric is to fill the imagination to second reason, and not to oppress it; for these abuses of arts come in but ex oblique, for caution.
+The excellency of examples of eloquence in the orations of Demosthenes and Cicero, added to the perfection of the precepts of eloquence, hath doubled the progression in this art. 
 
-(3) And therefore it was great injustice in Plato, though springing out of a just hatred to the rhetoricians of his time, to esteem of rhetoric but as a voluptuary art, resembling it to cookery, that did mar wholesome meats, and help unwholesome by variety of sauces to the pleasure of the taste.  For we see that speech is much more conversant in adorning that which is good than in colouring that which is evil; for there is no man but speaketh more honestly than he can do or think; 
+Therefore the deficiences which I shall note will rather be in some collections, which may as handmaids attend the art, than in the rules or use of the art itself.
+
+
+(2)  Notwithstanding, to stir the earth a little about the roots of this science, as we have done of the rest, the duty and office of rhetoric is to apply reason to imagination for the better moving of the will.  
+
+For we see reason is disturbed in the administration thereof by three means—by illaqueation or sophism, which pertains to logic; by imagination or impression, which pertains to rhetoric; and by passion or affection, which pertains to morality.
+
+As in negotiation with others, men are wrought by cunning, by importunity, and by vehemency; so in this negotiation within ourselves, men are undermined by inconsequences, solicited and importuned by impressions or observations, and transported by passions.  
+
+Neither is the nature of man so unfortunately built, as that those powers and arts should have force to disturb reason, and not to establish and advance it.
+
+For the end of logic is to teach a form of argument to secure reason, and not to entrap it; the end of morality is to procure the affections to obey reason, and not to invade it; the end of rhetoric is to fill the imagination to second reason, and not to oppress it; for these abuses of arts come in but ex oblique, for caution.
+
+(3) Therefore it was great injustice in Plato, though springing out of a just hatred to the rhetoricians of his time, to esteem of rhetoric but as a voluptuary art, resembling it to cookery, that did mar wholesome meats, and help unwholesome by variety of sauces to the pleasure of the taste.  
+
+For we see that speech is much more conversant in adorning that which is good than in colouring that which is evil; for there is no man but speaketh more honestly than he can do or think; 
 
 It was excellently noted by Thucydides, in Cleon, that because he used to hold on the bad side in causes of estate, therefore he was ever inveighing against eloquence and good speech, knowing that no man can speak fair of courses sordid and base.  
 
@@ -46,7 +61,9 @@ Therefore, the present filling the imagination more, reason is commonly vanquish
 
 (5) We conclude, therefore, that rhetoric can be no more charged with the colouring of the worst part, than logic with sophistry, or morality with vice; for we know the doctrines of contraries are the same, though the use be opposite.
 
-It appeareth also that logic differeth from rhetoric, not only as the fist from the palm—the one close, the other at large—but much more in this, that logic handleth reason exact and in truth, and rhetoric handleth it as it is planted in popular opinions and manners.  And therefore Aristotle doth wisely place rhetoric as between logic on the one side, and moral or civil knowledge on the other, as participating of both; for the proofs and demonstrations of logic are toward all men indifferent and the same, but the proofs and persuasions of rhetoric ought to differ according to the auditors:
+It appeareth also that logic differeth from rhetoric, not only as the fist from the palm—the one close, the other at large—but much more in this, that logic handleth reason exact and in truth, and rhetoric handleth it as it is planted in popular opinions and manners.
+
+Therefore, Aristotle wisely places rhetoric as between logic on one side, and moral or civil knowledge on the other, as participating of both. This is because the proofs and demonstrations of logic are toward all men indifferent and the same. But the proofs and persuasions of rhetoric ought to differ according to the auditors.
 
 <!-- “Orpheus in sylvis, inter delphinas Arion.” -->
 

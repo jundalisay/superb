@@ -3,7 +3,7 @@ title: "Natural Remedies for Leprosy"
 weight: 46
 description: "Femoral hernia happens if the intenstine pushes out through the hole in the canal of nerve fibres and the muscular network controlling the legs"
 image: "/photos/med/leprosy.jpg"
-icon: "/icons/yoga.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

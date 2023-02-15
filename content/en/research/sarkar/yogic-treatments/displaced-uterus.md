@@ -4,7 +4,7 @@ weight: 14
 author: "PR Sarkar"
 description: "Constipation causes this disease when the stool accumulation swells the colon. This puts pressure on the uterus, causing it to change its position. Excessive sexual activity is the main cause of constipation"
 image: "/photos/med/dysm.jpg"
-icon: "/icons/yoga.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

@@ -4,7 +4,7 @@ weight: 28
 author: "PR Sarkar"
 description: "This disease is spread by a bacteria called 'gonococcus'. It originates with people who are habitually unrestrained and unclean. Those who come in physical contact with such people also contract the disease."
 image: "/photos/med/syph.jpg"
-icon: "/icons/yoga.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

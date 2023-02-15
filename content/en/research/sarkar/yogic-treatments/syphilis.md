@@ -4,7 +4,7 @@ weight: 62
 author: "PR Sarkar"
 description: "When the disease erupts in a body which has already been suffering from vitiation of the pitta, it is called 'pitta syphilis'. Its sores are yellowish in colour, very ugly and dirty in appearance, and usually generate a sharp burning sensation"
 image: "/photos/med/syph.jpg"
-icon: "/icons/yoga.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

@@ -4,7 +4,7 @@ weight: 34
 author: "PR Sarkar"
 description: "Femoral hernia happens if the intenstine pushes out through the hole in the canal of nerve fibres and the muscular network controlling the legs"
 image: "/covers/yogic.jpg"
-icon: "/icons/yoga.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

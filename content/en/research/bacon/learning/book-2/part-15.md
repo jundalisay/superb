@@ -1,8 +1,8 @@
 ---
-heading: 
-title: "Part 14"
+heading: Part 14 
+title: "The Parts of Writing"
 weight: 32
-description: ""
+description: "The custody or retaining of knowledge is either in writing or memory"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png
 author: Francis Bacon
@@ -31,6 +31,9 @@ The art can be raised to points of ostentation prodigious; but in use (as is now
 
 I make no more estimation of repeating a great number of names or words upon once hearing, or the pouring forth of a number of verses or rhymes extempore, or the making of a satirical simile of everything, or the turning of everything to a jest, or the falsifying or contradicting of everything by cavil, or the like (whereof in the faculties of the mind there is great copy, and such as by device and practice may be exalted to an extreme degree of wonder), than I do of the tricks of tumblers, funambuloes, baladines; the one being the same in the mind that the other is in the body, matters of strangeness without worthiness.
 
+
 (3) This art of memory is but built upon two intentions; the one prenotion, the other emblem.  Prenotion dischargeth the indefinite seeking of that we would remember, and directeth us to seek in a narrow compass, that is, somewhat that hath congruity with our place of memory. 
 
-Emblem reduceth conceits intellectual to images sensible, which strike the memory more; out of which axioms may be drawn much better practice than that in use; and besides which axioms, there are divers more touching help of memory not inferior to them.  But I did in the beginning distinguish, not to report those things deficient, which are but only ill managed.
+Emblem reduceth conceits intellectual to images sensible, which strike the memory more; out of which axioms may be drawn much better practice than that in use; and besides which axioms, there are divers more touching help of memory not inferior to them.  
+
+But I did in the beginning distinguish, not to report those things deficient, which are but only ill managed.
