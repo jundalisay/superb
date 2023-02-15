@@ -41,7 +41,10 @@ In Superphysics, physical existence is made when the aether arbitrarily creates 
 
 ## Push!
 
-These identities push each other to preserve their identity while innumerable qosts are created. This pushing is based on the existential principle to preserve the discreteness of identity. This principle* then leads to:
+These identities push each other to preserve their identity while innumerable qosts are created. This preservation is caused by [the Law of Conservation of Idea](/superphysics/principles/chapter-03), a concept not present in Physics nor Science. 
+
+
+This pushing is based on the existential principle to preserve the discreteness of identity. This principle* then leads to:
 - the law of conservation of mass
 - the law of conservation of energy
 
@@ -55,7 +58,7 @@ This "pushing" is similar to the theory of Descartes which was destroyed by Newt
 {{< q a="smith" >}}
 According to Descartes, through an eternal revolution from rest to motion and motion to rest, the amount of motion in the universe was always the same. But there was no void. No part of matter could be moved without thrusting some other out of its place. The matter which any body pushed before it, rolled immediately backwards, to supply the place of that matter which flowed in behind it. This is similar to the swimming of a fish. The water, which it pushes before it, immediately rolls backwards, to supply the place of what flows in.<br><br> It thus forms a vortex around the body of the fish. In the same way, the motion originally impressed by the Creator on matter produced in it an infinity of vortices, or circular streams. 
 
-<cite>The Simplified History of Astronomy by Adam Smith</cite>
+<cite>The History of Astronomy by Adam Smith Simplified</cite>
 {{< /q >}}
 
 
@@ -66,7 +69,7 @@ Creation goes on to make the 5th, 6th, and 7th dimensions*. However, only the fo
 > *The 7 dimensions match the 7 chakras in Hinduism and is essential in Ayurveda, which we classify under [Medical Superphysics](/medical). The sequence of creation is actually in reverse. From the Creator's perspective, it starts from the 7th then goes down to the 1st dimension. But from our perspective as 'createes', it's from the 1st to the 7th.  
 
 
-Thus, spacetime is created by the mere existence or popping-in of the qosts from the aether*. This gives the **illusion** of movement by one qost against the other when in fact, none of them are moving. The only real movement is their appearance into reality or actuality coming from nonreality or probability. 
+Thus, spacetime is created by the mere existence or popping-in of the qosts from the aether. This gives the **illusion** of movement by one qost against the other when in fact, none of them are moving. The only real movement is their appearance into reality or actuality coming from nonreality or probability. 
 
 
 
@@ -83,40 +86,41 @@ Thus, spacetime is created by the mere existence or popping-in of the qosts from
 {{< /q >}}
 
 
-The aether is a metaphysical thing that is central to Plato (Timaeus), Descartes, Hinduism, and Buddhism (as citta). The problem is that people interpreted it to be physical or perceivable to our five senses. In reality, the aether is invisible and immaterial. It interacts instead with feelings and ideas since it *is* the material of feelings and ideas.  
+The aether is a metaphysical thing that is central to Plato (Timaeus), Descartes, Hinduism, and Buddhism (as citta). 
 
-We write aether with an "a" to differentiate it from the disproven* ether of science and Descartes. This is similar to writing dialectics as "Socratic Dialectics" to set it apart from the corrupted dialetics of Marx.  
+The problem is that people interpreted it to be physical or perceivable to our five senses. 
 
-> *Einstein claims that the Michelson and Morley experiment disproved the ether. In reality, it merely proved that the aether does not reside in the spacetime layer, but in its own layer as the aethereal layer. 
+Descartes is correct that motion is affected by the aether, but is incorrect in saying that the aether is physical in nature as to affect planets and galaxies **directly**. 
+
+In reality, the aether* is invisible and immaterial. It interacts instead with feelings and ideas since it *is* the material of feelings, ideas, and the abstract minds that contain those feelings and ideas.  
+
+> *We write aether with an "a" to differentiate it from the disproven* ether of science and Descartes. This is similar to writing dialectics as "Socratic Dialectics" to set it apart from the corrupted dialetics of Marx.  Einstein claims that the Michelson and Morley experiment disproved the ether. In reality, it merely proved that the aether does not reside in the spacetime layer, but in its own layer as the aethereal layer.
 
 
+<!-- Instead, the aether is the medium for metaphysical things like ideas*, thoughts, beliefs, minds, souls, spirit, and feelings.  -->
 
-Descartes is correct that motion is affected by the aether, but is incorrect in saying that the aether is physical in nature as to affect planets and galaxies directly. 
-
-Instead, the aether is the medium for metaphysical things like ideas*, thoughts, beliefs, minds, souls, spirit, and feelings. The metaphysical idea for a galaxy then is translated into an actual physical galaxy by qosts (monads, gravitons, Schwarzschild radii) of the spatial layer.
+The metaphysical idea* for a galaxy then is translated into an actual physical galaxy by qosts (monads, gravitons, Schwarzschild radii) of the spatial layer.
 
 
 > *This leads to the [Socratic Theory of Forms](/research/socrates/phaedo/chapter-8), which leads to Essences
 
 
-{{< quote avatar="mont" >}}
+{{< q a="mont" >}}
 Intelligent beings might have laws of their own making. But they also have some which they never made. Before there were intelligent beings, they were a possibility.
 
 <cite>Spirit of the Laws, Book 1</cite>
-{{< /quote >}}
+{{< /q >}}
 
 
 
 The cause of spacetime therefore is the cognition of this appearance of qosts which is caused by internal "aethereal"* factors. This is the opposite of Newton and Einstein who believed that movement is sourced from matter. 
 
-> *For example, your physical hand moves to grab a book because your athereal mind had an athereal feeling to grab the book. Someone might tell you to grab the book, as to give the illusion that the source of the movement was external from that person. But you can still refuse to grab the book due to your free will, and so the source of the resulting non-movement is still internal.  
+> *For example, your physical hand moves to grab a book because your athereal mind had an athereal feeling to grab it. Someone might tell you to grab the book, as to give the illusion that the source of the hand-movement was external from that person. But you can still refuse to grab the book due to your free will, and so the source of the resulting non-movement is still internal athereal feelings.  
 
 
-![Trafalgar Square](/graphics/traf.png)
 
-{{< cap >}}
-To get the position of the cloud over Trafalgar square, Einstein's system uses vectors and tensors. In Superphysics, the same result is obtained by knowing the nature of both the cloud and that of Trafalgar square. In this way, the Pythagorean theorem is not applied to spacetime, but to the differences between the changing natures of the cloud relative to Trafalgar square.
-{{< /cap >}}
+
+{{< img src="/graphics/traf.png" cap="To get the position of the cloud over Trafalgar square, Einstein's system uses vectors and tensors. In Superphysics, the same result is obtained by knowing the nature of both the cloud and that of Trafalgar square. In this way, the Pythagorean theorem is not applied to spacetime, but to the differences between the changing natures of the cloud relative to Trafalgar square." alt="Trafalgar Square" >}}
 
 <!-- pepsi 7up game -->
 
@@ -125,15 +129,15 @@ To get the position of the cloud over Trafalgar square, Einstein's system uses v
 Einstein defined time as the time that it takes for light to travel between two events in spacetime. But this is circular reasoning since the speed of light also has a time component. Moreover, we defined spacetime as the effect of the qosts creating distance between each other, even before light existed. How can something non-existent define something that already exists?  
 
 
-{{< quote avatar="smith" >}}
+{{< q a="einbla" >}}
 We test simultaniety by putting an observer in the middle M between A and B. He as two mirrors inclined at 90° to let him see both A and B at the same time. If he sees the two flashes of lightning at the same time, then they are simultaneous.
-
-You object by saying that they would only be true, that time would be simultaniety, if all light travels at a constant speed. <i>But the speed of light would itself be measured by time, so this is reasoning in a circle</i>. Simultaniety has absolutely nothing to do with light.
-
+<br><br>
+You object by saying that they would only be true, that time would be simultaniety, if all light travels at a constant speed. <i><b>But the speed of light would itself be measured by time, so this is reasoning in a circle -- simultaniety has absolutely nothing to do with light.</b></i>
+<br><br>
 I answer that this simultaneity of time is only used for us to make empirical decisions. 
 
-<cite>Simplified Relativity by Einstein, Section 8</cite>
-{{< /quote >}}
+<cite>Relativity by Einstein Simplified, Section 8</cite>
+{{< /q >}}
 
 <!-- Spacetime exists before, and independent of, light and electromagnetism. So how can something like light -- something that is unnecessary to spacetime -- be required to define spacetime? -->
 
@@ -173,7 +177,7 @@ Name | Physics Name | Manifestation | Practical Goal
 [Aethereal Relativity](/material/principles/aethereal-relativity) | Pseudo-science | Movement and transformation for qoas (ideas) between probabilities or multiverses inside minds | Medical Superphysics: know whether a person is moving towards disease so his course can be changed<br>Supersociology: know where the feeling of society is heading, so it doesn't go into anarchy<br>Economics: know whether the economy is moving towards poverty and inequality
 [Gravitational Relativity](/material/principles/gravitational-relativity) | General Relativity | Movement of supermassive blackholes (qosts) as the expansion of the universe and galaxy rotation | [Allow fusion](/articles/material/fusion) by levitating plasma, and allow teleportation to other galaxies
 Radiant Relativity | Special Relativity | Movement and transformation for photons (quanta of light or qol) and electrons (quanta of electromagnetism or qoe) | Make [light-based computing](/material/solutions/light-based-computing) more practical
-[Radioactive Relativity](/material/principles/radioactive-relativity) | Feynman Diagrams | Movement and transformation for neutrons | Allow alchemy 
+[Transformative Relativity](/material/principles/radioactive-relativity) | Feynman Diagrams | Movement and transformation for neutrons | Allow alchemy 
 [Material Relativity](/material/principles/material-relativity) | Newton's Laws | Movement and transformation sourced externally | Enable teleportation and levitation technologies
 
 

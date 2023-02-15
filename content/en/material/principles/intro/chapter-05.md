@@ -44,7 +44,7 @@ Physical Layer| Gravity | Relativity | Pythagorean Tone | Independence of Time
 Aethereal | Aethereal Gravity (Higgs Field) | Aethereal | La | Insignificant
 Spatial | Gravity | Gravitational | Sol
 Radiant | Magnetism |  Radiant (Special Relativity) | Mi | Dependent on Viewpoint
-Radioactive | Radioactivity (Weak force) | Feynman Diagrams | Re | 
+Transformative | Radioactivity (Weak force) | Feynman Diagrams | Re | 
 Material | Atomic bond (Strong force) | Material | Do | Totally Absolute or Independent of Viewpoint
 
 
@@ -55,7 +55,7 @@ Metaphysical Layer | Need | Examples
 Aethereal | Spiritual | Enlightenment and Realization
 Spatial | Psycho-spritual, Intellectual | Philosophy (Movement of Ideas), Theories
 Radiant | Expression, Mental | Religion (Movement of Beliefs), Mental Diseases
-Radioactive | Social | Marriage, Elections, Complex Diseases
+Transformative | Social | Marriage, Elections, Complex Diseases
 Material | Bodily | Price Movements, Procedures, Ordinary Diseases
 
 In this way, the Kepler tensor can trace and predict all movements in the universe. 

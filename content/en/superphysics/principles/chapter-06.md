@@ -1,6 +1,5 @@
 ---
 heading: "Chapter 6"
-
 title: "The Nature of Feelings"
 date: 2020-12-15
 weight: 18

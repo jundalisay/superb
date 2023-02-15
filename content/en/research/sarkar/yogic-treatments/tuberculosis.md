@@ -72,13 +72,39 @@ Evening – Sarváuṋgásana, Matsyamudrá, Naokásana, Utkat́a Paschimott
 
 ## Diet
 
-Due to deficiency in blood and in body fluids, tuberculosis patients lose vigour very quickly; so tuberculosis patients should take easily-digestible and nutritious foods. One should never eat very much food at a time. Foods that may cause constipation should be carefully avoided. Depending on the condition of the liver, one should drink sufficient cow’s milk, goat’s milk, peanut milk or coconut milk. Spices, meat, eggs, ghee and átapa rice should not be taken until the disease has been completely cured, because such types of food cause constipation.
+Due to deficiency in blood and in body fluids, tuberculosis patients lose vigour very quickly.
 
-As with most other diseases, acidic food should be avoided. Instead, alkaline types of food, such as sweet and sour fruits and roots of all varieties, and soup of green vegetables, are ideal for tuberculosis patients.
+They should:
+- take easily-digestible and nutritious foods. 
+- never eat very much food at a time. 
+- carefully avoid foods that may cause constipation such as:
+  - spices
+  - meat
+  - eggs
+  - ghee
+  - átapa rice
 
-Critically-ill patients should not take anything other than lemon juice and fruit juices. Afterwards, as the critical stage of the disease abates, they should eat nutritious yet easily-digestible food of alkaline type as far as possible. Non-vegetarian may be permitted to eat soup of small fish made with a little spice. 
+Depending on the condition of the liver, one should drink sufficient:
+- cow’s milk
+- goat’s milk
+- peanut milk
+- coconut milk
 
-It is far better for tuberculosis patients to use honey than raw or refined sugar. At night, rut́i instead of rice should be served. They should also consume about two-and-a-half to three seers of water daily, but never more than one-eighth seer at a time. Fasting without water is strictly forbidden for all tuberculosis patients.
+ <!-- should not be taken until the disease has been completely cured, because such types of food cause constipation. -->
+
+As with most other diseases, acidic food should be avoided. 
+
+Instead, alkaline types of food, such as sweet and sour fruits and roots of all varieties, and soup of green vegetables, are ideal for tuberculosis patients.
+
+Critically-ill patients should not take anything other than lemon juice and fruit juices. 
+
+Afterwards, as the critical stage of the disease abates, they should eat nutritious yet easily-digestible food of alkaline type as far as possible. 
+
+Non-vegetarian may be permitted to eat soup of small fish made with a little spice. 
+
+It is far better for tuberculosis patients to use honey than raw or refined sugar. 
+
+At night, rut́i instead of rice should be served. They should also consume about two-and-a-half to three seers of water daily, but never more than one-eighth seer at a time. Fasting without water is strictly forbidden for all tuberculosis patients.
 
 
 ## Dos and don’ts
