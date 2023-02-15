@@ -5,7 +5,7 @@ weight: 36
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-icon: "/flags/in.png"
+icon: "/icons/krishna.png"
 ---
 
 

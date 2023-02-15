@@ -5,7 +5,7 @@ weight: 20
 author: "Vyasa"
 description: "I say these words to bring you bliss and peace, who lovest Me always"
 image: "/covers/gita.jpg"
-icon: "/flags/in.png"
+icon: "/icons/krishna.png"
 ---
 
 Krishna.[FN#l6]

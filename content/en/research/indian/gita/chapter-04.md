@@ -1,16 +1,13 @@
 ---
-title: "The Bhagavad-Gita"
+title: "Knowledge"
 heading: "Chapter 4 "
 weight: 8
 author: "Vyasa"
 description: "This deathless Yoga, this deep union, I taught Vivaswata,[FN#6] the Lord of Light"
 image: "/covers/gita.jpg"
-icon: "/flags/in.png"
+icon: "/icons/krishna.png"
 ---
 
-
-
-Krishna.
 
 This deathless Yoga, this deep union, I taught Vivaswata,[FN#6] the Lord of Light;
 Vivaswata gave it to Manu who gave it to Ikshwaku. 
@@ -63,8 +60,7 @@ And, knowing, thou shalt learn which work doth save
 Needs must one rightly meditate those three--
 Doing,--not doing,--and undoing. 
 
-Here
-Thorny and dark the path is! He who sees
+Here Thorny and dark the path is! He who sees
 How action may be rest, rest action--he
 Is wisest 'mid his kind; he hath the truth!
 He doeth well, acting or resting. Freed
@@ -88,8 +84,7 @@ By bond of deeds. Nay, but of such an one,
 Whose crave is gone, whose soul is liberate,
 Whose heart is set on truth--of such an one
 What work he does is work of sacrifice,
-Which passeth purely into ash and smoke
-Consumed upon the altar! All's then God!
+Which passeth purely into ash and smoke consumed upon the altar! All's then God!
 
 - the sacrifice is Brahm
 - the ghee and grain are Brahm
@@ -163,6 +158,7 @@ He that, being self-contained, hath vanquished doubt,
 
 Disparting self from service, soul from works,
 Enlightened and emancipate, my Prince!
+
 Works fetter him no more! Cut then atwain
 With sword of wisdom, Son of Bharata!
 This doubt that binds thy heart-beats! cleave the bond

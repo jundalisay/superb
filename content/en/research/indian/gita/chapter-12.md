@@ -5,7 +5,7 @@ weight: 24
 author: "Vyasa"
 description: "Whoever serve Me--as I show Myself-- Constantly true, in full devotion fixed"
 image: "/covers/gita.jpg"
-icon: "/flags/in.png"
+icon: "/icons/krishna.png"
 ---
 
 

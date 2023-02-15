@@ -1,24 +1,21 @@
 ---
-title: "The Bhagavad-Gita"
-heading: "Chapter 17 "
+title: "The Threefold Faith"
+heading: "Chapter 17"
 weight: 34
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-icon: "/flags/in.png"
+icon: "/icons/krishna.png"
 ---
 
 
-Arjuna.
+{{< r a="Arjuna" >}}
+If men forsake the holy ordinance, heedless of Shastras, yet keep faith at heart and worship, what shall be the state of those, Great Krishna! Sattwan, Rajas, Tamas?
+{{< /r >}}
 
 
-If men forsake the holy ordinance, heedless of Shastras, yet keep faith at heart
-And worship, what shall be the state of those,
-Great Krishna! Sattwan, Rajas, Tamas? Say!
 
-
-Krishna.
-
+{{< l a="Krishna" >}}
 Threefold the faith is of mankind and springs
 From those three qualities,--becoming "true,"
 Or "passion-stained," or "dark," as thou shalt hear!
@@ -65,11 +62,9 @@ With stamp of "passion." And a sacrifice
 Offered against the laws, with no due dole
 Of food-giving, with no accompaniment
 Of hallowed hymn, nor largesse to the priests,
-In faithless celebration, call it vile,
-The deed of "Darkness!"--lost!
-Worship of gods
+In faithless celebration, call it vile, the deed of "Darkness!"--lost!
 
-Meriting worship; lowly reverence
+Worship of gods Meriting worship; lowly reverence
 Of Twice-borns, Teachers, Elders; Purity,
 Rectitude, and the Brahmacharya's vow,
 And not to injure any helpless thing,--
@@ -103,8 +98,9 @@ This is of Rajas, stained with impulse, ill.
 The gift churlishly flung, at evil time,
 In wrongful place, to base recipient,
 Made in disdain or harsh unkindliness,
-Is gift of Tamas, dark; it doth not bless![FN#37]
 
+Is gift of Tamas, dark; it doth not bless![FN#37]
+{{< /l >}}
 
 
 

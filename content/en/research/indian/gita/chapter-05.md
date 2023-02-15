@@ -1,22 +1,24 @@
 ---
-title: "Renunciation"
+title: "Karmasanyasayog: Renouncing The Fruit of Works"
 heading: "Chapter 5 "
 weight: 10
 author: "Vyasa"
 description: "The region of high rest which Sankhyans reach Yogins attain"
 image: "/covers/gita.jpg"
-icon: "/flags/in.png"
+icon: "/icons/krishna.png"
 ---
 
-Arjuna.
 
+
+{{< r a="Arjuna" >}}
 Yet, Krishna! at the one time thou dost laud
 Surcease of works, and, at another time,
 Service through work. Of these twain plainly tell
 Which is the better way?
+{{< /r >}}
 
-Krishna.
 
+{{< l a="Krishna" >}}
 To cease from works
 
 Is well, and to do works in holiness
@@ -111,14 +113,15 @@ That one-with organs, heart, and mind constrained,
 Bent on deliverance, having put away
 Passion, and fear, and rage;--hath, even now,
 Obtained deliverance, ever and ever freed.
-Yea! for he knows Me Who am He that heeds
+
+He knows Me Who am He that heeds
+
 The sacrifice and worship, God revealed;
-And He who heeds not, being Lord of Worlds,
+
+He who heeds not, being Lord of Worlds,
 Lover of all that lives, God unrevealed,
 Wherein who will shall find surety and shield!
-HERE ENDS CHAPTER V. OF THE BHAGAVAD-GITA,
-Entitled "Karmasanyasayog,"
-Or "The Book of Religion by Renouncing Fruit of Works."
+{{< /l >}}
 
 
 

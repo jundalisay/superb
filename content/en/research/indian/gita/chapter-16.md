@@ -1,24 +1,21 @@
 ---
-title: "The Bhagavad-Gita"
-heading: "Chapter 16 "
+title: "The Divine and Non-Divine"
+heading: "Chapter 16"
 weight: 32
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-icon: "/flags/in.png"
+icon: "/avatars/krishna.png"
 ---
 
 
+Fearlessness, singleness of soul, the will always to strive for wisdom
 
-Krishna.
-
-Fearlessness, singleness of soul, the will always to strive for wisdom; opened hand
-And governed appetites; and piety, And love of lonely study; humbleness,
+opened hand and governed appetites; and piety, And love of lonely study; humbleness,
 Uprightness, heed to injure nought which lives, truthfulness, slowness unto wrath, a mind
 That lightly letteth go what others prize; 
 
-And equanimity, and charity
-Which spieth no man's faults; and tenderness
+equanimity, and charity which spieth no man's faults; and tenderness
 Towards all that suffer; a contented heart,
 Fluttered by no desires; a bearing mild,
 Modest, and grave, with manhood nobly mixed,
@@ -58,8 +55,7 @@ Into the sinful course, they trust this lie
 As it were true--this lie which leads to death--
 Finding in Pleasure all the good which is,
 And crying "Here it finisheth!"
-Ensnared
-In nooses of a hundred idle hopes,
+Ensnared In nooses of a hundred idle hopes,
 Slaves to their passion and their wrath, they buy
 Wealth with base deeds, to glut hot appetites;
 "Thus much, to-day," they say, "we gained! thereby
@@ -97,4 +93,4 @@ Of Avarice. Let a man shun those three!
 He who shall turn aside from entering
 All those three gates of Narak, wendeth straight
 To find his peace, and comes to Swarga's gate.
-. . . . . . . . . . . .[FN#33]
+<!-- .[FN#33] -->

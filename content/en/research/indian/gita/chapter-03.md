@@ -1,11 +1,11 @@
 ---
-title: "The Bhagavad-Gita"
+title: "The Virtue of Work"
 heading: "Chapter 3 "
 weight: 6
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-icon: "/flags/in.png"
+icon: "/icons/krishna.png"
 ---
 
 
@@ -14,6 +14,7 @@ Thou whom all mortals praise, Janardana!
 
 If meditation be a nobler thing than action, wherefore, then, great Kesava!
 Dost thou impel me to this dreadful fight?
+
 Now am I by thy doubtful speech disturbed!
 Tell me one thing, and tell me certainly;
 By what road shall I find the better end?
@@ -43,7 +44,10 @@ Nature's law compels the yogi to act, even if he is unwilling. [Even thought is 
 He who sits suppressing his bodily desires <!-- all the instruments of flesh, --> yet in his idle heart thinks about them is a guilty hypocrite. 
 
 But he who, with strong body serving mind, gives up his mortal powers to do worthy work, not seeking gain,  such a one is honourable. 
+{{< /l >}}
 
+
+{{< l a="Krishna" >}}
 Do your allotted task!
 
 Work is more excellent than idleness. The body's life proceeds not, lacking work.
@@ -53,7 +57,10 @@ The faithful soul; such earthly duty do
 Free from desire, and thou shalt well perform
 
 Thy heavenly purpose.
+{{< /l >}}
 
+
+{{< l a="Krishna" >}}
 Prajapati said:
 
 {{< q >}}
@@ -78,7 +85,10 @@ Those who eat food after their sacrifice are free of fault. But those who spread
 Food comes of rain. Rain comes by the pious sacrifice. Sacrifice is paid with tithes of toil. 
 
 Thus, action is of Brahma, who is One,The Only, All-pervading. At all times He is present in sacrifice. 
+{{< /l >}}
 
+
+{{< l a="Krishna" >}}
 He who abstains to help this great world, glutting his idle sense, lives a lost life, shameful and vain. He exists for himself, and is self-concentrated, serving self alone.
 
 He has:
@@ -92,7 +102,10 @@ Since in performance of plain duty man
 Mounts to his highest bliss. 
 
 By works alone Janak and ancient saints reached blessedness!
+{{< /l >}}
 
+
+{{< l a="Krishna" >}}
 Moreover, for the upholding of thy kind, action thou should'st embrace. What the wise choose
 The unwise people take; what best men do The multitude will follow. Look on me,
 Thou Son of Pritha! in the three wide worlds
@@ -108,7 +121,10 @@ Even as the unknowing toil, wedded to sense,
 So let the enlightened toil, sense-freed, but set
 To bring the world deliverance, and its bliss;
 Not sowing in those simple, busy hearts seed of despair. 
+{{< /l >}}
 
+
+{{< l a="Krishna" >}}
 Let each play his part in all he finds to do, with unyoked soul.
 
 All things are everywhere by Nature wrought in interaction of the qualities.
@@ -122,7 +138,10 @@ Standeth aloof even from his acts.
 
 The untaught live mixed with them, knowing not Nature's way, of highest aims unwitting, slow and dull.
 Those make thou not to stumble, having the light; 
+{{< /l >}}
 
+
+{{< l a="Krishna" >}}
 But all thy dues discharging, for My sake, with meditation centred inwardly,
 Seeking no profit, satisfied, serene, Heedless of issue--fight! They who shall keep
 My ordinance thus, the wise and willing hearts, Have quittance from all issue of their acts;
@@ -140,6 +159,7 @@ Than take tasks not his own, though they seem good.
 To die performing duty is no ill;
 
 But who seeks other roads shall wander still.
+{{< /l >}}
 
 
 {{< r a="Arjuna" >}}

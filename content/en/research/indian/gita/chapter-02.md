@@ -1,17 +1,17 @@
 ---
-title: "The Bhagavad-Gita"
+title: "Sankhya-Yog: Doctrines"
 heading: "Chapter 2"
 weight: 4
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-icon: "/flags/in.png"
+icon: "/icons/krishna.png"
 ---
 
 
-Sanjaya.
+<!-- Sanjaya.
 
-He was filled with such compassion and grief. 
+He was filled with such compassion and grief.  -->
 <!-- With eyes tear-dimmed, despondent, in stern words
 The Driver, Madhusudan, thus addressed: -->
 
@@ -46,9 +46,9 @@ A god--and these gone thence! -->
 Sanjaya: Arjuna became silent. 
 
 {{< l a="Krishna" >}}
-You grieve when you should not be grireving!
+You grieve when you should not be grieving! You are lacking wisdom.
 
-You lacking wisdom! The wise in heart mourn not for those who live, nor those who die.
+The wise in heart mourn not for those who live, nor those who die.
 
 Everyone lives forever. Physical life is just short and mutable.  
 <!-- Nor I, nor thou, nor any one of these,
@@ -67,22 +67,23 @@ Bear with it, Arjuna, as the wise bear. The soul which is not moved, with a stro
 
 <!-- Lives in the life undying! --> That which is, can never cease to be; that which is not, will not exist. 
 
-To see this truth of both is theirs who part essence from accident,
-Substance from shadow. 
+To see this truth of both is theirs who part essence from accident, substance from shadow. 
+{{< /l >}}
 
-Indestructible,
-Learn thou! 
 
-The Life is, spreading life through all;
 
-It cannot anywhere, by any means, be anywise diminished, stayed, or changed.
+{{< l a="Krishna" >}}
+Learn that you are Indestructible.  Life spreads life through all.. It cannot anywhere, by any means, be anywise diminished, stayed, or changed.
 
 But for these fleeting frames which it informs with spirit deathless, endless, infinite,
 They perish. <!-- Let them perish, Prince! and fight! -->
 
 He who shall say, "Lo! I have slain a man!"
+
 He who shall think, "Lo! I am slain!" those both
+
 Know naught! Life cannot slay. Life is not slain!
+
 Never the spirit was born; the spirit shall cease to be never;
 Never was time it was not; End and Beginning are dreams!
 Birthless and deathless and changeless remaineth the spirit for ever;
@@ -98,13 +99,21 @@ So putteth by the spirit
 Lightly its garb of flesh,
 And passeth to inherit
 A residence afresh.
+{{< /l >}}
 
-I say to thee weapons reach not the Life;
 
-Flame burns it not, waters cannot o'erwhelm, nor dry winds wither it. Impenetrable,
-Unentered, unassailed, unharmed, untouched, Immortal, all-arriving, stable, sure,
+{{< l a="Krishna" >}}
+Weapons cannot reach the Life.
+- Flame burns it not
+- Waters cannot overwhelm it
+- Dry winds cannot wither it. 
+
+It is impenetrable, Unentered, unassailed, unharmed, untouched, Immortal, all-arriving, stable, sure,
 Invisible, ineffable, by word And thought uncompassed, ever all itself,
-Thus is the Soul declared! How wilt thou, then,--
+
+Thus is the Soul declared! 
+
+How wilt thou, then,--
 Knowing it so,--grieve when thou shouldst not grieve?
 How, if thou hearest that the man new-dead
 Is, like the man new-born, still living man--
@@ -126,19 +135,26 @@ This Life within all living things, my Prince!
 Hides beyond harm; scorn thou to suffer, then,
 For that which cannot suffer. Do thy part!
 Be mindful of thy name, and tremble not!
-Nought better can betide a martial soul
-Than lawful war; happy the warrior
-To whom comes joy of battle--comes, as now,
+Nought better can betide a martial soul..
+
+Than lawful war; happy the warrior to whom comes joy of battle--comes, as now,
 Glorious and fair, unsought; opening for him
 A gateway unto Heav'n. But, if thou shunn'st
+{{< /l >}}
+
+
+
+{{< l a="Krishna" >}}
 This honourable field--a Kshattriya--
 If, knowing thy duty and thy task, thou bidd'st
 Duty and task go by--that shall be sin!
 And those to come shall speak thee infamy
 From age to age; but infamy is worse
 For men of noble blood to bear than death!
+
 The chiefs upon their battle-chariots
 Will deem 'twas fear that drove thee from the fray.
+
 Of those who held thee mighty-souled the scorn
 Thou must abide, while all thine enemies
 Will scatter bitter speech of thee, to mock
@@ -150,10 +166,13 @@ Therefore, arise, thou Son of Kunti! brace
 Thine arm for conflict, nerve thy heart to meet--
 As things alike to thee--pleasure or pain,
 Profit or ruin, victory or defeat:
-So minded, gird thee to the fight, for so
-Thou shalt not sin!
+So minded, gird thee to the fight, for so Thou shalt not sin!
 Thus far I speak to thee
+{{< /l >}}
+
+{{< l a="Krishna" >}}
 As from the "Sankhya"--unspiritually--
+
 Hear now the deeper teaching of the Yog,
 Which holding, understanding, thou shalt burst
 Thy Karmabandh, the bondage of wrought deeds.
@@ -176,8 +195,7 @@ Least fixity of soul have such, least hold
 On heavenly meditation. Much these teach,
 From Veds, concerning the "three qualities;"
 But thou, be free of the "three qualities,"
-Free of the "pairs of opposites,"[FN#2] and free
-From that sad righteousness which calculates;
+Free of the "pairs of opposites,"[FN#2] and free from that sad righteousness which calculates;
 Self-ruled, Arjuna! simple, satisfied![FN#3]
 Look! like as when a tank pours water forth
 To suit all needs, so do these Brahmans draw
@@ -190,7 +208,10 @@ Thy piety, casting all self aside,
 Contemning gain and merit; equable
 In good or evil: equability
 Is Yog, is piety!
+{{< /l >}}
 
+
+{{< l a="Krishna" >}}
 Yet, the right act
 
 Is less, far less, than the right-thinking mind.
@@ -232,6 +253,7 @@ Not overjoyed; dwelling outside the stress
 Of passion, fear, and anger; fixed in calms
 Of lofty contemplation;--such an one
 Is Muni, is the Sage, the true Recluse!
+
 He who to none and nowhere overbound
 By ties of flesh, takes evil things and good
 Neither desponding nor exulting, such
@@ -243,7 +265,13 @@ Which else assails them, such an one, my Prince!
 Hath wisdom's mark! Things that solicit sense
 Hold off from the self-governed; nay, it comes,
 The appetites of him who lives beyond
-Depart,--aroused no more. Yet may it chance,
+Depart,--aroused no more. 
+{{< /l >}}
+
+
+
+{{< l a="Krishna" >}}
+Yet may it chance,
 O Son of Kunti! that a governed mind
 Shall some time feel the sense-storms sweep, and wrest
 Strong self-control by the roots. Let him regain
@@ -267,8 +295,11 @@ The soul of the ungoverned is not his,
 Nor hath he knowledge of himself; which lacked,
 How grows serenity? and, wanting that,
 Whence shall he hope for happiness?
-The mind
-That gives itself to follow shows of sense
+{{< /l >}}
+
+
+{{< l a="Krishna" >}}
+The mind that gives itself to follow shows of sense
 Seeth its helm of wisdom rent away,
 And, like a ship in waves of whirlwind, drives
 To wreck and death. Only with him, great Prince!
@@ -295,7 +326,7 @@ That is the state of Brahm! There rests no dread
 When that last step is reached! Live where he will,
 Die when he may, such passeth from all 'plaining,
 To blest Nirvana, with the Gods, attaining.
-
+{{< /l >}}
 
 <!-- HERE ENDETH CHAPTER II. OF THE BHAGAVAD-GITA,
 Entitled "Sankhya-Yog,"

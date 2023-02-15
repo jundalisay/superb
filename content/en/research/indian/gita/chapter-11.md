@@ -1,16 +1,16 @@
 ---
-title: "Who is Loved?"
+title: "The Adhyatman"
 heading: "Chapter 11 "
 weight: 22
 author: "Vyasa"
 description: "The unfolding of the Mystery Supreme called Adhyatman"
 image: "/covers/gita.jpg"
-icon: "/flags/in.png"
+icon: "/icons/krishna.png"
 ---
 
 
-Arjuna.
 
+{{< r a="Arjuna" >}}
 The unfolding of the Mystery Supreme called Adhyatman. 
 
 It dispells my darkness is dispelled. Now I know--
@@ -25,7 +25,7 @@ Wholly revealed. O Thou Divinest One!
 If this can be, if I may bear the sight,
 Make Thyself visible, Lord of all prayers!
 Show me Thy very self, the Eternal God!
-
+{{< /r >}}
 
 
 Krishna.

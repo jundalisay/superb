@@ -5,7 +5,7 @@ weight: 28
 author: "Vyasa"
 description: "Yet farther will I open unto thee"
 image: "/covers/gita.jpg"
-icon: "/flags/in.png"
+icon: "/icons/krishna.png"
 ---
 
 

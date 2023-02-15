@@ -5,12 +5,10 @@ weight: 18
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-icon: "/flags/in.png"
+icon: "/icons/krishna.png"
 ---
 
 
-
-Krishna said:
 
 Now I will teach you <!--  I open unto you--whose heart Rejects not--that  --> the last lore, deepest-concealed. 
 

@@ -5,14 +5,12 @@ weight: 16
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-icon: "/flags/in.png"
+icon: "/icons/krishna.png"
 ---
 
 
-
-Arjuna.
-
-Who is that BRAHMA? 
+{{< r a="Arjuna" >}}
+Who is that Brahma? 
 
 What that Soul of Souls, the ADHYATMAN? 
 
@@ -25,6 +23,7 @@ What is ADHIDAIVA?
 How can ADHIYAJNA be in your flesh?
 
 How can good men find you in the hour of death?
+{{< /r >}}
 
 
 Krishna.
