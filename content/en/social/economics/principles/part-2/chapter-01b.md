@@ -172,7 +172,8 @@ But as a measure of quantity, such as the natural foot, fathom, or handful, whic
 A commodity that always varies in value can never be an accurate measure of the value of other commodities. Just as a natural foot, fathom, or handful can never be an accurate measure.. Always and everywhere, equal quantities of toil and trouble is of equal value to the worker. In his ordinary state, he must always lay down the same portion of his ease, liberty, and happiness. The price which he pays must always be the same, though sometimes it buys varying amounts of commodity. But it is the value of the commodities which varies, not his toil and trouble. Always and everywhere:<ul><li>a thing is expensive if it is difficult or costs much toil and trouble to acquire.</li><li>a thing is cheap if it can be had easily or with very little toil and trouble.</li></ul>Toil and trouble never varies in its own value. Therefore, it alone is the ultimate and real standard by which the value of all commodities can be estimated and compared always and everywhere.“It is their real price; money is their nominal price only.
 {{< /quote >}}
 
-![Hourly rates of jobs](https://socioecons.files.wordpress.com/2017/07/hourly-rates.jpg)
+
+{{< img alt="Sorting hat" src="https://socioecons.files.wordpress.com/2017/07/hourly-rates.jpg" alt="Hourly rates of jobs" >}}
 
 
 Smith's Effort Theory of Value is seen in lowly-paid and highly-paid jobs. The former generally requires less effort than the latter, when taking into account the physical, mental, and emotional toil and trouble involved.
