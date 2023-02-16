@@ -30,14 +30,18 @@ For instance, we sometimes perceive something totally new. When Covid first stru
 
 In this case: 
 - the physical disease started to exist through the senses of the Wuhan doctors
-- the metaphysical idea existed in Nature, but not in human minds. It only existed in minds after the scientists established it as a new idea called Novel Coronavirus Disease, later renamed as Covid-19
+- the metaphysical idea existed in Nature, but not in human minds. It only existed in minds after the scientists established it as a new idea called Novel Coronavirus Disease, later renamed as **Covid-19**
+
+
+{{< img src="/photos/med/covid.jpg" alt="Covid in water" cap="The idea of Covid is started to exist in the physical domain when the physical perception of the new virus began. Its evolution from 'Novel Coronavirus Disease' to 'Covid-19' is an example the 'aether drag'" >}}
+
 
 
 ## The Superiority of the Metaphysical Over the Physical
 
 This strengthens the fact that:
 - physical things are tangible and perceivable through our five senses
-- metaphysical things are perceivable through our intellect and feelings.
+- metaphysical things are perceivable through our intellect and feelings (the 6th sense).
 
 {{< img src="/photos/objects/mugecon.jpg" alt="Mug Economics">}}
 
@@ -162,7 +166,10 @@ The Hindus call this Virtual Reality or Existence as **Brahma** and the Taoists 
 
 ## Do You Have a Problem? The Solution Already Exists!
 
-All the data served by the internet pre-exists, so it means that all possibilities already pre-exist. If you have a problem, then it means its solution pre-exists and you just have to find it. If the solution does not pre-exist, then it means your problem is not really a problem. 
+All the data served by the internet pre-exists, so it means that all possibilities already pre-exist. If you have a problem, then it means its solution pre-exists and you just have to find it. If the solution does not pre-exist, then it means your problem is not really a problem*.
+
+> *The evolution from problem to solution as still part of the aether drag. Without this drag, all problems would be solved instantly. Cavemen take a longer time to solve problems than modern humans and so we say they have more drag. 
+
 
 For example, no one has ever imagined that humans should have three or four legs, and that having only two legs was a problem. Thus, there has never been a search for its solution. 
 

@@ -26,7 +26,9 @@ Superphysics is our revival of Classical Economics, backed up by actual data whi
 
 In contrast, Modern Economics only began from the Marginal Revolution of the 1870's. This makes it a toy idea that crashed quickly after 50 years as the Great Crash and Depression. Nowadays, this toy idea manifests as gaming via game theory, the stock market, and cryptocurrencies, all coming from the mercantile game of buying low and selling high. 
 
-![Wrong Supply and Demand Chart](https://sorasystem.sirv.com/charts/demsup/wrong.png)
+
+{{< img src="https://sorasystem.sirv.com/charts/demsup/wrong.png" alt="Wrong Supply and Demand Chart" >}}
+
 
 
 Idea | Economics | Superphysics
@@ -49,9 +51,9 @@ Task For Economists | Economic Growth | Economic Balance
 
 Economics creates crises because of the huge gaps in knowledge about the nature of society and the self, since it only had 150 years of data on human behavior. An easy proof of the limitation of Economics is the Law of Supply is Demand is taught, but not [the Four Laws of Value](/social/economics/principles/intro/chapter-03/) that lead to that Law of Supply and Demand
 
-![Economic Superphysics Knowledge](https://sorasystem.sirv.com/charts/knowecon.png) 
+{{< img src="https://sorasystem.sirv.com/charts/knowecon.png" alt="Supereconomics Knowledge" >}}
 
 In contrast, Superphysics has over 2,500 years of knowledge from principles and data collected by philosophers before they were converted into scientists or researchers
 
 
-{{< img src="https://sorasystem.sirv.com/charts/knowtao.png" alt="Economic Superphysics Knowledge vs Economics" cap="The areas in black indicate the known concepts in both Economics and Superphysics" >}}
+{{< img src="https://sorasystem.sirv.com/charts/knowtao.png" alt="Supereconomics Knowledge vs Economics" cap="The areas in black indicate the known concepts in both Economics and Superphysics" >}}

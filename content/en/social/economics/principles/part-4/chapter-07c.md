@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 7b"
+heading: "Chapter 7c"
 title: "How Profit Maximization Disrupted The Natural Balance of Economies"
 weight: 34
 date: 2021-12-27

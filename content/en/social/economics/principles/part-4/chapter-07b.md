@@ -52,7 +52,8 @@ To do this, he had to write about:
 
 In the same way, we want to objectively prove that GDP (measured in US Dollars) is not a proof of the wealth of a country. Instead, it is the collective grain value that a society needs in order to gain possession of all the cars, iPhones, bus tickets, real estate, etc. in that society for a certain timespan.
 
-![Grains](/photos/grains.jpg)
+{{< img src="/photos/grains.jpg" alt="Grains" >}}
+
 
 This grain value embodies the purchasing power of the society, ultimately representing their actual productivity which represents effort, as [The Effort Theory of Value](/social/economics/principles/part-2/chapter-01b). We use grain because without food, no one can do work to mine metals, make cars, inspect real estate, code websites, build infrastructure, etc.
 
@@ -74,6 +75,7 @@ Who wouldn't want to live in a country that has more real value and is more resi
 
 {{< q a="smith" >}}
 <p>Finding an easy proof of a country's prosperity may be useful to the public.</p>
+
 <cite>Simplified Wealth of Nations Book 1, Chapter 11, Digression</cite>
 {{< /q >}}
 
@@ -259,7 +261,7 @@ More importantly, our system cuts the cost of transactions while retaining democ
 
 
 
-_ | Economics | Economic Superphysics
+_ | Economics | Supereconomics
 --- | --- | ---
 Measure of Supply | GDP as Gross Domestic Product or the gross sales in a country | Purchasing Power as the net revenue in a country arrived at by a top-down approach (by deducting finance and money) or a bottom-up approach (by points through an app) <!-- after  -->
 Measure of Demand | Consumer Price Index or prices of year X relative to year Y | Grain Index or prices of different goods and services relative to grain. For basics, it is fuel, electricity, water, rent, basic medical services and common non-essentials (meat, milk). For luxuries, it is cars, condominiums, etc.

@@ -33,7 +33,14 @@ Karl Marx and Frederick Engels listed the 10 demands of Communism in The Communi
 
 Marx and Engels believed that such policies would concentrate production into the hands of the State. This would then make the public power will lose its political character and make class distinctions will disappear, to be replaced instead by association. 
 
-Our law of social cycles says that humans, by the design of Nature, fall under four large classes of populist, miltant, philosopher, and merchant. Removing such distinctions would therefore be going against Nature. This is why Communist systems imploded naturally be themselves. 
+Our law of social cycles says that humans, by the design of Nature, fall under 4 large classes:
+
+1. Workers
+2. Warriors
+3. Thinkers
+4. Traders
+
+Removing such distinctions would therefore be going against Nature. This is why Communist systems imploded naturally by themselves. 
 
 
 <!-- Political power, properly so called, is merely the organised power of one class for oppressing another. If the proletariat during its contest with the capitalists is compelled, by the force of circumstances, to organise itself as a class, if, by means of a revolution, it makes itself the ruling class, and, as such, sweeps away by force the old conditions of production, then it will, along with these conditions, have swept away the conditions for the existence of class antagonisms and of classes generally, and will thereby have abolished its own supremacy as a class. -->

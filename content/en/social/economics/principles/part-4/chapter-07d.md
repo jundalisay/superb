@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 7b"
+heading: "Chapter 7d"
 title: "Two DCTI Scenarios"
 # date: 2021-06-28
 date: 2021-12-25

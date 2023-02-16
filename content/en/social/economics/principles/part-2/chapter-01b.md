@@ -77,7 +77,8 @@ Eastern philosophy solves this by using a mantra constantly which forces the min
 Shallow minds will think that money is the cause of economic activity because that is what their perceptions readily presents to them. From this, they will create utility theories, and then equilibrium and profit maximization theories, not knowing that such ideas naturally create crises after some time because they are based on effect instead of cause.
 {{< /me >}}
 
-![Effort is not enough](/graphics/jfk.jpg)
+{{< img alt="JFK quote" src="/graphics/jfk.jpg" cap="Effort is not enough" >}}
+
 
 
 ## Personal Interest as the Invisible Hand
@@ -117,11 +118,13 @@ The matching of interest and action or occupation is the key to wealth. This is 
 
 {{< quote ava="soc" >}}
 A person works better when he has only one occupation instead of many. A work is spoilt when not done at the right time. Business does not wait for the businessman to be at leisure. Instead, the businessman must follow up what he is doing and make his business his first object. All things are produced more plentifully, easily, and with a better quality when one man does one thing which is natural to him at the right time, and leaves other things.
+
 <cite>The Simple Republic, Book 2, Chapter 2</cite>
 {{< /quote >}}
 
 {{< quote ava="soc" >}}
 Here, my dear Glaucon, is the supreme peril of our human state. Therefore, the utmost care should be taken. <i>Let each of us leave every other kind of knowledge and seek and follow one thing only.</i> This will help us learn and discern between good and evil. In this way, we can always and everywhere choose the better life.
+
 <cite>The Simple Republic, Book 10, Chapter 3</cite>
 {{< /quote >}}
 
@@ -148,7 +151,7 @@ At distant times, equal amounts of labour will be bought more nearly with equal 
 An Egyptian man in 3000 BC would need a similar amount of food that a modern man needs, even if the food yield of a hectare of wheat in both times might be very different.
 
 
-{{< img src="https://socioecons.files.wordpress.com/2017/07/effort-theory.jpg" alt="Effort Theory of Value" cap="Economics and the Commercial system measures everything in currency which is controlled by government which could be authoritarian like Zimbabwe and Venezuela, or could be bought by vested interests like in the US and most countries. Our system measures everything both in gold and grains. The gold standard is used for fast transactions while grain valuation is based on slow trasactions and as a backup or safety in case of financial crisis when the value of money-gold disappears." >}}
+{{< img src="/graphics/econ/econ.jpg" alt="Effort Theory of Value" cap="Economics and the Commercial system measures everything in currency which is controlled by government which could be authoritarian like Zimbabwe and Venezuela, or could be bought by vested interests like in the US and most countries. Our system measures everything both in gold and grains. The gold standard is used for fast transactions while grain valuation is based on slow trasactions and as a backup or safety in case of financial crisis when the value of money-gold disappears." >}}
 
 
 From a Superphysics perspective (the paradigm that sees everything as waves instead of particles or objects), the effort theory of value bases value on [natural waves of interests and desires](/articles/social/collective-wave-of-desire). This is different from modern economic systems which base value on physical particles such as money.
@@ -158,9 +161,9 @@ With that, we can safely translate Smith's 18th-century words into modern Englis
 
 **Original**
 
-{{< quote ava="smith" >}}
+{{< q a="smith" >}}
 But as a measure of quantity, such as the natural foot, fathom, or handful, which is continually varying in its own quantity, can never be an accurate measure of the quantity of other things; so a commodity which is itself continually varying in its own value, can never be an accurate measure of the value of other commodities. Equal quantities of labour, at all times and places, may be said to be of equal value to the labourer. In his ordinary state of health, strength and spirits; in the ordinary degree of his skill and dexterity, he must always laydown the same portion of his ease, his liberty, and his happiness. The price which he pays must always be the same, whatever may be the quantity of goods which he receives in return for it. Of these, indeed, it may sometimes purchase a greater and sometimes a smaller quantity; but it is their value which varies, not that of the labour which purchases them. At all times and places that is dear which it is difficult to come at, or which it costs much labour to acquire; and that cheap which is to be had easily, or with very little labour. Labour alone, therefore, never varying in its own value, is alone the ultimate and real standard by which the value of all commodities can at all times and places be estimated and compared. It is their real price; money is their nominal price only.
-{{< /quote >}}
+{{< /q >}}
 
 
 **Translated with 'toil and trouble'**

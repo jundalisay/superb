@@ -162,7 +162,7 @@ Renewables on microgrids can then be replaced by "pocket fusion" reactors which 
 
 Fusion can be realized sooner if Physics can be overhauled to allow gravitational confinement of plasma instead of the magnetic confinement currently being done.
 
-This is where our Economic Superphysics switches hats into Material Superphysics to explain how [gravitational confinement](/material/solutions/fusion) will work. 
+This is where our Supereconomics switches hats into Material Superphysics to explain how [gravitational confinement](/material/solutions/fusion) will work. 
 {{< /box >}}
 
 

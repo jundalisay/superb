@@ -4,13 +4,14 @@ title: "The Socio-Economy"
 # date: 2022-03-20
 weight: 16
 image: /photos/grains.jpg
-description: "Economic Superphysics is concerned with the material well-being of society."
+description: "Supereconomics is concerned with the material well-being of society."
 author: Juan Dalisay Jr
 ---
 
-Economic Superphysics is concerned with the material well-being of society. 
 
-Unlike Neoclassical Economics which only focuses on money, revenue, and business, Economic Superphysics deals with both private wealth generation and public policy. This is in line with Classical  Economics which was previously called the Political Economy. 
+Supereconomics is concerned with the material well-being of society. 
+
+Unlike Neoclassical Economics which only focuses on money, revenue, and business, Supereconomics deals with both private wealth generation and public policy. This is in line with Classical Economics which was previously called the Political Economy. 
 
 As such, we divide this book into four parts, with each part representing a law of exchangeable value. 
 

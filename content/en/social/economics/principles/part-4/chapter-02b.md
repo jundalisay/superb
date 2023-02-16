@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2"
+heading: "Chapter 2b"
 title: "Taxation Maxims"
 weight: 20
 date: 2017-12-20

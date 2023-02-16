@@ -37,7 +37,7 @@ If it were true that worker's reward was always proportional to what he produced
 Gold and silver are subject to fluctuations, but why is wheat exempted?
 {{< /quote >}}
 
-> Our Comment: Because of that very basic misunderstanding, Ricardo asks many silly questions. Wheat is exempted because it's food which leads to life which cannot be quantified. This absurd question can be thrown back by asking: 'What is the price of your existence and how does it fluctuate?'<br>The existential price of wheat or rice is a ratio of the wheat needed for a human to grow wheat or rice. For example, let's say that a human needs a minimum of 300 grams rice per day to live. If it takes 120 days to grow and harvest rice, then the price of whatever was harvested is 36kg of rice. Human wealth and population therefore is ultimately determined by the productivity of food as the requirement for life. As proof, there is no food production in Mars, the Sahara, or Antartica and so those places have no population, wealth, nor GDP.
+> Our Comment: Because of that very basic misunderstanding, Ricardo asks many silly questions. Wheat is exempted because it is a type of food which leads to life which cannot be quantified. This absurd question can be thrown back by asking: 'What is the price of your existence and how does it fluctuate?' The existential price of wheat or rice is a ratio of the wheat or rice needed for a human to grow wheat or rice in general. If a human needs a minimum of 300 grams rice per day to live and it takes 120 days to grow and harvest rice, then the price of whatever was harvested is 36kg of rice. Human wealth and population therefore is ultimately determined by the productivity of food as the requirement for life. As proof, there is no food production in Mars, the Sahara, or Antartica and so those places have no population, wealth, nor GDP.
 
 
 {{< quote ava="ric" >}}
@@ -109,7 +109,7 @@ Suppose:<ul><li>a labourer was paid a bushel of wheat for a week's work [nominal
 
 ## Ricardo's Labor Theory of Value (LTV) vs Adam Smith's
 
-The LTV of Smith and Ricardo are totally different.
+From the above, we can see how the LTV of Smith and Ricardo are totally different.
 
 Ricardo’s labour theory is actually just wages based on a money price. It is an objective, numeric value.
 

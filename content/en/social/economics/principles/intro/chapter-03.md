@@ -31,7 +31,7 @@ aliases:
 
 <!-- I am always willing to run some hazard of being tedious in order to be sure that I am perspicuous; and after taking the utmost pains that I can to be perspicuous, some obscurity may still appear to remain upon a subject in its own nature extremely abstracted. -->
 
-Economic Superphysics falls under [Social Superphysics](/social).
+Supereconomics falls under [Social Superphysics](/social).
 
 
 Superphysics is a paradigm that sees reality as waves that manifest as particles. This is different from science which prefers particles over waves. The scientific paradigm seems to be changing as proven by electrons nowadays being regarded as a probability cloud instead of as a material point. 
@@ -63,7 +63,7 @@ If value were a moving desire-entity, then price would be a snapshot of that des
 
 
 
-{{< img alt="People showing number cards" cap="Prices depend on the perceiver's mind, which makes it ultimately a metaphysical issue, which is an exertise of Economic Superphysics" src="https://sorasystem.sirv.com/photos/prices.jpg" >}}
+{{< img alt="People showing number cards" cap="Prices depend on the perceiver's mind, which makes it ultimately a metaphysical issue, which is an exertise of Supereconomics" src="https://sorasystem.sirv.com/photos/prices.jpg" >}}
 
 
 We can say that value is the cause, and price is just the effect*. 
@@ -77,12 +77,12 @@ You can hand out prizes such as trophies, but not the value that they represent 
 - Asian philosophies, such as Buddhism, Hinduism, and Taoism, teach the **renunciation and control** of desire
 
 
-{{< img alt="Stock price chart" src="https://sorasystem.sirv.com/graphics/price.jpg" cap="Economic Superphysics, as a subset of Social Superphysics, implements these wave-particle principles as values and prices" >}}
+{{< img alt="Stock price chart" src="https://sorasystem.sirv.com/graphics/price.jpg" cap="Supereconomics, as a subset of Social Superphysics, implements these wave-particle principles as values and prices" >}}
 
 
 This desire is a product of the mind and thus exists in the metaphysical dimension. Its physical counterpart is physical energy as heat, calories, joules, etc. 
 
-The rules for physical energy are described as **the Four Laws of Thermodynamics**. We carry over these laws onto Economic Superphysics as **the Four Laws of Value** which operate on human desire*. 
+The rules for physical energy are described as **the Four Laws of Thermodynamics**. We carry over these laws onto Supereconomics as **the Four Laws of Value** which operate on human desire*. 
 
 
 Thus:
@@ -90,12 +90,12 @@ Thus:
 - the physical dimension has energy, with its dynamics explained by the four laws of themodynamics
 
 
-> *This means that the animal and plant kingdoms have their own Superphysics laws, which are out of the scope of our current Economic Superphysics, that dictate how they allocate resources among themselves to quench their desires. 
+> *This means that the animal and plant kingdoms have their own Superphysics laws, which are out of the scope of our current Supereconomics, that dictate how they allocate resources among themselves to quench their desires. 
 
 
-The Celsius degrees in thermodynamics then manifest as dollar prices in Economic Superphysics. This lets us fit all the principles of Economic Superphysics elegantly under the four headings of the 4 Laws of Value. This is different from the messy* organization of Economics as micro-macro-economics, behavioral, political economy, development economics, etc.
+The Celsius degrees in thermodynamics then manifest as dollar prices in Supereconomics. This lets us fit all the principles of Supereconomics elegantly under the four headings of the 4 Laws of Value. This is different from the messy* organization of Economics as micro-macro-economics, behavioral, political economy, development economics, etc.
 
-> *Such a mess is what happens when people build something in an uncoordinated way or without looking at the very big picture. In contrast, our Economic Superphysics is a subset of Social Superphysics which is itself a subset of Superphysics
+> *Such a mess is what happens when people build something in an uncoordinated way or without looking at the very big picture. In contrast, our Supereconomics is a subset of Social Superphysics which is itself a subset of Superphysics
 
 
 Before we explain the four laws of value, we have to explain exchangeable value. 

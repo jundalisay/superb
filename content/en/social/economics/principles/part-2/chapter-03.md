@@ -83,7 +83,8 @@ The unjust oppression of the industry of other countries falls back, if I may sa
 {{< /q >}}
 
 
-![Karma boxes falling](https://socioecons.files.wordpress.com/2014/12/karma.gif)
+{{< img src="https://socioecons.files.wordpress.com/2014/12/karma.gif" alt="Karma boxes falling" >}}
+
 
 
 History is full of examples of narrow-minded economic policies going back to hurt the intended beneficiaries or producing opposite effects:
@@ -100,22 +101,22 @@ Those policies were created to increase wealth rapidly, but ended up destroying 
 
 
 {{< box >}}
-<h3>Luck vs Karma</h3>
+### Luck vs Karma
 
-<p>According to Eastern Philosoophy, there is no such thing as good or bad luck. Instead, everything is based on karma or action and reaction.</p>
+According to Eastern Philosoophy, there is no such thing as good or bad luck. Instead, everything is based on karma or action and reaction.
 
-<p>If you plant good deeds, then you get good rewards and a good feeling from such rewards. If you plant bad or selfish deeds, then you get bad consequences and a bad feeling from such consequences.</p>
+If you plant good deeds, then you get good rewards and a good feeling from such rewards. If you plant bad or selfish deeds, then you get bad consequences and a bad feeling from such consequences.
 
-<p>The problem is that such reactions do not happen in a fixed nor predictable time period. A good action today might create a reaction that will be experienced 10 days from now, 10 years from now, or 10 lifetimes from now (since Asian philosophy believes in reincarnation).</p>
+The problem is that such reactions do not happen in a fixed nor predictable time period. A good action today might create a reaction that will be experienced 10 days from now, 10 years from now, or 10 lifetimes from now (since Asian philosophy believes in reincarnation).
 
-<p>So if you plant a good action now and experience the good effects 10 lifetimes from now, then your future self will regard it as good luck. This is because your future self will have no memory of the good deed you performed 10 lifetimes ago. Likewise, the 'bad luck' that we experience today could come from our bad actions 10 days ago, 10 years ago, or 10 lifetimes ago.</p>
+So if you plant a good action now and experience the good effects 10 lifetimes from now, then your future self will regard it as good luck. This is because your future self will have no memory of the good deed you performed 10 lifetimes ago. Likewise, the 'bad luck' that we experience today could come from our bad actions 10 days ago, 10 years ago, or 10 lifetimes ago.
 
-<p>This is why Asian philosophies have certain policy suggestions:</p>
+This is why Asian philosophies have certain policy suggestions:
 
-<p>1. Do good deeds as much as you can and avoid doing bad. According to Hindus and Buddhists, this is to deposit good karma into your existential bank account <!-- of consequences --> so you have a lot of good karma to withdraw in the future. </p>
+1. Do good deeds as much as you can and avoid doing bad. According to Hindus and Buddhists, this is to deposit good karma into your existential bank account <!-- of consequences --> so you have a lot of good karma to withdraw in the future.
 
-<p>However, according to Superphysics, this is not 100% technically correct. Instead, the act of consistently doing good deeds makes the 'wave' of your soul attain a certain shape. This shape then will let it fit in its proper reality, just as a classical violin fits into an orchestra and not in a death-metal band or a gangsta rap group.</p>
+However, according to Superphysics, this is not 100% technically correct. Instead, the act of consistently doing good deeds makes the 'wave' of your soul attain a certain shape. This shape then will let it fit in its proper reality, just as a classical violin fits into an orchestra and not in a death-metal band or a gangsta rap group.
 
-<p>2. Learn the techniques to burn karma faster, whether good or bad. This is akin to making your karmic bank account more liquid. In this way, bad karma doesn't occur in one go, which might overwhelm your mind. Likewise, good karma doesn't all fall on you in one package, as this might bloat your ego.  Instead, karma is taken in manageable pieces, just like a loan that gets easy payment terms.</p>
+2. Learn the techniques to burn karma faster, whether good or bad. This is akin to making your karmic bank account more liquid. In this way, bad karma doesn't occur in one go, which might overwhelm your mind. Likewise, good karma doesn't all fall on you in one package, as this might bloat your ego.  Instead, karma is taken in manageable pieces, just like a loan that gets easy payment terms.
 {{< /box >}}
 
