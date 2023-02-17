@@ -1,8 +1,9 @@
 ---
-title: "Pigafetta Part 3: Magellan's Men in Mindanao"
+heading: Part 3
+title: "Magellan's Men in Zamboanga del Norte, Palawan, and Brunei"
 date: 2020-07-10
 image: /photos/medieval/magellan.jpg
-description: "We simplify Pigafetta's accounts to make historical facts easier to understand"
+description: "Then we came to a large island [Mindanao], at a port called Chipit and met its king Raja Calanao"
 icon: /icons/sun.png
 ---
 
@@ -66,7 +67,19 @@ We sailed west southwest to an island called Cagayan which is not very large and
 
 ## Palawan
 
-About 25 leguas west northwest from Cagayan is the large island of Palawan which has rice, ginger, swine, goats, fowls, bananas one-half braza long and as thick as the arm (they are excellent, the others are one palmo and less in length, and are much better than all the others), cocoanuts, camotes [batate], sugarcane, and roots resembling turnips in taste.
+About 25 leguas west northwest from Cagayan is the large island of Palawan which has:
+- rice
+- ginger
+- swine
+- goats
+- fowls
+- bananas 1/2 braza long and as thick as the arm
+  - They are excellent and are much better than all the others
+  - The others are 1 palmo and less in length
+- coconuts
+- camotes [batate]
+- sugarcane
+- roots resembling turnips in taste.
 
 Rice is cooked there under the fire in bamboos or in wood and it lasts better than that cooked in earthen pots.
 - We called that land the land of promise, because we suffered great hunger before we found it.
@@ -84,7 +97,7 @@ Those people of Palawan also go naked.
 - They have distilled rice wine which is stronger and better than that made from the palm.
 
 
-## Borneo
+## Brunei
 
 10 leguas southwest of Palawan, we came to Borneo. 
 - 50 leguas from the tip is the port of Brunei.
@@ -223,3 +236,5 @@ At a cape of [Mindanao] and near a river, are found shaggy men who are exceeding
 - They use swords one palmo in length, and eat only raw human hearts with the juice of oranges or lemons.
 - Those shaggy people are called Benaian. 
 - When we took our course toward the southeast, we lay in a latitude of six degrees and seven minutes toward the Arctic Pole, and 30 leguas from Cavit.
+
+

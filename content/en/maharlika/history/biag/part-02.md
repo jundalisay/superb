@@ -1,18 +1,22 @@
-Lam-ang dived into the river
-Unaware that the crocodile
-Had gone downstream,
-While he went upstream.
+---
+heading: Part 1
+title: "Lam-ang's Birth"
+# heading: "Of Maharlika and the Philippines"
+image: "/graphics/mh/lamang.jpg"
+weight: 2
+description: "Biag ni Lam-ang"
+---
 
-And when he went downstream,
-The crocodile went upstream,
 
-They soon spotted each other
-And began to fight.
-Lam-ang became angry
+Lam-ang dived into the river unaware that:
+- the crocodile had gone downstream while he went upstream
+- when he went downstream the crocodile went upstream
 
-And in one thrust subdued it.
-Then, he carried it on his back,
-And beached it,
+They soon spotted each other and began to fight.
+
+Lam-ang became angry and in one thrust subdued it.
+
+Then, he carried it on his back and beached it,
 
 Younger sisters, take its teeth for a necklace
 For they can be amulets when one travels;

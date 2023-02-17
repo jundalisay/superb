@@ -4,6 +4,7 @@ description: "A couple named Don Juan and Namongan lived in Nalbuan. Don Juan le
 date: 2020-07-10
 image: /covers/biag.jpg
 icon: /icons/sun.png
+draft: true
 ---
 
 

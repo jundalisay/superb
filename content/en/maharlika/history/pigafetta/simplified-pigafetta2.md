@@ -1,5 +1,6 @@
 ---
-title: "Pigafetta Part 2: Magellan in Cebu"
+heading: Part 2
+title: "Magellan in Cebu and Mactan"
 date: 2020-07-10
 image: /photos/medieval/magellan.jpg
 description: "We then went northwest, passing among 5 islands Ceylon, Bohol, Canighan, Baybai, Gatighan"
@@ -33,20 +34,38 @@ At noon on Sunday, April 7, we entered Cebu, passing by many villages with many 
 - They found a vast crowd of people with the king, all of whom had been frightened by the mortars.
 - The interpreter told them that that was our custom when entering into such places, as a sign of peace and friendship, and that we had discharged all our mortars to honor the king of the village.
 - The king and all of his men were reassured, and the king had us asked by his governor what we wanted.
-- The interpreter replied that his master, Magellan, was a captain of the greatest king and that he was going to discover Moluccas.
-- But that he visited the Raja Humabon because of the good report from Raja Colambu and to buy food with his merchandise.
-- The king told him that he had come at a good time but that it was their custom for all ships that entered their ports to pay tribute, and that it was but four days since a junk from Thailand laden with gold and slaves had paid him tribute.
-- The king pointed to a Moro merchant from Thailand who had remained to trade the gold and slaves.
-- Magellan's son refused and threatened war.
+
+The interpreter replied that:
+- his master, Magellan, was a captain of the greatest king
+- Magellan was going to discover Moluccas
+- Magellan visited the Raja Humabon:
+  - because of the good report from Raja Colambu and 
+  - to buy food with his merchandise.
+
+The king told him that:
+- he had come at a good time but that it was their custom for all ships that entered their ports to pay tribute
+- it was but 4 days since a junk from Thailand laden with gold and slaves had paid him tribute.
+
+The king pointed to a Moro merchant from Thailand who had remained to trade the gold and slaves.
+
+Magellan's son refused to pay tribute and threatened war.
 - Then the Moro merchant said to the king "Cata raia chita" that is to say, “Look well, sire.” “These men are the same who have conquered Calicut, Malaca, and all India. If they are treated well, they will give good treatment, but if they are treated evil, evil and worse treatment, as they have done to Calicut and Malaca.”
-- The interpreter understood it all and told the king that the Spanish king was more powerful than the king of Portugal, that he was the king of Spain and emperor of all the Christians, and that if the king did not care to be his friend he would next time send so many men that they would destroy him.
-- The Moro related everything to Humabon who said he would deliberate with his men and answer tomorrow.
+
+The interpreter understood it all and told the king that:
+- the Spanish king was:
+  - more powerful than the king of Portugal
+  - was the king of Spain and emperor of all the Christians
+- if Raja Humabon did not care to be his friend then he would next time send so many men that they would destroy him.
+
+The Moro related everything to Humabon who said he would deliberate with his men and answer tomorrow.
 - Then he had refreshments of many dishes, all made from meat and contained in porcelain platters, besides many jars of wine brought in.
-- Raja Colambu was the most influential after Rajah Humabon and ruled many islands.
-  - He went ashore to speak to Humabon
+
+Raja Colambu was the most influential after Rajah Humabon and ruled many islands.
+- He went ashore to speak to Humabon
 
 Monday morning, our notary, together with the interpreter, went to Cebu.
-- Humabon, with his chiefs, came to the open square where we sat down near him.
+
+Humabon, with his chiefs, came to the open square where we sat down near him.
 - He asked the notary whether there were more than one captain with us and whether Magellan wished him to pay tribute to the Spanish king.
 - The notary replied that we had only one captain and wanted only to trade
 - Humabon was satisfied.
@@ -55,16 +74,29 @@ Monday morning, our notary, together with the interpreter, went to Cebu.
 Tuesday morning, Raha Colambu came to the ships with the Moro merchant.
 - He saluted Magellan in behalf of Humabon. 
 - He said that Humabon was collecting as much food as possible to give to him, and that after dinner he would send one of his nephews and two others of his chief men to make peace.
-- Magellan had one of Colambu's men armed with European arms, and had the Moro told that we all fought in that manner.
-- The Moro was greatly frightened, but Magellan told him not to be frightened for our arms were soft toward our friends and harsh toward our enemies
-- and as handkerchiefs wipe off the sweat so did our arms overthrow and destroy all our adversaries, and those who hate our faith.
+
+Magellan:
+- had one of Colambu's men armed with European arms
+- told the Moro that we all fought in that manner.
+
+The Moro was greatly frightened.
+- But Magellan told him not to be frightened for our arms were soft toward our friends and harsh toward our enemies
+<!-- - and as handkerchiefs wipe off the sweat so did our arms overthrow and destroy all our adversaries, and those who hate our faith. -->
 - Magellan told it to the Moro as he seemed more intelligent than the others, and might tell it to Humabon.
 
-After dinner, the king’s nephew, who was the prince, came to the ships with Raha Colambu, the Moro, the governor, the chief constable, and eight chiefs, to make peace with us.
-- Magellan was seated in a red velvet chair, the principal men on leather chairs, and the others on mats on the floor.
-- Magellan asked them through the interpreter whether it were their custom to speak in secret or in public, and whether that prince and Raha Colambu had authority to make peace.
+After dinner, the king’s nephew, who was the prince, came to the ships with Raha Colambu to make peace with us together with:
+- the Moro
+- the governor
+- the chief constable
+- 8 chiefs
+
+Magellan was seated in a red velvet chair, the principal men on leather chairs.
+- The others sat on mats on the floor.
+
+Magellan asked them through the interpreter whether it were their custom to speak in secret or in public, and whether that prince and Raha Colambu had authority to make peace.
 - They answered that they spoke in public, and that they were empowered to make peace.
-- Magellan said many things concerning peace, and that he prayed God to confirm it in heaven.
+
+Magellan said many things concerning peace, and that he prayed God to confirm it in heaven.
 - They said that they had never heard any one speak such words, but that they took great pleasure in hearing them.
 - Magellan saw that they listened and answered willingly, so he began to advance arguments to induce them to accept the faith.
 - Asking them who would succeed to the seigniory after the death of the king, he was answered that the king had no sons but only daughters, the eldest of whom was the wife of that nephew of his, who therefore was the prince.
@@ -231,7 +263,7 @@ I hope that the fame of Magellan will not become effaced in our times.
 - Eight of our men were killed with him in that battle, and four natives, who had become Christians and who had come afterward to aid us were killed by the mortars of the boats.
 - Of the enemy, only 15 were killed, while many of us were wounded.
 
-In the afternoon, Humabon sent a message with our consent to the people of Mactan, to give us Magelland and the other dead men and we would give them as much merchandise as they wished.
+In the afternoon, Humabon sent a message with our consent to the people of Mactan, to give us Magellan and the other dead men and we would give them as much merchandise as they wished.
 - They answered that they would not give up such a man, as we imagined [they would do], and that they would not give him for all the riches in the world, but that they intended to keep him as a memorial
 
 On that day, the four men who had remained in the city to trade, had our merchandise carried to the ships.
