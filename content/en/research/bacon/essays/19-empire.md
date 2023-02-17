@@ -1,7 +1,7 @@
 ---
 heading: "Essay 19"
 title: "Empire"
-weight: 30
+weight: 28
 description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
 image: "/covers/bacon.jpg"
 icon: /icons/bacon.png

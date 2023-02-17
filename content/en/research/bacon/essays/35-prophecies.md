@@ -1,7 +1,7 @@
 ---
 heading: "Essay 23"
 title: "Dispatch"
-weight: 30
+weight: 46
 description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
 image: "/covers/bacon.jpg"
 icon: /icons/bacon.png

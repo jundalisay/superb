@@ -1,9 +1,9 @@
 ---
 heading: "Essay 6"
 title: "Simulation And Dissimulation"
-weight: 4
+weight: 12
 description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
-image: "/covers/learning.jpg"
+image: "/covers/bacon.jpg"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---
