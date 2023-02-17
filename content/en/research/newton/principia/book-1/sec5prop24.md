@@ -10,6 +10,7 @@ icon= "/icons/newton.png"
 draft= true
 +++
 
+
 ## PROPOSITION 24 PROBLEM 16
 
 Describe a trajectory that shall pass through 3 points, and touch two right lines given by position.

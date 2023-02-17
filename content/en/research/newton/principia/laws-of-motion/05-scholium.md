@@ -1,17 +1,13 @@
-+++
-title= "Corollaries 5"
-image= "/covers/principia.jpg"
-description= "Newton enumerates 3 Laws and 6 Corollaries"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+title: Scholium
+image: "/covers/principia.jpg"
+description: "The uniform gravity of a body acts equally in equal particles of time on that body to create equal velocities"
+icon: "/icons/newton.png"
+author: Isaac Newton
+---
 
 
-## Scholium
+
 
 Galileo discovered Law 1, 2, and Corollaries 1, 2 as bodies:
 - falling in the duplicate ratio of the time [as seconds squared]
