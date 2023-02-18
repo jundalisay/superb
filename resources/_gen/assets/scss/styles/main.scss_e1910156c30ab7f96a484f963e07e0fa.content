@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Cabin&display=swap");
 [data-sal] {
   transition-duration: .2s;
   transition-duration: var(--sal-duration, 0.2s);
@@ -6671,6 +6672,7 @@ small {
   margin-bottom: 1em; }
 
 body {
+  font-family: 'Cabin', sans-serif;
   letter-spacing: 0.2px;
   line-height: 1.6em;
   color: black;

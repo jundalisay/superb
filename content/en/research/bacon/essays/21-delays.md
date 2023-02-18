@@ -3,7 +3,7 @@ heading: "Essay 21"
 title: "Delays"
 weight: 32
 description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
-image: "/covers/bacon.jpg"
+image: "/covers/essaysbacon.jpg"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---

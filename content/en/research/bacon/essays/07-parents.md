@@ -3,7 +3,7 @@ heading: "Essay 7"
 title: "Parents And Children"
 weight: 14
 description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
-image: "/covers/bacon.jpg"
+image: "/covers/essaysbacon.jpg"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---

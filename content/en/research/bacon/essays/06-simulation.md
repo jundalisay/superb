@@ -3,18 +3,26 @@ heading: "Essay 6"
 title: "Simulation And Dissimulation"
 weight: 12
 description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
-image: "/covers/bacon.jpg"
+image: "/covers/essaysbacon.jpg"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---
 
 
 
-DISSIMULATION is but a faint kind of policy, or wisdom; for it asketh a strong wit, and a strong heart, to know when to tell truth, and to do it. Therefore it is the weaker sort of politics, that are the great dissemblers.
+DISSIMULATION is but a faint kind of policy, or wisdom. It asks a strong wit and heart to know when to tell truth, and to do it. 
 
-Tacitus saith, Livia sorted well with the arts of her husband, and dissimulation of her son; attributing arts or policy to Augustus, and dissimulation to Tiberius. And again, when Mucianus encourageth Vespasian, to take arms against Vitellius, he saith, We rise not against the piercing judgment of Augustus, nor the extreme caution or closeness of Tiberius. 
+Therefore, it is the weaker sort of politics, that are the great dissemblers.
 
-These properties, of arts or policy, and dissimulation or closeness, are indeed habits and faculties several, and to be distinguished. For if a man have that penetration of judgment, as he can discern what things are to be laid open, and what to be secreted, and what to be showed at half lights, and to whom and when (which indeed are arts of state, and arts of life, as Tacitus well calleth them), to him, a habit of dissimulation is a hinderance and a poorness. But if a man cannot obtain to that judgment, then it is left to him generally, to be close, and a dissembler. 
+Tacitus said that Livia sorted well with the arts of her husband, and dissimulation of her son
+
+He attributed arts or policy to Augustus, and dissimulation to Tiberius. 
+
+When Mucianus encouraged Vespasian to take arms against Vitellius, he said: "We rise not against the piercing judgment of Augustus, nor the extreme caution or closeness of Tiberius". 
+
+These properties, of arts or policy, and dissimulation or closeness, are habits and faculties several, and to be distinguished. 
+
+For if a man have that penetration of judgment, as he can discern what things are to be laid open, and what to be secreted, and what to be showed at half lights, and to whom and when (which indeed are arts of state, and arts of life, as Tacitus well calleth them), to him, a habit of dissimulation is a hinderance and a poorness. But if a man cannot obtain to that judgment, then it is left to him generally, to be close, and a dissembler. 
 
 For where a man cannot choose, or vary in particulars, there it is good to take the safest, and wariest way, in general; like the going softly, by one that cannot well see. Certainly the ablest men that ever were, have had all an openness, and frankness, of dealing; and a name of certainty and veracity; but then they were like horses well managed; for they could tell passing well, when to stop or turn; and at such times, when they thought the case indeed required dissimulation, if then they used it, it came to pass that the former opinion, spread abroad, of their good faith and clearness of dealing, made them almost invisible.
 

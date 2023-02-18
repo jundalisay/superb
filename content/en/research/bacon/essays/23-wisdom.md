@@ -3,7 +3,7 @@ heading: "Essay 23"
 title: "Wisdom For A Man's Self"
 weight: 34
 description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
-image: "/covers/bacon.jpg"
+image: "/covers/essaysbacon.jpg"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---
