@@ -1,7 +1,25 @@
+---
+title: "Reason"
+heading: Section 2
+weight: 6
+description: "The duration alone of our life is sufficient to demonstrate the existence of God"
+author: "Rene Descartes"
+image: "/covers/philosophy.jpg"
+icon: "/icons/descartes.png"
+---
 
-CCII. That the philosophy of Democritus is not less different from ours than from the common. [Footnote: "that of Aristotle or the others."—French.]
 
-But it may be said that Democritus also supposed certain corpuscles that were of various figures, sizes, and motions, from the heaping together and mutual concourse of which all sensible bodies arose; and, nevertheless, his mode of philosophizing is commonly rejected by all. To this I reply that the philosophy of Democritus was never rejected by any one, because he allowed the existence of bodies smaller than those we perceive, and attributed to them diverse sizes, figures, and motions, for no one can doubt that there are in reality such, as we have already shown; but it was rejected, in the first place, because he supposed that these corpuscles were indivisible, on which ground I also reject it; in the second place, because he imagined there was a vacuum about them, which I show to be impossible; thirdly, because he attributed gravity to these bodies, of which I deny the existence in any body, in so far as a body is considered by itself, because it is a quality that depends on the relations of situation and motion which several bodies bear to each other; and, finally, because he has not explained in particular how all things arose from the concourse of corpuscles alone, or, if he gave this explanation with regard to a few of them, his whole reasoning was far from being coherent, [or such as would warrant us in extending the same explanation to the whole of nature]. This, at least, is the verdict we must give regarding his philosophy, if we may judge of his opinions from what has been handed down to us in writing. I leave it to others to determine whether the philosophy I profess possesses a valid coherency, [and whether on its principles we can make the requisite number of deductions; and, inasmuch as the consideration of figure, magnitude, and motion has been admitted by Aristotle and by all the others, as well as by Democritus, and since I reject all that the latter has supposed, with this single exception, while I reject generally all that has been supposed by the others, it is plain that this mode of philosophizing has no more affinity with that of Democritus than of any other particular sect].
+CCII. The philosophy of Democritus is not less different from ours than from the common. 
+
+[Footnote: "that of Aristotle or the others."]
+
+But Democritus also supposed certain corpuscles that were of various shapes, sizes, and motions, from the heaping together and mutual concourse of which all sensible bodies arose.
+
+Nevertheless, his mode of philosophizing is commonly rejected by all. 
+
+I reply that the philosophy of Democritus was never rejected by anyone, because he allowed the existence of bodies smaller than those we perceive, and attributed to them diverse sizes, figures, and motions, for no one can doubt that there are in reality such, as we have already shown; 
+
+but it was rejected, in the first place, because he supposed that these corpuscles were indivisible, on which ground I also reject it; in the second place, because he imagined there was a vacuum about them, which I show to be impossible; thirdly, because he attributed gravity to these bodies, of which I deny the existence in any body, in so far as a body is considered by itself, because it is a quality that depends on the relations of situation and motion which several bodies bear to each other; and, finally, because he has not explained in particular how all things arose from the concourse of corpuscles alone, or, if he gave this explanation with regard to a few of them, his whole reasoning was far from being coherent, [or such as would warrant us in extending the same explanation to the whole of nature]. This, at least, is the verdict we must give regarding his philosophy, if we may judge of his opinions from what has been handed down to us in writing. I leave it to others to determine whether the philosophy I profess possesses a valid coherency, [and whether on its principles we can make the requisite number of deductions; and, inasmuch as the consideration of figure, magnitude, and motion has been admitted by Aristotle and by all the others, as well as by Democritus, and since I reject all that the latter has supposed, with this single exception, while I reject generally all that has been supposed by the others, it is plain that this mode of philosophizing has no more affinity with that of Democritus than of any other particular sect].
 
 CCIII. How we may arrive at the knowledge of the figures, [magnitudes], and motions of the insensible particles of bodies.
 

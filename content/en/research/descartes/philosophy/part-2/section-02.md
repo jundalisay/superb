@@ -1,3 +1,14 @@
+---
+title: "Reason"
+heading: Section 2
+weight: 4
+description: "The duration alone of our life is sufficient to demonstrate the existence of God"
+author: "Rene Descartes"
+image: "/covers/philosophy.jpg"
+icon: "/icons/descartes.png"
+---
+
+
 
 VIII. That quantity and number differ only in thought (RATIONE) from that which has quantity and is numbered.
 

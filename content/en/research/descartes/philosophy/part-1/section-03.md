@@ -1,9 +1,21 @@
+---
+title: "Perception"
+heading: Section 3
+weight: 6
+description: "The duration alone of our life is sufficient to demonstrate the existence of God"
+author: "Rene Descartes"
+image: "/covers/philosophy.jpg"
+icon: "/icons/descartes.png"
+---
+
 
 XLV. What constitutes clear and distinct perception.
 
-There are indeed a great many persons who, through their whole lifetime, never perceive anything in a way necessary for judging of it properly; for the knowledge upon which we can establish a certain and indubitable judgment must be not only clear, but also, distinct. I call that clear which is present and manifest to the mind giving attention to it, just as we are said clearly to see objects when, being present to the eye looking on, they stimulate it with sufficient force. and it is disposed to regard them; but the distinct is that which is so precise and different from all other objects as to comprehend in itself only what is clear. [Footnote: "what appears manifestly to him who considers it as he ought."— FRENCH.]
+There are indeed a great many persons who, through their whole lifetime, never perceive anything in a way necessary for judging of it properly; for the knowledge upon which we can establish a certain and indubitable judgment must be not only clear, but also, distinct. 
 
-XLVI. It is shown, from the example of pain, that a perception may be clear without being distinct, but that it cannot be distinct unless it is clear.
+I call that clear which is present and manifest to the mind giving attention to it, just as we are said clearly to see objects when, being present to the eye looking on, they stimulate it with sufficient force. and it is disposed to regard them; but the distinct is that which is so precise and different from all other objects as to comprehend in itself only what is clear. [Footnote: "what appears manifestly to him who considers it as he ought."— FRENCH.]
+
+XLVI. From the example of pain, that a perception may be clear without being distinct, but that it cannot be distinct unless it is clear.
 
 For example, when any one feels intense pain, the knowledge which he has of this pain is very clear, but it is not always distinct; for men usually confound it with the obscure judgment they form regarding its nature, and think that there is in the suffering part something similar to the sensation of pain of which they are alone conscious. And thus perception may be clear without being distinct, but it can never be distinct without likewise being clear.
 

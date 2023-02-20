@@ -1,7 +1,20 @@
+---
+title: "Reason"
+heading: Section 5
+weight: 8
+description: "The duration alone of our life is sufficient to demonstrate the existence of God"
+author: "Rene Descartes"
+image: "/covers/philosophy.jpg"
+icon: "/icons/descartes.png"
+---
 
-LXX. That we may judge of sensible things in two ways, by the one of which we avoid error, by the other fall into it.
 
-It is thus manifest that to say we perceive colours in objects is in reality equivalent to saying we perceive something in objects and are yet ignorant of what it is, except as that which determines in us a certain highly vivid and clear sensation, which we call the sensation of colours. There is, however, very great diversity in the manner of judging: for so long as we simply judge that there is an unknown something in objects (that is, in things such as they are, from which the sensation reached us), so far are we from falling into error that, on the contrary, we thus rather provide against it, for we are less apt to judge rashly of a thing which we observe we do not know. But when we think we perceive colours in objects, although we are in reality ignorant of what we then denominate colour, and are unable to conceive any resemblance between the colour we suppose to be in objects, and that of which we are conscious in sensation, yet because we do not observe this, or because there are in objects several properties, as size, figure, number, etc., which, as we clearly know, exist, or may exist in them as they are perceived by our senses or conceived by our understanding, we easily glide into the error of holding that what is called colour in objects is something entirely resembling the colour we perceive, and thereafter of supposing that we have a clear perception of what is in no way perceived by us.
+
+LXX. We may judge of sensible things in two ways, by the one of which we avoid error, by the other fall into it.
+
+When we say we perceive the colours in objects is in reality equivalent to saying we perceive something in objects and are yet ignorant of what it is, except as that which determines in us a certain highly vivid and clear sensation, which we call the sensation of colours. 
+
+There is, however, very great diversity in the manner of judging: for so long as we simply judge that there is an unknown something in objects (that is, in things such as they are, from which the sensation reached us), so far are we from falling into error that, on the contrary, we thus rather provide against it, for we are less apt to judge rashly of a thing which we observe we do not know. But when we think we perceive colours in objects, although we are in reality ignorant of what we then denominate colour, and are unable to conceive any resemblance between the colour we suppose to be in objects, and that of which we are conscious in sensation, yet because we do not observe this, or because there are in objects several properties, as size, figure, number, etc., which, as we clearly know, exist, or may exist in them as they are perceived by our senses or conceived by our understanding, we easily glide into the error of holding that what is called colour in objects is something entirely resembling the colour we perceive, and thereafter of supposing that we have a clear perception of what is in no way perceived by us.
 
 LXXI. That the chief cause of our errors is to be found in the prejudices of our childhood.
 

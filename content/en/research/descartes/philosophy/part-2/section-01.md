@@ -1,6 +1,13 @@
-PART II.
+---
+title: "Reason"
+heading: Section 1
+weight: 2
+description: "The duration alone of our life is sufficient to demonstrate the existence of God"
+author: "Rene Descartes"
+image: "/covers/philosophy.jpg"
+icon: "/icons/descartes.png"
+---
 
-THE PRINCIPLES OF MATERIAL THINGS.
 
 
 I. The grounds on which the existence of material things may be known with certainty.

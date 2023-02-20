@@ -1,24 +1,37 @@
+---
+title: "Doubt"
+heading: Section 1
+weight: 2
+description: "To seek truth, it is necessary once in life to doubt all things as far as possible."
+author: "Rene Descartes"
+image: "/covers/philosophy.jpg"
+icon: "/icons/descartes.png"
+---
 
-OF THE PRINCIPLES OF HUMAN KNOWLEDGE.
 
 
-I. THAT in order to seek truth, it is necessary once in the course of our life, to doubt, as far as possible, of all things.
+{{< s v="1">}} To seek truth, it is necessary once in life to doubt all things as far as possible.
 
-As we were at one time children, and as we formed various judgments regarding the objects presented to our senses, when as yet we had not the entire use of our reason, numerous prejudices stand in the way of our arriving at the knowledge of truth; and of these it seems impossible for us to rid ourselves, unless we undertake, once in our lifetime, to doubt of all those things in which we may discover even the smallest suspicion of uncertainty.
+As we were at one time children, and as we formed various judgments regarding the objects presented to our senses, when as yet we had not the entire use of our reason, numerous prejudices stand in the way of our arriving at the knowledge of truth; 
 
-II. That we ought also to consider as false all that is doubtful.
+Of these it seems impossible for us to rid ourselves, unless we undertake, once in our lifetime, to doubt of all those things in which we may discover even the smallest suspicion of uncertainty.
+
+
+{{< s v="2" >}} We should also consider as false all that is doubtful.
 
 Moreover, it will be useful likewise to esteem as false the things of which we shall be able to doubt, that we may with greater clearness discover what possesses most certainty and is the easiest to know.
 
-III. That we ought not meanwhile to make use of doubt in the conduct of life.
+
+{{< s v="3" >}} But we should not use doubt in the conduct of life.
 
 In the meantime, it is to be observed that we are to avail ourselves of this general doubt only while engaged in the contemplation of truth. For, as far as concerns the conduct of life, we are very frequently obliged to follow opinions merely probable, or even sometimes, though of two courses of action we may not perceive more probability in the one than in the other, to choose one or other, seeing the opportunity of acting would not unfrequently pass away before we could free ourselves from our doubts.
 
-IV. Why we may doubt of sensible things.
+{{< s v="4" >}} Why we may doubt of sensible things.
 
 Accordingly, since we now only design to apply ourselves to the investigation of truth, we will doubt, first, whether of all the things that have ever fallen under our senses, or which we have ever imagined, any one really exist; in the first place, because we know by experience that the senses sometimes err, and it would be imprudent to trust too much to what has even once deceived us; secondly, because in dreams we perpetually seem to perceive or imagine innumerable objects which have no existence. And to one who has thus resolved upon a general doubt, there appear no marks by which he can with certainty distinguish sleep from the waking state.
 
-V. Why we may also doubt of mathematical demonstrations.
+ 
+{{< s v="5" >}} Why we may also doubt of mathematical demonstrations.
 
 We will also doubt of the other things we have before held as most certain, even of the demonstrations of mathematics, and of their principles which we have hitherto deemed self-evident; in the first place, because we have sometimes seen men fall into error in such matters, and admit as absolutely certain and self evident what to us appeared false, but chiefly because we have learnt that God who created us is all-powerful; for we do not yet know whether perhaps it was his will to create us so that we are always deceived, even in the things we think we know best: since this does not appear more impossible than our being occasionally deceived, which, however, as observation teaches us, is the case. And if we suppose that an all- powerful God is not the author of our being, and that we exist of ourselves or by some other means, still, the less powerful we suppose our author to be, the greater reason will we have for believing that we are not so perfect as that we may not be continually deceived.
 
