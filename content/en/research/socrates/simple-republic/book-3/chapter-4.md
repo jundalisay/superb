@@ -1,6 +1,6 @@
 ---
 title: "Lawmakers and Lawyers Must Be Virtuous"
-heading: Chapter 4 of Book 3
+heading: Chapter 4
 weight: 12
 description: "The best judges know all sorts of moral natures. The most skilful physicians have the greatest experience with diseases, from their youth upwards"
 image: "/covers/republic.jpg"

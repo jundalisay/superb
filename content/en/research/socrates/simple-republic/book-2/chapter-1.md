@@ -1,5 +1,6 @@
 ---
 title: "Justice Versus Injustice"
+heading: Chapter 1
 weight: 6
 image: "/covers/republic.jpg"
 description: "Justice is a necessity that should be sought for its own sake and not as a means to an end. Unjust people often give importance to external appearances."

@@ -20,7 +20,7 @@ The 2008 Financial Crisis arose from Allan Greenspan not doing his job of regula
 
 By going through Adam Smith's works, we saw that he actually advocated the strict regulation of banking, comparing it to the building of firewalls to prevent the spread of fire. Greenspan was really citing Samuelson and neoliberal writers who preferred selfish-interest instead of social interest.
 
-After concluding that Greenspan and Samuelson were the bad guys, Smith logically became the good guy to us. Smith cited David Hume heavily in his works. Hume cited Plato who wrote about Socrates who spoke about reincarnation and chakras. Socrates thus became the essential link between Western and Eastern philosophy, which we merged into Superphysics as a dialectical system to solve all problems, just as you use the scientific method to solve all science problems, and math formulas to solve math problems.
+After concluding that Greenspan and Samuelson were the bad guys, Smith logically became the good guy to us. Smith cited David Hume heavily in his works. Hume cited Plato who wrote about Socrates who spoke about [reincarnation and chakras](/). Socrates thus became the essential link between Western and Eastern philosophy, which we merged into Superphysics as a dialectical system to solve all problems, just as you use the scientific method to solve all science problems, and math formulas to solve math problems.
 
 
 ## Unifying Human Knowledge
@@ -41,7 +41,7 @@ Source | Patterned after A Treatise of Human Nature Book 1 | Patterned after Boo
 Notes | This requires a total refutation of Einstein, to be replaced by Lorentz-Poincare  | This is divided into Human, Animal, and Plant. While "medical science" is based on Western medicine, "Human Medical Superphysics" is based on a combination of Western medicine, TCM, Ayurveda, naturopathy, and homeopathy, turing the doctor into a superdoctor | This is made up of Economic Superphysics (Supereconomics) for economic problems and Supersociology for social problems. This turns the economist into a supereconomist and a sociologist and lawmaker into a supersociologist and superlawmaker.
 
 
-{{< img src="/graphics/super/5layers4.jpg" alt="Superphysics" cap="Superphysics goes for the mysterious, invisible Aether (the spooky Actor from a distance) instead of being stuck with oh-so-obvious Matter" >}}
+{{< img src="/graphics/super/5layers4.jpg" alt="Superphysics" cap="Superphysics goes for the mysterious, invisible-but-unlimited-and-everywhere Aether (the spooky Actor from a distance) instead of being stuck with oh-so-obvious-but-limited Matter" >}}
 
 
 Materialists would say that all of this is pseudo-science. We would rather say it's Superphysics or [Dialectics](/superphysics/socratic-dialectics).
@@ -51,7 +51,7 @@ Materialists would say that all of this is pseudo-science. We would rather say i
 
 Smith's Digression on Silver talks about a 500-year pattern of prices which we extended to modern times. We found that all great crises in the 20th century followed the extended pattern.
 
-It pointed to a series of crises from 2019 to 2030, which we call The Great Stagflation, where prices will go haywire. Our goal is to implement Smith's alternative economic system during those crisis years as The Overhaul because current systems will break down during those times.
+It pointed to a series of crises from 2019 to 2030, which we call The Great Stagflation, where prices will go haywire. Our goal is to implement Smith's alternative economic system during those crisis years as "The Overhaul" because current systems will break down during those times.
 
 
 {{< me d="April 2021" >}}

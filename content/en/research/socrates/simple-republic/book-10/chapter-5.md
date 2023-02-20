@@ -1,7 +1,7 @@
 ---
 title: "The True Nature"
-heading: Chapter 5 of Book 10
-weight: 1
+heading: Chapter 5
+weight: 10
 description: "Let each of us leave every other kind of knowledge and seek and follow one thing only"
 image: "/covers/republic.jpg"
 icon: "/icons/soc.png"
@@ -26,9 +26,6 @@ We should consider the bearing of all these things on virtue. We should know:
     - cleverness and dullness, and
     - all the natural and acquired gifts of the soul, and
     - the operation of them when conjoined.
-    
-  
-
 {{< /l >}}
 
 
@@ -49,7 +46,10 @@ A man must take with him after death an adamantine faith in truth and right so t
 If not, he will come upon tyrannies and similar villainies. He will do irremediable wrongs to others and suffer worse himself.
 
 But let him know how to choose the mean and avoid the extremes on either side not only in this life but in all lives to come, for this is the way of happiness.
+{{< /l  >}}
 
+
+{{< l a="Socrates" >}}
 According to Er, the prophet said:
 
 {{< q >}}
@@ -69,7 +69,10 @@ The first chooser came forward and chose the greatest tyranny.
 
 
 This was true of others who were similarly overtaken. Most of them came from heaven and therefore they had never been schooled by trial.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 Whereas the pilgrims who came from earth having themselves suffered and seen others suffer, were not in a hurry to choose.
 
 Due to this inexperience and also because the lot was a chance, many of the souls exchanged a good destiny for an evil or an evil for a good.

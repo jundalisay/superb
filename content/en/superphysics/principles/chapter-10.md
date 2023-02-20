@@ -170,9 +170,8 @@ Data Science* is really good at classification and in finding patterns and so it
 > *Data Science is more of an art than a science. It cooks up useful predictions and interpretations of raw data using statistical techniques and activation functions, just as a chef cooks up dishes from raw ingredients using steaming, frying, marinating, etc. This is because data are really products of human perception, while math is the system of processes that human minds are capable of. Animals can also perceive data but their math is very limited. For example, penguins can add rocks to each other but not divide them. Humans that require mathematical proof are therefore really asking to have the mental processes of a learned person transplanted into their own minds. The problem is that the higher (aethereal) principles are very complex and ever-changing and so it would useless to put them in a fixed equation or mathematical proof. Instead, our solution is to code them into the AI directly and let the AI show the calculated proofs dynamically.
 
 
-<!-- ![Superphysics relationships](https://sorasystem.sirv.com/graphics/spflow.png) -->
 
-{{< img alt="Superphysics relationships" src="/graphics/spflow.jpg" >}}
+{{< img alt="Superphysics relationships" src="/graphics/spchart.jpg" cap="The divisions of Superphysics">}}
 
 
 Superphysics is then split up into three, based on a perception's relation to the self:

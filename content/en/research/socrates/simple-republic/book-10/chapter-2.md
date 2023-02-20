@@ -1,30 +1,41 @@
 ---
-title: "The Immortality of the Soul"
-heading: Chapter 3 of Book 10
-weight: 1
-description: "The soul is immortal. The number of souls in existence do not increase nor decrease. The reward of justice is natural and everlasting happiness"
+title: "Reason Conquers the Illusion from Nature"
+heading: Chapter 2
+weight: 4
+description: "Every confusion comes from within us. This is that weakness in the inferior part of the human mind that is imposed on by illusory tricks"
 image: "/covers/republic.jpg"
 icon: "/icons/soc.png"
 ---
 
 
 {{< l a="Socrates" >}}
-Imitation is only a kind of play or sport. The tragic poets are imitators in the highest degree. Imitation is concerned with that which is thrice removed from the truth. Imitation addresses what faculty in man?
+Imitation is only a kind of play or sport. 
 
-A body is large when seen near and appears small when seen from afar. The same object appears straight when seen out of the water, and crooked when in the water. The concave becomes convex due to the illusion on colours to which the sight is liable.
+The tragic poets are imitators in the highest degree. Imitation is concerned with that which is thrice removed from the truth. 
 
-<b>Thus, every confusion is revealed to come from within us.</b> This is that weakness in the inferior part of the human mind that is imposed on by illusory tricks which affects us like magic. <!--   the art of conjuring and deceiving by light and shadow and other ingenious devices imposes. It has an effect upon us . -->
+Imitation addresses what faculty in man?
+
+A body is large when seen near. 
+- It appears small when seen from afar. 
+
+The same object appears straight when seen out of the water, and crooked when in the water. The concave becomes convex due to the illusion on colours to which the sight is liable.
+
+**Thus, every confusion comes from within us.**
+
+This is that weakness in the inferior part of the human mind that is imposed on by illusory tricks which affects us like magic. <!--   the art of conjuring and deceiving by light and shadow and other ingenious devices imposes. It has an effect upon us . -->
 {{< /l >}}
 
 
 {{< l a="Socrates" >}}
-The arts of measuring, counting, and weighing come to the rescue of the human understanding. These free us from the uncertainty of greater or less, or more or heavier. The better part of the soul to measure and calculation.  
+The arts of measuring, counting, and weighing come to the rescue of the human understanding. These free us from the uncertainty of greater or less, or more or heavier. The better part of the soul to measure and calculation.
 <!-- They give ground to calculation, measure, and weight. This surely is the work of the calculating and rational principle in the soul. When this principle measures and certifies that some things are equal, or that some are greater or less than others, there occurs an apparent contradiction. But we said that such a contradiction is impossible. -->
 
 <!-- The same faculty cannot have contrary opinions at the same time about the same thing. This means that the part of the soul which has an opinion contrary to measure is not the same with that part which has an opinion in accordance with measure.  -->
 <!-- That which is opposed to them is the inferior part. This was the conclusion that I was seeking when I said that painting and imitation are far removed from truth. They are the companions and friends of a principle within us which is equally removed from reason. They have no true or healthy aim. -->
 
-The imitative art is an inferior one who marries an inferior, and has inferior offspring. This inferiority extends itself to sight and hearing with regards to poetry. Imitation imitates the actions of men, whether voluntary or involuntary. This results in a man not being in unity with himself.
+The imitative art is an inferior one who marries an inferior, and has inferior offspring. This inferiority extends itself to sight and hearing with regards to poetry. 
+
+Imitation imitates the actions of men, whether voluntary or involuntary. This results in a man not being in unity with himself.
 {{< /l >}}
 
 <!-- {{< r a="Glaucon" >}} Probably the same would be true of poetry.{{< /l >}} {{< l a="Socrates" >}} -->
@@ -43,14 +54,18 @@ He will moderate his sorrow. He is more likely to struggle and hold out against 
 
 
 {{< l a="Socrates" >}}
-But when a man is drawn in two opposite directions, to and from the same object, it implies two distinct principles in him. One of them is ready to follow the guidance of the law which would say:
+But when a man is drawn in 2 opposite directions, to and from the same object, it implies 2 distinct principles in him. 
+
+One of them is ready to follow the guidance of the law which would say:
 
 - that it is best to be patient under suffering,
 - that we should not give way to impatience, as there is no knowing whether such things are good or evil, and
 - that nothing is gained by impatience, because no human thing is of serious importance.
 
 
-The other principle is grief which stands in the way of taking counsel about what has happened. This counsel is most needed. It says that when the dice has been thrown, we should order our affairs in the way that reason deems best. We should do this not like children who have fallen and waste time in crying. Instead, we should do it always accustoming the soul to:
+The other principle is grief which stands in the way of taking counsel about what has happened. This counsel is most needed. It says that when the dice has been thrown, we should order our affairs in the way that reason deems best. 
+
+We should do this not like children who have fallen and waste time in crying. Instead, we should do it always accustoming the soul to:
 
 - apply a remedy,
 - raise up that which is sickly and fallen, and
@@ -63,7 +78,9 @@ Yes, that is the true way of meeting the attacks of fortune.
 {{< /r >}}
 
 {{< l a="Socrates" >}}
-The higher principle is ready to follow this suggestion of reason. The other principle inclines us to remember our troubles. The irrational, useless, and cowardly have the inferior principle. The rebellious principle furnishes many materials for imitation.
+The higher principle is ready to follow this suggestion of reason. The other principle inclines us to remember our troubles. 
+
+The irrational, useless, and cowardly have the inferior principle. The rebellious principle furnishes many materials for imitation.
 
 The wise and calm temperament is always nearly equable. It is not easy to imitate or to appreciate when imitated, especially at a public festival when a promiscuous crowd is assembled in a theatre because the feeling represented is new to them. 
 

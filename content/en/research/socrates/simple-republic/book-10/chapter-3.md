@@ -1,7 +1,7 @@
 ---
 title: "The Immortality of the Soul"
-heading: Chapter 3 of Book 10
-weight: 1
+heading: Chapter 3
+weight: 6
 description: "The soul is immortal. The number of souls in existence do not increase nor decrease. The reward of justice is natural and everlasting happiness"
 image: "/covers/republic.jpg"
 icon: "/icons/soc.png"

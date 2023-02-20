@@ -1,7 +1,7 @@
 ---
-heading: "Book 10 Chapter 1"
+heading: "Chapter 1"
 title: "Shallow Philosophy and Religion as Poetry"
-weight: 1
+weight: 2
 image: "/covers/republic.jpg"
 description: "God is the real Creator of everything. All perceptions are reflections and all things are imitations of the original from God. Homer is one of the greatest poets and should be read by all. But shallow, imitative philosophers should not be allowed into the State"
 icon: "/icons/soc.png"

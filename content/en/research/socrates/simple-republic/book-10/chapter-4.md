@@ -1,7 +1,7 @@
 ---
-heading: Chapter 4 of Book 10
+heading: Chapter 4
 title: "Socrates' Story on Reincarnation"
-weight: 1
+weight: 8
 description: "The soul is affected by cause and effect through the chakras. It can reincarnate as any entity, even as an animal"
 image: "/covers/republic.jpg"
 icon: "/icons/soc.png"
@@ -191,7 +191,7 @@ They wear white robes and have chaplets upon their heads. They accompany with th
 {{< /l >}}
 
 
-> **Translator's Note: The mind categorizes cause & effect in three phases= past, present, and future. The lower chakras (outer whorls to Socrates) are concerned with the present, while the higher chakras (inner whorls) are concerned with the future.
+> **Superphyics Note: The mind categorizes cause & effect in 3 phases: past, present, and future. The lower chakras (outer whorls to Socrates) are concerned with the present, while the higher chakras (inner whorls) are concerned with the future.
 
 
 
@@ -203,7 +203,7 @@ There was a prophet who arranged them in order. Then he took from the knees of L
 He went to a high pulpit and spoke= 
 
 {{< q >}}
-<p>Hear the word of Lachesis, the daughter of Cause and Effect. Mortal souls, behold a new cycle of life and mortality.<br><br>Your genius will not be allotted to you, but you will choose your genius. Let him who draws the first lot have the first choice, and the life which he chooses shall be his destiny.<br><br>Virtue is free. A man will have more virtue the more he honours it. The responsibility is with the chooser.</p>
+Hear the word of Lachesis, the daughter of Cause and Effect. Mortal souls, behold a new cycle of life and mortality. Your genius will not be allotted to you, but you will choose your genius. Let him who draws the first lot have the first choice, and the life which he chooses shall be his destiny. Virtue is free. A man will have more virtue the more he honours it. The responsibility is with the chooser.
 {{< /q >}}
 
 {{< /l >}}

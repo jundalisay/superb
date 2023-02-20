@@ -1,5 +1,5 @@
 ---
-title: "The Meaning of Red Herring, Ad hominem, and Other Fallacies"
+title: "The Meaning of Red Herring, Ad hominem, etc"
 date: 2020-09-29
 image: /photos/wtf.jpg
 description: "We explain the meaning of common fallacies by removing the jargon"
@@ -135,7 +135,8 @@ But if people feel the need for peace and order, then they can create a solution
 
 In the non-dialectic system of debate, people just push their own egos without coming to any synthesis of ideas. But with dialectics, they agree to surrender their egos from the very beginning in order to eventually synhesize their minds and come up with a real solution.
 
-![Dialectics](https://sorasystem.sirv.com/graphics/dia.jpg)
+{{< img src="https://sorasystem.sirv.com/graphics/dia.jpg" alt="Debate vs Dialectics" cap="Diffcult disagreements (caused by conflicting aethereal ideas) can be easily resolved by tapping into the spacetime layer (giving it time)" >}}
+
 
 
 So if you’re arguing with someone endlessly without any compromise, it simply means that his ego only feels for himself and his own ideas and has no desire to reduce itself. Normally, this is solved by disconnecting from that person in order to avoid his toxic ego. 

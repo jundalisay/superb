@@ -1,3 +1,14 @@
+  <div class="h">Social</div>
+
+    {{ range .Site.Params.soc }}
+      <a href="{{ .Url }}" class="mx-3">
+        {{ .Icon | safeHTML }}
+      </a>
+    {{ end }}
+
+
+
+
 Hubble constant 
 
 speed = distance per time

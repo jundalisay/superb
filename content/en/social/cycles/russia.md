@@ -160,7 +160,7 @@ These solutions would have preserved the balance of power and allowed the non-li
 
 These two opposing forces clash in Ukraine. This disturbance has its roots in the fall of the Soviet Union which then has its roots in World War 1, and then to Napoleon, and then to the French Revolution, matching cause with effect. 
 
-**The solution is still for Ukraine to surrender, the earlier the better.**
+**The current solution is still for Ukraine to surrender, the earlier the better.**
 
 <!-- ## Unifiying with Russia and the Mongols Instead of Europe and the Romans -->
 
@@ -199,7 +199,7 @@ This will then relax the feelings of Russia (and China) leading to less tensions
 The Mongol system is based on few simple rules that are sacred to simple barbarians*. **The key is to work within those simple rules.** An example is the rule of self-preservation.
 
 
-> *We have worked extensively with dirt-poor communities and have gotten used to how barbaric and even animalistic some humans can become 
+> *We have worked extensively with dirt-poor communities and have gotten used to how barbaric and even animalistic some humans can become. The solution is to lower onself to their level and then painstakingly raise them up slowly by finding the gravitational signature (svadharma) for each mind.
 
 
 This is very different from the current mode of thinking of the West wherein they see the destruction of non-liberalism as a moral and just cause that is worth pursuing agressively. Their egos seem to be so high that they are unable to sense that such a mentality has caused so many unnecessary conflicts since the 19th century. <!-- , and is still causing, the external post-French Revolution conflicts that began with Napoleon. -->  The World Wars and the current Ukraine war are modern examples of the effects of such thinking. 
@@ -207,7 +207,7 @@ This is very different from the current mode of thinking of the West wherein the
 Liberalism is like a modern crusade being undertaken by the West which has nothing better to do with its productivity*.
 
 
-> *Ideally, all that productivity should be channeled to the exploration of Mars. The problem is that the West blindly believes in the sophistry of Albert Einstein's [General Relativity](/material/fallacies/general-relativity) which makes such exploration extremely expensive.
+> *Ideally, all that productivity should be channeled to the exploration of Mars. The problem is that the West blindly believes in the sophistry of Albert Einstein's [General Relativity](/material/fallacies/general-relativity) which makes such exploration impractical.
 
 
 This highness of ego leads to a disconnect with reality. This is clearly shown by the US abandoning Afghanistan in 2021. 
