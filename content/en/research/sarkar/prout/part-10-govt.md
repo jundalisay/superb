@@ -3,8 +3,8 @@ heading: "Part 10"
 title: "Different Forms of Government"
 weight: 16
 author: "PR Sarkar"
-description: "Autonomous means ruling the self"
-image: "/covers/prout.png"
+description: "Autonomous means ruling the self. Autocratic means ruling as per one’s whims."
+image: "/covers/prout.jpg"
 icon: "/icons/sarkar.png"
 ---
 

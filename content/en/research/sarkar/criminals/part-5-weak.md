@@ -4,7 +4,7 @@ title: "Criminals out of Momentary Weakness"
 weight: 12
 author: "PR Sarkar"
 description: ""
-image: "/covers/prout.png"
+image: "/covers/prout.jpg"
 icon: "/icons/sarkar.png"
 ---
 

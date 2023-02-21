@@ -1,5 +1,20 @@
-B.: Terrestrial Phenomena
-B. Phenomena of earth.Come now and learn what is the law of earthquakes. And first of all let yourself suppose that the earth is below, just as above, full on all sides of windy caverns; and you must think it bears in its bosom many lakes and many pools and cliffs and sheer rocks;1. Earthquakes. The earth underneath has caverns and streams and rocks. and that many rivers hidden beneath the back of the earth roll on amain their waves and submerged stones. For clear fact demands
+---
+heading: Part B
+title: "Terrestrial Phenomena"
+linkTitle: Part B
+# date: 2022-07-24
+weight: 6
+description: Thunder when clouds clash together face to face
+author: "Titus Lucretius Carus"
+image: /covers/things.jpg
+---
+
+
+## The law of earthquakes
+
+Above and below the earth are windy caverns on all sides. It bears in its bosom many lakes and many pools and cliffs and sheer rocks;
+
+1. Earthquakes. The earth underneath has caverns and streams and rocks. and that many rivers hidden beneath the back of the earth roll on amain their waves and submerged stones. For clear fact demands
 n
  that it should be in all parts like itself. When these things then are placed and linked together beneath it, the earth above trembles, shaken by great falling masses, when beneath time has caused huge caverns to fall in; nay, indeed, whole mountains fall,(a) When some cavern falls in, an earthquake is caused, and at the great sudden shock tremblings creep abroad thence far and wide. And with good reason, since whole houses by the roadside tremble when shaken by a wagon of no great weight, and rock none the less, whenever a stone in the road jolts on the iron circles of the wheels on either side.
 1
@@ -95,4 +110,6 @@ n
  what difference between the climate in Pontus and at Gades, and so right on to the black races of men with their sunburnt colour?and differences of climate cause differences of appearance in races, and produce special diseases. And as we see these four climates at the four winds and quarters of the sky thus diverse one from the other, so the colour and face of the men are seen to vary greatly, and diseases too to attack the diverse races each after their kind. There is the elephant disease, which arises along the streams of the Nile in mid Egypt, and in no other place. In Attica the feet are assailed, and the eyes in the Achaean country. And so each place is harmful to different parts and limbs: the varying air is the cause. Wherefore, when an atmosphere,If then a noxious atmosphere moves and comes to us. which chances to be noxious to us, sets itself in motion, and harmful air begins to creep forward, just as cloud and mist crawls on little by little and distempers all, wherever it advances, and brings about change, it comes to pass also, that when at last it comes to our sky, it corrupts it and makes it like itself, and noxious to us.pestilence results for man and beast. And so this strange destruction and pestilence suddenly falls upon the waters or settles even on the crops or on other food of men or fodder of the flocks; or else this force remains poised in the air itself, and, when we draw in these mingled airs as we breathe, it must needs be that we suck in these plagues with them into our body. In like manner the pestilence falls too often on the cattle, and sickness also on the lazy bleating sheep. Nor does it matter whether we pass into spots hostile to us and change the vesture of the sky, or whether nature attacking us brings a corrupt sky
 1
  upon us, or something which we are not accustomed to feel, which can assail us by its first coming.
+
+
 

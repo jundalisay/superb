@@ -4,7 +4,7 @@ title: "Quadri-Dimensional Economy"
 weight: 10
 author: "PR Sarkar"
 description: "A developed economy should have 4 parts"
-image: "/covers/prout.png"
+image: "/covers/prout.jpg"
 icon: "/icons/sarkar.png"
 ---
 

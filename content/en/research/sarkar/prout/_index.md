@@ -2,5 +2,5 @@
 title: "PROUT -- Progressive Utilitzation Theory"
 linkTitle: "PROUT"
 description: ""
-image: "/covers/prout.png"
+image: "/covers/prout.jpg"
 ---

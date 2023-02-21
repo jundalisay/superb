@@ -4,7 +4,7 @@ title: "Principles of Balanced Economy"
 weight: 2
 author: "PR Sarkar"
 description: "Cities and states in the past lost their economic balance and declined after achieving the height of prosperity because of 3 reasons"
-image: "/covers/prout.png"
+image: "/covers/prout.jpg"
 icon: "/icons/sarkar.png"
 ---
 

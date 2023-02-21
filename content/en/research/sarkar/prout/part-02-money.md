@@ -4,7 +4,7 @@ title: "Keep Money Rolling"
 weight: 4
 author: "PR Sarkar"
 description: "Kátiká in Sanskrit means a business that is built with the help of loans."
-image: "/covers/prout.png"
+image: "/covers/prout.jpg"
 icon: "/icons/sarkar.png"
 ---
 

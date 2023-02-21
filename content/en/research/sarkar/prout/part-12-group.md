@@ -3,8 +3,8 @@ heading: "Part 12"
 title: "Service Psychology and Group Psychology"
 weight: 20
 author: "PR Sarkar"
-description: ""
-image: "/covers/prout.png"
+description: "Human society is one and indivisible. All kinds of “isms” is splitting human society into numerous parts"
+image: "/covers/prout.jpg"
 icon: "/icons/sarkar.png"
 ---
 

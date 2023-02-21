@@ -1,5 +1,18 @@
+---
+heading: Introduction
+title: "Invocation to Venus, the creative power of Nature"
+linkTitle: Book 1
+# date: 2022-07-24
+weight: 26
+description: Which consists of infinite atoms moving in infinite space
+author: "Titus Lucretius Carus"
+image: /covers/things.jpg
+---
+
+
 D.: Attack on the passion of Love
-D. Shun Venus and her cares and desires.This pleasure is Venus for us; from it comes Cupid, our name for love, from it first of all that drop of Venus’s sweetness has trickled into our heart and chilly care has followed after. For if the object of your love is away, yet images of her are at hand, her loved name is present to your ears. But it is best to flee those images,
+
+Shun Venus and her cares and desires.This pleasure is Venus for us; from it comes Cupid, our name for love, from it first of all that drop of Venus’s sweetness has trickled into our heart and chilly care has followed after. For if the object of your love is away, yet images of her are at hand, her loved name is present to your ears. But it is best to flee those images,
 n
  and scare away from you what feeds your love, and to turn your mind some other way, and vent your passion on other objects, and not to keep it, set once for all on the love of one, and thereby store up for yourself care and certain pain.For the pain only grows with indulgence. For the sore gains strength and festers by feeding, and day by day the madness grows, and the misery becomes heavier, unless you dissipate the first wounds by new blows, and heal them while still fresh, wandering after some wanton, or else can turn the movements of the mind elsewhere.
 

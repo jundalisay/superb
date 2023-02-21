@@ -1,3 +1,14 @@
+---
+heading: Introduction
+title: "Invocation to Venus, the creative power of Nature"
+linkTitle: Book 1
+# date: 2022-07-24
+weight: 26
+description: Which consists of infinite atoms moving in infinite space
+author: "Titus Lucretius Carus"
+image: /covers/things.jpg
+---
+
 
 C.: Some Functions of the Body
 C. The limbs and senses were not created for the purpose of their use,Herein you must eagerly

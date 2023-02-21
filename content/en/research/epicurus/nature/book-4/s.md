@@ -1,3 +1,14 @@
+---
+heading: Introduction
+title: "Invocation to Venus, the creative power of Nature"
+linkTitle: Book 1
+# date: 2022-07-24
+weight: 26
+description: Which consists of infinite atoms moving in infinite space
+author: "Titus Lucretius Carus"
+image: /covers/things.jpg
+---
+
 
 A.: Existence and Nature of the ‘Idols’
 A. The Idols.But since I have taught of what manner are the beginnings of all things, and how, differing in their diverse forms, of their own accord they fly on, spurred by everlasting motion; and in what way each several thing can be created from them; and since I have taught what was the nature of the mind, and whereof composed it grew in due order with the body, and in what way rent asunder it passed back into its first-beginnings:The images which are the cause of vision. now I will begin to tell you what exceeding nearly concerns this theme, that there are what we call idols

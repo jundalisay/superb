@@ -1,12 +1,4 @@
-
 NOTES
-BOOK I
-BOOK II
-BOOK III
-BOOK IV
-BOOK V
-BOOK VI
-PRINTED IN GREAT BRITAIN AT THE UNIVERSITY PRESS, OXFORD BY CHARLES BATEY, PRINTER TO THE UNIVERSITY
 
 1
 In our own country Dr. Masson (Lucretius: Epicurean and Poet) has recently written a very suggestive, though not always accurate, sketch of Lucretius’s relations to his predecessors and to modern scientific ideas, and has most successfully represented the spirit of the poem.

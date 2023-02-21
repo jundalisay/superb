@@ -1,7 +1,15 @@
+---
+heading: Book 10
+title: Life Of Epicurus
+weight: 2
+# date: 2022-01-31
+description: Life Of Epicurus
+author: " Diogenes Laertius"
+image: "/covers/epi.jpg"
+# icon: /flags/gb.png
+---
 
 
-BOOK X.
-LIFE OF EPICURUS.
 
 Metrodorus tells us in his treatise on Nobility of Birth that Epicurus was:
 - an Athenian
