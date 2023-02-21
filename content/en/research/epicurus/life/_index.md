@@ -1,10 +1,10 @@
 ---
-title: "The Nature of Things"
-linkTitle: Nature
+title: "The Life of Epicurus"
+linkTitle: Life
 # heading: Unenlightened
 # date: 2022-07-24
-weight: 2
+weight: 1
 description: 
 author: "Titus Lucretius Carus"
-image: /covers/things.jpg
+image: /covers/epi.jpg
 ---

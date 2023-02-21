@@ -1,19 +1,18 @@
 ---
-heading: Part A
-title: "Celestial Phenomena"
-linkTitle: Part A
+heading: Part E
+title: "The Beginnings of the Civilization"
+linkTitle: Part E
 # date: 2022-07-24
-weight: 4
+weight: 14
 description: Thunder when clouds clash together face to face
 author: "Titus Lucretius Carus"
 image: /covers/things.jpg
 ---
 
 
-E.: The Beginnings of the Civilization
-E. Beginning of civilization. Fire, clothing and shelter led to home life,Then after they got themselves huts and skins and fire, and woman yoked with man retired to a single <home, and the laws of marriage>
-1
- were learnt, and they saw children sprung from them, then first the race of man began to soften. For fire brought it about that their chilly limbs could not now so well bear cold under the roof of heaven, and Venus lessened their strength, and children, by their winning ways, easily broke down the haughty will of their parents.and friendship with neighbours. Then, too, neighbours began eagerly to form friendship one with another, not to hurt or be harmed,
+E. Beginning of civilization. 
+
+Fire, clothing and shelter led to home life,Then after they got themselves huts and skins and fire, and woman yoked with man retired to a single <home, and the laws of marriage> were learnt, and they saw children sprung from them, then first the race of man began to soften. For fire brought it about that their chilly limbs could not now so well bear cold under the roof of heaven, and Venus lessened their strength, and children, by their winning ways, easily broke down the haughty will of their parents.and friendship with neighbours. Then, too, neighbours began eagerly to form friendship one with another, not to hurt or be harmed,
 n
  and they commended to mercy children and the race of women, when with cries and gestures they taught by broken words that ’tis right for all men to have pity on the weak.Compacts were for the most part observed. Yet not in all ways could unity be begotten, but a good part, the larger part, would keep their compacts loyally; or else the human race would even then have been all destroyed, nor could breeding have prolonged the generations until now.
 

@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-weight: 66
+weight: 13
 description: There is no limit to their full sum, or to the void, or to the space in which all things are carried on
 author: "Titus Lucretius Carus"
 image: /covers/things.jpg

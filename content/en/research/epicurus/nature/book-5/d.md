@@ -1,16 +1,15 @@
 ---
-heading: Part A
-title: "Celestial Phenomena"
-linkTitle: Part A
+heading: Part D
+title: "The Youth of the World"
+linkTitle: Part D
 # date: 2022-07-24
-weight: 4
+weight: 8
 description: Thunder when clouds clash together face to face
 author: "Titus Lucretius Carus"
 image: /covers/things.jpg
 ---
 
 
-D.: The Youth of the World
 D. We must return to the early days of the earth.For the rest, since I have unfolded in what manner each thing could take place throughout the blue vault of the great world, so that we might learn what force and what cause started the diverse courses of the sun, and the journeyings of the moon, and in what way they might go hiding with their light obscured, and shroud the unexpecting earth in darkness, when, as it were, they wink and once again open their eye and look upon all places shining with their clear rays; now I return to the youth of the world, and the soft fields of earth, and what first with new power of creation they resolved to raise into the coasts of light and entrust to the gusty winds.
 
 The earth brought forth first vegetable life,First of all the earth gave birth to the tribes of herbage and bright verdure all around the hills and over all the plains, the flowering fields gleamed in their green hue, and thereafter the diverse trees were started with loose rein on their great race of growing through the air. Even as down and hair and bristles are first formed on the limbs of four-footed beasts and the body of fowls strong of wing, so then the newborn earth raised up herbage and shrubs first,then living creatures: and thereafter produced the races of mortal things, many races born in many ways by diverse means. For neither can living animals have fallen from the sky nor the beasts of earth have issued forth from the salt pools. It remains that rightly has the earth won the name of mother, since out of earth all things are produced. And even now many animals spring forth from the earth, formed by the rains and the warm heat of the sun; wherefore we may wonder the less, if then more animals and greater were born, reaching their full growth when earth and air were fresh.first birds, springing from eggs; First of all the tribe of winged fowls and the diverse birds left their eggs, hatched out in the spring season, as now in the summer the grasshoppers of their own will leave their smooth shells, seeking life and livelihood.then animals, springing from wombs rooted in the earth. Then it was that the earth first gave birth to the race of mortal things. For much heat and moisture abounded then in the fields; thereby, wherever a suitable spot or place was afforded, there grew up wombs,

@@ -3,7 +3,7 @@ heading: Part A
 title: "Celestial Phenomena"
 linkTitle: Part A
 # date: 2022-07-24
-weight: 4
+weight: 14
 description: Thunder when clouds clash together face to face
 author: "Titus Lucretius Carus"
 image: /covers/things.jpg

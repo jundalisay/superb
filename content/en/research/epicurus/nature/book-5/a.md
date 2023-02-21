@@ -1,16 +1,5 @@
----
-heading: Introduction
-title: "Invocation to Venus, the creative power of Nature"
-linkTitle: Book 1
-# date: 2022-07-24
-weight: 26
-description: Which consists of infinite atoms moving in infinite space
-author: "Titus Lucretius Carus"
-image: /covers/things.jpg
----
-
-
 A.: The World Bad a beginning and is Mortal
+
 A. The world is mortal (a) because its component parts are mortal.First of all,
 n
  since the body of earth and moisture, and the light breath of the winds and burning heat, of which this sum of things is seen to be made up, are all created of a body that has birth and death, of such, too, must we think that the whole nature of the world is fashioned. For verily things whose parts and limbs we see to be of a body that has birth and of mortal shapes, themselves too we perceive always to have death and birth likewise. Wherefore, when we see the mighty members and parts of the world consumed away and brought to birth again, we may know that sky too likewise and earth had some time of first-beginning, and will suffer destruction.

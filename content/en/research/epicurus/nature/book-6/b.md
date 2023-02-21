@@ -3,7 +3,7 @@ heading: Part B
 title: "Terrestrial Phenomena"
 linkTitle: Part B
 # date: 2022-07-24
-weight: 6
+weight: 16
 description: Thunder when clouds clash together face to face
 author: "Titus Lucretius Carus"
 image: /covers/things.jpg
