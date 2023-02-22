@@ -1,10 +1,15 @@
-NOTES
+---
+title: Notes
+weight: 6
+description: There is no limit to their full sum, or to the void, or to the space in which all things are carried on
+author: "Titus Lucretius Carus"
+image: /covers/things.jpg
+---
 
-1
+
 In our own country Dr. Masson (Lucretius: Epicurean and Poet) has recently written a very suggestive, though not always accurate, sketch of Lucretius’s relations to his predecessors and to modern scientific ideas, and has most successfully represented the spirit of the poem.
 
-1
-St. Augustine, de Civ. Dei, iv. 27.
+1 St. Augustine, de Civ. Dei, iv. 27.
 
 2
 De Divinatione.

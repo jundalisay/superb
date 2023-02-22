@@ -1,18 +1,19 @@
 ---
-heading: Part A
-title: "The Motion of the Atoms"
-linkTitle: Part A
+heading: Part D
+title: "The Infinite Worlds and their Formation and Destruction"
+linkTitle: Part D
 # date: 2022-07-24
-weight: 66
+weight: 12
 description: There is no limit to their full sum, or to the void, or to the space in which all things are carried on
 author: "Titus Lucretius Carus"
 image: /covers/things.jpg
 ---
 
 
-D.: The Infinite Worlds and their Formation and Destruction
 
-D. Other worlds in space. Introduction. Put aside the alarm of novelty,Now turn your mind, I pray, to a true reasoning. For a truth wondrously new is struggling to fall upon your ears, and a new face of things to reveal itself. Yet neither is anything so easy, but that at first it is more difficult to believe, and likewise nothing is so great or so marvellous but that little by little all decrease their wonder at it. First of all the bright clear colour of the sky, and all it holds within it, the stars that wander here and there, and the moon and the sheen of the sun with its brilliant light; all these, if now they had come to being for the first time for mortals, if all unforeseen they were in a moment placed before their eyes, what story could be told more marvellous than these things, or what that the nations would less dare to believe beforehand? Nothing, I trow: so worthy of wonder would this sight have been. Yet think how no one now, wearied with satiety of seeing, deigns to gaze up at the shining quarters of the sky! Wherefore cease to spew out reason from your mind, struck with terror at mere newness, but rather with eager judgement weigh things, and, if you see them true, lift your hands and yield, or, if it is false, gird yourself to battle. For our mind now seeks to reason, since the sum of space is boundless out beyond the walls of this world,and inquire what there is beyond our world. what there is far out there, whither the spirit desires always to look forward, and whither the unfettered projection of our mind
+<!-- D. Other worlds in space. Introduction. Put aside the alarm of novelty,Now turn your mind, I pray, to a true reasoning. For a truth wondrously new is struggling to fall upon your ears, and a new face of things to reveal itself. Yet neither is anything so easy, but that at first it is more difficult to believe, and likewise nothing is so great or so marvellous but that little by little all decrease their wonder at it.  -->
+
+First of all the bright clear colour of the sky, and all it holds within it, the stars that wander here and there, and the moon and the sheen of the sun with its brilliant light; all these, if now they had come to being for the first time for mortals, if all unforeseen they were in a moment placed before their eyes, what story could be told more marvellous than these things, or what that the nations would less dare to believe beforehand? Nothing, I trow: so worthy of wonder would this sight have been. Yet think how no one now, wearied with satiety of seeing, deigns to gaze up at the shining quarters of the sky! Wherefore cease to spew out reason from your mind, struck with terror at mere newness, but rather with eager judgement weigh things, and, if you see them true, lift your hands and yield, or, if it is false, gird yourself to battle. For our mind now seeks to reason, since the sum of space is boundless out beyond the walls of this world,and inquire what there is beyond our world. what there is far out there, whither the spirit desires always to look forward, and whither the unfettered projection of our mind
 n
  flies on unchecked.
 

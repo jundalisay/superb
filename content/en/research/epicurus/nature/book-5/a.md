@@ -1,8 +1,20 @@
-A.: The World Bad a beginning and is Mortal
+---
+heading: Part A
+title: "The World Had a Beginning and is Mortal"
+linkTitle: Part A
+# date: 2022-07-24
+weight: 6
+description: There is no limit to their full sum, or to the void, or to the space in which all things are carried on
+author: "Titus Lucretius Carus"
+image: /covers/things.jpg
+---
 
-A. The world is mortal (a) because its component parts are mortal.First of all,
-n
- since the body of earth and moisture, and the light breath of the winds and burning heat, of which this sum of things is seen to be made up, are all created of a body that has birth and death, of such, too, must we think that the whole nature of the world is fashioned. For verily things whose parts and limbs we see to be of a body that has birth and of mortal shapes, themselves too we perceive always to have death and birth likewise. Wherefore, when we see the mighty members and parts of the world consumed away and brought to birth again, we may know that sky too likewise and earth had some time of first-beginning, and will suffer destruction.
+
+The world is mortal because:
+
+## A. Its component parts are mortal
+
+The body of earth and moisture, and the light breath of the winds and burning heat, of which this sum of things is seen to be made up, are all created of a body that has birth and death, of such, too, must we think that the whole nature of the world is fashioned. For verily things whose parts and limbs we see to be of a body that has birth and of mortal shapes, themselves too we perceive always to have death and birth likewise. Wherefore, when we see the mighty members and parts of the world consumed away and brought to birth again, we may know that sky too likewise and earth had some time of first-beginning, and will suffer destruction.
 
 To prove this of the separate elements: 1. Earth is mortal. It flies away in clouds of dust,Herein, lest you should think that I have snatched at this proof for myself, because I have assumed that earth and fire are mortal things, nor have hesitated to say that moisture and breezes perish, and have maintained that they too are born again and increase, first of all, some part of earth, when baked by ceaseless suns, trodden by the force of many feet, gives off a mist and flying clouds of dust, which stormy winds scatter through all the air.or is destroyed by moisture. Earth is the universal mother and the universal tomb. Part too of its sods is summoned back to swamp by the rains, and streams graze and gnaw their banks. Moreover, whatever the earth nourishes and increases, is, in its own proportion, restored; and since without doubt the parent of all is seen herself to be the universal tomb of things, therefore you may see that the earth is eaten away, and again increases and grows.
 

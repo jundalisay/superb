@@ -1,7 +1,7 @@
 ---
-heading: Part A
-title: "The Motion of the Atoms"
-linkTitle: Part A
+heading: Part B
+title: "Proofs of the Mortality of the Soul"
+linkTitle: Part B
 # date: 2022-07-24
 weight: 66
 description: There is no limit to their full sum, or to the void, or to the space in which all things are carried on
@@ -10,15 +10,22 @@ image: /covers/things.jpg
 ---
 
 
-B.: Proofs of the Mortality of the Soul
-B. The soul is mortal.Come now, that you may be able to learn that the minds and the light souls
+
+<!-- B. The soul is mortal.Come now, that you may be able to learn that the minds and the light souls
 n
- of living things have birth and death, I will hasten to set forth verses long sought out and found with glad effort, worthy to guide your life. Be it yours
-n
- to link both of these in a single name, and when, to choose a case, I continue to speak of the soul, proving that it is mortal, suppose that I speak of mind as well, inasmuch as they are at one each with the other and compose a single thing.Proofs. 1. It is mobile and made of minute atoms: First of all, since I have shown that it is finely made of tiny bodies and of first-beginnings far smaller than the liquid moisture of water or cloud or smoke—for it far surpasses them in speed of motion, and is more prone to move when smitten by some slender cause; for indeed it is moved by images of smoke and cloud:
-n
- even as when slumbering in sleep we see altars breathing steam on high, and sending up their smoke; for beyond all doubt these are idols that are borne to us:—now therefore, since, when vessels are shattered, you behold the water flowing away on every side, and the liquid parting this way and that, and since cloud and smoke part asunder into air,therefore it cannot be held together in air when it has left the body. you must believe that the soul too is scattered and passes away far more swiftly, and is dissolved more quickly into its first-bodies, when once it is withdrawn from a man’s limbs, and has departed. For indeed, since the body, which was, as it were, the vessel of the soul, cannot hold it together, when by some chance it is shattered and made rare, since the blood is withdrawn from the veins, how could you believe that the soul could be held together by any air, which is more rare than our body <and can contain it less>?
-1
+ of living things have birth and death, I will hasten to set forth verses long sought out and found with glad effort, worthy to guide your life.  -->
+
+The soul and mind are at one each with the other and compose a single thing.
+
+
+ <!-- Be it yours  to link both of these in a single name, and when, to choose a case, I continue to speak of the soul, proving that it is mortal, suppose that I speak of mind as well, inasmuch as they  -->
+
+## Proof 1: It is mobile and made of minute atoms.
+
+It is finely made of tiny bodies and of first-beginnings far smaller than the liquid moisture of water or cloud or smoke—for it far surpasses them in speed of motion, and is more prone to move when smitten by some slender cause; for indeed it is moved by images of smoke and cloud:
+
+even as when slumbering in sleep we see altars breathing steam on high, and sending up their smoke; for beyond all doubt these are idols that are borne to us:—now therefore, since, when vessels are shattered, you behold the water flowing away on every side, and the liquid parting this way and that, and since cloud and smoke part asunder into air,therefore it cannot be held together in air when it has left the body. you must believe that the soul too is scattered and passes away far more swiftly, and is dissolved more quickly into its first-bodies, when once it is withdrawn from a man’s limbs, and has departed. For indeed, since the body, which was, as it were, the vessel of the soul, cannot hold it together, when by some chance it is shattered and made rare, since the blood is withdrawn from the veins, how could you believe that the soul could be held together by any air, which is more rare than our body <and can contain it less>?
+
 
 2. It is born, grows, and ages with the body:Moreover, we feel that the understanding is begotten along with the body, and grows together with it, and along with it comes to old age. For as children totter with feeble and tender body, so a weak judgement of mind goes with it. Then when their years are ripe and their strength hardened, greater is their sense and increased their force of mind. Afterward, when now the body is shattered by the stern strength of time, and the frame has sunk with its force dulled, then the reason is maimed, the tongue raves, the mind stumbles, all things give way and fail at once.therefore it is dissolved with it. And so it is natural that all the nature of the mind should also be dissolved, even as is smoke, into the high breezes of the air; inasmuch as we see that it is born with the body, grows with it, and, as I have shown, at the same time becomes weary and worn with age.
 

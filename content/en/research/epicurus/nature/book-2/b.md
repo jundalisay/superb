@@ -1,16 +1,21 @@
 ---
-heading: Part A
-title: "The Motion of the Atoms"
-linkTitle: Part A
+heading: Part B
+title: "The Forms of the Atoms and their Effects in Combination"
+linkTitle: Part B
 # date: 2022-07-24
-weight: 66
+weight: 4
 description: There is no limit to their full sum, or to the void, or to the space in which all things are carried on
 author: "Titus Lucretius Carus"
 image: /covers/things.jpg
 ---
 
-B.: The Forms of the Atoms and their Effects in Combination
-B. The shapes of the atoms. Their variety,Now come, next in order learn of what kind are the beginnings of all things and how far differing in form, and how they are made diverse with many kinds of shapes; not that but a few are endowed with a like form, but that they are not all alike the same one with another.which arises from the infinite number of the atoms, Nor need we wonder; for since there is so great a store of them, that neither have they any limit, as I have shown, nor any sum, it must needs be, we may be sure, that they are not all of equal bulk nor possessed of the same shape.and is the cause of the distinction of individuals in the same species. Moreover, the race of men, and the dumb shoals of scaly creatures which swim the seas, and the glad herds and wild beasts, and the diverse birds, which throng the gladdening watering-places all around the riverbanks and springs and pools, and those which flit about and people the distant forests; of these go and take any single one you will from among its kind, yet you will find that they are different in shape one from another. Nor in any other way could the offspring know its mother, or the mother her offspring; yet we see that they can, and that they are clearly not less known to one another than men.Illustrations: the cow and her calf; For often before the sculptured shrines of the gods a calf has fallen, slaughtered hard by the altars smoking with incense, breathing out from its breast the hot tide of blood. But the mother bereft wanders over the green glades and seeks
+
+
+Their variety,Now come, next in order learn of what kind are the beginnings of all things and how far differing in form, and how they are made diverse with many kinds of shapes; not that but a few are endowed with a like form, but that they are not all alike the same one with another.which arises from the infinite number of the atoms, Nor need we wonder; for since there is so great a store of them, that neither have they any limit, as I have shown, nor any sum, it must needs be, we may be sure, that they are not all of equal bulk nor possessed of the same shape.and is the cause of the distinction of individuals in the same species. 
+
+Moreover, the race of men, and the dumb shoals of scaly creatures which swim the seas, and the glad herds and wild beasts, and the diverse birds, which throng the gladdening watering-places all around the riverbanks and springs and pools, and those which flit about and people the distant forests; of these go and take any single one you will from among its kind, yet you will find that they are different in shape one from another. 
+
+Nor in any other way could the offspring know its mother, or the mother her offspring; yet we see that they can, and that they are clearly not less known to one another than men.Illustrations: the cow and her calf; For often before the sculptured shrines of the gods a calf has fallen, slaughtered hard by the altars smoking with incense, breathing out from its breast the hot tide of blood. But the mother bereft wanders over the green glades and seeks
 1
  on the ground for the footprints marked by those cloven hoofs, scanning every spot with her eyes, if only she might anywhere catch sight of her lost young, and stopping fills the leafy grove with her lament: again and again she comes back to the stall, stabbed to the heart with yearning for her lost calf, nor can the tender willows and the grass refreshed with dew and the loved streams, gliding level with their banks, bring gladness to her mind and turn aside the sudden pang of care, nor yet can the shapes of other calves among the glad pastures turn her mind to new thoughts or ease it of its care: so eagerly does she seek in vain for something she knows as her own.kids and lambs and their mothers; Moreover, the tender kids with their trembling cries know their horned dams and the butting lambs the flocks of bleating sheep: so surely, as their nature needs, do they run back always each to its own udder of milk.grains of corn; Lastly, take any kind of corn, you will not find that every grain is like its fellows, each in its several kind, but that there runs through all some difference between their forms. And in like manner we see the race of shells painting the lap of earth,shells. where with its gentle waves the sea beats on the thirsty sand of the winding shore. Wherefore again and again in the same way it must needs be, since the first-beginnings of things are made by nature and not fashioned by hand to the fixed form of one pattern, that some of them fly about with shapes unlike one another.
 

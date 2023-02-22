@@ -10,7 +10,6 @@ image: /covers/things.jpg
 ---
 
 
-## C. The motions of the stars.
 
 Let us sing what is the cause of the motions of the stars?
 

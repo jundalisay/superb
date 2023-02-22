@@ -1,6 +1,6 @@
 ---
 heading: Introduction
-title: "Invocation to Venus, the creative power of Nature"
+title: "Formation of the World"
 linkTitle: Book 1
 # date: 2022-07-24
 weight: 26
@@ -10,9 +10,8 @@ image: /covers/things.jpg
 ---
 
 
-B.: Formation of the World
 
-B. The Birth of the World. It was not made by design, but by the chance concourse of atoms after ages.But by what means that gathering together of matter established earth and sky and the depths of ocean, and the courses of sun and moon, I will set forth in order. For in very truth not by design did the first-beginnings of things place themselves each in their order with foreseeing mind, nor indeed did they make compact what movements each should start; but because many first-beginnings of things in many ways, driven on by blows from time everlasting until now, and moved by their own weight, have been wont to be borne on, and to unite in every way and essay everything that they might create, meeting one with another, therefore it comes to pass that scattered abroad through a great age, as they try meetings and motions of every kind, at last those come together, which, suddenly cast together, become often the beginnings of great things, of earth, sea and sky, and the race of living things.
+It was not made by design, but by the chance concourse of atoms after ages.But by what means that gathering together of matter established earth and sky and the depths of ocean, and the courses of sun and moon, I will set forth in order. For in very truth not by design did the first-beginnings of things place themselves each in their order with foreseeing mind, nor indeed did they make compact what movements each should start; but because many first-beginnings of things in many ways, driven on by blows from time everlasting until now, and moved by their own weight, have been wont to be borne on, and to unite in every way and essay everything that they might create, meeting one with another, therefore it comes to pass that scattered abroad through a great age, as they try meetings and motions of every kind, at last those come together, which, suddenly cast together, become often the beginnings of great things, of earth, sea and sky, and the race of living things.
 
 First atoms gathered together in a wild discordant storm.Then, when things were so, neither could the sun’s orb be seen, flying on high with its bounteous light, nor the stars of the great world, nor sea nor sky, nay nor earth nor air, nor anything at all like to the things we know, but only a sort of fresh-formed storm, a mass gathered together of first-beginnings of every kind, whose discord was waging war and confounding interspaces, paths, interlacings, weights, blows, meetings, and motions, because owing to their unlike forms and diverse shapes, all things were unable to remain in union, as they do now, and to give and receive harmonious motions.Then the various parts of the world were separated off. From this mass
 n
