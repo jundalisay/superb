@@ -1,5 +1,5 @@
 ---
-heading: "Essay 23"
+heading: "Essay 30"
 title: "Regiment Of Health"
 weight: 42
 description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
@@ -29,9 +29,11 @@ SUSPICIONS amongst thoughts, are like bats amongst birds, they ever fly by twili
 
 
 
+## Discourse
 
-Of Discourse
-SOME, in their discourse, desire rather commendation of wit, in being able to hold all arguments, than of judgment, in discerning what is true; as if it were a praise, to know what might be said, and not, what should be thought. Some have certain common places, and themes, wherein they are good and want variety; which kind of poverty is for the most part tedious, and when it is once perceived, ridiculous. The honorablest part of talk, is to give the occasion; and again to moderate, and pass to somewhat else; for then a man leads the dance. It is good, in discourse and speech of conversation, to vary and intermingle speech of the present occasion, with arguments, tales with reasons, asking of questions, with telling of opinions, and jest with earnest: for it is a dull thing to tire, and, as we say now, to jade, any thing too far. As for jest, there be certain things, which ought to be privileged from it; namely, religion, matters of state, great persons, any man's present business of importance, and any case that deserveth pity. Yet there be some, that think their wits have been asleep, except they dart out somewhat that is piquant, and to the quick. That is a vein which would be bridled:
+SOME, in their discourse, desire rather commendation of wit, in being able to hold all arguments, than of judgment, in discerning what is true; as if it were a praise, to know what might be said, and not, what should be thought. Some have certain common places, and themes, wherein they are good and want variety; which kind of poverty is for the most part tedious, and when it is once perceived, ridiculous.
+
+The honorablest part of talk, is to give the occasion; and again to moderate, and pass to somewhat else; for then a man leads the dance. It is good, in discourse and speech of conversation, to vary and intermingle speech of the present occasion, with arguments, tales with reasons, asking of questions, with telling of opinions, and jest with earnest: for it is a dull thing to tire, and, as we say now, to jade, any thing too far. As for jest, there be certain things, which ought to be privileged from it; namely, religion, matters of state, great persons, any man's present business of importance, and any case that deserveth pity. Yet there be some, that think their wits have been asleep, except they dart out somewhat that is piquant, and to the quick. That is a vein which would be bridled:
 
 Parce, puer, stimulis, et fortius utere loris.
 

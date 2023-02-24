@@ -1,17 +1,21 @@
 ---
-heading: "Essay 23"
-title: "Dispatch"
+heading: "Essay 45"
+title: "Buildings"
 weight: 56
-description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
+description: "HOUSES are built to live in, and not to look at"
 image: "/covers/essaysbacon.jpg"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---
 
 
-Building
 
-HOUSES are built to live in, and not to look on; therefore let use be preferred before uniformity, except where both may be had. Leave the goodly fabrics of houses, for beauty only, to the enchanted palaces of the poets; who build them with small cost. He that builds a fair house, upon an ill seat, committeth himself to prison. Neither do I reckon it an ill seat, only where the air is unwholesome; but likewise where the air is unequal; as you shall see many fine seats set upon a knap of ground, environed with higher hills round about it; whereby the heat of the sun is pent in, and the wind gathereth as in troughs; so as you shall have, and that suddenly, as great diversity of heat and cold as if you dwelt in several places. Neither is it ill air only that maketh an ill seat, but ill ways, ill markets; and, if you will consult with Momus, ill neighbors. I speak not of many more; want of water; want of wood, shade, and shelter; want of fruitfulness, and mixture of grounds of several natures; want of prospect; want of level grounds; want of places at some near distance for sports of hunting, hawking, and races; too near the sea, too remote; having the commodity of navigable rivers, or the discommodity of their overflowing; too far off from great cities, which may hinder business, or too near them, which lurcheth all provisions, and maketh everything dear; where a man hath a great living laid together, and where he is scanted: all which, as it is impossible perhaps to find together, so it is good to know them, and think of them, that a man may take as many as he can; and if he have several dwellings, that he sort them so that what he wanteth in the one, he may find in the other. Lucullus answered Pompey well; who, when he saw his stately galleries, and rooms so large and lightsome, in one of his houses, said, Surely an excellent place for summer, but how do you in winter? Lucullus answered, Why, do you not think me as wise as some fowl are, that ever change their abode towards the winter?
+
+HOUSES are built to live in, and not to look at. 
+
+Therefore let use be preferred before uniformity, except where both may be had. 
+
+Leave the goodly fabrics of houses, for beauty only, to the enchanted palaces of the poets; who build them with small cost. He that builds a fair house, upon an ill seat, committeth himself to prison. Neither do I reckon it an ill seat, only where the air is unwholesome; but likewise where the air is unequal; as you shall see many fine seats set upon a knap of ground, environed with higher hills round about it; whereby the heat of the sun is pent in, and the wind gathereth as in troughs; so as you shall have, and that suddenly, as great diversity of heat and cold as if you dwelt in several places. Neither is it ill air only that maketh an ill seat, but ill ways, ill markets; and, if you will consult with Momus, ill neighbors. I speak not of many more; want of water; want of wood, shade, and shelter; want of fruitfulness, and mixture of grounds of several natures; want of prospect; want of level grounds; want of places at some near distance for sports of hunting, hawking, and races; too near the sea, too remote; having the commodity of navigable rivers, or the discommodity of their overflowing; too far off from great cities, which may hinder business, or too near them, which lurcheth all provisions, and maketh everything dear; where a man hath a great living laid together, and where he is scanted: all which, as it is impossible perhaps to find together, so it is good to know them, and think of them, that a man may take as many as he can; and if he have several dwellings, that he sort them so that what he wanteth in the one, he may find in the other. Lucullus answered Pompey well; who, when he saw his stately galleries, and rooms so large and lightsome, in one of his houses, said, Surely an excellent place for summer, but how do you in winter? Lucullus answered, Why, do you not think me as wise as some fowl are, that ever change their abode towards the winter?
 
 To pass from the seat, to the house itself; we will do as Cicero doth in the orator's art; who writes books De Oratore, and a book he entitles Orator; whereof the former, delivers the precepts of the art, and the latter, the perfection. We will therefore describe a princely palace, making a brief model thereof. For it is strange to see, now in Europe, such huge buildings as the Vatican and Escurial and some others be, and yet scarce a very fair room in them.
 

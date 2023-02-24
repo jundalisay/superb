@@ -1,7 +1,7 @@
 ---
-heading: "Essay 23"
-title: "Dispatch"
-weight: 30
+heading: "Essay 55"
+title: "Anger"
+weight: 72
 description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
 image: "/covers/essaysbacon.jpg"
 icon: /icons/bacon.png
@@ -9,9 +9,20 @@ author: Francis Bacon
 ---
 
 
-Anger
 
-TO SEEK to extinguish anger utterly, is but a bravery of the Stoics. We have better oracles: Be angry, but sin not. Let not the sun go down upon your anger. Anger must be limited and confined, both in race and in time. We will first speak how the natural inclination and habit to be angry, may be attempted and calmed. Secondly, how the particular motions of anger may be repressed, or at least refrained from doing mischief. Thirdly, how to raise anger, or appease anger in another.
+The Stoics were brave to seek to extinguish anger utterly. 
+
+We have better oracles: 
+
+Be angry, but sin not.
+Let not the sun go down upon your anger.
+Anger must be limited and confined, both in race and in time. 
+
+How can we calm the natural inclination to be angry? 
+
+How can the motions of anger be repressed, or at least refrained from doing mischief?
+
+How can we raise anger or appease the anger in another.
 
 For the first; there is no other way but to meditate, and ruminate well upon the effects of anger, how it troubles man's life. And the best time to do this, is to look back upon anger, when the fit is thoroughly over. Seneca saith well, That anger is like ruin, which breaks itself upon that it falls. The Scripture exhorteth us to possess our souls in patience. Whosoever is out of patience, is out of possession of his soul. Men must not turn bees;
 

@@ -36,7 +36,7 @@ This means that the mug exists in two domains of reality:
   - This mug is made of glass. 
 - the metaphysical mug exists in the metaphysical domain, as our idea of what a mug is. 
   - This mug-idea is made of aether.
-  - Unlike the physical mug which we can see and touch, this aethereal mug-idea can only be perceived by our thoughts.
+  - Unlike the physical mug which we can see and touch, this aethereal mug-idea can only be perceived by our abstract minds.
 
 
 {{< q a="Bacon" >}}
@@ -70,7 +70,7 @@ Truth and utility, therefore, are here perfectly identical. The effects are more
 
 ### The Metaphysical Domain
 
-This domain exists only because of our intellect, as our innate ability to have ideas and thoughts.
+This domain exists only because we have abstract minds which have an innate ability to 'house' or have ideas and thoughts.
 
 - We are able to conceive an idea, or think of a thought, **if it bounces back in our minds onto our consciousness**.
 - We are unable to have an idea or though if it does not bounce back to our consciousness.

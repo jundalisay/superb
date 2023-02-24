@@ -1,6 +1,6 @@
 ---
-heading: "Essay 23"
-title: "Dispatch"
+heading: "Essay 27"
+title: "Friendship"
 weight: 38
 description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
 image: "/covers/essaysbacon.jpg"
@@ -10,8 +10,9 @@ author: Francis Bacon
 
 
 
-Of Friendship
-IT HAD been hard for him that spake it to have put more truth and untruth together in few words, than in that speech, Whatsoever is delighted in solitude, is either a wild beast or a god. For it is most true, that a natural and secret hatred, and aversation towards society, in any man, hath somewhat of the savage beast; but it is most untrue, that it should have any character at all, of the divine nature; except it proceed, not out of a pleasure in solitude, but out of a love and desire to sequester a man's self, for a higher conversation: such as is found to have been falsely and feignedly in some of the heathen; as Epimenides the Candian, Numa the Roman, Empedocles the Sicilian, and Apollonius of Tyana; and truly and really, in divers of the ancient hermits and holy fathers of the church. But little do men perceive what solitude is, and how far it extendeth. For a crowd is not company; and faces are but a gallery of pictures; and talk but a tinkling cymbal, where there is no love. The Latin adage meeteth with it a little: Magna civitas, magna solitudo; because in a great town friends are scattered; so that there is not that fellowship, for the most part, which is in less neighborhoods. But we may go further, and affirm most truly, that it is a mere and miserable solitude to want true friends; without which the world is but a wilderness; and even in this sense also of solitude, whosoever in the frame of his nature and affections, is unfit for friendship, he taketh it of the beast, and not from humanity.
+IT HAD been hard for him that spake it to have put more truth and untruth together in few words, than in that speech, Whatsoever is delighted in solitude, is either a wild beast or a god. For it is most true, that a natural and secret hatred, and aversation towards society, in any man, hath somewhat of the savage beast; but it is most untrue, that it should have any character at all, of the divine nature; except it proceed, not out of a pleasure in solitude, but out of a love and desire to sequester a man's self, for a higher conversation: such as is found to have been falsely and feignedly in some of the heathen; as Epimenides the Candian, Numa the Roman, Empedocles the Sicilian, and Apollonius of Tyana; and truly and really, in divers of the ancient hermits and holy fathers of the church. But little do men perceive what solitude is, and how far it extendeth. For a crowd is not company; and faces are but a gallery of pictures; and talk but a tinkling cymbal, where there is no love. 
+
+The Latin adage meeteth with it a little: Magna civitas, magna solitudo; because in a great town friends are scattered; so that there is not that fellowship, for the most part, which is in less neighborhoods. But we may go further, and affirm most truly, that it is a mere and miserable solitude to want true friends; without which the world is but a wilderness; and even in this sense also of solitude, whosoever in the frame of his nature and affections, is unfit for friendship, he taketh it of the beast, and not from humanity.
 
 A principal fruit of friendship, is the ease and discharge of the fulness and swellings of the heart, which passions of all kinds do cause and induce. We know diseases of stoppings, and suffocations, are the most dangerous in the body; and it is not much otherwise in the mind; you may take sarza to open the liver, steel to open the spleen, flowers of sulphur for the lungs, castoreum for the brain; but no receipt openeth the heart, but a true friend; to whom you may impart griefs, joys, fears, hopes, suspicions, counsels, and whatsoever lieth upon the heart to oppress it, in a kind of civil shrift or confession.
 

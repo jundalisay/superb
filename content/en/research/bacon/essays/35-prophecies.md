@@ -1,18 +1,16 @@
 ---
-heading: "Essay 23"
-title: "Dispatch"
+heading: "Essay 35"
+title: "Prophecies"
 weight: 46
 description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
 image: "/covers/essaysbacon.jpg"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---
-\
 
 
-Prophecies
 
-I MEAN not to speak of divine prophecies; nor of heathen oracles; nor of natural predictions; but only of prophecies that have been of certain memory, and from hidden causes. Saith the Pythonissa to Saul, To-morrow thou and thy son shall be with me. Homer hath these verses:
+I MEAN not to speak of divine prophecies; nor of heathen oracles; nor of natural predictions; but only of prophecies that have been of certain memory, and from hidden causes. Saith the Pythonissa to Saul, Tomorrow thou and thy son shall be with me. Homer hath these verses:
 
 At domus AEneae cunctis dominabitur oris, Et nati natorum, et qui nascentur ab illis.
 

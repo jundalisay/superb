@@ -1,7 +1,7 @@
 ---
-heading: "Essay 23"
-title: "Dispatch"
-weight: 30
+heading: "Essay 54"
+title: "Judicature"
+weight: 70
 description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
 image: "/covers/essaysbacon.jpg"
 icon: /icons/bacon.png
@@ -9,9 +9,12 @@ author: Francis Bacon
 ---
 
 
-Judicature
 
-JUDGES ought to remember, that their office is jus dicere, and not jus dare; to interpret law, and not to make law, or give law. Else will it be like the authority, claimed by the Church of Rome, which under pretext of exposition of Scripture, doth not stick to add and alter; and to pronounce that which they do not find; and by show of antiquity, to introduce novelty. Judges ought to be more learned, than witty, more reverend, than plausible, and more advised, than confident. Above all things, integrity is their portion and proper virtue. Cursed (saith the law) is he that removeth the landmark. The mislayer of a mere-stone is to blame. But it is the unjust judge, that is the capital remover of landmarks, when he defineth amiss, of lands and property. One foul sentence doth more hurt, than many foul examples. For these do but corrupt the stream, the other corrupteth the fountain. So with Solomon, Fons turbatus, et vena corrupta, est justus cadens in causa sua coram adversario. The office of judges may have reference unto the parties that use, unto the advocates that plead, unto the clerks and ministers of justice underneath them, and to the sovereign or state above them.
+
+JUDGES should remember that their office is jus dicere, and not jus dare.
+- It is to interpret law, and not to make or give law.
+
+Else will it be like the authority, claimed by the Church of Rome, which under pretext of exposition of Scripture, doth not stick to add and alter; and to pronounce that which they do not find; and by show of antiquity, to introduce novelty. Judges ought to be more learned, than witty, more reverend, than plausible, and more advised, than confident. Above all things, integrity is their portion and proper virtue. Cursed (saith the law) is he that removeth the landmark. The mislayer of a mere-stone is to blame. But it is the unjust judge, that is the capital remover of landmarks, when he defineth amiss, of lands and property. One foul sentence doth more hurt, than many foul examples. For these do but corrupt the stream, the other corrupteth the fountain. So with Solomon, Fons turbatus, et vena corrupta, est justus cadens in causa sua coram adversario. The office of judges may have reference unto the parties that use, unto the advocates that plead, unto the clerks and ministers of justice underneath them, and to the sovereign or state above them.
 
 First, for the causes or parties that sue. There be (saith the Scripture) that turn judgment, into wormwood; and surely there be also, that turn it into vinegar; for injustice maketh it bitter, and delays make it sour. The principal duty of a judge, is to suppress force and fraud; whereof force is the more pernicious, when it is open, and fraud, when it is close and disguised. Add thereto contentious suits, which ought to be spewed out, as the surfeit of courts. A judge ought to prepare his way to a just sentence, as God useth to prepare his way, by raising valleys and taking down hills: so when there appeareth on either side an high hand, violent prosecution, cunning advantages taken, combination, power, great counsel, then is the virtue of a judge seen, to make inequality equal; that he may plant his judgment as upon an even ground. Qui fortiter emungit, elicit sanguinem; and where the wine-press is hard wrought, it yields a harsh wine, that tastes of the grape-stone. Judges must beware of hard constructions, and strained inferences; for there is no worse torture, than the torture of laws. Specially in case of laws penal, they ought to have care, that that which was meant for terror, be not turned into rigor; and that they bring not upon the people, that shower whereof the Scripture speaketh, Pluet super eos laqueos; for penal laws pressed, are a shower of snares upon the people. Therefore let penal laws, if they have been sleepers of long, or if they be grown unfit for the present time, be by wise judges confined in the execution: Judicis officium est, ut res, ita tempora rerum, etc. In causes of life and death, judges ought (as far as the law permitteth) in justice to remember mercy; and to cast a severe eye upon the example, but a merciful eye upon the person.
 

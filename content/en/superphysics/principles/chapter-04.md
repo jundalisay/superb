@@ -10,17 +10,27 @@ icon: /icons/sp.png
 ---
 
 
-The interaction between ideas and the dharma of those ideas create a movement and reaction which arise when ideas are brought near, made to interact, or are added or introduced to each other. 
+The interaction between ideas and the dharma of those ideas create a reaction which arises when ideas are brought near, made to interact, or are added or introduced to each other. 
+
+This reaction manifests as:
+- 'movement' from the perspective of space
+- 'change' or 'evolution' from the perspective of time
+
+This dynamics of this movement or change is explained by our Elastic Theory, explained in Chapter 3. 
+- In Material Superphysics, this is applied on physical movement
+- In Medical and Social Superphysics, this is applied to the evolution of a person from health to disease, happiness to sadness, or of a society from peace to war or from prosperity to poverty  
+
+This evolution is divided into the perceptions of cause and effect, just as movement is divided into starting location and ending location. 
 
 
 ## Cause and Effect
 
-The action of bringing near, introducing, or adding to others thus leads to reaction.
+Chater 3 explained how the action of bringing ideas near, introducing, or adding to others leads to reaction.
 - The former is called "cause".
 - The latter is called "effect". 
 
 
-The Sanskrit word karma implies the complete loop from cause and effect. 
+The Sanskrit word karma implies a complete loop from cause and effect. 
 
 {{< img src="/graphics/meta/karma.png" alt="Karma" cap="Science only has action and reaction. Superphysics has action, reaction, and samskara or the pending reaction which is withheld by the time factor" >}}
 <!-- ![Karma]() -->
@@ -36,14 +46,16 @@ The difference between Physics and Superphysics is that the latter has the Sansk
 Science is aware of physical action and physical reaction. However, there are often many cases wherein such action and reaction are made up of a long chain of intervening-actions and intervening-reactions that might escape the observation of the mind.
 
 For example, the floodings from global warming is made up of a long chain of cause and effect:
-- The burning of fossil fuels adds carbon dioxide in the air
-- The carbon dioxide traps the heat from the sun
-- The trapped heat causes warmer temperatures 
-- The warmer temperatures cause more evaporation of ocean water
-- The increased evaporation cause more water in the air
-- The increased water in the air falls down as severe floods
+1. The burning of fossil fuels adds carbon dioxide in the air -- This is the action
+2. The carbon dioxide traps the heat from the sun - This is an intermediate reaction which also becomes an action
+3. The trapped heat causes warmer temperatures 
+4. The warmer temperatures cause more evaporation of ocean water
+5. The increased evaporation causes more water in the air
+6. The increased water in the air falls down as severe floods -- This is the final reaction
 
-We call the burning of fossil fuels as karma or action, that leads to severe floods as karma or reaction. We call the formation of carbon dioxide and water in the air as samskara or pending reaction. 
+This chain has 6 points, connected by 5 'jumps' or chain-links of logic.
+
+We call the burning of fossil fuels as karma or action, that leads to severe floods as karma or reaction. We call the formation of carbon dioxide and water in the air as samskara or pending reaction to the final effect of flooding. 
 
 Treating humans as individuals, we can say that:
 - samskara exists in the metaphysical domain since the intervening actions-reactions are outside of the scope of our perception

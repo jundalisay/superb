@@ -1,5 +1,5 @@
 ---
-heading: "Essay 23"
+heading: "Essays 23-24"
 title: "Wisdom For A Man's Self"
 weight: 34
 description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"

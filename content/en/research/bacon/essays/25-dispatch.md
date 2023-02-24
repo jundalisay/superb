@@ -9,6 +9,7 @@ author: Francis Bacon
 ---
 
 
+
 AFFECTED dispatch is one of the most dangerous things to business that can be. It is like that, which the physicians call predigestion, or hasty digestion; which is sure to fill the body full of crudities, and secret seeds of diseases. Therefore measure not dispatch, by the times of sitting, but by the advancement of the business. And as in races it is not the large stride or high lift that makes the speed; so in business, the keeping close to the matter, and not taking of it too much at once, procureth dispatch. It is the care of some, only to come off speedily for the time; or to contrive some false periods of business, because they may seem men of dispatch. But it is one thing, to abbreviate by contracting, another by cutting off. And business so handled, at several sittings or meetings, goeth commonly backward and forward in an unsteady manner. I knew a wise man that had it for a byword, when he saw men hasten to a conclusion, Stay a little, that we may make an end the sooner.
 
 On the other side, true dispatch is a rich thing. For time is the measure of business, as money is of wares; and business is bought at a dear hand, where there is small dispatch. The Spartans and Spaniards have been noted to be of small dispatch; Mi venga la muerte de Spagna; Let my death come from Spain; for then it will be sure to be long in coming.
