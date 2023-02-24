@@ -1,8 +1,12 @@
 ---
 title: "Propositions 9 to 14"
-description: "Part 3"
 image: "/covers/ethics.jpg"
+description: "The mind, both in so far as it has clear and distinct ideas, and also in so far as it has confused ideas, endeavours to persist in its being for an indefinite period, and of this endeavour it is conscious"
+icon: /icons/spinoza.png
+author: Spinoza
+weight: 8
 ---
+
 
 
 ### 9. The mind, both in so far as it has clear and distinct ideas, and also in so far as it has confused ideas, endeavours to persist in its being for an indefinite period, and of this endeavour it is conscious.

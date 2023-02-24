@@ -1,12 +1,12 @@
-+++
-title=  "Propositions 38 to 52"
-description=  "If a man has begun to hate an object of his love, so that love is thoroughly destroyed, he will, causes being equal, regard it with more hatred than if he had never loved it"
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-3/propositions-33-37"
-linkbtext=  "Props 33-37"
-linkf=  "/research/spinoza/simple-ethics/part-3/propositions-53-59"
-linkftext=  "Props 53-59"
-+++
+---
+title: "Propositions 15 to 24"
+image: "/covers/ethics.jpg"
+description: "If a man has begun to hate an object of his love, so that love is thoroughly destroyed, he will, causes being equal, regard it with more hatred than if he had never loved it"
+icon: /icons/spinoza.png
+author: Spinoza
+weight: 16
+---
+
 
 
 38. If a man has begun to hate an object of his love, so that love is thoroughly destroyed, he will, causes being equal, regard it with more hatred than if he had never loved it, and his hatred will be in proportion to the strength of his former love. Proof=  If a man begins to hate that which he had loved, more of his appetites are put under restraint than if he had never loved it.

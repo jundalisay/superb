@@ -1,24 +1,21 @@
-+++
-title=  "Propositions 11-20"
-
-date=  2015-09-09
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-5/propositions-1-10"
-linkbtext=  "props 1-10"
-linkf=  "/research/spinoza/simple-ethics/part-5/propositions-21-28"
-linkftext=  "props 21-28"
-# btext=  Props 11-20
-+++
+---
+title: "Propositions 11 to 20"
+image: "/covers/ethics.jpg"
+description: "The remaining portion of my Ethics is concerned with the way leading to freedom"
+icon: /icons/spinoza.png
+author: Spinoza
+weight: 8
+---
 
 
-#### 11. In proportion as a mental image is referred to more objects, so is it more frequent, or more often vivid, and occupies the mind more. 
+### 11. In proportion as a mental image is referred to more objects, so is it more frequent, or more often vivid, and occupies the mind more. 
 
 
 
-#### 12. The mental images of things are more easily associated with the images referred to things which we clearly and distinctly understand, than with others. 
+### 12. The mental images of things are more easily associated with the images referred to things which we clearly and distinctly understand, than with others. 
 
 
-#### 13. A mental image is more often vivid, in proportion as it is associated with a greater number of other images. 
+### 13. A mental image is more often vivid, in proportion as it is associated with a greater number of other images. 
 
 
 
@@ -74,9 +71,12 @@ Whence it appears that the mind's power over the emotions consists=
 But, in order that this power of the mind over the emotions may be better understood, it should be specially observed that the emotions are called by us strong, when we compare the emotion of one man with the emotion of another, and see that one man is more troubled than another by the same emotion; or
 When we compare the various emotions of the same man and find that he is more affected by one emotion than by another.
 For the strength of every emotion is defined by a comparison of our own power with the power of an external cause.
+
 The mind's power is defined by knowledge only.
+
 Its infirmity or passion is defined only by the privation of knowledge.
 Therefore, it follows that that mind is most passive, whose greatest part is made up of inadequate ideas.
+
 So that it may be characterized more readily by its passive states than by its activities.
 On the other hand, that mind is most active, whose greatest part is made up of adequate ideas, so that, although it may contain as many inadequate ideas as the former mind, it may yet be more easily characterized by ideas attributable to human virtue, than by ideas which tell of human infirmity.
 Spiritual unhealthiness and misfortunes can generally be traced to excessive love for something= 

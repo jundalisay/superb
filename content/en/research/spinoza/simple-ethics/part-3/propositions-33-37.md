@@ -1,12 +1,13 @@
-+++
-title=  "Propositions 33 to 37"
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-3/propositions-25-31"
-linkbtext=  "Propositions 25-31"
-linkf=  "/research/spinoza/simple-ethics/part-3/propositions-38-52"
-linkftext=  "Propositions 38-52"
-heading= "Props 33-37"
-+++
+---
+title: "Propositions 15 to 24"
+image: "/covers/ethics.jpg"
+description: "Anything can, accidentally, be the cause of pleasure, pain, or desire"
+icon: /icons/spinoza.png
+author: Spinoza
+weight: 14
+---
+
+
 
 
 ### 33. When we love a thing similar to ourselves we endeavour, as far as we can, to bring about that it should love us in return. 

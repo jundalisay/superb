@@ -1,13 +1,12 @@
-+++
-title=  "Propositions 29-32"
+---
+title: "Propositions 29 to 32"
+image: "/covers/ethics.jpg"
+description: "The remaining portion of my Ethics is concerned with the way leading to freedom"
+icon: /icons/spinoza.png
+author: Spinoza
+weight: 12
+---
 
-date=  2015-09-09
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-5/propositions-21-28"
-linkbtext=  "props 21-28"
-linkf=  "/research/spinoza/simple-ethics/part-5/propositions-33-42"
-linkftext=  "props 33-42"
-+++
 
 
 29. Whatsoever the mind understands under the form of eternity, it does not understand by virtue of conceiving the present actual existence of the body, but by virtue of conceiving the essence of the body under the form of eternity.

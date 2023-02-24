@@ -1,12 +1,12 @@
-+++
-title=  "Propositions 53 to 59"
-heading=  "The Simple Ethics by Spinoza Part 3"
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-3/propositions-38-52"
-linkbtext=  "Props 38-52"
-linkf=  "/research/spinoza/simple-ethics/part-4/definitions"
-linkftext=  "Definitions"
-+++
+---
+title: "Propositions 53 to 59"
+image: "/covers/ethics.jpg"
+description: "When the mind regards itself and its own power of activity, it feels pleasure and that pleasure is greater in proportion to the distinctness wherewith it conceives itself and its own power of activity"
+icon: /icons/spinoza.png
+author: Spinoza
+weight: 18
+---
+
 
 
 53. When the mind regards itself and its own power of activity, it feels pleasure=  and that pleasure is greater in proportion to the distinctness wherewith it conceives itself and its own power of activity. 

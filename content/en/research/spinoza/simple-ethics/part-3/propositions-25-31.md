@@ -1,12 +1,14 @@
-+++
-title=  "Propositions 25 to 31"
-heading=  "The Simple Ethics by Spinoza Part 3"
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-3/propositions-15-24"
-linkbtext=  "Propositions 15-24"
-linkf=  "/research/spinoza/simple-ethics/part-3/propositions-33-37"
-linkftext=  "Propositions 33-37"
-+++
+---
+title: "Propositions 15 to 24"
+image: "/covers/ethics.jpg"
+description: "Anything can, accidentally, be the cause of pleasure, pain, or desire"
+icon: /icons/spinoza.png
+author: Spinoza
+weight: 12
+---
+
+
+
 
 ### 25. We endeavour to affirm, concerning ourselves, and concerning what we love, everything that we can conceive to affect pleasurably ourselves, or the loved object.
 

@@ -1,6 +1,8 @@
-+++
-title=  "Part 5: The Power of the Understanding or of Human Freedom"
-image=  "/covers/ethics.jpg"
-description= "Spinoza explains human Understanding"
-
-+++
+---
+title: "The Power of the Understanding or of Human Freedom"
+heading: "Part 5"
+image: "/covers/ethics.jpg"
+description: "Spinoza explains human Understanding"
+author: Spinoza
+weight: 10
+---

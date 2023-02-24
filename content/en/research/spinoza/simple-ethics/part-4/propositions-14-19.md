@@ -1,15 +1,13 @@
-+++
-title=  "Propositions 14-19"
+---
+title: "Propositions 14 to 19"
+image: "/covers/ethics.jpg"
+description: "The human body can be affected in many ways which increases or reduces its power of activity"
+icon: /icons/spinoza.png
+author: Spinoza
+weight: 8
+---
 
-date=  2015-09-09
-# image=  "https:sorasystem.sirv.com/avatars/spinoza.png"
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-4/propositions-1-13"
-linkbtext=  "props 1-13"
-linkf=  "/research/spinoza/simple-ethics/part-4/propositions-20-27"
-linkftext=  "props 20-27"
-# btext=  Props 20-27
-+++
+
 
 ### 14. A true knowledge of good and evil cannot check any emotion by virtue of being true, but only in so far as it is considered as an emotion. 
 

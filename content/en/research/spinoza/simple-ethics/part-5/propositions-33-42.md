@@ -1,14 +1,12 @@
+---
+title: "Propositions 33 to 42"
+image: "/covers/ethics.jpg"
+description: "The remaining portion of my Ethics is concerned with the way leading to freedom"
+icon: /icons/spinoza.png
+author: Spinoza
+weight: 14
+---
 
-+++
-title=  "Propositions 33-42"
-
-date=  2015-09-09
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-5/propositions-29-32"
-linkbtext=  "Props 29-32"
-linkf=  "/research/spinoza/simple-ethics"
-linkftext=  "Ethics"
-+++
 
 
 33. God's intellectual love, arising from intuition, is eternal. 

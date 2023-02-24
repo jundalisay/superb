@@ -1,13 +1,13 @@
-+++
-title=  "Axioms"
-description=  "The remaining portion of my Ethics is concerned with the way leading to freedom"
-date=  2015-09-09
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-4"
-linkbtext=  "Part 4"
-linkf=  "/research/spinoza/simple-ethics/part-5/propositions-1-10"
-linkftext=  "Props 1-10"
-+++
+---
+title: "Axioms"
+image: "/covers/ethics.jpg"
+description: "The remaining portion of my Ethics is concerned with the way leading to freedom"
+icon: /icons/spinoza.png
+author: Spinoza
+weight: 4
+---
+
+<!-- date=  2015-09-09 -->
 
 
 The remaining portion of my Ethics is concerned with the way leading to freedom. For this, I shall treat the power of the reason, showing= 

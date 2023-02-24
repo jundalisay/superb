@@ -1,13 +1,13 @@
-+++
-title=  "Propositions 21-28"
+---
+title: "Propositions 21 to 28"
+image: "/covers/ethics.jpg"
+description: "The remaining portion of my Ethics is concerned with the way leading to freedom"
+icon: /icons/spinoza.png
+author: Spinoza
+weight: 10
+---
 
-date=  2015-09-09
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-5/propositions-11-20"
-linkbtext=  "props 11-20"
-linkf=  "/research/spinoza/simple-ethics/part-5/propositions-29-32"
-linkftext=  "props 29-32"
-+++
+
 
 
 21. The mind can only imagine anything, or remember what is past, while the body endures. 

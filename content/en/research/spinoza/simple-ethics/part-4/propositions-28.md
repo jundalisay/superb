@@ -1,15 +1,13 @@
+---
+title: "Propositions 28 to 71"
+image: "/covers/ethics.jpg"
+description: "The mind's highest good is the knowledge of God, and the mind's highest virtue is to know God"
+icon: /icons/spinoza.png
+author: Spinoza
+weight: 8
+---
 
-+++
-title=  "Propositions 28-71"
 
-date=  2015-09-09
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-4/propositions-20-27"
-linkbtext=  "props 20-27"
-linkf=  "/research/spinoza/simple-ethics/part-5"
-linkftext=  "part 5"
-# btext=  Props 28
-+++
 
 ### 28. The mind's highest good is the knowledge of God, and the mind's highest virtue is to know God. 
 
@@ -21,6 +19,7 @@ linkftext=  "part 5"
 
 
 ### 31. In so far as a thing is in harmony with our nature, it is necessarily good. 
+
 
 #### Corollary
 

@@ -1,12 +1,12 @@
-+++
-title=  "Definitions"
-description=  "Desire is the actual essence of man, in so far as it is conceived, as determined to a particular activity by some given modification of itself"
-image=  "/covers/ethics.jpg"
-linkf=  "/research/spinoza/simple-ethics/part-3/propositions-1-8"
-linkftext=  "Propositions 21"
-linkb=  "/research/spinoza/simple-ethics/part-2"
-linkbtext=  "The Ethics"
-+++
+---
+title: "Definitions"
+image: "/covers/ethics.jpg"
+description: "Desire is the actual essence of man, in so far as it is conceived, as determined to a particular activity by some given modification of itself"
+author: Spinoza
+weight: 4
+---
+
+
 
 ## Defintions of the emotions
 

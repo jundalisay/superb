@@ -1,16 +1,15 @@
-+++
-title=  "Propositions 1-10"
+---
+title: "Propositions 1 to 10"
+image: "/covers/ethics.jpg"
+description: "The remaining portion of my Ethics is concerned with the way leading to freedom"
+icon: /icons/spinoza.png
+author: Spinoza
+weight: 6
+---
 
-date=  2015-09-09
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-5/axioms"
-linkbtext=  "Definitions"
-linkf=  "/research/spinoza/simple-ethics/part-5/propositions-11-20"
-linkftext=  "props 11-20"
-# btext=  Props 1-10
-+++
 
-1. As thoughts and the ideas of things are arranged and associated in the mind, so are the modifications of body or the images of things precisely in the same way arranged and associated in the body. 
+
+1.  The modifications of body or the images of things are arranged and associated in the body precisely in the same way that the thoughts and the ideas of things are arranged and associated in the mind. 
 
 
 2. If we remove a disturbance of the spirit, or emotion, from the thought of an external cause, and unite it to other thoughts, then will the love or hatred towards that external cause, and also the vacillations of spirit which arise from these emotions, be destroyed. 

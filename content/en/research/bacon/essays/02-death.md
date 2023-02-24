@@ -10,13 +10,29 @@ author: Francis Bacon
 
 
 
-MEN fear death, as children fear to go in the dark; and as that natural fear in children, is increased with tales, so is the other. 
+MEN fear death just as children fear to go in the dark. 
 
-Certainly, the contemplation of death, as the wages of sin, and passage to another world, is holy and religious; but the fear of it, as a tribute due unto nature, is weak. Yet in religious meditations, there is sometimes mixture of vanity, and of superstition. 
+<!-- ; and as that natural fear in children, is increased with tales, so is the other.  -->
+
+Certainly, the contemplation of death, as the wages of sin, and passage to another world, is holy and religious. But the fear of it, as a tribute due unto nature, is weak. 
+
+Yet in religious meditations, there is sometimes mixture of vanity, and of superstition. 
 
 You shall read, in some of the friars' books of mortification, that a man should think with himself, what the pain is, if he have but his finger's end pressed, or tortured, and thereby imagine, what the pains of death are, when the whole body is corrupted, and dissolved; when many times death passeth, with less pain than the torture of a limb; for the most vital parts, are not the quickest of sense. And by him that spake only as a philosopher, and natural man, it was well said, Pompa mortis magis terret, quam mors ipsa. Groans, and convulsions, and a discolored face, and friends weeping, and blacks, and obsequies, and the like, show death terrible.
 
-It is worthy the observing, that there is no passion in the mind of man, so weak, but it mates, and masters, the fear of death; and therefore, death is no such terrible enemy, when a man hath so many attendants about him, that can win the combat of him. Revenge triumphs over death; love slights it; honor aspireth to it; grief flieth to it; fear preoccupateth it; nay, we read, after Otho the emperor had slain himself, pity (which is the tenderest of affections) provoked many to die, out of mere compassion to their sovereign, and as the truest sort of followers. Nay, Seneca adds niceness and satiety: Cogita quamdiu eadem feceris; mori velle, non tantum fortis aut miser, sed etiam fastidiosus potest. 
+It is worthy the observing, that there is no passion in the mind of man, so weak, but it mates, and masters, the fear of death.
+
+Therefore, death is no such terrible enemy, when a man hath so many attendants about him, that can win the combat of him.
+
+- Revenge triumphs over death.
+- Love slights it.
+- Honor aspires to it.
+- Grief flieth to it
+- Fear preoccupies it
+
+After Otho the emperor had slain himself, pity (which is the tenderest of affections) provoked many to die, out of mere compassion to their sovereign, and as the truest sort of followers.
+
+Seneca adds niceness and satiety: Cogita quamdiu eadem feceris; mori velle, non tantum fortis aut miser, sed etiam fastidiosus potest. 
 
 A man would die, though he were neither valiant, nor miserable, only upon a weariness to do the same thing so oft, over and over. 
 

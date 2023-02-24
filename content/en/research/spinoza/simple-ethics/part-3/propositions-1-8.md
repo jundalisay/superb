@@ -1,13 +1,13 @@
-+++
-title=  "Propositions 1 to 8"
-description=  "The human body can be affected in many ways which increases or reduces its power of activity"
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-3/definitions"
-linkbtext=  "definitions"
-linkf=  "/research/spinoza/simple-ethics/part-3/propositions-9-14"
-linkftext=  "propositions-9-14"
-heading=  "Props 1-8"
-+++
+---
+title: "Propositions 1 to 8"
+image: "/covers/ethics.jpg"
+description: "The human body can be affected in many ways which increases or reduces its power of activity"
+icon: /icons/spinoza.png
+author: Spinoza
+weight: 6
+---
+
+
 
 ## Postulates
 

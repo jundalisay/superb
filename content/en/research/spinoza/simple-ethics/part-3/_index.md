@@ -1,7 +1,10 @@
-+++
-title=  "Part 3 The Emotions"
-image=  "/covers/ethics.jpg"
-description= "Spinoza explains human emotions"
+---
+title: "The Emotions"
+heading: "Part 3"
+image: "/covers/ethics.jpg"
+description: "Spinoza explains human emotions"
+author: Spinoza
+weight: 6
+---
 
-+++
 

@@ -2,6 +2,6 @@
 title: "Bacon, Francis"
 heading: "Enlightened"
 weight: 8
-description: ""
-image: "/covers/essaysbacon.jpg"
+description: "Francis Bacon advocated a mew way of thinking"
+image: "/covers/bacon.jpg"
 ---

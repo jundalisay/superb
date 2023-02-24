@@ -10,13 +10,24 @@ icon: /avatars/barbon.jpg
 
 
 
-Trade is the Making, and Selling of one sort of Goods for another; The making is called Handy-Craft Trade, and the maker an Artificer.
+Trade is the Making and Selling of one sort of Goods for another.
 
-The Selling is called Merchandizing, and the Seller a Merchant: The Artificer is called by several Names from the sort of goods he makes. As a Clothier, Silk-weaver, Shoo-maker, or Hatter, etc. from Making of Cloth, Silk, Shooes, or Hats; and the Merchant is distinguished by the Names of the Countrey he deals to, and is called, Dutch, French, Spanish or Turkey Merchant.
+The making is called Handy-Craft Trade. The maker is called an Artificer.
 
-The chief End or Business of Trade, is to make a profitable Bargain: In making of a Bargain there are these things to be considered.
+The Selling is called Merchandizing, and the Seller a Merchant.
 
-The Wares to be Sold, the Quantity and Quality of those Wares, the Value or Price of them, the Money or Credit, by which the Wares are bought, the Interest that relates to the time of performing the Bargain.
+The Artificer is called by several Names from the sort of goods he makes:
+- Clothier for making cloth
+- Silk-weaver for making silk
+- Shoe-maker for making shoes
+- Hatter, etc. for making hats from Making of Cloth, Silk, Shooes, or Hats; and the Merchant is distinguished by the Names of the Countrey he deals to, and is called, Dutch, French, Spanish or Turkey Merchant.
+
+The chief End or Business of Trade, is to make a profitable Bargain. 
+
+In making of a Bargain there are these things to be considered:
+- The Wares to be Sold
+- their Quantity and Quality
+- the Value or Price of them, the Money or Credit, by which the Wares are bought, the Interest that relates to the time of performing the Bargain.
 
 The Stock and Wares of all Trades are the Animals, Vegitables, and Minerals of the whole Universe, whatsoever the Land or Sea produceth. 
 

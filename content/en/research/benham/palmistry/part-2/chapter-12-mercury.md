@@ -8,6 +8,9 @@ author: William Benham
 ---
 
 
+> *Superphysics note: We have found that a Mercury line also associates with superstition
+
+
 
 THE line of Mercury has been variously called:
 - the line of Health
@@ -28,9 +31,21 @@ Bad types of Saturnians and Mer-curians prefer the criminal way of doing things 
 
 The Mercury line is exceedingly useful as a guide to business success, as no factor more surely enables one to cope with the affairs of the world than a clear brain, and nothing more surely keeps the brain from clogging than a good digestion and an active liver. Added to good health, no set of qualities will more surely aid in obtaining the best results from business than those peculiar to the Mercurian type. 
 
-As the Mercury line indicates both the condition of the digestive organs and the state of the liver, and accents the strength of the Mercurian type, it is manifestly of unusual assistance when estimating the outcome of a business career. The Line Of Mercury 629 No. 478. The Mercury line in its relation to health must always be used in connection with the type of the subject. 
+The Mercury line:
+- indicates both the condition of the digestive organs and the state of the liver
+- accents the strength of the Mercurian type.
 
-If we see indigestion or biliousness in the hand of a Jupiterian subject, a type naturally predisposed to overeating, we consider that to him it means an increased danger. And as certain disorders of the stomach cause vertigo, we know that if the case be very pronounced the subject is likely to be stricken with one of his type diseases, apoplexy. In a similar manner, the Mercury line will aid in estimating the degree of danger indicated by health defects of all the types. In connection with defects in the Head line, the Mercury line is a valuable assistant, for it is well known that the stomach and liver largely influence the condition of the physical brain. Functional disturbances of the heart are also brought on by indigestion, consequently a defective Heart line may find its disturbing cause indicated in the Mercury line. Poor health may wreck a brilliant career, and the Mercury line may explain defects seen in the Saturn or Apollo lines. 
+It is helps to estimate the outcome of a business career. 
+
+<!-- The Line Of Mercury 629 No. 478.  -->
+
+The Mercury line in its relation to health must always be used in connection with the Mercurian. 
+
+If we see indigestion or biliousness in the hand of a Jupiterian subject, a type naturally predisposed to overeating, we consider that to him it means an increased danger. And as certain disorders of the stomach cause vertigo, we know that if the case be very pronounced the subject is likely to be stricken with one of his type diseases, apoplexy. 
+
+In a similar manner, the Mercury line will aid in estimating the degree of danger indicated by health defects of all the types. In connection with defects in the Head line, the Mercury line is a valuable assistant, for it is well known that the stomach and liver largely influence the condition of the physical brain.
+
+Functional disturbances of the heart are also brought on by indigestion, consequently a defective Heart line may find its disturbing cause indicated in the Mercury line. Poor health may wreck a brilliant career, and the Mercury line may explain defects seen in the Saturn or Apollo lines. 
 
 All over the hand the influence of the defects it indicates may be felt and in any perplexing case do not forget to examine the Mercury line before completing the estimate. The Mercury line will not be found in all hands. Without being able to state the exact percentage, I should say that at least one half the hands will be without it. In few cases is it a perfectly marked line, and this is not hard to explain, when perfect health is the possession of so few. I do not regard the absence of the Mercury line as necessarily a detriment, for on many hands which I have examined while making a study of this line, the health of those who have no line was found to be uniformly good. If there is to be a choice between no line or a defective one, it is preferable that none be seen. The absence of the Saturn line leaves a subject free to carve his way through the world, and in a similar manner the absence of the Mercury line shows that in its health directions there are no disturbances which must cause a subject trouble, and if he takes care of his stomach and liver he has open to him the possibility of no trouble from them. 
 

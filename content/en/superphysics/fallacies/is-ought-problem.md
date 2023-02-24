@@ -4,10 +4,6 @@ heading: "Hume Never Saw It as Such"
 date: 2016-02-03
 image: "/covers/hume.jpg"
 description: "David Hume did not create the Is-Ought Problem. It was created by later academics for whatever reason"
-linkb: "/superphysics/fallacies/kant-apriori-fallacy"
-linkbtext: "kant-apriori-fallacy"
-linkf: "/social/supersociology"
-linkftext: "What is Supersociology?"
 author: Juan
 icon: /icons/sp.png
 aliases:
@@ -25,7 +21,7 @@ Did whoever create the Is-Ought problem even bother to take the contextof that p
 
 Hume merely described the flaw in the way of how shallow-minded moral philosophers make moral rules. First, they explain the nature of things using reason. Suddenly and discretely, they inject their bias and personal feelings into the nature of things (is), as to create casuistic moral rules  (ought). This then makes a work of reason become an unreasonable work of subjective bias.
 
-**It does not mean that deriving ought from is is impossible.**
+**It does not mean that deriving 'ought' from 'is' is impossible.**
 
 {{< quote ava="hume" >}}
 In every system of morality, the author proceeds in the ordinary way of reasoning and establishes God, or makes observations on human affairs. Suddenly, instead of the usual propositions of 'is' and 'is not', I meet propositions of 'should' and 'should not'. 
@@ -48,14 +44,29 @@ I am the Lord your God, who brought you out of the land of Egypt, out of the hou
 <cite>Exodus 20:2</cite>
 {{< /quote >}}
 
-According to Hume's principle, this tactic is improper because had the Israelites known that their freedom from Egypt would have a price, as the Ten Commandments, then for sure,not all of them would have fled Egypt. So it's unfair for that the 'is' was converted to 'ought', as a new relation that is connected to the author instead of freedom. To prevent this problem, Hume advises people to be mindful of moralists who inject their biases very subtly as to create moral rules that favor themselves, and are therefore illogical.
+According to Hume's principle, this tactic is improper because had the Israelites known that their freedom from Egypt would have a price, as the Ten Commandments, then surely, not all of them would have fled Egypt. 
 
-This explains why the Israelites still had polytheism even after they were in the desert and why Moses (the author behind the idea of God) had to impose severe punishments on them. You could think of the Kingdom of God as a political party (with a ready-to-use set of political policies). People who were preaching the Kingdom of God were actually preaching a political party that was competing with others. Anyone who was following the other political party was committing 'sin'. Most of the prophets in the Old Testament were political propagandists (who advised policies against foreign invaders) more than being moralists.
+So it's unfair for the 'is' to be converted to 'ought', as a new relation that is connected to the author instead of the freedom of the Israelites. 
+
+To prevent this problem, Hume advises people to be mindful of moralists who inject their biases very subtly as to create moral rules that favor themselves, and are therefore illogical.
+
+This explains:
+- why the Israelites still had polytheism even after they moved to the desert
+- why Moses (the author behind the idea of God) had to impose severe punishments on his own people 
+
+You could think of the Kingdom of God as a political party (with a ready-to-use set of political policies). People who were preaching the Kingdom of God were actually preaching a political party that was competing with others. Anyone who was following the other political party was committing 'sin'.
+
+Most of the prophets in the Old Testament were political propagandists (who advised policies against foreign invaders) more than being moralists.
+
+
+## Morals are Based on Feelings
 
 {{< quote ava="hume" >}}
 Authors do not commonly use this precaution. I recommend it to the readers. This small detail would subvert all the vulgar systems of morality, and let us see that the distinction of vice and virtue is not founded merely on the relations of objects, and perceived by reason.
 {{< /quote >}}
 
-It means that morals are not based on the reason of humans, but on their feelings. 
+Hume explains that morals are not based on the reason of humans, but on their feelings. **It is these feelings that humans use to base reasoning on.** 
 
-An easier example, that doesn't refer to God, is a celibate man saying that sexual diseases are caused by sex and so sex should be banned. He correctly says that sexual diseases are caused by sex, from his observation of human affairs. But he jumps into an 'ought' by saying that people shouldn't have sex and imposes his own beliefs on others without taking into account their desires or situation.
+An easier example, that doesn't refer to God, is a celibate man saying that sexual diseases are caused by sex. Therefore, sex should be banned. 
+
+He correctly says that sexual diseases are caused by sex, from his observation of human affairs. This is the 'is' part. But he jumps into an 'ought' by saying that people shouldn't have sex. In this way, he imposes his own beliefs on others, all of which are rooted in his feelings, without taking into account the feelings or situation of others.

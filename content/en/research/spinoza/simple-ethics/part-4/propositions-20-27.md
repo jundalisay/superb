@@ -1,13 +1,12 @@
-+++
-title=  "Propositions 20 to 27 "
-heading=  "The Simple Ethics by Spinoza Part 3"
-date=  2015-09-09
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-4/propositions-14-19"
-linkbtext=  "props 14-19"
-linkf=  "/research/spinoza/simple-ethics/part-4/propositions-28"
-linkftext=  "props 28"
-+++
+---
+title: "Propositions 20 to 27"
+image: "/covers/ethics.jpg"
+description: "The more every man endeavours, and is able to seek what is useful to him—in other words, to preserve his own being—the more is he endowed with virtue"
+icon: /icons/spinoza.png
+author: Spinoza
+weight: 8
+---
+
 
 
 20. The more every man endeavours, and is able to seek what is useful to him—in other words, to preserve his own being—the more is he endowed with virtue

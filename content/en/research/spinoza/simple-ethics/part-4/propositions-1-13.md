@@ -1,14 +1,13 @@
+---
+title: "Propositions 1 to 13"
+image: "/covers/ethics.jpg"
+description: "The human body can be affected in many ways which increases or reduces its power of activity"
+icon: /icons/spinoza.png
+author: Spinoza
+weight: 6
+---
 
-+++
-title=  "Propositions 1 to 10"
 
-date=  2015-09-09
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-4/definitions"
-linkbtext= "Definitions"
-linkf=  "/research/spinoza/simple-ethics/part-4/propositions-14-19"
-linkftext=  "props 14-19"
-+++
 
 
 1. No positive quality possessed by a false idea is removed by the presence of what is true, in virtue of its being true. 
