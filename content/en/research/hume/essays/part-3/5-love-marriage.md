@@ -34,22 +34,29 @@ Scythian women once conspired against the men.
 They kept the secret so well, that they executed their design before they were suspected.
 They surprised the men in drink, or asleep; bound them all fast in chains; and having called a solemn council of the whole sex, it was debated what expedient should be used to improve the present advantage, and prevent their falling again into slavery.
 To kill all the men did not seem to the relish of any part of the assembly, despite the injuries formerly received.
+
 They were afterwards pleased to make a great merit of this lenity of theirs.
+
 They agreed to put out the eyes of the whole male sex, and thereby resign in all future time the vanity which they could draw from their beauty, in order to secure their authority.
 
 We must no longer pretend to dress and show, say they; but then we shall be free from slavery.
+
 We shall hear no more tender sighs; but in return we shall hear no more imperious commands.
+
 Love must for ever leave us; but he will carry subjection along with him.
 
 Tis regarded by some as an unlucky circumstance, since the women were resolved to maim the men, and deprive them of some of their senses, in order to render them humble and dependent, that the sense of hearing could not serve their purpose, since ’tis probable the females would rather have attacked that than the sight:
 
-I think it is agreed among the learned, that, in a married state, ’tis not near so great an inconvenience to lose the former sense as the latter.
+The learned agree that, in a married state, ’tis not near so great an inconvenience to lose the former sense as the latter.
+
 However this may be, we are told by modern anecdotes, that some of the Scythian women did secretly spare their husband’s eyes; presuming, I suppose, that they could govern them as well by means of that sense as without it.
+
 But so incorrigible and untractable were these men, that their wives were all obliged, in a few years, as their youth and beauty decayed, to imitate the example of their sisters; which it was no difficult matter to do in a state where the female sex had once got the superiority.
 I know not if our Scottish ladies derive any thing of this humour from their Scythian ancestors.
 
 But I have often been surprized to see a woman very well pleased to take a fool for her mate, that she might govern with the less control.
 and could not but think her sentiments, in this respect, still more barbarous than those of the Scythian women above-mentioned; as much as the eyes of the understanding are more valuable than those of the body.
+
 But to be just, and to lay the blame more equally, I am afraid it is the fault of our sex, if the women be so fond of rule, and that if we did not abuse our authority, they would never think it worth while to dispute it.
 
 Tyrants produce rebels. When rebels prevail, they tend to become tyrants in their turn.
@@ -62,10 +69,13 @@ Plato was a fanciful philosopher who said that people were not originally divide
 This union was very entire. So great was the harmony and happiness flowing from it, that the Androgynes or men-women, became insolent upon their prosperity, and rebelled against the Gods. To punish them, Jupiter divorced the male-part from the female. Hence the origin of men and women, as distinct creatures.
 
 But notwithstanding this division, so lively is our remembrance of the happiness which we enjoyed in our primæval state, that we are never at rest in this situation.
-but each of these halves is continually searching thro’ the whole species to find the other half, which was broken from it:
-And when they meet, they join again with the greatest fondness and sympathy.
+
+But each of these halves is continually searching thro’ the whole species to find the other half, which was broken from it:
+
+When they meet, they join again with the greatest fondness and sympathy.
 
 But it often happens, that they are mistaken in this particular; that they take for their half what no way corresponds to them; and that the parts do not meet nor join in with each other, as is usual in fractures.
+
 In this case the union was soon dissolved, and each part is set loose again to hunt for its lost half, joining itself to every one whom it meets, by way of trial, and enjoying no rest till its perfect sympathy with its partner shews, that it has at last been successful in its endeavours.
 Plato wrote about the mutual love between man and woman so agreeably.
 

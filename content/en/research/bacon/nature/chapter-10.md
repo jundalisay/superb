@@ -1,7 +1,7 @@
 ---
 title: "The Inventory or enumeration of inventions already used"
 heading: Chapter 10
-weight: 24
+weight: 18
 image: "/covers/interpret.jpg"
 description: "The plainest and most pertinent method is to distribute sciences, arts, inventions, works, and their portions, according to the usefulness to life. This is similar to the several types of provisions"
 icon: /icons/bacon.png

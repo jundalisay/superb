@@ -24,30 +24,58 @@ The other rivulet replies:
 {{< /q >}}
 
 
-I compare this Fable to the different Stations of Life. It is best for us to be satisfied with the Middle Station. Most people, who are capable of philosophy, are in this station.  Therefore, all Moral Philosophy should principally be addressed to them. 
+I compare this Fable to the different Stations of Life. **It is best for us to be satisfied with the Middle Station.** 
+
+Most people, who are capable of philosophy, are in this station.  Therefore, all Moral Philosophy should principally be addressed to them. 
 
 - The Great are too much immersed in Pleasure. 
 - The Poor are too occupied in providing for Necessities, to hearken to the calm Voice of Reason. 
 
 The Middle Station is most happy in many Respects. A Man in this situation can, with the greatest Leisure, consider his own Happiness and reap a new Enjoyment from comparing his Situation with those above or below him. 
 
-Agur’s Prayer is sufficiently noted. Two Things have I requir’d of thee, deny me them not before I die, Remove far from me Vanity and Lies; 
+Agur’s Prayer is sufficiently noted. 
+
+{{< q >}}
+Two Things have I requir’d of thee, deny me them not before I die, Remove far from me Vanity and Lies; 
 
 Give me neither Poverty nor Riches, feed me with Food convenient for me: Lest I be full and deny thee, and say, Who is the Lord? Or lest I be poor, and steal, and take the Name of my GOD in vain. 
+{{< /q >}}
 
-The middle Station is here justly recommended, as affording the fullest Security for Virtue. It gives Opportunity for the most ample Exercise of it, and furnishes Employment for every good Quality, which we can possibly be possest of. 
 
-Those, who are plac’d among the lower Rank of Men, have little Opportunity of exerting any other Virtue, besides those of Patience, Resignation, Industry and Integrity. Those, who are advanc’d into the higher Stations, have full Employment for their Generosity, Humanity, Affability and Charity. When a Man lyes betwixt these two Extremes, he can exert the former Virtues towards his Superiors, and the latter towards his Inferiors. 
+The middle Station is here justly recommended as it affords the fullest Security for Virtue. 
+- It gives Opportunity for the most ample Exercise of it
+- It furnishes Employment for every good Quality which we have 
 
-Every moral Quality, which the human Soul is susceptible of, may have its Turn, and be called up to Action. 
+The lower Ranks of Men have little Opportunity of exerting any other Virtue, besides those of:
+- Patience
+- Resignation
+- Industry
+- Integrity. 
 
-A Man may, after this Manner, be much more certain of his Progress in Virtue, than where his good Qualities lye dormant, and without Employment. 
+The higher ranks have full Employment for their:
+- Generosity
+- Humanity
+- Affability
+- Charity
 
-But there is another Virtue, that seems principally to ly among Equals, and is, for that Reason, chiefly calculated for the middle Station of Life. This Virtue is Friendship. 
+When a Man is in between these 2 Extremes, he can exert:
+- the former Virtues towards his Superiors
+- the latter towards his Inferiors. 
 
-Most generous men tend to envy the Great, when they consider how the Great have many Opportunities to do Good. 
+Every moral Quality which the human Soul is susceptible of may have its Turn and be called up to Action. 
 
-They make no advances in vain and are not obliged to associate with those whom they have little Kindness for; like People of inferior Stations, who are subject to have their Proffers of Friendship rejected, even where they wou’d be most fond of placing their Affections. But tho’ the Great have more Facility in acquiring Friendships, they cannot be so certain of the Sincerity of them, as Men of a lower Rank; since the Favours, they bestow, may acquire them Flattery, instead of Good-will and Kindness. It has been very judiciously remark’d, that we attach ourselves more by the Services we perform than by those we receive, and that a Man is in Danger of losing his Friends by obliging them too far. 
+In this way, a Man may be much more certain of his Progress in Virtue than where his good Qualities lye dormant, and without Employment. 
+
+
+## Friendship
+
+But the Virtue of Friendship seems principally to lie among Equals. This is why it is chiefly calculated for the middle Station of Life.
+
+Most generous men tend to envy the Great when they consider how the Great have many Opportunities to do Good. 
+
+They make no advances in vain and are not obliged to associate with those whom they have little Kindness for; like People of inferior Stations, who are subject to have their Proffers of Friendship rejected, even where they wou’d be most fond of placing their Affections. 
+
+But tho’ the Great have more Facility in acquiring Friendships, they cannot be so certain of the Sincerity of them, as Men of a lower Rank; since the Favours, they bestow, may acquire them Flattery, instead of Good-will and Kindness. It has been very judiciously remark’d, that we attach ourselves more by the Services we perform than by those we receive, and that a Man is in Danger of losing his Friends by obliging them too far. 
 
 I choose to be in the middle way and to have my Commerce with my Friend varied both by Obligations given and receiv’d. 
 

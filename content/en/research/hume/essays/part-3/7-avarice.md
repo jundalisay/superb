@@ -9,13 +9,15 @@ icon: /avatars/hume.png
 ---
 
 
-Comic writers exaggerate every character. This moral kind of painting for the stage has been often compared to the painting for cupolas and cielings, where the colours are over-charged, and every part is drawn excessively large, and beyond nature. The figures seem monstrous and disproportioned, when seen too nigh; 
+Comic writers exaggerate every character. 
 
-but become natural and regular, when set at a distance, and placed in that point of view, in which they are intended to be surveyed.
+This moral kind of painting for the stage has been often compared to the painting for cupolas and cielings, where the colours are over-charged, and every part is drawn excessively large, and beyond nature. 
 
-For a like reason, when characters are exhibited in theatrical representations, the want of reality removes, in a manner, the personages; and rendering them more cold and unentertaining, makes it necessary to compensate, by the force of colouring, what they want in substance.
+The figures seem monstrous and disproportioned, when seen too nigh. But they become natural and regular, when set at a distance, and placed in that point of view in which they are intended to be surveyed.
 
-Thus we find in common life, that when a man once allows himself to depart from truth in his narrations, he never can keep within the bounds of probability; but adds still some new circumstance to render his stories more marvellous, and to satisfy his imagination. Two men in buckram suits became eleven to Sir John Falstaff before the end of his story.
+For a like reason, when characters are exhibited in theatrical representations, the want of reality removes, in a manner, the personages. Rendering them more cold and unentertaining makes it necessary to compensate, by the force of colouring, what they want in substance.
+
+Thus, we find in common life, that when a man once allows himself to depart from truth in his narrations, he never can keep within the bounds of probability; but adds still some new circumstance to render his stories more marvellous, and to satisfy his imagination. Two men in buckram suits became eleven to Sir John Falstaff before the end of his story.
 
 Avarice is the only one vice has the strong features and high colouring that is employed by any satyrist or comic poet.
 
@@ -60,4 +62,8 @@ The hint of it was taken from these lines of Mr. Pope.’d to the mines, an equa
 
 The indictment was very long and verbose; but we must omit a great part of the repetitions and synonymous terms, not to tire our readers too much with our tale. Avarice, being called before Jupiter to answer to this charge, had not much to say in her own defence. 
 
-The injustice was clearly proved upon her. The fact, indeed, was notorious, and the injury had been frequently repeated. When therefore the plaintiff demanded justice, Jupiter very readily gave sentence in her favour; and his decree was to this purpose, That since dame Avarice, the defendant, had thus grievously injured dame Earth, the plaintiff, she was hereby ordered to take that treasure, of which she had feloniously robbed the said plaintiff, by ransacking her bosom, and in the same manner, as before, opening her bosom, restore it back to her, without diminution or retention. From this sentence, it shall follow, says Jupiter to the by-standers, That, in all future ages, the retainers of Avarice shall bury and conceal their riches, and thereby restore to the earth what they took from her.
+The injustice was clearly proved upon her. 
+
+The fact was notorious. The injury had been frequently repeated. 
+
+When therefore the plaintiff demanded justice, Jupiter very readily gave sentence in her favour; and his decree was to this purpose, That since dame Avarice, the defendant, had thus grievously injured dame Earth, the plaintiff, she was hereby ordered to take that treasure, of which she had feloniously robbed the said plaintiff, by ransacking her bosom, and in the same manner, as before, opening her bosom, restore it back to her, without diminution or retention. From this sentence, it shall follow, says Jupiter to the by-standers, That, in all future ages, the retainers of Avarice shall bury and conceal their riches, and thereby restore to the earth what they took from her.

@@ -1,7 +1,19 @@
-That the end and scope nf knowledge hath been generally mistaken, and that men were never well advised what it was they sought.
-Being the IXth chapter, immediately preceding the Inventory, and inducing the same.
+---
+title: "The End And Scope Nf Knowledge Has Been Generally Mistaken"
+heading: Chapter 9
+weight: 14
+image: "/covers/interpret.jpg"
+description: "It appeareth then how rarely the wits and labours of men have been converted to the severe and original inquisition of knowledge; and in those who have pretended, what hurt hath been done by the affectation of professors, and the distraction of such as were no professors"
+icon: /icons/bacon.png
+---
 
-It appeareth then how rarely the wits and labours of men have been converted to the severe and original inquisition of knowledge; and in those who have pretended, what hurt hath been done by the affectation of professors, and the distraction of such as were no professors; and how there was never in effect any conjunction or combination of wits in the first and inducing search, but that every man wrought apart, and would either have his own way, or else would go no further than his guide, having in the one case the honour of a first, and in the other the ease of a second; and lastly, how in the descent and continuance of wits and labours, the succession hath been in the most popular and weak opinions, like unto the weakest natures, which many times have most children; and in them also the condition of succession hath been rather to defend and to adorn, than to add; and if to add, yet that addition to be rather a refining of a part, than an increase of the whole. But the impediments of time and accidents, though they have wrought a general indisposition, yet are they not so peremptory and binding, as the internal impediments and clouds in the mind and spirit of man, whereof it now followeth to speak.
+
+<!-- , and that men were never well advised what it was they sought. -->
+
+It appeareth then how rarely the wits and labours of men have been converted to the severe and original inquisition of knowledge; and in those who have pretended, what hurt hath been done by the affectation of professors, and the distraction of such as were no professors; 
+
+
+and how there was never in effect any conjunction or combination of wits in the first and inducing search, but that every man wrought apart, and would either have his own way, or else would go no further than his guide, having in the one case the honour of a first, and in the other the ease of a second; and lastly, how in the descent and continuance of wits and labours, the succession hath been in the most popular and weak opinions, like unto the weakest natures, which many times have most children; and in them also the condition of succession hath been rather to defend and to adorn, than to add; and if to add, yet that addition to be rather a refining of a part, than an increase of the whole. But the impediments of time and accidents, though they have wrought a general indisposition, yet are they not so peremptory and binding, as the internal impediments and clouds in the mind and spirit of man, whereof it now followeth to speak.
 
 The Scripture, speaking of the worst sort of error, saith, "Errare fecit eos in invio et non in via." For a man may wander in the way, by rounding up and down; but if men have failed in their very direction and address, that error will never by good fortune correct itself. Now it hath fared with men in their contemplations, as Seneca saith it fareth with them in their actions, "De partibus vitæ quisque deliberat, de summa nemo." A course very ordinary with men who receive for the most part their final ends from the inclination of their nature, or from common example and opinion, never questioning or examining them, nor reducing them to any clear certainty, and use only to call themselves to account and deliberation touching the means and second ends, and thereby set themselves in the right way to the wrong place. So likewise upon the natural curiosity and desire to know, they have put them selves in way without foresight or consideration of their journey's end.
 

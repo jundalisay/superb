@@ -1,8 +1,7 @@
 ---
-title: "The Interpretation Of NATURE"
-heading: Chapter 1
+title: "The Interpretation Of Nature"
 weight: 4
-image: "/covers/nova.jpg"
+image: "/covers/interpret.jpg"
 description: ""
 icon: /icons/bacon.png
 ---
