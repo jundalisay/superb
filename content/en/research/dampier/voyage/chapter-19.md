@@ -3,7 +3,7 @@ title: "Departure From Bencoolen On Board The Defence, Under Captain Heath"
 heading: "Chapter 19"
 author: "William Dampier"
 image: "/covers/voyage.jpg"
-weight: 80
+weight: 94
 description: "We set sail for the Cape of Good Hope January 25 1691, and made the best of our way as wind and weather would permit; expecting there to meet three English ships more bound home from the Indies"
 icon: "/icons/dampier.png"
 ---

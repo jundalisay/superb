@@ -1,7 +1,7 @@
 ---
-title: "THE GALAPAGOS  ISLANDS"
+title: "The Galapagos Islands"
 heading: "Chapter 5b"
-weight: 12
+weight: 26
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: "On May 31, we first saw the islands Galapagos. Some of them appeared on our weather bow, some on our lee bow, others right ahead"

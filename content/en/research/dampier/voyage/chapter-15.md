@@ -3,7 +3,7 @@ title: "Leaving Pulo Condore for Manila to the Coast Of China"
 heading: "Chapter 15"
 author: "William Dampier"
 image: "/covers/voyage.jpg"
-weight: 62
+weight: 76
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
 icon: "/icons/dampier.png"
 ---

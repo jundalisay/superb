@@ -35,7 +35,7 @@ Prior to the Spanish, the Philippines was known as Maharlika which was a confede
 
 ## Maharlika was Already Democratic
 
-Thus, democracy is already the natural state of Maharlika. As an archipelago, it is similar to the Greek islands with many Greek tribes such as the Spartans, Athenians, Helotes, and the Thebans.  
+Because of its topography, democracy is already the natural state of Maharlika. As an archipelago, it is similar to the Greek islands with many Greek tribes such as the Spartans, Athenians, Helotes, and the Thebans.  
 - Manila could be compared to Athens as the commercial and political center
 - The Tausug or the Ifugaos could be compared to the warlike, but principled Spartans 
 
@@ -55,21 +55,23 @@ Instead of promoting democracy, Maharlikan leaders promoted a sense of community
 ![Bayanihan spirit](https://sorasystem.sirv.com/hero/bayanihan2.jpg)
 
 
-Unfortunately, the country was colonized by America in 1902 which imposed democratic ideas based on self-interest. So the American colonization caused the Philippines to have a double democracy. The Spanish Philippines did not have such a democracy because the Church stifled liberalism and free speech which were made subordinate to Roman Catholic rules. Proof is the execution of Gomburza and the arrest of Jose Rizal for their protest against Spain.
+Unfortunately, the country was colonized by America in 1902 which imposed democratic ideas based on self-interest. And so, the American colonization caused the Philippines to have a **double democracy**.
+
+Spanish Philippines did not have such a democracy because the Church stifled liberalism and free speech which were made subordinate to the Roman Catholic. Proof is the execution of Gomburza and the arrest of Jose Rizal for their protest against Spain.
 
 
 Unfortunately, democracy correlates with corruption. This was recently seen in the collapse of the 'democratic' Afghan government which was free to run away from the Taliban and give up their country, taking their money with them. This is because democratic leaders are elected **for their popularity instead of their morals**. Democratic elections and politics then becomes a business, with its profits and losses, to be later recouped from corruption revenues. 
 
 
-{{< quote >}}
+{{< q a="Smith" >}}
 <p>Roman citizens were often in debt.. The only means of subsistence of many of them was to sell their votes to candidates. This was not enough. They often borrowed from the people to whom they gave their votes.</p>
-<cite>The Simple lectures on jurisprudence</cite>
-{{< /quote >}}
+<cite>Lectures on Jurisprudence Simplified</cite>
+{{< /q >}}
 
 
 It is no wonder that the First President of the Republic, Manuel Roxas, was corrupt. He and his party only saw their own vested interest instead of the larger common interest. Many Filipinos blame Marcos for instituting corruption when they fail to see that corruption was a natural consequence of the double democracy from America.
 
-Such a corruption is also present in Africa and Latin American countries where moral systems have been neglected. 
+Corruption is also present in Africa and Latin American countries where moral systems have been neglected. 
 
 Maharlika avoided such corruption by having a semi-democracy bound by morals. In fact, one of the meanings of Maharlika is nobleness, gallantry, and respectfulness (maginoo). This is an improvement of the savagery of island people, just as the Greek gentlness that led to the Athenian democracy was an improvement over the barbarous Helotes, Persians, and Carthaginans. 
 

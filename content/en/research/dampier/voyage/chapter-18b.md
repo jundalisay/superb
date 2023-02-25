@@ -1,21 +1,28 @@
 ---
-title: "THE SHIP'S CREW WHO SET THE AUTHOR ASHORE AT NICOBAR"
+title: "The Ship's Crew Who Set The Author Ashore At Nicobar"
 heading: "Chapter 18b"
 author: "William Dampier"
 image: "/covers/voyage.jpg"
-weight: 78
-description: "We set sail for the Cape of Good Hope January 25 1691, and made the best of our way as wind and weather would permit; expecting there to meet three English ships more bound home from the Indies"
+weight: 92
+description: "The first passage is that, at my return from Malacca a little before Christmas 1689, I found at Achin one Mr. Morgan who was one of our ship's crew that left me ashore at Nicobar"
 icon: "/icons/dampier.png"
 ---
 
 
-## THE SHIP'S CREW WHO SET THE AUTHOR ASHORE AT NICOBAR
 
-So that, having brought my reader to Sumatra without carrying him back, I shall bring him on next way from thence to England: and of all that occurred between my first setting out from this island in 1688 and my final departure from it at the beginning of the year 1691, I shall only take notice at present of two passages which I think I ought not to omit.
+<!-- So that, having brought my reader to Sumatra without carrying him back, I shall bring him on next way from thence to England: and of all that occurred between my first setting out from this island in 1688 and my final departure from it at the beginning of the year 1691, I shall only take notice at present of two passages which I think I ought not to omit. -->
 
-The first is that, at my return from Malacca a little before Christmas 1689, I found at Achin one Mr. Morgan who was one of our ship's crew that left me ashore at Nicobar, now mate of a Danish ship of Trangambar; which is a town on the coast of Coromandel, near Cape Comorin, belonging to the Danes. 
+## Two Passages to Sumatra
 
-I received an account of our crew from him and others, I thought it might not be amiss to gratify the reader's curiosity therewith; who would probably be desirous to know the success of those ramblers in their new-intended expedition towards the Red Sea. And withal I thought it might not be unlikely that these papers might fall into the hands of some of our London merchants who were concerned in fitting out that ship; which I said formerly was called the Cygnet of London, sent on a trading voyage into the South Seas under the command of Captain Swan: and that they might be willing to have a particular information of the fate of their ship. And by the way, even before this meeting with Mr. Morgan while I was at Tonquin, January 1689, I met with an English ship in the river of Tonquin called the Rainbow of London, Captain Poole commander; by whose mate, Mr. Barlow, who was returning in that ship to England, I sent a packet which he undertook to deliver to the merchants, owners of the Cygnet, some of which he said he knew: wherein I gave a particular account of all the course and transactions of their ship, from the time of my first meeting it in the South Seas and going aboard it there, to its leaving me ashore at Nicobar. But I never could hear that either that or other letters which I sent at the same time were received.
+The first passage is that, 
+
+After returning from Malacca a little before Christmas 1689, I found at Achin Mr. Morgan.
+- He was one of our ship's crew that left me ashore at Nicobar..
+- He was now mate of a Danish ship of Trangambar which is a town on the coast of Coromandel, near Cape Comorin, belonging to the Danes.
+
+I received an account of our crew from him and others, I thought it might not be amiss to gratify the reader's curiosity therewith; who would probably be desirous to know the success of those ramblers in their new-intended expedition towards the Red Sea. 
+
+And withal I thought it might not be unlikely that these papers might fall into the hands of some of our London merchants who were concerned in fitting out that ship; which I said formerly was called the Cygnet of London, sent on a trading voyage into the South Seas under the command of Captain Swan: and that they might be willing to have a particular information of the fate of their ship. And by the way, even before this meeting with Mr. Morgan while I was at Tonquin, January 1689, I met with an English ship in the river of Tonquin called the Rainbow of London, Captain Poole commander; by whose mate, Mr. Barlow, who was returning in that ship to England, I sent a packet which he undertook to deliver to the merchants, owners of the Cygnet, some of which he said he knew: wherein I gave a particular account of all the course and transactions of their ship, from the time of my first meeting it in the South Seas and going aboard it there, to its leaving me ashore at Nicobar. But I never could hear that either that or other letters which I sent at the same time were received.
 
 SOME GO TO TRANGAMBAR, A DANISH FORT ON COROMANDEL; OTHERS TO FORT ST. GEORGE; MANY TO THE MOGUL'S CAMP.
 

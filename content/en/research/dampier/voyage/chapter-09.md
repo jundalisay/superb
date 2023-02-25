@@ -1,7 +1,7 @@
 ---
 title: "Setting Out From Guatulco"
 heading: "Chapter 9"
-weight: 34
+weight: 48
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: "On October 12, 1685 we set out of the harbour of Guatulco with our ships."

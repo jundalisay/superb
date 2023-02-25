@@ -1,7 +1,7 @@
 ---
 title: "Leaving Tabago"
 heading: "Chapter 8"
-weight: 30
+weight: 44
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: "On June 3, we passed by the island Chuche, the last remainder of the isles in the Bay of Panama. This is a small, low, round, woody island, uninhabited; lying four leagues south-south-west from Pacheca"

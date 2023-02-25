@@ -2,7 +2,7 @@
 title: "Guam and Coconuts"
 heading: "Chapter 10b"
 author: "William Dampier"
-weight: 42
+weight: 56
 image: "/covers/voyage.jpg"
 description: "Guam or Guabon (as the native Indians pronounce it) is one of the Ladrone Islands, belongs to the Spaniards, who have a small fort with six guns in it"
 icon: "/icons/dampier.png"

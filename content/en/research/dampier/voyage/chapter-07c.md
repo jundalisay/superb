@@ -1,7 +1,7 @@
 ---
 title: "THE AIR AND WEATHER AT PANAMA"
 heading: "Chapter 7c"
-weight: 26
+weight: 40
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: "There are no woods nor marshes near Panama, but a brave dry champion land, not subject to fogs nor mists. The wet season begins in the latter end of May and continues till November. At that time the sea-breezes are at south-south-west and the land-winds at north"

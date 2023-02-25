@@ -9,28 +9,37 @@ icon: "/icons/descartes.png"
 ---
 
 
-
-XXI. The duration alone of our life is sufficient to demonstrate the existence of God.
+{{< s v="21">}} Duration alone of our life is sufficient to demonstrate the existence of God.
 
 The truth of this demonstration will clearly appear, provided we consider the nature of time, or the duration of things; for this is of such a kind that its parts are not mutually dependent, and never co-existent; and, accordingly, from the fact that we now are, it does not necessarily follow that we shall be a moment afterwards, unless some cause, viz., that which first produced us, shall, as it were, continually reproduce us, that is, conserve us. For we easily understand that there is no power in us by which we can conserve ourselves, and that the being who has so much power as to conserve us out of himself, must also by so much the greater reason conserve himself, or rather stand in need of being conserved by no one whatever, and, in fine, be God.
 
-XXII. That in knowing the existence of God, in the manner here explained, we likewise know all his attributes, as far as they can be known by the natural light alone.
+
+{{< s v="22" >}} In knowing the existence of God, in the manner here explained, we likewise know all his attributes, as far as they can be known by the natural light alone.
 
 There is the great advantage in proving the existence of God in this way, viz., by his idea, that we at the same time know what he is, as far as the weakness of our nature allows; for, reflecting on the idea we have of him which is born with us, we perceive that he is eternal, omniscient, omnipotent, the source of all goodness and truth, creator of all things, and that, in fine, he has in himself all that in which we can clearly discover any infinite perfection or good that is not limited by any imperfection.
 
-XXIII. That God is not corporeal, and does not perceive by means of senses as we do, or will the evil of sin.
+{{< s v="23" >}} God is not corporeal, and does not perceive by means of senses as we do, or will the evil of sin.
 
-For there are indeed many things in the world that are to a certain extent imperfect or limited, though possessing also some perfection; and it is accordingly impossible that any such can be in God. Thus, looking to corporeal nature,[Footnote: In the French, "since extension constitutes the nature of body."] since divisibility is included in local extension, and this indicates imperfection, it is certain that God is not body. And although in men it is to some degree a perfection to be capable of perceiving by means of the senses, nevertheless since in every sense there is passivity [Footnote: In the French, "because our perceptions arise from impressions made upon us from another source," i.e., than ourselves.] which indicates dependency, we must conclude that God is in no manner possessed of senses, and that he only understands and wills, not, however, like us, by acts in any way distinct, but always by an act that is one, identical, and the simplest possible, understands, wills, and operates all, that is, all things that in reality exist; for he does not will the evil of sin, seeing this is but the negation of being.
+There are many things in the world that are to a certain extent imperfect or limited, though possessing also some perfection.
 
-XXIV. That in passing from the knowledge of God to the knowledge of the creatures, it is necessary to remember that our understanding is finite, and the power of God infinite.
+Accordingly, it is impossible that any such can be in God.
+
+Thus, looking to corporeal nature,[Footnote: In the French, "since extension constitutes the nature of body."] since divisibility is included in local extension, and this indicates imperfection, it is certain that God is not body.
+
+Although in men it is to some degree a perfection to be capable of perceiving by means of the senses, nevertheless since in every sense there is passivity [Footnote: In the French, "because our perceptions arise from impressions made upon us from another source," i.e., than ourselves.] which indicates dependency, we must conclude that God is in no manner possessed of senses, and that he only understands and wills, not, however, like us, by acts in any way distinct, but always by an act that is one, identical, and the simplest possible, understands, wills, and operates all, that is, all things that in reality exist; for he does not will the evil of sin, seeing this is but the negation of being.
+
+
+{{< s v="24" >}} In passing from the knowledge of God to the knowledge of the creatures, it is necessary to remember that our understanding is finite, and the power of God infinite.
 
 But as we know that God alone is the true cause of all that is or can be, we will doubtless follow the best way of philosophizing, if, from the knowledge we have of God himself, we pass to the explication of the things which he has created, and essay to deduce it from the notions that are naturally in our minds, for we will thus obtain the most perfect science, that is, the knowledge of effects through their causes. But that we may be able to make this attempt with sufficient security from error, we must use the precaution to bear in mind as much as possible that God, who is the author of things, is infinite, while we are wholly finite.
 
-XXV. That we must believe all that God has revealed, although it may surpass the reach of our faculties.
+
+{{< s v="25" >}} We must believe all that God has revealed, although it may surpass the reach of our faculties.
 
 Thus, if perhaps God reveal to us or others, matters concerning himself which surpass the natural powers of our mind, such as the mysteries of the incarnation and of the trinity, we will not refuse to believe them, although we may not clearly understand them; nor will we be in any way surprised to find in the immensity of his nature, or even in what he has created, many things that exceed our comprehension.
 
-XXVI. That it is not needful to enter into disputes [Footnote: "to essay to comprehend the infinite."—FRENCH.] regarding the infinite, but merely to hold all that in which we can find no limits as indefinite, such as the extension of the world, the divisibility of the parts of matter, the number of the stars, etc.
+
+{{< s v="26" >}} It is not needful to enter into disputes [Footnote: "to essay to comprehend the infinite."—FRENCH.] regarding the infinite, but merely to hold all that in which we can find no limits as indefinite, such as the extension of the world, the divisibility of the parts of matter, the number of the stars, etc.
 
 We will thus never embarrass ourselves by disputes about the infinite, seeing it would be absurd for us who are finite to undertake to determine anything regarding it, and thus as it were to limit it by endeavouring to comprehend it. We will accordingly give ourselves no concern to reply to those who demand whether the half of an infinite line is also infinite, and whether an infinite number is even or odd, and the like, because it is only such as imagine their minds to be infinite who seem bound to entertain questions of this sort. And, for our part, looking to all those things in which in certain senses, we discover no limits, we will not, therefore, affirm that they are infinite, but will regard them simply as indefinite. Thus, because we cannot imagine extension so great that we cannot still conceive greater, we will say that the magnitude of possible things is indefinite, and because a body cannot be divided into parts so small that each of these may not be conceived as again divided into others still smaller, let us regard quantity as divisible into parts whose number is indefinite; and as we cannot imagine so many stars that it would seem impossible for God to create more, let us suppose that their number is indefinite, and so in other instances.
 

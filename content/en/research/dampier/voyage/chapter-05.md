@@ -1,7 +1,7 @@
 ---
 title: "Leaving JUAN FERNANDEZ. OF THE PACIFIC SEA"
 heading: "Chapter 5"
-weight: 10
+weight: 24
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: "On April 8, 1684 we sailed from the isle of Juan Fernandez with the wind at south-east"

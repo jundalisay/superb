@@ -3,7 +3,7 @@ title: "FIRST RENCOUNTERS WITH THE NATIVES"
 heading: "Chapter 17b"
 author: "William Dampier"
 image: "/covers/voyage.jpg"
-weight: 74
+weight: 88
 description: "The canoe that brought me ashore landed me on a small sandy bay where there were two houses but no person in them. For the inhabitants were removed to some other house, probably for fear of us because the ship was close by"
 icon: "/icons/dampier.png"
 ---

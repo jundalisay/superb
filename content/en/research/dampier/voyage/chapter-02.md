@@ -1,7 +1,7 @@
 ---
 title: "LAND JOURNEY FROM THE SOUTH TO THE NORTH SEA, OVER THE ISTHMUS OF DARIEN"
 heading: "Chapter 2"
-weight: 6
+weight: 16
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: "On April 8, 1684 we sailed from the isle of Juan Fernandez with the wind at south-east"

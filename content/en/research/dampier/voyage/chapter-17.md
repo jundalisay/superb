@@ -3,7 +3,7 @@ title: "Leaving New Holland They Pass By The Island Cocos, And Touch At Another 
 heading: "Chapter 17"
 author: "William Dampier"
 image: "/covers/voyage.jpg"
-weight: 72
+weight: 86
 description: "On March 12, 1688, we sailed from New Holland norhtward for the island Cocos. But the winds obliged us to keep a more easterly course"
 icon: "/icons/dampier.png"
 ---

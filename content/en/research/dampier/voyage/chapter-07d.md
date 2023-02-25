@@ -1,7 +1,7 @@
 ---
 title: "ISLE OF OTOQUE"
 heading: "Chapter 7d"
-weight: 28
+weight: 42
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: "While we lay here, Captain Davis's bark went to the Otoque island."

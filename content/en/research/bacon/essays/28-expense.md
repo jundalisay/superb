@@ -1,5 +1,5 @@
 ---
-heading: "Essay 23"
+heading: "Essay 28"
 title: "Expense"
 weight: 40
 description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
@@ -72,7 +72,4 @@ The wars of latter ages seem to be made in the dark, in respect of the glory, an
 But in ancient times, the trophies erected upon the place of the victory; the funeral laudatives and monuments for those that died in the wars; the crowns and garlands personal; the style of emperor, which the great kings of the world after borrowed; the triumphs of the generals, upon their return; the great donatives and largesses, upon the disbanding of the armies; were things able to inflame all men's courages. But above all, that of the triumph, amongst the Romans, was not pageants or gaudery, but one of the wisest and noblest institutions, that ever was. For it contained three things: honor to the general; riches to the treasury out of the spoils; and donatives to the army. But that honor, perhaps were not fit for monarchies; except it be in the person of the monarch himself, or his sons; as it came to pass in the times of the Roman emperors, who did impropriate the actual triumphs to themselves, and their sons, for such wars as they did achieve in person; and left only, for wars achieved by subjects, some triumphal garments and ensigns to the general.
 
 To conclude: no man can by care taking (as the Scripture saith) add a cubit to his stature, in this little model of a man's body; but in the great frame of kingdoms and commonwealths, it is in the power of princes or estates, to add amplitude and greatness to their kingdoms; for by introducing such ordinances, constitutions, and customs, as we have now touched, they may sow greatness to their posterity and succession. But these things are commonly not observed, but left to take their chance.
-
-
-
 

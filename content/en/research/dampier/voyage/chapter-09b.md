@@ -1,7 +1,7 @@
 ---
 title: "Port Marquis"
 heading: "Chapter 9b"
-weight: 36
+weight: 50
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: "Port Marquis is a very good harbour a league to the east of Acapulco Harbour"
@@ -9,7 +9,7 @@ icon: "/icons/dampier.png"
 ---
 
 
-## PORT MARQUIS. CAPTAIN TOWNLEY MAKES A FRUITLESS ATTEMPT.
+## CAPTAIN TOWNLEY'S FRUITLESS ATTEMPT.
 
 Port Marquis is a very good harbour a league to the east of Acapulco Harbour. 
 

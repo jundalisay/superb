@@ -3,18 +3,27 @@ title: "Put To Sea In An Open Boat, Designing For Achin"
 heading: "Chapter 18"
 author: "William Dampier"
 image: "/covers/voyage.jpg"
-description: ""
-weight: 76
+description: "On May 15, 1688 about 4PM, we left Nicobar Island going towards Achin with 8 men of us in company"
+weight: 90
 icon: "/icons/dampier.png"
 ---
 
 
-On May 15, 1688 about four o'clock in the afternoon when we left Nicobar Island, directing our course towards Achin, being eight men of us in company, namely, three English, four Malayans, who were born at Achin, and the mongrel Portuguese.
+On May 15, 1688 about 4PM, we left Nicobar Island going towards Achin with 8 men of us in company:
+- 3 English
+- 4 Malayans born at Achin
+- 1 mongrel Portuguese
 
 
-## THEIR ACCOMMODATIONS FOR THEIR VOYAGE.
+<!-- ## THEIR ACCOMMODATIONS FOR THEIR VOYAGE. -->
 
-Our vessel, the Nicobar canoe, was not one of the biggest nor of the least size: she was much about the burden of one of our London wherries below bridge, and built sharp at both ends like the fore part of a wherry. She was deeper than a wherry, but not so broad, and was so thin and light that when empty four men could launch her or haul her ashore on a sandy bay. We had a good substantial mast and a mat sail, and good outlayers lashed very fast and firm on each side the vessel, being made of strong poles. So that while these continued firm the vessel could not overset which she should easily have done without them, and with them too had they not been made very strong; and we were therefore much beholden to our Achinese companions for this contrivance. These men were none of them so sensible of the danger as Mr. Hall and myself, for they all confided so much in us that they did not so much as scruple anything that we did approve of. Neither was Mr. Hall so well provided as I was, for before we left the ship I had purposely consulted our chart of the East Indies (for we had but one in the ship) and out of that I had written in my pocket-book an account of the bearing and distance of all the Malacca coast and that of Sumatra, Pegu, and Siam, and also brought away with me a pocket-compass for my direction in any enterprise that I should undertake. The weather at our setting out was very fair, clear and hot. The wind was still at south-east, a very small breeze just fanning the air, and the clouds were moving gently from west to east, which gave us hopes that the winds were either at west already abroad at sea, or would be so in a very short time. We took this opportunity of fair weather, being in hopes to accomplish our voyage to Achin before the western monsoon was set in strong, knowing that we should have very blustering weather after this fair weather, especially at the first coming of the western monsoon.
+Our vessel, the Nicobar canoe, was not one of the biggest nor of the least size. 
+
+She was much about the burden of one of our London wherries below bridge, and built sharp at both ends like the fore part of a wherry.
+
+She was deeper than a wherry, but not so broad, and was so thin and light that when empty four men could launch her or haul her ashore on a sandy bay.
+
+We had a good substantial mast and a mat sail, and good outlayers lashed very fast and firm on each side the vessel, being made of strong poles. So that while these continued firm the vessel could not overset which she should easily have done without them, and with them too had they not been made very strong; and we were therefore much beholden to our Achinese companions for this contrivance. These men were none of them so sensible of the danger as Mr. Hall and myself, for they all confided so much in us that they did not so much as scruple anything that we did approve of. Neither was Mr. Hall so well provided as I was, for before we left the ship I had purposely consulted our chart of the East Indies (for we had but one in the ship) and out of that I had written in my pocket-book an account of the bearing and distance of all the Malacca coast and that of Sumatra, Pegu, and Siam, and also brought away with me a pocket-compass for my direction in any enterprise that I should undertake. The weather at our setting out was very fair, clear and hot. The wind was still at south-east, a very small breeze just fanning the air, and the clouds were moving gently from west to east, which gave us hopes that the winds were either at west already abroad at sea, or would be so in a very short time. We took this opportunity of fair weather, being in hopes to accomplish our voyage to Achin before the western monsoon was set in strong, knowing that we should have very blustering weather after this fair weather, especially at the first coming of the western monsoon.
 
 We rowed therefore away to the southward, supposing that when we were clear from the island we should have a true wind, as we call it; for the land hauls the wind; and we often find the wind at sea different from what it is near the shore. We rowed with four oars taking our turns: Mr. Hall and I steered also by turns, for none of the rest were capable of it. We rowed the first afternoon and the night ensuing about twelve leagues by my judgment. Our course was south-south-east; but the 16th day in the morning, when the sun was an hour high, we saw the island from whence we came bearing north-west by north. Therefore I found we had gone a point more to the east than I intended for which reason we steered south by east.
 

@@ -1,3 +1,7 @@
+Qualimath 1 1 + instead of 1 + 1
+
+
+
   <div class="h">Social</div>
 
     {{ range .Site.Params.soc }}
@@ -8,7 +12,7 @@
 
 
 
-
+democr
 Hubble constant 
 
 speed = distance per time
