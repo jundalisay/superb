@@ -1,5 +1,5 @@
 ---
-heading: {art 43}
+heading: Part 43
 title: "Measurements"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg

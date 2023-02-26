@@ -1,4 +1,15 @@
-X X X Proposition
+---
+heading: Part 30
+title: "Measurements"
+description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+image: /covers/harmony.jpg
+weight: 6
+author: Johannes Kepler
+icon: /icons/kepler.png
+---
+
+
+
 Individual Prime numbers of sides define individual classes of figures;
 and figures are counted as belonging to classes which have a number of sides obtained by repeated doubling of the Prime [that defines the class].
 

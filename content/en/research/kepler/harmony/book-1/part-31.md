@@ -1,27 +1,34 @@
-XXXIII Proposition
-If from twice the number of angles of the hgure you subtract four
-you will obtain the Numerator of the parts of a right angle which give
-you the angle of the figure: the Denominator of the parts is the number
-of angles itself.®^
-So, for the Triangle, twice three is six, subtract 4, which leaves 2. Thus
-the angle of the Triangle is equal to two thirds of a Right angle. Similarly, for
-the Icosigon, twice 20 is 40, subtract 4. Thus the angle of the Icosigon is 36
-twentieths or 9 fifths of one Right angle. For the angles of each figure are dis­
-tributed among a number of triangles which is equal to the number of sides
-of the figure, less two.^^ But the angles of any triangle add up to two Right
-angles: therefore the angles of any figure add up to twice as many Right angles
-as the figure has sides, less four. This number of Right angles is to be divided
+---
+heading: Part 33
+title: "Measurements"
+description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+image: /covers/harmony.jpg
+weight: 6
+author: Johannes Kepler
+icon: /icons/kepler.png
+---
+
+
+
+If from twice the number of angles of the hgure you subtract four you will obtain the Numerator of the parts of a right angle which give you the angle of the figure: the Denominator of the parts is the number
+of angles itself.
+
+So, for the Triangle, twice three is six, subtract 4, which leaves 2. Thus the angle of the Triangle is equal to two thirds of a Right angle. 
+
+Similarly, for the Icosigon, twice 20 is 40, subtract 4. Thus the angle of the Icosigon is 36 twentieths or 9 fifths of one Right angle. For the angles of each figure are distributed among a number of triangles which is equal to the number of sides of the figure, less two.
+
+But the angles of any triangle add up to two Right angles: therefore the angles of any figure add up to twice as many Right angles as the figure has sides, less four. This number of Right angles is to be divided
 by the number of angles of the figure, therefore the former number is the de­
 nominator and the latter the numerator of the parts of one Right angle [in
 each angle of the figure].
 
-XXXIV Proposition
 
-A circle is cut by Geometrical description^"* into two equal parts; and
-the line bisecting it is known by first degree knowledge: for it is itself
-the Diameter.
-For the basis^^ for inscribing figures in a circle is to draw a straight line
-through a specified point, producing it as far as necessary.
+
+##  XXXIV Proposition
+
+A circle is cut by Geometrical description^"* into two equal parts; and the line bisecting it is known by first degree knowledge: for it is itself the Diameter.
+
+For the basis^^ for inscribing figures in a circle is to draw a straight line through a specified point, producing it as far as necessary.
 A straight line bisecting the circle is a diameter, that is, drawn through
 the center, because the greatest of the equal parts into which a circle may be
 divided is a semicircle, so the line cutting it into two semicircles is the longest,

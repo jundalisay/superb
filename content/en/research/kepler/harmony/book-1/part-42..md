@@ -1,15 +1,23 @@
-XLII Proposition
-The sides of the Pentagon and the Star Pentagon, or the chord sub­
-tended by two fifths of the Circle,'*’® have a Geometrical description
-through their angles, and are knowable, separately in the eighth degree;
+---
+heading: Part 42
+title: "Measurements"
+description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+image: /covers/harmony.jpg
+weight: 6
+author: Johannes Kepler
+icon: /icons/kepler.png
+---
+
+
+
+The sides of the Pentagon and the Star Pentagon, or the chord subtended by two fifths of the Circle,'*’® have a Geometrical description through their angles, and are knowable, separately in the eighth degree;
 combined, in the sixth and in the fourth degree of knowledge.
-Description independently of the circle proceeds thus: if the proposed (futurum)
-side is given in length, we shall divide it in proportional section by Euclid II. 11
-or VI. 30,^^'^ and to it we shall join the greater part formed by the section: and
-having drawn two sides (crura) each equal to this composite line; and making
-the proposed line the Base, we shall construct the interior triangle of the Pentagon.^^^ Now, since the composite side (crus) comprises the whole proposed
-line and the greater part found hy dividing it in the divine section; the composite
-line will also be divided in this way [i£. in proportional section], and its greater
+
+
+Description independently of the circle proceeds thus: if the proposed (futurum) side is given in length, we shall divide it in proportional section by Euclid II. 11 or VI. 30,^^'^ and to it we shall join the greater part formed by the section: and having drawn two sides (crura) each equal to this composite line; and making
+the proposed line the Base, we shall construct the interior triangle of the Pentagon.
+
+Now, since the composite side (crus) comprises the whole proposed line and the greater part found hy dividing it in the divine section; the composite line will also be divided in this way [i£. in proportional section], and its greater
 part will be the proposed side, so that the base angle of this Triangle will be
 twice the angle at the vertex, as above for the Decagon^^"^: and on the two said
 equal sides (crura) of the triangle, serving as bases, we shall add two triangles

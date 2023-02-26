@@ -1,6 +1,7 @@
 Qualimath 1 1 + instead of 1 + 1
 
-
+2020 freedom from goal 1
+2 26 2023 freedom from goal 2
 
   <div class="h">Social</div>
 

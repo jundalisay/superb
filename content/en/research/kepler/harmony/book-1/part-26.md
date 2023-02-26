@@ -1,15 +1,24 @@
-XVI Definition and Comparison
+---
+heading: Part 16
+title: "Measurements"
+description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+image: /covers/harmony.jpg
+weight: 6
+author: Johannes Kepler
+icon: /icons/kepler.png
+---
+
+
+<!-- XVI Definition and Comparison -->
+
 These [areas] might suffice us for establishing the degrees of construc­
 tions by which the sides of the figures which we need for the study
 of Harmony are distinguished, if there were not other properties as
 well as those mentioned, or rather if the properties so far mentioned
 were not preceded by others that are nobler by which the degrees of
 knowable constructions are multiplied.
-We have come to addition and subtraction; where we have chosen
-freely the lines that are to be added or subtracted, not imposing any
-definite quantity upon them. So if we now introduce rules, imposing
-a definite proportion upon pairs [of lines], not given in such a way
-that when they were combined they formed one of the twelve kinds
+
+We have come to addition and subtraction; where we have chosen freely the lines that are to be added or subtracted, not imposing any definite quantity upon them. So if we now introduce rules, imposing a definite proportion upon pairs [of lines], not given in such a way that when they were combined they formed one of the twelve kinds
 [of line already discussed]; but the pairs given in some other way, namely
 when it is required for one given line also to find its greater part so
 that the ratio of the smaller to the greater part will be equal to the
@@ -21,9 +30,8 @@ mensurability], but in the circumstances, we shall fall back on one
 of the kinds that have been discussed, and having fallen back on it,
 we shall compare the line that is found, which of itself is of the eighth
 degree,^"* with lines of the fourth degree.
-For in this way two lines of the fourth degree (as defined in section
-XV) together formed an area, from which, when it is cast into the form
-of a square, there emerged [as the side of the square] a line called
+
+For in this way two lines of the fourth degree (as defined in section XV) together formed an area, from which, when it is cast into the form of a square, there emerged [as the side of the square] a line called
 a Medial: so the two lines, the Whole and one part, form, by subtrac­
 tion, the other part, or the two parts, by addition, form the whole.
 In the former case, the constituent lines were commensurable with
