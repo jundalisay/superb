@@ -1,4 +1,16 @@
-Proposition I
+---
+heading: Chapter 1c
+title: "The Causes of Consonances"
+description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+image: /covers/harmony.jpg
+weight: 4
+author: Johannes Kepler
+icon: /icons/kepler.png
+---
+
+
+
+## Proposition 1
 
 The consonance of a half with the whole, apart from unison, is the
 only one which is in the first degree simple, perfect and identical, that

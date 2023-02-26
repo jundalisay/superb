@@ -1,9 +1,17 @@
-C h a p t e r III
+---
+heading: Chapter 3
+title: "The Harmonic Means, and the Trinity of Consonant Sounds"
+description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+image: /covers/harmony.jpg
+weight: 4
+author: Johannes Kepler
+icon: /icons/kepler.png
+---
 
-The Harmonic Means, and the Trinity of Consonant Sounds.
 
-Method of establishing any mean as musical in the
-opinion of the ancients.
+
+
+Method of establishing any mean as musical in the opinion of the ancients.
 
 It is superfluous to define harmonic proportion as that in which, 3 numbers being placed in their natural order, the amounts by which one of a pair of neighbors exceeds the other are in the same proportion as the outer numbers. Thus in the numbers 3, 4, and 6 the greatest, 6, is twice the smallest, 3; and simig - " » - 4- larly the difference, 2, between the two greater neigh­
 bors, 4,6, is twice the difference, 1, between the two smaller
@@ -11,32 +19,21 @@ bors, 4,6, is twice the difference, 1, between the two smaller
 neighbors, 4, 3.
 
 
-However I shall include a method of finding numbers*’^ which con­
-tain such a proportion, which is called musical by the authorities, be­
-cause it is frequently transferred from the theory of harmony to ethics
-and politics. The method is as follows. Given two numbers having no com­
-mon factors, which contain the proportion both of the outer numbers (of three
-which are to be musically combined according to the scheme of the ancients)
-and of the differences of each from the mean. Multiply each by itself and both
-by each other. Of the three results add together the two smaller for the smallest
-of the numbers which are to be found; add together the two greater to find the
-greatest; and double the mean to find the musical mean of the ancients. For
-instance, let there be three numbers to be found in such musical proportion of
-the ancients that the outer ones are in the proportion of 3 to 5. Three times
-3 is nine. Three times 3 is 13. Five times 3 is 23. Therefore the results are
-9, 13, and 23. Add 9 and 13: the result is 24. Add 13 and 23: the result is
-40. Twice 13 makes 30. Therefore the three required numbers are 24, 30, and
-40. Their differences (of the outer numbers from the mean) are 6 and 10. Now
-as 3 is to 3, so 24 is to 40, and so also is 6 to 10. In the lowest terms which
-have no common factors, 12, 13, 20.
-This indeed is truly a harmonic proportion according to me also,
-because not only is the proposed proportion between 3 and 5 har­
-monic, by the Corollary of Proposition VIII, but also the mean num­
-ber found, 15, makes consonant proportions with the outer numbers
-12 and 20 by the same Corollary. But this does not always o c c u r .
+However I shall include a method of finding numbers*’^ which contain such a proportion, which is called musical by the authorities, because it is frequently transferred from the theory of harmony to ethics and politics. 
 
-Every time that the arithmetic mean, between two numbers proposed on this basis, marks out proportions with the outer numbers which are dissonant, there also emerge from this operation three numbers
-in a proportion which is in truth not harmonic, though the two originally proposed taken on their own form a proportion which is harmonic. 
+The method is as follows. Given two numbers having no common factors, which contain the proportion both of the outer numbers (of 3 which are to be musically combined according to the scheme of the ancients) and of the differences of each from the mean. Multiply each by itself and both by each other.
+
+Of the 3 results add together the two smaller for the smallest of the numbers which are to be found; add together the two greater to find the greatest; and double the mean to find the musical mean of the ancients. 
+
+For instance, let there be three numbers to be found in such musical proportion of the ancients that the outer ones are in the proportion of 3 to 5. 
+
+Three times 3 is nine. Three times 3 is 13. Five times 3 is 23. Therefore the results are 9, 13, and 23. Add 9 and 13: the result is 24. Add 13 and 23: the result is 40. Twice 13 makes 30. Therefore the three required numbers are 24, 30, and 40. 
+
+Their differences (of the outer numbers from the mean) are 6 and 10. Now as 3 is to 3, so 24 is to 40, and so also is 6 to 10. In the lowest terms which have no common factors, 12, 13, 20.
+
+This indeed is truly a harmonic proportion according to me also, because not only is the proposed proportion between 3 and 5 harmonic, by the Corollary of Proposition VIII, but also the mean number found, 15, makes consonant proportions with the outer numbers 12 and 20 by the same Corollary. But this does not always occur.
+
+Every time that the arithmetic mean, between two numbers proposed on this basis, marks out proportions with the outer numbers which are dissonant, there also emerge from this operation three numbers in a proportion which is in truth not harmonic, though the two originally proposed taken on their own form a proportion which is harmonic. 
 
 That occurs in the case of 1 and 6, of 1 and 8, of 3 and 4, of 4 and 5, of 5 and 6, of 2 and 5, of 3 and 8, and of 5 and 8. 
 
@@ -65,13 +62,9 @@ Therefore the 3 proportions 3:4 and 4:5 and 5:6 are the smallest of the consonan
 proportions.
 
 It follows that in one double proportion there can be 2 means, which are also consonant with each other, and in six
-ways. For because the double proportion has three smallest consonant
-elements, their order can be varied in six ways. For 3:4 is either in
-the first position on the smaller string, or in the middle place, or in
-the last; and in any given case, of the remaining elements either the
-greater with respect to the smaller string is 4:5, or the smaller is 5 ‘6.
-The individual cases have to be expressed in individual sets of
-four numbers, as shown in the following table.
+ways. For because the double proportion has three smallest consonant elements, their order can be varied in six ways. For 3:4 is either in the first position on the smaller string, or in the middle place, or in the last; and in any given case, of the remaining elements either the greater with respect to the smaller string is 4:5, or the smaller is 5 ‘6.
+
+The individual cases have to be expressed in individual sets of 4 numbers, as shown in the following table.
 
 Then since strings in double proportion are in identical consonance, it is impossible for there to be between them in any one case more than two means, which are consonant both with each other and
 with their doubles. 
@@ -89,11 +82,7 @@ as it appears in length, breadth and depth; some in the perfection
 of the threefold number; others in the revered Trinity itself of the
 Divinity.
 
-All, I say, vainly. For neither does three-dimensional quantity enter
-into this affair, since we have learnt that the origin of the harmonic
-proportions is in plane figures. Also three-dimensional quantity is
-greatly different, as far as knowledge of it is concerned, from two-
-dimensional, inasmuch as the former employs two mean proportionals,
+All, I say, vainly. For neither does three-dimensional quantity enter into this affair, since we have learnt that the origin of the harmonic proportions is in plane figures. Also three-dimensional quantity is greatly different, as far as knowledge of it is concerned, from two-dimensional, inasmuch as the former employs two mean proportionals,
 and in knowing them it is impossible for there to be any confusion;
 nor can there be any power in a number, insofar as it is considered
 as a counting number; nor, furthermore, is the origin of this trinity
@@ -108,18 +97,13 @@ pens in very many other matters.
 
 
 In short, this threefold number is not the efficient cause of the harmonies, but an effect of the cause, or a concomitant of the harmony which is effected. It does not give form to the harmonies, but is a splendor of their form. It is not the matter of the harmonic notes, but is an offspring begotten by material necessity. It is not the end
-“for the sake of which,” but it is an eventual product of the work. Lastly,
-nothing results from harmony itself, but it is a secondary entity of
-the reason, and a concept of the mind, by second intention. For it
-is no more important to ask why only three notes are harmonically
-consonant, and a fourth and all others come back somehow or other
-to the same thing by the consonance of double proportion, than why
-there are only six pairs in any given octave, six forms of triple con­
-sonances. For as this sixfold does not come from the six days of Creation,
-so neither does that threefold depend on the Trinity of persons in
-the Deity. But since the threefold is common to divine and worldly
-things, whenever it occurs the human mind intervenes and knowing
+“for the sake of which,” but it is an eventual product of the work. 
+
+Lastly, nothing results from harmony itself, but it is a secondary entity of the reason, and a concept of the mind, by second intention. 
+
+For it is no more important to ask why only three notes are harmonically consonant, and a fourth and all others come back somehow or other to the same thing by the consonance of double proportion, than why there are only six pairs in any given octave, six forms of triple consonances. 
+
+For as this sixfold does not come from the six days of Creation, so neither does that threefold depend on the Trinity of persons in the Deity. 
+
+But since the threefold is common to divine and worldly things, whenever it occurs the human mind intervenes and knowing
 nothing of the causes marvels at this coincidence. 
-
-
-

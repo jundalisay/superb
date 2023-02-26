@@ -1,24 +1,29 @@
+---
+heading: Chapter 1b
+title: "The Causes of Consonances"
+description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+image: /covers/harmony.jpg
+weight: 4
+author: Johannes Kepler
+icon: /icons/kepler.png
+---
 
-Axiom VI
-When two strings emit identical sounds, a third note which is consonant
-with one of them will also be consonant with the other; and one which
-is dissonant from one will also be dissonant from the other, and so
-with various different kinds of consonances or discords also.
-Note that identity of sound is put in the subordinate position as a species,
-and consonance in the antecedent position as genus. Hence the two following
-points should be understood. First, it does not follow that if two strings are
-consonant in any way, then a third is also consonant with both of them, or
-dissonant with both of them. For that is false of the genus, but true of the species
-of identity of sound. Secondly, it does not follow that if the third is consonant
-with one of the sounds which are identical in some particular consonance, it
-will be consonant with the other with the same species of consonance; for that
-would not always be true, which I shall demonstrate with an example, though
-in anticipation. Let there be two notes, making the diapason G and g. Let there
-be a third note d. It makes a fifth with G, and is therefore also consonant with
-g; yet not by a fifth, but by a fourth.
+
+
+## Axiom 6
+
+When 2 strings emit identical sounds, a third note which is consonant with one of them will also be consonant with the other; and one which is dissonant from one will also be dissonant from the other, and so with various different kinds of consonances or discords also.
+
+Note that identity of sound is put in the subordinate position as a species, and consonance in the antecedent position as genus. 
+
+Hence the two following points should be understood. First, it does not follow that if two strings are consonant in any way, then a third is also consonant with both of them, or dissonant with both of them. For that is false of the genus, but true of the species of identity of sound. 
+
+Secondly, it does not follow that if the third is consonant with one of the sounds which are identical in some particular consonance, it will be consonant with the other with the same species of consonance; for that would not always be true, which I shall demonstrate with an example, though in anticipation. Let there be two notes, making the diapason G and g. Let there be a third note d. It makes a fifth with G, and is therefore also consonant with g; yet not by a fifth, but by a fourth. 
+
 The chief application of this axiom is in Proposition IV.
 
-Axiom VII
+
+## Axiom 7
 
 The cause of the harmonies metaphysical.
 
@@ -26,24 +31,15 @@ When two strings or voices emit identical sounds, a third note which is identica
 
 What could not be affirmed in the previous axiom of the genus, is true in the species as to identity of sound.
 
-The application is in Proposition III.
+The application is in Proposition 3.
 
-Then contemplation of these axioms, especially of the first five,
-is lofty, Platonic, and analogous to the Christian faith, looking towards
-metaphysics and the theory of the soul. For geometry, the part of which
-that looks in this direction was embraced in the two previous books,
-is coeternal with God, and by shining forth in the divine mind supplied
-patterns to God, as was said in the preamble to this Book, for the furnish­
-ing of the world, so that it should become best and most beautiful
-and above all most like to the Creator. Indeed all spirits, souls, and
-minds are images of God the Creator if they have been put in com­
-mand each of their own bodies, to govern, move, increase, preserve,
-and also particularly to propagate them.
+Then contemplation of these axioms, especially of the first five, is lofty, Platonic, and analogous to the Christian faith, looking towards metaphysics and the theory of the soul.
 
-Then since they have embraced a certain pattern of the creation
-in their functions, they also observe the same laws along with the Creator
-in their operations, having derived them from geometry. Also they
-rejoice in the same proportions which God used, wherever they have
+For geometry, the part of which that looks in this direction was embraced in the two previous books, is coeternal with God, and by shining forth in the divine mind supplied patterns to God, as was said in the preamble to this Book, for the furnishing of the world, so that it should become best and most beautiful and above all most like to the Creator. Indeed all spirits, souls, and minds are images of God the Creator if they have been put in command each of their own bodies, to govern, move, increase, preserve, and also particularly to propagate them.
+
+Then since they have embraced a certain pattern of the creation in their functions, they also observe the same laws along with the Creator in their operations, having derived them from geometry. 
+
+Also they rejoice in the same proportions which God used, wherever they have
 found them, whether by bare contemplation, whether by the inter­
 position of the senses, in things which are subject to sensation, whether
 even without reflection by the mind, by an instinct which is concealed
@@ -75,14 +71,12 @@ in dancing, their tongues in speaking, in accordance with the same
 laws. Workmen adjust the blows of their hammers to it, soldiers their
 pace. Everything is lively while the harmonies persist, and drowsy when
 they are disrupted.
-Whether these and the like are intentional or involuntary, that
-is the work of the mind; and whether it is by the necessity of the nature
-of the elements and of matter that no tuning can suit the senses but
-that which is based on the harmonic proportions of the figures, has
-been argued in various ways by the philosophers. All ask the source
+
+Whether these and the like are intentional or involuntary, that is the work of the mind; and whether it is by the necessity of the nature of the elements and of matter that no tuning can suit the senses but that which is based on the harmonic proportions of the figures, has been argued in various ways by the philosophers. All ask the source
 of that pleasure which glides into the ears from the proportion of
-notes, pleasure by which we define consonances. Those who incline
-towards matter and the motion of the elements, adduce as an example
+notes, pleasure by which we define consonances.
+
+Those who incline towards matter and the motion of the elements, adduce as an example
 the fact, in itself indeed certainly remarkable, that a string which is
 set in motion draws another string which has been set in motion into
 sounding with it, if it has been tightened into consonance with itself,
@@ -90,22 +84,22 @@ but if it has been tightened into dissonance leaves it motionless. Since
 that cannot come about by the intervention of any mind, because the
 sound, the supposed cause of it, does not have mind or understand­
 ing, it follows that we can say it comes about by the adjustment of the
-motions to each other. Eor the sound of the string has higher or lower
-pitch, from the speed or slowness of the vibration with which the whole free length of the string vibrates.^*’ These differences in the sounds
-do not arise primarily and immediately in the actual length or short­
+motions to each other. 
+
+For the sound of the string has higher or lower
+pitch, from the speed or slowness of the vibration with which the whole free length of the string vibrates.^*’ These differences in the sounds do not arise primarily and immediately in the actual length or short­
 ness, but secondarily, that is to say because when the length is dimin­
 ished the slowness of the vibration is diminished, and its speed is in­
 creased. The reason is that, if the free length of the string remains
 the same, the actual tightening of it raises the pitch of the sound, be­
 cause by leaving the string less slack, it also diminishes the space through
-which it can vibrate in its reciprocating motion.^’
-Then if the tension of two strings is equal, so that they can sound
-in unison, in that case the sound of one, that is the immaterial emana­
-tion of the body of the string,^^ which is set in vibration, gliding from
-its string, strikes the other string, just as when someone shouts at a
-lute, or something else hollow. With that shout he strikes the hollow
-object and makes all its strings resonate. Now that emanation of the
-vibration strikes the other string with the same rhythm of speed and
+which it can vibrate in its reciprocating motion.
+
+
+Then if the tension of two strings is equal, so that they can sound in unison, in that case the sound of one, that is the immaterial emanation of the body of the string,^^ which is set in vibration, gliding from its string, strikes the other string, just as when someone shouts at a lute, or something else hollow. With that shout he strikes the hollow
+object and makes all its strings resonate. 
+
+Now that emanation of the vibration strikes the other string with the same rhythm of speed and
 the latter also moves in that rhythm because it is equally tight; so that
 individual beats (into which the vibration is understood to be divided)
 continually come upon individual stationary points^'^ of the other
@@ -215,23 +209,18 @@ fold number. Lastly any figure makes a single division of a circle; but
 the parts established in a circle always make two consonances with
 the whole.
 
-Although in fact the argument in this third Book will be more And from
-concerned with the knowledge-producing construction of sides than congruence,
-with the congruence of complete figures, nevertheless on account of
+Although in fact the argument in this third Book will be more And from concerned with the knowledge-producing construction of sides than congruence, with the congruence of complete figures, nevertheless on account of
 their close relationship the latter will not be neglected in its place.
-For first the Latin meaning of the word congruence, if you make a
-thorough investigation, is the same as that of the Greek word harmony—
-the words with which we shall deal in this Book—except that usage
+
+For first the Latin meaning of the word congruence, if you make a thorough investigation, is the same as that of the Greek word harmony—the words with which we shall deal in this Book—except that usage
 has quickly made a distinction between these words from the subjects
-to which they refer. Secondly, the congruence of figures imparts a cer­
-tain congruence to motions (with which this and the fifth Book will
-be concerned). Thirdly, although we are examining not so much the
-whole figure as one side of it, and it is the part which that side cuts
-off which is consonant, yet at the same time it is also true that we are
-not so much considering the size of the part of the circle which is
-intercepted as the nature of the figure by which that is done, whether
-it is constructible and congruent, or the contrary. For any figure has,
-from its angles through which it was allotted congruence in Book II,
-also acquired a construction in Book I. The examination of the con­
-gruence of figures is therefore not to be dissociated from harmonies.
+to which they refer. 
+
+Secondly, the congruence of figures imparts a certain congruence to motions (with which this and the fifth Book will
+be concerned). 
+
+Thirdly, although we are examining not so much the whole figure as one side of it, and it is the part which that side cuts off which is consonant, yet at the same time it is also true that we are not so much considering the size of the part of the circle which is intercepted as the nature of the figure by which that is done, whether it is constructible and congruent, or the contrary. For any figure has, from its angles through which it was allotted congruence in Book II,
+also acquired a construction in Book I. 
+
+The examination of the congruence of figures is therefore not to be dissociated from harmonies.
 
