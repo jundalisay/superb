@@ -4,11 +4,7 @@ heading: "Fiscal and Monetary Reform (Industry and Trade Factors)"
 date: 2015-04-15
 image: "/flags/gr.png"
 description: "We suggest fixing Greece through Fiscal and Trade Systems Reform"
-linkb: "/social/cycles/egypt"
-linkbtext: "Egypt"
-linkf: "/social/cycles/israel"
-linkftext: "Israel"
-author: Juan
+# author: Juan
 icon: "/flags/gr.png"
 aliases:
   /social/cycles/how-to-fix-greece

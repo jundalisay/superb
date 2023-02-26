@@ -298,6 +298,14 @@
 
 [[navbar]]
     parent = "non1"
+    weight = 525
+    name = "Epicurus"
+    url = "/research/epicurus"
+    pre = "<img src='/icons/epi.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px >"
+
+
+[[navbar]]
+    parent = "non1"
     weight = 530
     name = "George"
     url = "/research/george"

@@ -4,7 +4,7 @@ heading: "Maharlikanism's Alternative to Ambisyon 2040"
 date: 2021-07-27
 image: "/flags/ph.png"
 description : "We fix the faulty Ambisyon 2040 through a 5-phase plan called Maharlika 2050 to industrialize the Philippines into Maharlika"
-author: Juan
+# author: Juan
 # icon: "/flags/ph.png"
 aliases:
   /maharlika/economics/maharlika-2050

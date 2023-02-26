@@ -46,7 +46,7 @@ Thus, atheism is merely in the lip, than in the heart of man.
 
 Atheists strive to get disciples just like the other sects.
 
-nd, which is most of all, you shall have of them, that will suffer for atheism, and not recant; whereas 
+<!-- nd, which is most of all, you shall have of them, that will suffer for atheism, and not recant; whereas  -->
 
 But if they truly thought that there were no God then they would not trouble themselves.
 

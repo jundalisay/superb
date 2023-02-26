@@ -9,34 +9,34 @@ icon: /icons/kepler.png
 ---
 
 
-## Definition
+## 1. Definition
 
 Although the ancients used the following terms, “monophonic, antiphonic, homophonic, diaphonic, symphonic, asymphonic,” we shall use “dissonant” to mean the same as “asymphonic,” and “consonant” to mean the same as “symphonic.” This last is differentiated into “identical,” which we shall adopt instead of “homophonic,” and “non-identical,” which we shall adopt instead of “diaphonic.”^'’ And of the identical there are two kinds, single-sounding, and identical by opposition.^®
 
-## Definition
 
-In geometry the terms “part” and “parts” are different. For the term
-“part” is used for that of which the whole is a multiple in a certain
-proportion, such as double, triple, quadruple; whereas “parts” is used
-when not a single and unique whole but a quantity of wholes is a mul­
-tiple of them. Thus one seventh is called a part because the whole
-circle is seven times the part; but three sevenths are called not a part
+## 2. Definition
+
+In geometry the terms “part” and “parts” are different. For the term “part” is used for that of which the whole is a multiple in a certain proportion, such as double, triple, quadruple; whereas “parts” is used when not a single and unique whole but a quantity of wholes is a multiple of them. 
+
+Thus one seventh is called a part because the whole circle is seven times the part; but three sevenths are called not a part
 but parts, because a total of three circles is seven times the arc.
-Here however we shall not use that distinction; but we shall call
-a part one of the fractions mentioned as much as the other. That is,
-every fraction which is expressible^^ we shall call a part, though with
-the restriction, provided it is not greater than a semicircle.
-The term “remainder” on the other hand will be used for what
-is left, being not less than a semicircle, when an expressible portion
-[in length] is subtracted from the whole.
-The distinction between a remainder and a part is extremely necessary, be­
-cause a part can be a consonance, and its remainder a dissonance, as we shall see.
-Definition
-A string [chord] is here taken to mean not the line subtended by an
-arc of a circle, as in geometry, but any length which is capable of emitting a sound; and as a sound is elicited by motion, “string” is to be under­
-stood in the abstract in reference to the length of any motion what­
-ever, or to any other length whatever, even if it is conceived in the mind.
-Axiom I
+
+Here however we shall not use that distinction; but we shall call a part one of the fractions mentioned as much as the other. 
+
+That is, every fraction which is expressible^^ we shall call a part, though with the restriction, provided it is not greater than a semicircle. 
+
+The term “remainder” on the other hand will be used for what is left, being not less than a semicircle, when an expressible portion [in length] is subtracted from the whole.
+
+The distinction between a remainder and a part is extremely necessary, because a part can be a consonance, and its remainder a dissonance, as we shall see.
+
+
+## 3. Definition
+
+A string [chord] is here taken to mean not the line subtended by an arc of a circle, as in geometry, but any length which is capable of emitting a sound; and as a sound is elicited by motion, “string” is to be understood in the abstract in reference to the length of any motion what ever, or to any other length whatever, even if it is conceived in the mind.
+
+
+## Axiom 1 
+
 The diameter of a circle, and the sides of the fundamental figures
 expounded in Book I, which have a proper construction, mark off a
 part of the circle which is consonant with the whole circle.

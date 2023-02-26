@@ -6,7 +6,7 @@ date: 2021-09-18
 weight: 2
 image: "/flags/af.png"
 description : "The most sustainable way to create peace and progress in Afghanistan is by installing Islamic feudalism offset by an civilized Protector"
-author: Juan
+# author: Juan
 icon: "/flags/af.png"
 aliases:
   /social/cycles/how-to-fix-afghanistan

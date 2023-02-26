@@ -4,7 +4,7 @@ heading: "Negative Worker"
 date: 2021-07-27
 image: "/flags/mm.png"
 description: "The social cycles of Myanmar last 16 years"
-author: Juan
+# author: Juan
 icon: "/flags/mm.png"
 ---
 

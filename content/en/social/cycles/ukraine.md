@@ -41,7 +41,7 @@ This is because Russia has the moral cause, as:
 - self-preservation
 - the unity of the Rus
 
-This is similar to North Vietnam engaging in a long war against US-supported South Vietnam, winning in the long run. 
+This is similar to North Vietnam engaging in a long war against US-supported South Vietnam, winning in the long run to unify the Vietnamese. 
 
 China will then take a more prominent role in the peace negotiations, as well as the reconstruction of Ukraine which will have its eastern part going to Russia. 
 

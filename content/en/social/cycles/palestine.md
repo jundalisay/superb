@@ -4,7 +4,7 @@ heading: "Positive Thinker"
 date: 2021-07-27
 image: "/flags/ps.png"
 description: "The social cycles of Palestine last 13 years"
-author: Juan
+# author: Juan
 icon: "/flags/ps.png"
 ---
 

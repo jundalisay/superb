@@ -19,13 +19,9 @@
                 <small style="color: gray">{{ .Params.subtitle }}</small>                    
             {{ end }}                        
             <div class="mb-6">
-              <h1 class="title is-3"> {{ $page.Title }}
-                {{ if .Params.icon }}
-                  <img src="{{ .Params.icon }}" style="right: 0; position: absolute ;height: 50px" alt="Icon">
-                {{ else }}
-                {{ end }}
-              </h1>
+              <h1 class="title is-3"> {{ $page.Title }}</h1>
  
+ <span>
               {{ with .Params.date }}              
                 <small style="color: gray">{{ .Format "January 2, 2006" }}</small>                  
               {{ end }}  
@@ -33,7 +29,21 @@
                 
               {{ with .Params.dateorig }}
                 <small style="color: gray">{{ . }}</small>                  
-              {{ end }}                                                                      
+              {{ end }}                                
+
+              {{ with .Params.author }}              
+                <small style="color: gray">by {{ . }} </small>                  
+              {{ end }}  
+
+
+
+                {{ if .Params.icon }}
+                  <img src="{{ .Params.icon }}" style="right: 0; position: absolute; height: 30px" alt="Icon">
+                {{ else }}
+                {{ end }}                                                    
+
+ </span>
+
             </div>
 
             {{ $page.Content |  safeHTML }}

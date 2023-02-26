@@ -4,7 +4,7 @@ heading: "Positive Philosopher"
 date: 2021-07-27
 image: "/flags/il.png"
 description: "The social cycles of Israel last 12 years"
-author: Juan
+# author: Juan
 icon: "/flags/il.png"
 ---
 
