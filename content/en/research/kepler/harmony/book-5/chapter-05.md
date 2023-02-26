@@ -10,35 +10,23 @@ icon: /icons/kepler.png
 
 
 
-Therefore, that between these 12 terms or motions of the six planets which revolve round the Sun there exist upwards, downwards, and in every direction proportions which are harmonic, or very close to such
-within an imperceptible fraction of the smallest melodic interval, has
-been proved so far by numbers which have been sought in the former
+Therefore, that between these 12 terms or motions of the 6 planets which revolve round the Sun there exist upwards, downwards, and in every direction proportions which are harmonic, or very close to such within an imperceptible fraction of the smallest melodic interval, has been proved so far by numbers which have been sought in the former
 case from astronomy and in the latter from harmony.
 
-However, just as in the third Book we first extracted the individual harmonic pro­
-portions separately in the first Chapter, and only after that in the sec­
-ond Chapter we assembled all that there were of them into one com­
-mon system or musical scale, or rather we divided one diapason of
-them, which embraces the remaining ones in its dominion, through
-those remaining ones into steps or positions, so that by this procedure
-we produced a scale; so also now, when we have found the harmonies
-which God Himself embodied in the world, the next thing is for us
-to see whether the individual harmonies stand separately, so that they
-have no affinity with the rest, or whether in fact they all agree with
-each other? 
+Book 3 Chapter 1 first extracted the individual harmonic proportions separately. Chapter 2 we assembled all that there were of them into one common system or musical scale.
+- We divided one diapason of them which embraces the remaining ones in its dominion, through those remaining ones into steps or positions to produce a scale
+- In this way, when we have found the harmonies which God embodied in the world, we next try to see whether the individual harmonies stand separately to answer:
+  - Do they have no affinity with the rest?
+  - Or do they all agree with each other? 
 
-However, it is easy without further inquiry to conclude that these harmonies are fitted together with the utmost skill so that they support each other mutually as if within a single structure, and no single one clashes with another, inasmuch as we see that in such a many-sided comparison of their terms harmonies never fail to occur.
-For if all were not fitted to all to form a single scale, it could easily
-have come about (as has happened here and there, when necessity
-is so pressing) that several dissonances occurred. Thus if anyone es­
-tablished a major sixth between the first and second term, and between
-the second and third a third, also major, without regard to the pre­
-vious interval, in that case he would be admitting between the first
-and the third a dissonance and an unmelodic interval, 12-25.
+These harmonies are fitted together so that they support each other mutually as if within a single structure.
+- No single one clashes with another, inasmuch as we see that in such a many-sided comparison of their terms harmonies never fail to occur.
 
-Come now, let us see whether what we have already inferred by
-reasoning is in actual fact found to be so. However, let us preface this
-___ with some words of caution, to avoid our being obstructed
+If all were not fitted to all to form a single scale, it could easily have come about (as has happened here and there, when necessity is so pressing) that several dissonances occurred. 
+
+Thus if anyone established a major sixth between the first and second term, and between the second and third a third, also major, without regard to the previous interval, in that case he would be admitting between the first and the third a dissonance and an unmelodic interval, 12-25.
+
+Come now, let us see whether what we have already inferred by reasoning is in actual fact found to be so. However, let us preface this ___ with some words of caution, to avoid our being obstructed
 —
 while the inquiry is in progress. First, we should for the
 •
@@ -48,101 +36,58 @@ are less than a semitone; for we shall see later what causes
 them. Next by repeated doubling, or on the contrary halving, of the
 motions, we shall bring them all within a system of a single octave,
 because of the identity of sound of every diapason.
-Therefore, the numbers by which all the positions or notes of the
-system of the octave are expressed are set out in the table in Chapter
-VIII of Book III, on page 197: that is to say, those numbers should
-be understood to refer to the length of the pairs of strings. In con­
-sequence, therefore, the speeds of the motions will be to each other
-inversely in those proportions.*^®
-Now let the motions be compared, in parts obtained by continu­
-ous division by two.
 
+Therefore, the numbers by which all the positions or notes of the system of the octave are expressed are set out in the table in Chapter 8 of Book 3, on page 197. 
 
-Now let the motion of Saturn, the slowest planet, at aphelion, that
-is the slowest motion, represent the lowest position in the system, G,
-numerically I minute 46 seconds. Then the motion at aphelion of
-the Earth will also represent the same, but five diapasons higher, be­
-cause it is numerically I minute 47 seconds; and who would venture
-to argue about one second in the motion of Saturn at aphelion? How­
-ever, let it stand: the difference will not be greater than 106:107, which
-is less than a comma. Of this 1 minute 47 seconds, if you add a fourth
-part, 27 seconds, the total will be 2 minutes 14 seconds, whereas the
-motion of Saturn at perihelion comes to 2 minutes 15 seconds.®^ Simi­
-larly, for the motion of Jupiter at aphelion, but one diapason higher.
-Therefore, these two motions represent the note or are very slightly
-higher. Take a third of 1 minute 47 seconds, 36 seconds —and add it
-to the whole: you will generate 2 minutes 23 seconds —standing for
-the note c\ and look, it is the motion of Mars at perihelion, of the same
-magnitude, but four diapasons higher.®® To the same 1 minute 47 sec­
-onds add also a half, 54 seconds —the result will be 2 minutes 41 sec­
-onds - , standing for the note d', and look, here to hand is the motion
-of Jupiter at perihelion, but one diapason higher: for it takes a number
-which is very close, that is 2 minutes 45 seconds.®^ If you add two
-thirds, that is 1 minute 11 seconds -i-, the sum is 2 minutes 58 sec­
-onds + . And look, the motion of Venus at aphelion is 2 minutes 58
-seconds - . Therefore, this represents the position or note e, but five
-diapasons higher; and the motion of Mercury at perihelion does not
-greatly exceed it, having 3 minutes 0 seconds, but seven intervals of
-a diapason higher.®® Lastly, divide twice 1 minute 47 seconds, that is
-3 minutes 34 seconds, by nine, and subtract one ninth, 24 seconds,
-from the whole. The remainder is 3 minutes 10 seconds + , standing
-for the note /,®® which is nearly represented by the motion of Mars at aphelion, 3 minutes 17 seconds, but three diapasons higher; but
-the actual number is a little greater than it should be, coming close
-to the n o t e F o r taking a sixteenth of 3 minutes 34 seconds, that
-is 13| seconds, from 3 minutes 34 seconds leaves 3 minutes 20^ sec­
-onds, to which 3 minutes 17 seconds is very close. And indeed in music
-also fg is often used in place o f/ , as may be seen everywhere.®^
-Therefore, all the notes in hard music within a single octave (ex­
-cept for the note A, which was not represented by the harmonic di­
-visions in Book III, Chapter II, either), are represented by all the ex­
-treme motions of the planets, except for the motions at perihelion
-of Venus and the Earth, and the motion at aphelion of Mercury, for
-which the number is 2 minutes 34 seconds which is close to the note
-eg. For subtract from d, 2 minutes 41 seconds, a sixteenth, 10 sec­
-onds + : the remainder is 2 minutes 30 seconds, for the note eg. Thus
-only the motions at perihelion of Venus and the Earth are outcasts
-from this scale, as you see in the figure.
+Those numbers refer to the length of the pairs of strings. In consequence, therefore, the speeds of the motions will be to each other inversely in those proportions.
 
-On the other hand, if the motion of Saturn at perihelion, 2 min­
-utes 15 seconds, is made the start of the scale, and it is directed that
-it should represent the note G; then the note A fits 2 minutes 32 sec­
-onds - , which is very close to the motion at aphelion of Mercury.®®
-The note b fits 2 minutes 42 seconds, which is very nearly the motion at perihelion of Jupiter, by the equivalence of octaves.®^ The note c
-fits 3 minutes 0 seconds, the motion at perihelion of Mercury and
-Venus, very nearly.®^ The note d fits 3 minutes 23 seconds —and the
-motion of Mars at aphelion is not much lower, that is 3 minutes 18
-seconds. Thus this number is smaller than its note by almost the same
-amount as that by which previously it was in a similar way greater than
-its note.®® The note dg fits 3 minutes 36 seconds, which the motion
-of the Earth at aphelion almost meets;®^ the note e fits 3 minutes 50
-seconds and the motion of the Earth at perihelion is 3 minutes 49 sec­
-onds.®® However, the motion of Jupiter at aphelion again occupies g.
-On this basis all the notes within one octave of soft music, except
-fo r/, are expressed by most of the motions of the planets at aphelion
-and perihelion, especially those which had been left out previously,
-as you see in the figure. 
+Now let the motions be compared, in parts obtained by continuous division by two.
 
-On the other hand, if the motion of Saturn at perihelion, 2 min­
-utes 15 seconds, is made the start of the scale, and it is directed that
-it should represent the note G; then the note A fits 2 minutes 32 sec­
-onds - , which is very close to the motion at aphelion of Mercury.®®
-The note b fits 2 minutes 42 seconds, which is very nearly the motion at perihelion of Jupiter, by the equivalence of octaves.®^ The note c
-fits 3 minutes 0 seconds, the motion at perihelion of Mercury and
-Venus, very nearly.®^ The note d fits 3 minutes 23 seconds —and the
-motion of Mars at aphelion is not much lower, that is 3 minutes 18
-seconds. Thus this number is smaller than its note by almost the same
-amount as that by which previously it was in a similar way greater than
-its note.®® The note dg fits 3 minutes 36 seconds, which the motion
-of the Earth at aphelion almost meets;®^ the note e fits 3 minutes 50
-seconds and the motion of the Earth at perihelion is 3 minutes 49 sec­
-onds.®® However, the motion of Jupiter at aphelion again occupies g.
-On this basis all the notes within one octave of soft music, except
-fo r/, are expressed by most of the motions of the planets at aphelion
-and perihelion, especially those which had been left out previously,
-as you see in the figure
+Now let the motion of Saturn, the slowest planet, at aphelion, that is the slowest motion, represent the lowest position in the system, G, numerically I minute 46 seconds. Then the motion at aphelion of the Earth will also represent the same, but five diapasons higher, because it is numerically I minute 47 seconds; and who would venture to argue about one second in the motion of Saturn at aphelion? 
+
+However, let it stand: the difference will not be greater than 106:107, which is less than a comma. Of this 1 minute 47 seconds, if you add a fourth part, 27 seconds, the total will be 2 minutes 14 seconds, whereas the motion of Saturn at perihelion comes to 2 minutes 15 seconds.
+
+Similarly, for the motion of Jupiter at aphelion, but one diapason higher.
+
+Therefore, these two motions represent the note or are very slightly higher. Take a third of 1 minute 47 seconds, 36 seconds —and add it to the whole: you will generate 2 minutes 23 seconds —standing for the note c\ and look, it is the motion of Mars at perihelion, of the same magnitude, but four diapasons higher.®® To the same 1 minute 47 seconds add also a half, 54 seconds —the result will be 2 minutes 41 seconds - , standing for the note d', and look, here to hand is the motion of Jupiter at perihelion, but one diapason higher: for it takes a number which is very close, that is 2 minutes 45 seconds.®^ If you add 2/3, that is 1 minute 11 seconds -i-, the sum is 2 minutes 58 seconds + . And look, the motion of Venus at aphelion is 2 minutes 58 seconds - . 
+
+Therefore, this represents the position or note e, but 5 diapasons higher; and the motion of Mercury at perihelion does not greatly exceed it, having 3 minutes 0 seconds, but seven intervals of a diapason higher.®® Lastly, divide twice 1 minute 47 seconds, that is 3 minutes 34 seconds, by nine, and subtract one ninth, 24 seconds, from the whole. 
+
+The remainder is 3 minutes 10 seconds + , standing for the note /,®® which is nearly represented by the motion of Mars at aphelion, 3 minutes 17 seconds, but three diapasons higher; but the actual number is a little greater than it should be, coming close to the n o t e F o r taking a sixteenth of 3 minutes 34 seconds, that is 13| seconds, from 3 minutes 34 seconds leaves 3 minutes 20^ seconds, to which 3 minutes 17 seconds is very close. 
+
+In music also fg is often used in place o f/ , as may be seen everywhere. 
+
+Therefore, all the notes in hard music within a single octave (except for the note A, which was not represented by the harmonic divisions in Book 3, Chapter 2, either), are represented by all the extreme motions of the planets, except for the motions at perihelion of Venus and the Earth, and the motion at aphelion of Mercury, for which the number is 2 minutes 34 seconds which is close to the note eg. For subtract from d, 2 minutes 41 seconds, a sixteenth, 10 seconds + : the remainder is 2 minutes 30 seconds, for the note eg. 
+
+Thus only the motions at perihelion of Venus and the Earth are outcasts from this scale, as you see in the figure.
+
+On the other hand, if the motion of Saturn at perihelion, 2 minutes 15 seconds, is made the start of the scale, and it is directed that it should represent the note G; then the note A fits 2 minutes 32 seconds - , which is very close to the motion at aphelion of Mercury.
+
+The note b fits 2 minutes 42 seconds, which is very nearly the motion at perihelion of Jupiter, by the equivalence of octaves.
+
+The note `c` fits 3 minutes 0 seconds, the motion at perihelion of Mercury and Venus, very nearly.®^ The note d fits 3 minutes 23 seconds —and the motion of Mars at aphelion is not much lower, that is 3 minutes 18 seconds. 
+
+Thus this number is smaller than its note by almost the same amount as that by which previously it was in a similar way greater than its note.
+
+The note `dg` fits 3 minutes 36 seconds, which the motion of the Earth at aphelion almost meets;®^ the note e fits 3 minutes 50 seconds and the motion of the Earth at perihelion is 3 minutes 49 seconds.
+
+However, the motion of Jupiter at aphelion again occupies g. 
+
+On this basis all the notes within one octave of soft music, except for /, are expressed by most of the motions of the planets at aphelion and perihelion, especially those which had been left out previously, as you see in the figure. 
+
+On the other hand, if the motion of Saturn at perihelion, 2 minutes 15 seconds, is made the start of the scale, and it is directed that it should represent the note G; then the note A fits 2 minutes 32 seconds - , which is very close to the motion at aphelion of Mercury.
+
+The note b fits 2 minutes 42 seconds, which is very nearly the motion at perihelion of Jupiter, by the equivalence of octaves.
+
+The note c fits 3 minutes 0 seconds, the motion at perihelion of Mercury and Venus, very nearly.®^ The note d fits 3 minutes 23 seconds —and the motion of Mars at aphelion is not much lower, that is 3 minutes 18 seconds. 
+
+Thus this number is smaller than its note by almost the same amount as that by which previously it was in a similar way greater than its note.
+
+The note dg fits 3 minutes 36 seconds, which the motion of the Earth at aphelion almost meets;®^ the note e fits 3 minutes 50 seconds and the motion of the Earth at perihelion is 3 minutes 49 seconds.®® However, the motion of Jupiter at aphelion again occupies g. 
+
+On this basis all the notes within one octave of soft music, except for /, are expressed by most of the motions of the planets at aphelion and perihelion, especially those which had been left out previously, as you see in the figure
 
 ---
-
 
 Previously `fg` was represented, `A` was left out Now A is represented,/e is left out, for the harmonic divisions in Chapter II also left out the note
 
@@ -185,17 +130,8 @@ G, and the motion of Mercury at aphelion will also agree.
 
 For a third of 3 minutes 3 seconds, 1 minute 1 second, taken five times, becomes 5 minutes 5 seconds, half of which, 2 minutes 32 seconds + , approaches very closely the motion at aphelion of Mercury, which in this out of
 order arrangement will occupy the position
-Then all these are
-related to each other in the same tuning. However, the motion of Venus
-at perihelion*"^ divides the scale in one way, along with the three (or
-five) earlier ones, in the same harmonic kind, that is to say as the same
-planet’s motion at aphelion, in its own tuning, meaning in the hard
-kind;*"4 and the motion of the same Venus at perihelion divides the
-same scale in another way with the two later ones,*"® meaning not into
-different melodic intervals but rather into a different order for the
-melodic intervals, that is to say the order proper to the soft kind.
-However, it is sufficient in this Chapter to have brought to your
-notice what the question is about; but why each feature has been carried
-out in this way, and the reasons not only for the agreements, but for
-the conflict in small details, will be made clear by the most lucid demon­
-strations in Chapter IX
+
+Then all these are related to each other in the same tuning. However, the motion of Venus at perihelion*"^ divides the scale in one way, along with the three (or five) earlier ones, in the same harmonic kind, that is to say as the same
+planet’s motion at aphelion, in its own tuning, meaning in the hard kind;*"4 and the motion of the same Venus at perihelion divides the same scale in another way with the two later ones,*"® meaning not into different melodic intervals but rather into a different order for the melodic intervals, that is to say the order proper to the soft kind.
+
+However, it is sufficient in this Chapter to have brought to your notice what the question is about; but why each feature has been carried out in this way, and the reasons not only for the agreements, but for the conflict in small details, will be made clear by the most lucid demonstrations in Chapter 9.

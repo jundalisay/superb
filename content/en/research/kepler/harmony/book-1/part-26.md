@@ -11,16 +11,13 @@ icon: /icons/kepler.png
 
 <!-- XVI Definition and Comparison -->
 
-These [areas] might suffice us for establishing the degrees of construc­
-tions by which the sides of the figures which we need for the study
-of Harmony are distinguished, if there were not other properties as
-well as those mentioned, or rather if the properties so far mentioned
-were not preceded by others that are nobler by which the degrees of
-knowable constructions are multiplied.
+These [areas] might suffice us for establishing the degrees of constructions by which the sides of the figures which we need for the study of Harmony are distinguished, if there were not other properties as well as those mentioned, or rather if the properties so far mentioned were not preceded by others that are nobler by which the degrees of knowable constructions are multiplied.
 
-We have come to addition and subtraction; where we have chosen freely the lines that are to be added or subtracted, not imposing any definite quantity upon them. So if we now introduce rules, imposing a definite proportion upon pairs [of lines], not given in such a way that when they were combined they formed one of the twelve kinds
-[of line already discussed]; but the pairs given in some other way, namely
-when it is required for one given line also to find its greater part so
+We have come to addition and subtraction; where we have chosen freely the lines that are to be added or subtracted, not imposing any definite quantity upon them. 
+
+So if we now introduce rules, imposing a definite proportion upon pairs [of lines], not given in such a way that when they were combined they formed one of the 12 kinds [of line already discussed] 
+
+But the pairs given in some other way, namely when it is required for one given line also to find its greater part so
 that the ratio of the smaller to the greater part will be equal to the
 ratio of the greater part to the sum of them both; or alternatively the
 ratio of the greater to the smaller will be equal to the ratio of the
@@ -31,28 +28,15 @@ of the kinds that have been discussed, and having fallen back on it,
 we shall compare the line that is found, which of itself is of the eighth
 degree,^"* with lines of the fourth degree.
 
-For in this way two lines of the fourth degree (as defined in section XV) together formed an area, from which, when it is cast into the form of a square, there emerged [as the side of the square] a line called
-a Medial: so the two lines, the Whole and one part, form, by subtrac­
-tion, the other part, or the two parts, by addition, form the whole.
-In the former case, the constituent lines were commensurable with
-one another only in square: in the latter, in place of commensurability,
-we have identity of proportion between whole and parts. In the former
-case the similarity of proportion was between the smaller [part] and
-the line to be formed [i.e. the difference], and between the line to be
-formed and the greater [part]; in the latter case there is also a simi­
-larity of proportion between the two lines to be formed, and between
-one of them and the proposed whole line [i.e. the sum], for subtrac­
-tion, while for addition [the proportion is] between one of the lines
-to be formed, and the proposed line, and the other line to be formed.
-So, in the former case, given two [lines], a Rectangle was given equal
-to the square of the line that was to be formed, and thus the area [entered
-into the question] before the line [i.e. the side of the square]: in the latter case, on the contrary, having made the two [lines] that were to
-be made, there then follows the equality between the Rectangle of the
-extreme [lines] and the square of the Mean one, by Euclid VI.17 and
-11.11.4'^
-In the former case the straight lines that make the area had squares
-commensurable with the square of the proposed Line: in the latter,
-from Euclid VL30 we know that we must take a square, commensu­
+In this way, 2 lines of the fourth degree (as defined in Section 15) together formed an area, from which, when it is cast into the form of a square, there emerged [as the side of the square] a line called a Medial: so the two lines, the Whole and one part, form, by subtraction, the other part, or the two parts, by addition, form the whole.
+
+In the former case, the constituent lines were commensurable with one another only in square: in the latter, in place of commensurability, we have identity of proportion between whole and parts. 
+
+In the former case the similarity of proportion was between the smaller [part] and the line to be formed [i.e. the difference], and between the line to be formed and the greater [part]; in the latter case there is also a similarity of proportion between the two lines to be formed, and between one of them and the proposed whole line [i.e. the sum], for subtraction, while for addition [the proportion is] between one of the lines to be formed, and the proposed line, and the other line to be formed. 
+
+So, in the former case, given two [lines], a Rectangle was given equal to the square of the line that was to be formed, and thus the area [entered into the question] before the line [i.e. the side of the square]: in the latter case, on the contrary, having made the two [lines] that were to be made, there then follows the equality between the Rectangle of the extreme [lines] and the square of the Mean one, by Euclid VI.17 and 11.11.4'^
+
+In the former case the straight lines that make the area had squares commensurable with the square of the proposed Line: in the latter, from Euclid VL30 we know that we must take a square, commensu­
 rable with the square of the proposed line, nam ely! times it, and from
 the side of this square we must subtract half the proposed line, so
 that there remains the required part of the proposed line; and when

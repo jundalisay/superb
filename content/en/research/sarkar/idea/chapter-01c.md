@@ -63,7 +63,7 @@ The gradual crudification results in the other layers:
 - aerial
 - luminous
 - liquid
-- solid. 
+- solid
 
 
 ```elixir
@@ -83,7 +83,7 @@ The external pressure of static <!-- Prakrti --> Activity on those 5 layers mani
 
 1. A divisive force (centrifugal)
 
-This has tries to split up the object into thousands*
+This tries to split up the object into thousands*
 
 > *Superphysics note: This leads to entropy in Physics. This manifests as a quasar
 
@@ -107,7 +107,7 @@ Every solid factor has energy which is the eternal game between the Cosmic cause
 <!-- In práńa there exists an internal clash in which  -->
 
 Either of the 2 active forces may win. 
-- if the <!-- interial --> unifying <!-- centripetal --> forces win, then a nucleus is formed within the solid factor. This leads to a solid structure. The maintenance of its physical solidarity then depends on the external pressure from static Activity <!-- bala or --> <!-- external-static-pressure -->.
+- if the <!-- interial --> unifying <!-- centripetal --> forces win, then a nucleus is formed within the solid factor. This leads to a solid structure. The maintenance of its physical solidarity then depends on the external pressure from static Activity<!-- bala or --> <!-- external-static-pressure -->.
 <!-- that is, if the resultant force created happens to be interial in character, -->
 - if the <!-- exterial --> divisive <!-- centrifugal --> forces win, no nucleus is formed
 

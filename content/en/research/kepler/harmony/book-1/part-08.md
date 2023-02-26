@@ -33,6 +33,7 @@ A line can be geometrically determined, in Greek raKtri [“fixed”], even thou
 
 On the other hand, a line or lines may be known qualitatively, but that does not yet determine them or make them determinate, that is to say if their quality is common to many other things which are different in quantity. So for such lines description is easy, knowledge very difficult. Einally, many things can be described by some Geometrical means or other; but cannot be knowable by their nature: as knowledge has been defined above.
 
+
 ## 10. 
 
 We have proper construction when the number either of the angles of the Figure itself, or of the figure related to it by having either double or half its number of sides, forms the middle term in finding the ratio of the side to the Diameter,

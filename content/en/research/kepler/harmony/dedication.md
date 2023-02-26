@@ -2,7 +2,7 @@
 title: "Dedication to Lord James"
 # heading: "Chapter 1"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
-image: /covers/essays.jpg
+image: /covers/harmony.jpg
 weight: 4
 author: Johannes Kepler
 icon: /icons/kepler.png

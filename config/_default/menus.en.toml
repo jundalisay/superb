@@ -134,6 +134,13 @@
     pre = "<img src='/icons/yoga.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
     url = "/research/indian"
 
+[[navbar]]
+    parent = "enl"
+    weight = 135
+    name = "Kepler"
+    url = "/research/kepler"
+    pre = "<img src='/icons/kepler.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
 
 [[navbar]]
     parent = "enl"

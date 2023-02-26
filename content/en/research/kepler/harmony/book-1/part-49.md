@@ -10,13 +10,16 @@ icon: /icons/kepler.png
 
 
 
-Now, since bisection (the proper form of which is used in the first class [of figures]) is common both to the second and to the third classes: it is clear that the first class exists according to a rule which differs from that obtaining for the two remaining classes: in such a way that the first class is related to each of the two remaining ones; but the
-latter are distinguished one from another, so that, for figures which have proper constructions there are in a way only two Kinds. 
+The proper form of bisection is used in the first class of figures.
+- It is common both to the second and to the third classes
 
-For the Tetragon and the Octagon quickly apply themselves in almost all the figures of the Trigon’s sect; because a sixth of a circle and a twelfth join up to make a quarter, a twelfth and a twentyfourth combine to make an eighth.
-And the Tetragon fits itself into the Pentagon’s sect to some extent; because a
-fifth part of a circle, added to a twentieth, constitutes a fourth part. The reason
-is that the Numbers 3 and 5 can be decomposed into numbers in continuous
+The first class exists according to a rule which differs from that obtaining for the 2 remaining classes: in such a way that the first class is related to each of the two remaining ones; but the latter are distinguished one from another, so that, for figures which have proper constructions there are in a way only two Kinds. 
+
+The Tetragon and the Octagon quickly apply themselves in almost all the figures of the Trigon’s sect because a sixth of a circle and a twelfth join up to make a quarter, a twelfth and a twentyfourth combine to make an eighth.
+
+The Tetragon fits itself into the Pentagon’s sect to some extent; because a fifth part of a circle, added to a twentieth, constitutes a fourth part. 
+
+The reason is that the Numbers 3 and 5 can be decomposed into numbers in continuous
 double proportion For the number 3 can be separated into 1 and 2, and 5
 into 1 and 4. There is no such common ground between the classes Three and
 Five. For although a sixth part of a circle added to a thirtieth constitutes a
