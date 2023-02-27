@@ -62,17 +62,14 @@ selves overstep the Pythagorean bounds, to say nothing here about celestial
 harmonies.
 
 
-Axiom II
+## Axiom 2
 
-To the same extent as the construction of a side is remote from the first degree, the consonance of a part of a circle, cut off by the side, with the whole circle, deviates from the most perfect consonance of
-unison; or, the allotted place of the figure of which it is the side among
-other figures is the same as the place of that consonance among the
-others.
+To the same extent as the construction of a side is remote from the first degree, the consonance of a part of a circle, cut off by the side, with the whole circle, deviates from the most perfect consonance of unison; or, the allotted place of the figure of which it is the side among other figures is the same as the place of that consonance among the others.
 
-This subordinate axiom will be adoptedfor the identification of consonances,
-with respect to their giving pleasure.
+This subordinate axiom will be adoptedfor the identification of consonances, with respect to their giving pleasure.
 
-Axiom III
+
+## Axiom 3
 
 The sides of the regular and star figures which are not constructible
 mark off a part of the circle which is dissonant from the whole circle.

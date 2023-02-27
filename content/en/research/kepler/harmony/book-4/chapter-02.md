@@ -1,104 +1,66 @@
-he Number and Kind of the Faculties
-of the Soul in Accordance with
-the Harmonies.
-We have said so far of the harmonic proportions what they are and
-where they are located; but we do not seem yet to have touched on
+---
+heading: Chapter 1
+title: "The Essence of the Harmonic Proportions, Both Sensible and Intelligible"
+description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+image: /covers/harmony.jpg
+weight: 6
+author: Johannes Kepler
+icon: /icons/kepler.png
+---
+
+
+The Number and Kind of the Faculties of the Soul in Accordance with the Harmonies.
+
+
+The harmonic proportions what they are and where they are located; but we do not seem yet to have touched on
 the question which is appropriate for our intention, because it relates
-not so much to the harmonic proportions themselves as to the har­
-monic faculty of the soul, that is to say the faculty for acting in ac­
-cordance with the proportions. So far, then, we have dealt with the
-proportions from the point of view of their own essence; now we must
+not so much to the harmonic proportions themselves as to the harmonic faculty of the soul, that is to say the faculty for acting in accordance with the proportions. 
+
+So far, then, we have dealt with the proportions from the point of view of their own essence; now we must
 deal with those proportions from the point of view of the soul itself.
-Now there arises a twofold faculty in connection with the har­
-monic proportions, one contemplative, which is mental, or so in a
-sense, the other operative; and the mental one is again twofold; for
-either it is for discovering the actual proportions in abstract quanti­
-ties, or it is for recognizing or noticing the chosen proportions in sen­
-sible things. Then the faculty which hunts for harmonic ratios is the
-same as that which also embraces the remaining branches of knowl­
-edge and the arts, that is to say the higher part of the human mind.
-For nothing is said here about God, inasmuch as it does not hunt for
-Him by contemplation and study but knows Him from eternity.
-That faculty which notices and recognizes the noble proportions
-in sensible things, or even in other things established outside itself,
-is a lower faculty of the soul giving form to the senses from close to,
-or yet lower, that is to say only the vital faculty of the soul, that is
-one which neither contemplates, as is the habit of philosophers, or
-uses logic for this purpose, and does not exist only in Man, but also
-in wild beasts and cattle, and the sublunary soul. You may ask if it
-is not capable of contemplation, and that means it would not be able
-to grasp knowledge of the harmonic proportions, from which it would
-have the ability to recognize them when they were proffered from with­
-out. For to recognize is to compare some external sensible thing with
-ideas which are internal, and to judge that they are congruent. That
-is splendidly expressed by Proclus by the term “awakening,” as if from
-sleep. For just as sensible things which we meet externally make us
-recollect what we had known beforehand, similarly sensible mathe­
-matical things, if they are recognized, therefore, elicit intellectual things
-which are previously present within, so that things now in actuality
-shine forth in the soul which were hidden in it before, as if under
-a veil of potentiality. How, then, did they break in? I reply that the
-ideas or formal causes of the harmonies, in accordance with our earlier
+
+Now there arises a twofold faculty in connection with the harmonic proportions, one contemplative, which is mental, or so in a sense, the other operative; and the mental one is again twofold; for either it is for discovering the actual proportions in abstract quantities, or it is for recognizing or noticing the chosen proportions in sensible things. 
+
+Then the faculty which hunts for harmonic ratios is the same as that which also embraces the remaining branches of knowledge and the arts, that is to say the higher part of the human mind.
+
+For nothing is said here about God, inasmuch as it does not hunt for Him by contemplation and study but knows Him from eternity. 
+
+That faculty which notices and recognizes the noble proportions in sensible things, or even in other things established outside itself, is a lower faculty of the soul giving form to the senses from close to, or yet lower, that is to say only the vital faculty of the soul, that is one which neither contemplates, as is the habit of philosophers, or uses logic for this purpose, and does not exist only in Man, but also in wild beasts and cattle, and the sublunary soul. You may ask if it is not capable of contemplation, and that means it would not be able to grasp knowledge of the harmonic proportions, from which it would have the ability to recognize them when they were proffered from without. 
+
+For to recognize is to compare some external sensible thing with ideas which are internal, and to judge that they are congruent. 
+
+That is splendidly expressed by Proclus by the term “awakening,” as if from sleep. 
+
+For just as sensible things which we meet externally make us recollect what we had known beforehand, similarly sensible mathematical things, if they are recognized, therefore, elicit intellectual things which are previously present within, so that things now in actuality shine forth in the soul which were hidden in it before, as if under a veil of potentiality. How, then, did they break in? I reply that the ideas or formal causes of the harmonies, in accordance with our earlier
 307
-How many
-faculties of
-the soul are
-concerned with
-the harmonies?
-Harmonic ratios
-are innate in
-souls.308
-The soul is in a
-sense a circle.
-The basis of
-influences on
-horoscopes.
+How many faculties of the soul are concerned with the harmonies?
+
+Harmonic ratios are innate in souls.308
+
+The soul is in a sense a circle.
+
+The basis of influences on horoscopes.
 B
 o o k
 IV
-discussion of them, are completely innate in those who possess this
-power of recognition; but they are not after all taken within them by
-contemplation, but rather depend on a natural instinct, and are in­
-nate in them, as the number (something intellectual) of the leaves in
-the flower and of the segments in a fruit are innate in the forms of
-plants. The result of this finding in plants, resembling the harmonic
-ratios (for number and proportion are akin, as was made clear above),
-is that I cannot confidently deny even to the vegetative faculty of the
-soul, and to the plants themselves, the power of recognizing the har­
-monic proportions of the sidereal rays; though I assert nothing with­
-out appropriate tests. It therefore turns out that boys, that primitives,
-peasants, and barbarians, and the very wild beasts, perceive harmonies
-in notes, though they know nothing about the theory of harmony. But
-if you were to ask whence they get this instinct, I shall either take ref­
-uge in God, Who shapes and imposes on bodies these forms, all images
-of Himself, though more or less close, and makes them display the
-harmonic ratios in themselves, just as He has embraced them in His
-mind from eternity, and has expressed them in His creation, as has
-been stated above; or else, which comes to the same thing, I shall ad­
-duce the affinity, touched on in Chapter I, of these souls, even the
-inferior ones, with the circle, in accordance with which, as with a rule
-or law, they have been arranged and shaped, while along with the circle,
-and its constructibility, they have also taken on the idea of the har­
-monic proportions which depend on it. For this philosophy is strongly
-confirmed by horoscopes, as we see that the character of the concur­
-rence of celestial rays at the same point, as if from a common circle,is
-imprinted on the mind of the new born.^^ More on this will follow
-in Chapter 7.
+discussion of them, are completely innate in those who possess this power of recognition; but they are not after all taken within them by contemplation, but rather depend on a natural instinct, and are innate in them, as the number (something intellectual) of the leaves in the flower and of the segments in a fruit are innate in the forms of
+plants. 
 
-Furthermore the media which these lower faculties of the soul use
-to perceive harmonies in externals are the same by which they also
-take the actual external objects within themselves. If they are sensible,
-they are also perceived by the senses, that is to say, by the faculties
-of the soul which give shape to the senses, and which themselves also
-are no less occupied than the higher faculty in the comparison of par­
-ticular things, but by instinct, not by contemplation. So by the hearing
-of a sound, and by the power which controls it, consonances are dis­
-tinguished from dissonances. So architectonic proportions are perceived
-by the eyes, and by that faculty which controls the sight, beautiful and
-congruous proportions are distinguished from the incongruous. How­
-ever, if the things themselves in which the harmonic ratio exists are
-not sensible, but happen to be perceptible by another faculty, by the
-same faculty also the actual proportions of things shine out in the
+The result of this finding in plants, resembling the harmonic ratios (for number and proportion are akin, as was made clear above), is that I cannot confidently deny even to the vegetative faculty of the soul, and to the plants themselves, the power of recognizing the harmonic proportions of the sidereal rays; though I assert nothing with­
+out appropriate tests. 
+
+It therefore turns out that boys, that primitives, peasants, and barbarians, and the very wild beasts, perceive harmonies
+in notes, though they know nothing about the theory of harmony. 
+
+But if you were to ask whence they get this instinct, I shall either take refuge in God, Who shapes and imposes on bodies these forms, all images of Himself, though more or less close, and makes them display the harmonic ratios in themselves, just as He has embraced them in His mind from eternity, and has expressed them in His creation, as has been stated above; or else, which comes to the same thing, I shall adduce the affinity, touched on in Chapter I, of these souls, even the
+inferior ones, with the circle, in accordance with which, as with a rule or law, they have been arranged and shaped, while along with the circle, and its constructibility, they have also taken on the idea of the harmonic proportions which depend on it. For this philosophy is strongly confirmed by horoscopes, as we see that the character of the concurrence of celestial rays at the same point, as if from a common circle, is imprinted on the mind of the new born.^^ More on this will follow in Chapter 7.
+
+Furthermore the media which these lower faculties of the soul use to perceive harmonies in externals are the same by which they also take the actual external objects within themselves. If they are sensible, they are also perceived by the senses, that is to say, by the faculties of the soul which give shape to the senses, and which themselves also are no less occupied than the higher faculty in the comparison of particular things, but by instinct, not by contemplation. 
+
+So by the hearing of a sound, and by the power which controls it, consonances are distinguished from dissonances. So architectonic proportions are perceived by the eyes, and by that faculty which controls the sight, beautiful and
+congruous proportions are distinguished from the incongruous.
+
+However, if the things themselves in which the harmonic ratio exists are not sensible, but happen to be perceptible by another faculty, by the same faculty also the actual proportions of things shine out in the
 soul, just as was found by comparison with the proportions of the
 sidereal rays. How those are perceived by the sublunary soul we shall
 enquire below in Chapter VII.

@@ -10,24 +10,19 @@ icon: /icons/kepler.png
 
 
 
-As sensation bears witness that of strings which are under equal ten­
-sion the longer ones give lower sounds, and the shorter ones give higher
-sounds, hence these linked words, hig-h and low, are the appropriate
-differences in harmony. For individually indeed they belong separately
-to other individual branches of knowledge, in which they are joined
-with other opposites: acute [the same word in Latin as high] with obtuse,
-in geometry; heavy [the same word in Latin as low] with light in physics.
-And in other contexts, sharp [the same word in Latin as high] expresses
-the meaning thin and penetrating; heavy [the same word in Latin as
-low] in matters of sensation is adopted for smells which, like heavy
-weights, on account of their magnitude are less bearable. But high and
-low linked together, and opposed to each other, are used only about
-musical notes. However, they keep some of their original meaning.
-For as in geometry acute is less than obtuse, so also in harmony a high
-note expresses the meaning small, and so penetrating and raised, in
-the Teutonic idiom, and fluttering as if raised aloft, on account of a
-certain lightness. And as in physics heavy things have a great weight,
-and light things a small, so also in this case a low note expresses the
+As sensation bears witness that of strings which are under equal tension the longer ones give lower sounds, and the shorter ones give higher sounds, hence these linked words, hig-h and low, are the appropriate differences in harmony. 
+
+For individually indeed they belong separately to other individual branches of knowledge, in which they are joined with other opposites: acute [the same word in Latin as high] with obtuse, in geometry; heavy [the same word in Latin as low] with light in physics. 
+
+In other contexts, sharp [the same word in Latin as high] expresses the meaning thin and penetrating; heavy [the same word in Latin as low] in matters of sensation is adopted for smells which, like heavy weights, on account of their magnitude are less bearable. 
+
+But high and low linked together, and opposed to each other, are used only about musical notes. 
+
+However, they keep some of their original meaning.
+
+For as in geometry acute is less than obtuse, so also in harmony a high note expresses the meaning small, and so penetrating and raised, in the Teutonic idiom, and fluttering as if raised aloft, on account of a certain lightness. 
+
+As in physics heavy things have a great weight, and light things a small, so also in this case a low note expresses the
 meaning “large”; and as things which are heavy in weight seek the depth
 and what is low, while light things soar up to the heights, so also in
 harmony, a low note on account of its magnitude is considered weighty,
@@ -35,18 +30,21 @@ and so deeper or profound (bass), and a high note, as stated, is con­
 sidered raised. For the fact that on the lute the first string, that is the
 highest, gave out a low sound was due only to its position on the in­
 strument, as still today, and not on account of any similarity of the
-note to things which are light and fluttering aloft. However its position
-on the instrument has a mechanical reason, from the fact that the
+note to things which are light and fluttering aloft.
+
+However its position on the instrument has a mechanical reason, from the fact that the
 end string, that is the last and lowest, had to be struck most frequently
 because it gives the highest sound, as swift motion is convenient for
 small things, and indeed we strike downwards more readily than up­
-wards on account of the shape of the thumb. A further reason is ex­
-perience of the human throat. For not only in general are men domi­
+wards on account of the shape of the thumb.
+
+A further reason is experience of the human throat. For not only in general are men domi­
 nant over women, and grown men over boys, and also give out a lower
 note, as if drawn from a greater depth, but also individual men, as we
 learn from the sense of touch, extract a lower note from a greater depth,
-and a higher from above; and those who sing lowest extend the body
-so that the note may emerge as deeply as possible. Indeed those who
+and a higher from above; 
+
+Those who sing lowest extend the body so that the note may emerge as deeply as possible. Indeed those who
 sing high also stretch their necks, yet not to make their necks long,
 but to tighten more effectively the upper bands of their throats. 
 
@@ -56,10 +54,10 @@ the concept of raised and deep, for which we frequently use high and
 low. Therefore since high and deep are at other times words referring
 to place, the habit of speech, following these its basic principles, also
 adapts to notes what properly belongs to places, that is to say intervals.
-What a diastema
-in Greek 6iaoTfigaTa, “separations.” For it is places which are said to
+What a diastema in Greek 6iaoTfigaTa, “separations.” For it is places which are said to
 or interval is.
-^ distance, 5iioTavai, “be separated.” Lastly, the discipline of har­
+
+distance, 5iioTavai, “be separated.” Lastly, the discipline of har­
 mony has also transferred this word to its pictorial representations
 or staves (which will be treated below), as they consist of high and
 low lines. On that basis the geometrical sense has been restored to
@@ -89,8 +87,10 @@ which is in the direction of the lower notes) the interval which is be­
 tween the lower notes is always called the inferior one, and the one
 which is between the higher notes the superior.
 What equal
+
 And in geometry indeed proportions are recognized as equal even
 intervals are.
+
 terms of One are not equal to the terms of the other, and the
 difference between the terms of one is not equal to the difference be­
 tween the terms of the other. Thus if there are three strings in the
@@ -111,19 +111,17 @@ It therefore follows that we call the intervals which have a smaller
 proportion, smaller [in Latin “minor”] and those which have a greater
 proportion greater [in Latin “major”], without regard to the greatness
 or smallness of the corresponding terms in either case.
-Therefore with these preliminary statements serving as definitions,
-we must now proceed to examine the differences between the intervals.
+
+Therefore with these preliminary statements serving as definitions, we must now proceed to examine the differences between the intervals. 
+
 So far indeed all the proportions which we have shown to be consonant,
-with the sole exception of equality, must be taken to represent the
-^
-same number of intervals which are m like manner consonant; whereas
-the proportions which we have said to be dissonant represent a like
-number of dissonant intervals. However, there is a great difference
-between the dissonant intervals, so that not only are the consonant
+with the sole exception of equality, must be taken to represent the same number of intervals which are m like manner consonant; whereas the proportions which we have said to be dissonant represent a like
+number of dissonant intervals.
+
+However, there is a great difference between the dissonant intervals, so that not only are the consonant
 intervals taught to us by Nature and approved by hearing at her prompt­
 ing, but other smaller intervals are also established by the same sense
-which although
-they J are dissonant are yet
+which although they J are dissonant are yet
 suitable for conveying
 melody.
 ^
@@ -136,28 +134,20 @@ and distinguishes them from the unmelodic, which have no place in
 the flow of any ordered melody. In Greek they are called
 “in
 melody” and 8KM,eX,f|, “outside melody.”
-When the ancients saw this ingenuity of Nature in distinguishing
-between the melodic and unmelodic, they therefore thought they should
-try to find what was the smallest element common to the melodic and
-the consonant, by taking some number of which any consonance or
-melodic interval could be made up. For it seemed necessary that some
-such smallest interval should exist, as simple, and prior in origin to the
+
+When the ancients saw this ingenuity of Nature in distinguishing between the melodic and unmelodic, they therefore thought they should try to find what was the smallest element common to the melodic and the consonant, by taking some number of which any consonance or melodic interval could be made up.
+
+For it seemed necessary that some such smallest interval should exist, as simple, and prior in origin to the
 consonances themselves, which seemed to be made up of such a small­
 est element, inasmuch as some intervals were larger than others.*’’
 Yet the reality is far different, as can be learnt from many examples.
-For if in all species the individuals, which differ in size, are made up
-of one common smallest element, therefore there will be some single
-smallest quantity of the human species; and from some definite number
-of striplings of that kind, as if from elements, any man you like may
-be composed, a lofty one from many, a dwarf from few. For in har­
+
+For if in all species the individuals, which differ in size, are made up of one common smallest element, therefore there will be some single smallest quantity of the human species; and from some definite number of striplings of that kind, as if from elements, any man you like may be composed, a lofty one from many, a dwarf from few. For in har­
 mony the quality known as consonance shapes the proportion of the
 strings, or the interval of the notes, just as much as the shape of a
 man shapes that mass of matter which is surrounded by a man’s skin.
-And why did they forget geometry, in which there are a great many
-examples of every kind of incommensurable quantities, which are
-defined as sharing no common measure whatever, which belongs to
-quantities of the same kind, as a definite quantity of some element
-of their composition
+
+Why did they forget geometry, in which there are a great many examples of every kind of incommensurable quantities, which are defined as sharing no common measure whatever, which belongs to quantities of the same kind, as a definite quantity of some element of their composition
 
 
 Therefore we must accept that consonant intervals (except in cases
@@ -168,89 +158,74 @@ sign of commensurability, yet these differences, not of course being
 simple numbers but fractions, are not an aliquot part or aliquot parts
 of the differing terms, in relation to any number. For instance the two
 proportions 1:2 and 1:4 are to each other as the number 1 to the
-number 2. They are, then, commensurable, for 1:4 is twice T2. There
-is room for this in the series of continuous doubling alone.**” For in
+number 2. They are, then, commensurable, for 1:4 is twice T2. 
+
+There is room for this in the series of continuous doubling alone.**” For in
 the series of triples, and the other multiples, two consonant propor­
-tions do not occur. Thus 1:9 is indeed triple 1:3; but only 1:3 is among
-the consonances, and T9 is among the dissonances, by Axiom 111. We
-can see the same thing in non-multiples. Thus in the case of the sesqui-
-alterate proportion, 2:3, a consonance, its multiple certainly occurs
+tions do not occur.
+
+
+Thus 1:9 is indeed triple 1:3; but only 1:3 is among the consonances, and T9 is among the dissonances, by Axiom 111. We
+can see the same thing in non-multiples. 
+
+Thus in the case of the sesqui-alterate proportion, 2:3, a consonance, its multiple certainly occurs
 and is thus commensurable; for 4:9 is to 2:3 as the number 2 is to
-1, but 4:9 is not among the consonances. On the contrary two others
-are consonant, as in the series of continuous doubles, like T4 and 2:3.
+1, but 4:9 is not among the consonances.
+
+On the contrary two others are consonant, as in the series of continuous doubles, like T4 and 2:3.
 These two proportions are not commensurable with each other, that
 is, they are not as number to number; for the excess of T 4 over 2:3,
 3:8, is not measurable by either T4 or 2:3.
-Therefore the consonant intervals are by nature prior to the smaller
-intervals which we name melodic; and they are not composed of melodic
-intervals as if of elements, or of some smaller quantity, but on the
-contrary the melodic intervals arise from the consonances, as if from
-causes.
 
-At this point we must take note that the word “composition” is ambiguous. Sometimes it denotes the natural origin of a thing, some times however the quantitative division of a thing, which is not an
-origin, but rather a destruction, as when we say that a circle is made
-up of three thirds, first mentally dividing the circle into three, or
-when we say that the human body is composed of members, not
-because the members existed before the body, and the body was as­
-sembled and constructed from them, as a house is from stones and
-wood, but because the body in virtue of its bulk is divisible into these
-members, which separately and independently are no longer a functional body.
+Therefore the consonant intervals are by nature prior to the smaller intervals which we name melodic; and they are not composed of melodic intervals as if of elements, or of some smaller quantity, but on the contrary the melodic intervals arise from the consonances, as if from causes.
+
+At this point we must take note that the word “composition” is ambiguous. Sometimes it denotes the natural origin of a thing, some times however the quantitative division of a thing, which is not an origin, but rather a destruction, as when we say that a circle is made up of 3 thirds, first mentally dividing the circle into three, or
+when we say that the human body is composed of members, not because the members existed before the body, and the body was assembled and constructed from them, as a house is from stones and wood, but because the body in virtue of its bulk is divisible into these members, which separately and independently are no longer a functional body.
 
 
-In the former sense we must say that consonant intervals are com ­
-posed neither of other consonances nor of melodic intervals. In the
-latter sense the consonant intervals, which are larger, certainly do con­
-sist, and are thus in a sense composed (as we ourselves have assumed
-previously) of the smaller consonances, and the smallest consonances
+In the former sense we must say that consonant intervals are composed neither of other consonances nor of melodic intervals. 
+
+In the latter sense the consonant intervals, which are larger, certainly do consist, and are thus in a sense composed (as we ourselves have assumed previously) of the smaller consonances, and the smallest consonances
 of melodic intervals, and so on, because they are analyzed into these
 elements, so to speak; but the various intervals among themselves
 do not consist of some larger number of intervals of a single very
 small kind, common to each other, and cannot be analyzed into any
 such.
-However, the consonant intervals also have related causes, yet they
-do not all have the same cause, but each its own special cause, distinct
-from the others’ causes, as has been explained previously. For conso­
-nance is a property of the actual intervals, not according to their quan­
-tity directly, nor directly according to their relationships, but accord­
-ing to their relationships qualitatively (that is, in a sense, as figured).
-Thus to seek to establish a smallest interval which is common to them
-is inappropriate, since smallest and greatest are observed not in qual­
-ities but in bare quantities and in their proportions, whereas to divide
+
+However, the consonant intervals also have related causes, yet they do not all have the same cause, but each its own special cause, distinct from the others’ causes, as has been explained previously. 
+
+For consonance is a property of the actual intervals, not according to their quantity directly, nor directly according to their relationships, but according to their relationships qualitatively (that is, in a sense, as figured).
+
+Thus to seek to establish a smallest interval which is common to them is inappropriate, since smallest and greatest are observed not in qualities but in bare quantities and in their proportions, whereas to divide
 consonances, as consonances, is to destroy a kind of consonance, and
 in its place to establish either other kinds of consonance, or dissonant
 melodic intervals, or even downright unmelodic intervals. An interval
 therefore does not take the causes or elements of its consonance from
 parts as if they were basic principles, in the same way as commensurable
 quantities are built up by the multiplication of a common measure,
-and along with that measure belong to one and the same type. On
-the contrary, what the ancients took to be the basic principles of con­
-sonances (tones, I mean, and semitones and dieses”^) originate from
-the consonances as their true basic principles.
+and along with that measure belong to one and the same type. 
+
+On the contrary, what the ancients took to be the basic principles of consonances (tones, I mean, and semitones and dieses”^) originate from the consonances as their true basic principles. 
+
 For although the consonances do consist of these melodic inter- The type of a
 vals which are not consonant (if not from a single one in common, consonance as
-^
 such does not
 at least from several combined with each other in various ways), yet arise from
 that must not be attributed to the actual consonance of the interval,
-number of
-melodic intervals
-For if the melodic intervals imparted to a larger interval, which was
-composed of them, its own consonance, that would always occur in
-any multiple of melodic intervals, and the more melodic intervals there
-were in it, the better would be the consonance. However that is false,
-for as we shall hear below, two tones combined make a consonance,
+number of melodic intervals
+
+For if the melodic intervals imparted to a larger interval, which was composed of them, its own consonance, that would always occur in any multiple of melodic intervals, and the more melodic intervals there were in it, the better would be the consonance. However that is false, for as we shall hear below, two tones combined make a consonance,
 three combined make up a dissonant interval.
-Nevertheless the fact that a consonance can be analyzed into dis­
-sonant melodic intervals, as will follow, is clearly accidental to that
-consonance considered on its own, and occurs only insofar as several
+
+Nevertheless the fact that a consonance can be analyzed into dissonant melodic intervals, as will follow, is clearly accidental to that consonance considered on its own, and occurs only insofar as several
 
 consonances are compared with each other, each originating from
 its own basic principles.
-Therefore melodic intervals are defined as being all the differences
-between consonances which are smaller than the double interval;’”
-and the natural faculty of hearing does not admit any other intervals
-as melodic but those which arise from this subtraction. Thus the con­
-sonant intervals take their origin from geometry and the construct-
+
+Therefore melodic intervals are defined as being all the differences between consonances which are smaller than the double interval and the natural faculty of hearing does not admit any other intervals
+as melodic but those which arise from this subtraction. 
+
+Thus the consonant intervals take their origin from geometry and the construct-
 ible figures, but the melodic intervals from the actual consonances;
 and the melodic intervals stand in relation to the consonances just
 as in geometry the Apotomae (inexpressible lines) stand to those ex­
@@ -357,27 +332,27 @@ its two rectangles 35 and 63. But here the melodic interval 9:10 is ban­
 ished, and most of the consonances, except 3:4. It is therefore fortu­
 itous, depending on the order of the numbers and the structure of
 this diagram.
-In vain will the arithmetician seek causes from this direction, in
-vain will the Pythagorean be obsessed by his fascination with the seven­
-fold, as a counting number: the matter must be pursued more deeply
+
+In vain will the arithmetician seek causes from this direction, in vain will the Pythagorean be obsessed by his fascination with the sevenfold, as a counting number: the matter must be pursued more deeply
 in geometry, and in the counted and figured numbers, that is to say
 in the inconstructible figures themselves, of which the first is the hepta­
-gon. For what prevents the possibility of the diagram’s being continued
-beyond ten, with the nature of the melodic interval following, is now
-no longer the sevenfold, but the other numbers belonging to incon­
+gon. 
+
+For what prevents the possibility of the diagram’s being continued beyond ten, with the nature of the melodic interval following, is now no longer the sevenfold, but the other numbers belonging to incon­
 structible figures, 9 and 11, which make the rectangle 99, which with
 100, the square of the tenfold, makes up an interval which is totally
 abhorrent to the nature of melody. So great a difference is there be­
 tween axioms of conjecture and axioms of knowledge.
+
 The order of the melodic intervals in perfection, and their names.
-We have spoken so far of the origin and order of the intervals which
-are less than consonances. Now we must also speak of the differences
-between them, and of their names, which we could not keep absolutely
-the same as the ancients, since we shall have to differ from them on
-these matters and on their causes.
-Therefore it is in agreement with what has been said above, espe­
-cially Axiom II, that of those intervals which belong to the nature of
-the melodic, each one retains the nature of the consonances from which
+
+<!-- We have spoken so far of the origin and order of . Now we must also speak of -->
+
+What are the differences between the intervals which are less than consonances? 
+- What are their names?
+- We could not keep them absolutely the same as the ancients since we differ from them on these matters and on their causes.
+
+Therefore it is in agreement with what has been said above, especially Axiom II, that of those intervals which belong to the nature of the melodic, each one retains the nature of the consonances from which
 it is established. Therefore, since of the consonances which are smaller
 than the double interval, the most perfect are 2:3 and 3:4, on account
 of the nobility of the figures from which they

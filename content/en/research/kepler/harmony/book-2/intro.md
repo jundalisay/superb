@@ -1,8 +1,7 @@
 ---
-linkTitle: "Shapes"
-title: "The Origin, Classes, Order, And Distinguishing Features Of The Regular Shapes" 
-description: "Proclus Diadochus in Book I of his Commentary on Euclid Book I. â€œ(Mathematics) contributes things of the greatest importance to the study of nature, both revealing the orderly nature of the reasoning, in accordance with which the w h o l e has been constructed, and so on, and showing that the simple and primary elements, by means of which the whole of the heaven was completed, having taken on the appropriate forms among its parts, are connected together with symmetry and regularity."
-weight: 2
+title: "Introduction" 
+description: "Book 2 will explain a property they show when they are combined with one another, as it were their Effect in the realm of Geometry, which is Congruence or Unsociability"
+weight: 4
 image: "/covers/harmony.jpg"
 ---
 
@@ -11,10 +10,9 @@ Book 1 explained the essential nature of individual regular shapes as they are â
 
 Book 2 will explain a property they show when they are combined with one another, as it were their Effect in the realm of Geometry, which is Congruence or Unsociability. 
 
-Constructibility and Congruence do not produce classes of the same width, since the former property concerns individual figures, and by the repeated doubling of the number of sides of the polygons concerned the property extends to an infinite number of figures, whereas the rules that set limits to the latter property bring many figures together into one group, but an increase in the angle of the polygon is a hindrance, and the group closes quickly. Whichever
-degree of knowledge and construction we choose, and there is a great
-difference in nobility between the ones we have discussed and those
-we have dismissed without giving them a name, yet rank in constructibility does not always go side by side with rank in Congruence, for the one is not the cause of the other but, rather, they have a common cause (that is, the individual character of the angle of the figure), although each depends on it according to its own rules. The necessity
+Constructibility and Congruence do not produce classes of the same width, since the former property concerns individual figures, and by the repeated doubling of the number of sides of the polygons concerned the property extends to an infinite number of figures, whereas the rules that set limits to the latter property bring many figures together into one group, but an increase in the angle of the polygon is a hindrance, and the group closes quickly. 
+
+Whichever degree of knowledge and construction we choose, and there is a great difference in nobility between the ones we have discussed and those we have dismissed without giving them a name, yet rank in constructibility does not always go side by side with rank in Congruence, for the one is not the cause of the other but, rather, they have a common cause (that is, the individual character of the angle of the figure), although each depends on it according to its own rules. The necessity
 of this part of our speculation is clear from the over all design of the work. 
 
 For, since we have taken it upon ourselves to explain the origin of Harmony and its most powerful effects in the World as a whole, how could we omit to mention congruence of the figures which are the well-springs of Harmonic proportions? Since the Latin words congruere and congruentia mean the same as the Greek dpixoiieiv and dpgovfa? 

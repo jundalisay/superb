@@ -1,3 +1,14 @@
+---
+heading: Chapter 1
+title: "The Essence of the Harmonic Proportions, Both Sensible and Intelligible"
+description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+image: /covers/harmony.jpg
+weight: 6
+author: Johannes Kepler
+icon: /icons/kepler.png
+---
+
+
 What are the Types of “The Harmonized,” That Is, of the Things Whether Sensible
 or Immaterial in Which the Harmonies Have Been Expressed, Whether by God
 or Man, and in What Way?

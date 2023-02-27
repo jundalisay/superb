@@ -1,3 +1,14 @@
+---
+heading: Chapter 1
+title: "The Essence of the Harmonic Proportions, Both Sensible and Intelligible"
+description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+image: /covers/harmony.jpg
+weight: 6
+author: Johannes Kepler
+icon: /icons/kepler.png
+---
+
+
 Explanation of Order
 
 We have set out the harmonic proportions, considered in the abstract,

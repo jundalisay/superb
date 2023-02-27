@@ -51,6 +51,7 @@ Atheists strive to get disciples just like the other sects.
 But if they truly thought that there were no God then they would not trouble themselves.
 
 Epicurus is charged, that he did but dissemble for his credit's sake, when he affirmed there were blessed natures, but such as enjoyed themselves, without having respect to the government of the world. 
+
 Wherein they say he did temporize; though in secret, he thought there was no God. 
 
 But certainly he is traduced. His words are noble and divine: Non deos vulgi negare profanum; sed vulgi opiniones diis applicare profanum.
