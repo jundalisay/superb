@@ -3,7 +3,7 @@ heading: Part 46
 title: "Measurements"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg
-weight: 6
+weight: 28
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---

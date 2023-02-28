@@ -3,16 +3,14 @@ heading: Chapter 1c
 title: "The Causes of Consonances"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg
-weight: 4
+weight: 8
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---
 
 
 
-## Proposition 1
-
-The consonance of a half with the whole, apart from unison, is the only one which is in the first degree simple, perfect and identical, that is identical by opposition.
+## Proposition 1: The consonance of a half with the whole, apart from unison, is the only one which is in the first degree simple, perfect and identical, that is identical by opposition.
 
 For that which is in the nature of a figure is made up of diverse elements, and is therefore not simple or identical. For a figure has area, and parts in respect of its area, and angles which dijfer in position. 
 
@@ -21,7 +19,7 @@ On the other hand that which is not in the nature of a figure, because of course
 The regular figures are in fact of the former kind, when they are inscribed in a circle; the diameter of a circle
 is of the latter kind. 
 
-For 
+For:
 
 1. all the sides offigures diverge equally from the center: the diameter passes through the center itself.
 
@@ -62,7 +60,7 @@ Yet notice also the fact that other parts also are identical consonances althoug
 propositions.
 
 
-## Proposition 2
+## Proposition :
 
 If of two parts of a circle the smaller is to the larger as the larger is to the whole circle, in some other proportion than successive doubling, then if the larger is in consonance with the whole circle, the smaller
 part will be in dissonance with it.
@@ -95,24 +93,17 @@ For if it had not had this derivation their consonances would not have been iden
 Furthermore consonances derived from figures of the tetragonal class would in some way have amplified themselves to the hearing, and stretched the mind by the manifest variety and diversity of their notes, as do the conso­
 nances which come from the other figures, which consist of a number of sides
 which is not a product of successive doubling, by Proposition I.
-However not all power has been removedfrom this class offigures of varying
-the consonances and diverting them from the purity of identical consonance
-(just as they themselves have regressed from the simplicity of the diameter). For
-first, although the consonance of the part of the circle cut off by the figure is
-converted into pure identical consonance (on account of the said derivation
-of the parts of the circle, from the original bisection), yet the degrees of identical
-consonance become more remote, for the smaller which is in identical conso­
-nance by opposition with the one next larger than itself becomes continually
-higher in pitch as the points of opposition are multiplied. Thus the intervals
-of the notes continually increase. Secondly, identical consonance does indeed
-remain in the part (as in division by the diameter), but not at all in the re­
-mainder; for this remainder in the later figures becomes continually inferior
-as far as its harmonic nature is concerned. But there follow particular prop­
-ositions about such remainders.
-And on the other hand, it is not only the tetragonal class which generates
-identical consonances; but also the other classes, to the same extent as they par­
-take of bisection, also make identical consonances. For the part of a circle cut
-off by the side of a subsequent figure is always in identical consonance with
-the part cut off by the side of an antecedent figure, as the remaining propositions
-relate. Thus the analogy holds good in all its branches.
-The application of this proposition is in the following one.
+
+However not all power has been removedfrom this class offigures of varying the consonances and diverting them from the purity of identical consonance (just as they themselves have regressed from the simplicity of the diameter).
+
+For first, although the consonance of the part of the circle cut off by the figure is converted into pure identical consonance (on account of the said derivation of the parts of the circle, from the original bisection), yet the degrees of identical consonance become more remote, for the smaller which is in identical consonance by opposition with the one next larger than itself becomes continually higher in pitch as the points of opposition are multiplied. 
+
+Thus the intervals of the notes continually increase.
+
+Secondly, identical consonance does indeed remain in the part (as in division by the diameter), but not at all in the remainder; for this remainder in the later figures becomes continually inferior as far as its harmonic nature is concerned. But there follow particular propositions about such remainders.
+
+On the other hand, it is not only the tetragonal class which generates identical consonances; but also the other classes, to the same extent as they partake of bisection, also make identical consonances. 
+
+For the part of a circle cut off by the side of a subsequent figure is always in identical consonance with the part cut off by the side of an antecedent figure, as the remaining propositions relate.
+
+Thus the analogy holds good in all its branches. The application of this proposition is in the following one.

@@ -2,12 +2,12 @@
 heading: "Section 6"
 title: "Privileges for the Senior Citizens"
 image: "/photos/consult.jpg"
-weight: 26
+weight: 10
 description: "Expanded Senior Citizens Act of 2010"
 ---
 
 
-## SEC. 6. The Office for Senior Citizens Affairs (OSCA)
+## Section 6: The Office for Senior Citizens Affairs (OSCA)
 
 An OSCA will be established in all cities and municipalities to be headed by a senior who shall be appointed by the mayor for a term of 3 years without reappointment but without prejudice to an extension if exigency so requires. 
 
@@ -52,6 +52,8 @@ Sec. 7. Section 10 of the same Act, as amended, is hereby further amended to rea
 “If the offender is an alien or a foreigner, he/she shall be deported immediately after service of sentence.
 
 “Upon filing of an appropriate complaint, and after due notice and hearing, the proper authorities may also cause the cancellation or revocation of the business permit, permit to operate, franchise and other similar privileges granted to any person, establishment or business entity that fails to abide by the provisions of this Act.”
+
+
 
 ## SEC. 11. Monitoring and Coordinating Mechanism
 

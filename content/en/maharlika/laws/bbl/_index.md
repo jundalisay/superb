@@ -1,4 +1,5 @@
 ---
+heading: RA 11054
 title: "Bangsamoro Basic Law"
 image: "/covers/bbl.jpg"
 weight: 1

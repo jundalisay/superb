@@ -1,45 +1,48 @@
 ---
-heading: Part 1-10
-title: "THE CONGRUENCE OF REGULAR FIGURES"
-description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+heading: Parts 12-18
+title: "Plane Congruence"
+description: "Congruent Plane Shapes is when they either enclose a solid figure or fill the plane without leaving a gap, the figures themselves being regular or semiregular"
 image: /covers/harmony.jpg
-weight: 6
+weight: 8
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---
 
 
-##  Definition 13
+## Part 12: Congruent Plane Shapes
+
+This is when they either enclose a solid figure or fill the plane without leaving a gap, the figures themselves being
+regular or semiregular.
 
 
-Let us call incongruent those regular plane figures inscribed in a circle (if they can be inscribed) which not only cannot form, either alone or with other plane figures of their own or another class, a solid figure, other than a somewhat imperfect one, which can be inscribed in a spherical surface, but also cannot cover the plane, either by themselves or with stars of their own class, or with figures and stars of another class around them.
 
-Note that I have excluded the heptagon and suchlike figures, despite the fact that two parallel heptagons together with seven square or fourteen regular triangles do form a completely closed solid figure, because only two heptagons are involved, and the figure formed is discus-shaped, like a plane, not globe-shaped, like a sphere. See the figures marked A and B in the engraved plate following page 
+## Part 13: Incongruent
 
-The fifteen-sided figure is also excluded in the same way,
-despite the fact that some of its angles may be surrounded by related figures
-to cover the plane, because in this case the figure is not completely surrounded
+These regular plane shapes inscribed in a circle (if they can be inscribed) which cannot form either alone or with other plane shapes of their own or another class, a solid figure, other than a somewhat imperfect one, which can be inscribed in a spherical surface. 
+
+They are also unable to cover the plane, either by themselves or with stars of their own class, or with figures and stars of another class around them.
+
+I have excluded the heptagon and suchlike figures, despite the fact that 2 parallel heptagons together with 7 square or 14 regular triangles do form a completely closed solid figure, because only two heptagons are involved. 
+
+The shape formed is discus-shaped, like a plane, not globe-shaped, like a sphere. See the figures marked A and B in the engraved plate following page 
+
+The 15-sided figure is also excluded in the same way, despite the fact that some of its angles may be surrounded by related figures to cover the plane, because in this case the figure is not completely surrounded
 at all its angles.
 
-## Proposition 14
 
-At least three plane angles are required to form a congruence in the plane.
+## Proposition 14: At least three plane angles are required to form a congruence in the plane
 
-For around any meeting-point the sum of the angles is four right angles.
+Around any meeting-point the sum of the angles is four right angles.
 
 But no figure has an angle greater than two right angles, therefore two such angles are less than four right angles. So two of them cannot fill the plane, by Definition 1.
 
 
-## Proposition 15
-
-At least three plane angles must fit together or rise up to form a solid angle.
+## Proposition 15: At least three plane angles must fit together or rise up to form a solid angle
 
 For two plane angles would meet not only at their sides but with their whole surfaces, which is contrary to Euclid’s definition of a solid angle.
 
 
-## Proposition 16
-
-The sum of angles congruent in the plane is always four right angles, never more. 
+## Proposition 16: The sum of angles congruent in the plane is always four right angles, never more
 
 The sum of angles which form a solid congruence is less than 4 right angles.
 
@@ -52,19 +55,21 @@ On the other hand, if the angles fitted together in the plane leave a gap, that 
 Figure H in the engraved plate, following page 53,'-’ shows three pentagons lying in the plane and leaving a gap.
 
 
-## Proposition 17
-
-A figure with an odd number of sides, around which figures of 2 kinds are fitted, cannot form a congruence which is the same at every angle, either in the plane or in space.
+## Proposition 17: A figure with an odd number of sides, around which figures of 2 kinds are fitted, cannot form a congruence which is the same at every angle, either in the plane or in space
 
 For one angle of the figure will have the same figure on both sides of it, which is not the case for the other angles. The reason for this can be seen in figure C of the engraved plate below.
 
 
-## Proposition 18
+## Proposition 18: There are only 3 ways in which the plane can be filled most perfectly around a point.
 
-There are only three ways in which the plane can be filled most perfectly around a point, in each case using figures of only one kind: by using six trigons, or four tetragons, or three hexagons.
+Each case uses shapes of only 1 kind, by using:
+- 6 trigons
+- 4 tetragons or
+- 3 hexagons.
 
 Book 1 Part 33 said that the angle of a trigon is 2/3 of a right angle. Therefore the 6 angles of 6 trigons are 12 thirds,
 D.
+
 that is four whole right angles. See D.^^
 
 Similarly, the angle of a tetragon is one right angle. Therefore, the 4 angles of 4 tetragons make 4 right angles. 

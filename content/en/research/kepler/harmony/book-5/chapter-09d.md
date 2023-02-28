@@ -1,4 +1,15 @@
-XVI. Proposition
+---
+heading: Chapter 26
+title: "The Relationship of the Harmonic"
+description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+image: /covers/harmony.jpg
+weight: 24
+author: Johannes Kepler
+icon: /icons/kepler.png
+---
+
+
+## Proposition 16
 
 The proportions of the motions of Venus and Mercury combined, their own in each case, should have amounted to about 5:12.
 For divide the smaller harmonic proportion, 3:5, attributed in common to this pair, by Proposition XV, into the greater of them, 1:4 or 3:12, by Xll. 
@@ -9,16 +20,18 @@ This is to be understood from these primary arguments.
 
 For below by the secondary arguments, with the inclusion of the common harmonies of the two as a kind of yeast, it will turn out that Mercury's own proportion alone holds 5:12.
 
-XVII. Proposition
+
+
+## Proposition 17
 
 The harmony of the divergent motions of Mars and the Earth could not have been less than 5:12.
 
-For Mars alone in its motions' own proportion has got more than a diatessaron, and more than 18:25 by XIV. Now their lesser harmony is a diapente, 2:3, by XV. Therefore these two parts combined make 12:25. But the Earth also
-must have its own proportion, by Axiom IV. Then since the harmony of the
-divergent motions consists of the three elements stated, that will be greater than
-12:25. But the harmony next greater than 12:25, or 60-125, is 5-12, that is
-to say 60-144. Hence if a harmony is needed for this greater proportion of the
-motions of the two planets, by Axiom I it cannot be less than 60:144 or 5-12.
+For Mars alone in its motions' own proportion has got more than a diatessaron, and more than 18:25 by XIV. Now their lesser harmony is a diapente, 2:3, by XV. Therefore these two parts combined make 12:25. But the Earth also must have its own proportion, by Axiom 4. 
+
+Then since the harmony of the divergent motions consists of the three elements stated, that will be greater than 12:25. But the harmony next greater than 12:25, or 60-125, is 5-12, that is to say 60-144. 
+
+Hence if a harmony is needed for this greater proportion of the motions of the two planets, by Axiom I it cannot be less than 60:144 or 5-12. 
+
 Up to this point, therefore, all the other pairs of planets have been fitted to their pairs o f harmonies by necessary arguments. 
 
 Only the pair of the Earth and Venus so far has been allotted one harmony alone, 5:8, by the Axioms adopted until now. We shall therefore now search further for its other harmony, that is the greater, or that of

@@ -3,13 +3,10 @@ heading: Chapter 2
 title: "Corollaries"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg
-weight: 4
+weight: 14
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---
-
-
-
 
 
 The harmonic divisions of a single string are seven in number, not more.

@@ -1,9 +1,9 @@
 ---
 heading: Part 49
-title: "Measurements"
-description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+title: "Classes of Bisections"
+description: "The proper form of bisection is used in the first class of figures"
 image: /covers/harmony.jpg
-weight: 6
+weight: 32
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---

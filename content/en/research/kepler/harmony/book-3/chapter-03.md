@@ -3,7 +3,7 @@ heading: Chapter 3
 title: "The Harmonic Means, and the Trinity of Consonant Sounds"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg
-weight: 4
+weight: 16
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---

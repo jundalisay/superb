@@ -1,9 +1,9 @@
 ---
-heading: Part 33
+heading: Part 33-36
 title: "Measurements"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg
-weight: 6
+weight: 16
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---
@@ -24,7 +24,7 @@ each angle of the figure].
 
 
 
-##  XXXIV Proposition
+## Proposition 34
 
 A circle is cut by Geometrical description^"* into two equal parts; and the line bisecting it is known by first degree knowledge: for it is itself the Diameter.
 
@@ -39,32 +39,28 @@ Now the diameter is itself the Expressible line proposed as the Measure
 of others; it is equal to itself, and its own perfect Measure, the basis^’^ of
 Geometrical knowledge.
 
-XXXV Proposition
 
-The side of the Tetragon derives its Geometrical description [method
-of drawing] from its angles, if it is drawn independently of a circle
-{extra circulum) and if it is inscribed in a circle this description is of
-the third degree of kno wledge,the description of its square^^ is
-of the second degree, and so is that of the area of the figure.
-Let the Tetragon be OQPR, its angle, by XXXIII of this book, is a right
-angle, so by Euclid 1.46^^^ it is easy, given the side, to describe (draw) the
-Tetragon.
-Since it has four angles it has the same number of sides;
-thus two sides that meef^^ cut off two quarters of the
+## Proposition 35
+
+The side of the Tetragon derives its Geometrical description [method of drawing] from its angles, if it is drawn independently of a circle {extra circulum) and if it is inscribed in a circle this description is of the third degree of kno wledge,the description of its square is of the second degree, and so is that of the area of the figure.
+
+Let the Tetragon be OQPR, its angle, by XXXIII of this book, is a right angle, so by Euclid 1.46^^^ it is easy, given the side, to describe (draw) the Tetragon.
+
+Since it has 4 angles it has the same number of sides; thus two sides that meef^^ cut off two quarters of the
 P
-Circle, that is half the circle. So by XXXIV of this book
-the end-points of contiguous sides lie on a diameter of the
-B 1 Xt
-circle. As QO, QP, which form the right angle OQP in the
-semicircle OQP, have their end-points 0,P lying on the di­
+Circle, that is half the circle. So by XXXIV of this book the end-points of contiguous sides lie on a diameter of the
+B 1 Xt 
+circle. 
+
+As QO, QP, which form the right angle OQP in the semicircle OQP, have their end-points 0,P lying on the di­
 O
 *
-ameter OLP of the circle. So by Eiwlid 1.47 the [sum of
-the] squares of the two sides OQ QP is equal to the square
-of the diameter.^^"^ And if [an area equal to] a half of the square of the diameter
-is redrawn in the shape of a square, by Euclid 11.14 the side of this square will
-be the side of the Tetragon.^^‘^ So the square of the side is Expressible.
-And because the ratio of the square OP to the square OQ is 2 to 1, not
+ameter OLP of the circle. So by Eiwlid 1.47 the [sum of the] squares of the two sides OQ QP is equal to the square
+of the diameter.
+
+If [an area equal to] a half of the square of the diameter is redrawn in the shape of a square, by Euclid 11.14 the side of this square will be the side of the Tetragon.
+
+So the square of the side is Expressible. And because the ratio of the square OP to the square OQ is 2 to 1, not
 the ratio of a square number to a square Number; [and] OP is in fact Expressible
 in length: therefore the side OQ is Expressible only in square, by Euclid X.9.
 
@@ -73,72 +69,57 @@ so the area of the Figure is also Expressible.
 
 
 
-XXXVI Proposition
-The side of the Octagon has a Geometrical description from its Angles,
-as equally does the side of the star Octagon, being the chord subtend­
-ing three eighths of a circle, and they [the sides] are of the eighth degree
-of knowledge, individually, the former being an Elasson, the latter
-a Mizon; combined, they [the sides] are of the sixth degree [of knowl­
-edge], and bear a particular proportion one to another.’*^'’ In short,
+## Proposition 36
+
+The side of the Octagon has a Geometrical description from its Angles, as equally does the side of the star Octagon, being the chord subtending three eighths of a circle, and they [the sides] are of the eighth degree
+of knowledge, individually, the former being an Elasson, the latter a Mizon; combined, they [the sides] are of the sixth degree [of knowledge], and bear a particular proportion one to another.’*^'’ In short,
 the area is inexpressible, in fact a Medial.
-Let the octagon be UQTX)XRSP, and the star UOSQXPTRU^^^: therefore
-when a pair of lines, say QT, TO, containing the
+
+
+Let the octagon be UQTX)XRSP, and the star UOSQXPTRU^^^: therefore when a pair of lines, say QT, TO, containing the
 ti
 octagon angle QTO, have a line drawn through their
 other ends Q, O, the connecting line is the side of
 a Tetragon, because half of eight is four.
-Therefore, after a Tetragon has been constructed
-in the circle (to leave out other ways of constructing
-the Octagon), let there he drawn from the center L
-a perpendicular to its side 0(^ to cut the side in M
-and the arc in T, by using [the construction given
-in] Euclid 7 . 7 2 , Then, by Euclid 111.30,^^^^ the two
-parts of the quarter circle OQ namely the arcs OT, TQ, will be equal. Joining
-the points O and T will give the line OT as the side of the Octagon, and joining
-O, S will give OS as the side of the star [octagon].
-Joining the center L with Qy because QML is a right angle, therefore QL
-[which is] Expressible in length, is, [when] squared, equal to the sum of the
-squares of (JM and ML. Moreover, the semidiameter QL, squared, is equal to
-twice the square of QM, half the side of the square. Therefore QM and ML
+
+Therefore, after a Tetragon has been constructed in the circle (to leave out other ways of constructing
+the Octagon), let there he drawn from the center L a perpendicular to its side 0(^ to cut the side in M
+and the arc in T, by using [the construction given in] Euclid 7 . 7 2 , Then, by Euclid 111.30, the 2
+parts of the quarter circle OQ namely the arcs OT, TQ, will be equal. Joining the points O and T will give the line OT as the side of the Octagon, and joining O, S will give OS as the side of the star [octagon].
+
+Joining the center L with Qy because QML is a right angle, therefore QL [which is] Expressible in length, is, [when] squared, equal to the sum of the squares of (JM and ML.
+
+Moreover, the semidiameter QL, squared, is equal to twice the square of QM, half the side of the square. Therefore QM and ML
 are equal, and each is Expressible only in square, by section XXXV above.^^^
-Thus the square of LQ exceeds that of LM by the square of the line MQ which
 
+Thus the square of LQ exceeds that of LM by the square of the line MQ which in length is incommensurable with the line LQ But LQ and LS, and LT are equal.
 
-in length is incommensurable with the line LQ But LQ and LS, and LT are
-equal. Therefore the compound line SM will be a fourth Binomial, whose Terms
-are SL and LM, by the definitions before Euclid X.48.'^^ The remainder M T
-will be a fourth Apotome, whose Terms are TL and LM, by the definition before
-Euclid X. 5 5 . 1'2
-And because MS is a fourth binomial, and ST is expressible, therefore, by
-Euclid
-the line QS, which when squared is equal to the Rectangle con­
-tained by them,^^^ is a Mizon: thus because TM is a fourth Apotome, and TS
-is expressible: therefore TQ the side of the Octangle, which when squared is
-equal to the rectangle contained by MT, TS, is an Elasson, by Euclid X.94.^^^
+Therefore the compound line SM will be a fourth Binomial, whose Terms are SL and LM, by the definitions before Euclid X.48.'^^ The remainder M T will be a fourth Apotome, whose Terms are TL and LM, by the definition before
+Euclid X. 5 5 . 1'2 
+
+And because MS is a fourth binomial, and ST is expressible, therefore, by Euclid
+the line QS, which when squared is equal to the Rectangle contained by them,^^^ is a Mizon: thus because TM is a fourth Apotome, and TS is expressible: therefore TQ the side of the Octangle, which when squared is
+equal to the rectangle contained by MT, TS, is an Elasson, by Euclid X.94.
+
 The elements of these lines are shown in the diagram as PA, the greater
 one, and AT, the smaller one. For adding AT to PA gives PT, the side of the
 star: and on the other hand taking TA away from either PA or YT leaves AY,
 that is QU the side of the Octagon. That is to say, the Elasson TQ squared,
 is twice the square of the Prosharmozusa TA; and the side of the Tetragon QP,
 squared, is equal to the sum of the squares of the elements PA and AQ that
-is AT.^^^
-And the ratio of PX, a Mizon, to the greater of the Elements PA, is the
-same as the ratio of TQ an Elasson, to the smaller of the Elements TA, and
-in turn the ratio of the greater of the elements PA to the smaller AT is equal
-to the ratio of the Mizon PX to the Elasson TQ As the greater is to the smaller;
-so the sum is to the difference.^'^'^
-Now these sides SQ QT are not only Mizon and Elasson; but are also lines
-such that other such lines can be made from them by addition or subtraction.
-For, first, they are incommensurable with one another, second, the sum of the
-squares of TQ QS is equal to the square of the expressible line TS. Third, the
-Rectangle contained by TQ QS is a Medial for it is equal to the rectangle con­
-tained by QM, half the side of the Tetragon, expressible only in square, and
-by TS, expressible in length: from which [it follows] that they [the sides of the
+is AT.
 
-two figures] are also of the sixth degree of knowledge when compounded. There­
-fore by [Euclid] X.39 when they are compounded into one line TQS they make
-a Mizon,^^^ and by X.76 when TQ that is QZ, is subtracted from QS, the re­
-mainder, ZS, is an Elasson.^^^ Thus it can come about that an Elasson and
+The ratio of PX, a Mizon, to the greater of the Elements PA, is the same as the ratio of TQ an Elasson, to the smaller of the Elements TA, and in turn the ratio of the greater of the elements PA to the smaller AT is equal
+to the ratio of the Mizon PX to the Elasson TQ As the greater is to the smaller;
+so the sum is to the difference.
+
+These sides `SQ` `QT` are not only Mizon and Elasson. They are also lines such that other such lines can be made from them by addition or subtraction. 
+
+For, first, they are incommensurable with one another, second, the sum of the squares of TQ QS is equal to the square of the expressible line TS. 
+
+Third, the Rectangle contained by TQ QS is a Medial for it is equal to the rectangle contained by QM, half the side of the Tetragon, expressible only in square, and by TS, expressible in length: from which [it follows] that they [the sides of the 2 figures are also of the sixth degree of knowledge when compounded. 
+
+Therefore by [Euclid] X.39 when they are compounded into one line TQS they make a Mizon,^^^ and by X.76 when TQ that is QZ, is subtracted from QS, the remainder, ZS, is an Elasson.^^^ Thus it can come about that an Elasson and
 a Mizon, belonging to one pair, become the Elements of another pair, and the
 Elasson, subtracted from its Mizon, leaves the Elasson of the other [pair].
 As for the area of the Octagon, the figure is made up of eight triangles like

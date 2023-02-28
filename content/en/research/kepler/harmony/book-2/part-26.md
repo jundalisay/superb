@@ -1,9 +1,9 @@
 ---
-heading: Part 21
+heading: Part 26
 title: "The 5 Elements"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg
-weight: 6
+weight: 14
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---

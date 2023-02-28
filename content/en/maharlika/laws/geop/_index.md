@@ -1,5 +1,4 @@
 ---
-
 title: "GEOP Operating Permit Guidelines"
 image: "/photos/physics/light.jpg"
 # date: 2022-03-30

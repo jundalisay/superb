@@ -9,7 +9,7 @@ weight: 2
 
 ## CHAPTER 1
 
-### Section 2. Policy.
+### Section 2. Policy
 
 The state will protect:
 - the fundamental human right of privacy

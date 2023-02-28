@@ -1,29 +1,33 @@
-A ppendix
-Appendix to Book V of
-T h e H arm ony
+---
+title: "Appendix" 
+description: "Book 2 will explain a property they show when they are combined with one another, as it were their Effect in the realm of Geometry, which is Congruence or Unsociability"
+weight: 6
+image: "/covers/harmony.jpg"
+---
+
+
 The Appendix which I promised above in the index to the chapters
 of Book V is not the one which the reader should expect here:
+
 They start to make a wine jar, but as the wheel turns a water pot emerges. 185
-I shall state the reasons briefly. I was about to navigate a great and
-overflowing river, inconveniently, when see! the floods of water sub­
-sided into a thin stream and a ford appeared, for me to cross on foot,
-leaving my ship at her mooring, for more necessary purposes. This
-is what I mean: the three books of Ptolemy’s Harmony, which I have
-in Greek in manuscript, along with the commentaries of Porphyry,
-that very profound philosopher, also in Greek, from the beginning
-up to Chapter VII of Book II, have also seemed to me worthy of being
-published complete in Greek and Latin; and for that reason I began
-ten years ago to translate them into Latin. That translation progressed
-as far as the middle of the manuscript of Porphyry. I was prevented
-from making further progress by my change of abode, combined with
-a great many troubles, and, after I came to Linz, a new start on my
-astronomical studies. However, when in fact I had proposed a year
-earlier to issue my five books on Harmony, I saw vast weight placed
-on the comparison of my work with Ptolemy’s, particularly of my Book
-V with the last chapters of Ptolemy’s Book III, the last three of which
-contain nothing but lemmas or headings from Ptolemy. Thus against
-my inclination I proposed to extract, from a work which was in itself
-mutilated, only a single part, which was most relevant to my material.
+
+I was about to navigate a great and overflowing river. Suddenly, the waters subsided into a thin stream. A ford appeared  for me to cross on foot, leaving my ship at her mooring.
+
+I have in Greek in manuscript:
+- the 3 books of Ptolemy’s Harmony
+- the commentaries of Porphyry, a very profound philosopher
+
+From the beginning Book 2 Chapter 7 is supposed to be published complete in Greek and Latin.
+
+This is why 10 years ago I began to translate them into Latin.
+
+That translation progressed as far as the middle of the manuscript of Porphyry. I was prevented from making further progress by my change of abode, combined with a great many troubles, and, after I came to Linz, a new start on my
+astronomical studies.
+
+However, when in fact I had proposed a year earlier to issue my five books on Harmony, I saw vast weight placed on the comparison of my work with Ptolemy’s, particularly of my Book 5 with the last chapters of Ptolemy’s Book III, the last three of which contain nothing but lemmas or headings from Ptolemy. 
+
+Thus against my inclination I proposed to extract, from a work which was in itself mutilated, only a single part, which was most relevant to my material. 
+
 To that end I both translated Book III of Ptolemy from Chapter III
 to the end;'^® and attached to the last three meaningless lemmas their
 own texts, fitted to them as adroitly as possible according to the basic
@@ -32,13 +36,13 @@ and lastly appended commentaries or notes, by which the missing part
 of the Porphyrian commentary, which breaks off at Chapter VII of
 Book II, is supplied in this third book, and the Ptolemaic discoveries
 are compared with my own, and the difference is shown between the symbolism of Ptolemy and my own legitimate demonstrations.’”^
-Hence the weakness and imperfection of his symbolism are shown,
-and the chief cause of them, that is the falsity of the basic principles
-of Ptolemaic astronomy, is made clear. Therefore, this appendix alone
-was going to occupy up to 30 pages of the book; and behold! mean­
-while the neighboring Bohemian war broke out, through which not
-only were the roads blocked but also many of the workmen are en­
-listing as soldiers. Thus first paper, and then labor which could be
+
+Hence the weakness and imperfection of his symbolism are shown, and the chief cause of them, that is the falsity of the basic principles of Ptolemaic astronomy, is made clear. Therefore, this appendix alone
+was going to occupy up to 30 pages of the book; 
+
+Behold! meanwhile the neighboring Bohemian war broke out, through which not only were the roads blocked but also many of the workmen are enlisting as soldiers. 
+
+Thus first paper, and then labor which could be
 used in the war failed us, and finally the time was excessively protracted
 by the most disagreeable delays. Roused by these obstacles, eventually
 I took little thought for myself and did away with what I had begun,
@@ -49,32 +53,22 @@ remaining half of the work in my translation of Porphyry’s exposition.
 Should I write notes on the remaining chapters of Books II and III,
 and combine them with Porphry’s and with those which I already have,
 written on almost the whole of Book III, so as to complete the work
-in that way and issue it in Greek and Latin as far as it exists? For that
-publication another time and another place are required, and a suit­
-able printer.
-However, so that nothing whatever of the things I promised above
-could be missed by the reader, or so that even in this last part nothing
-should be lacking for the completeness or for the easier understand­
+in that way and issue it in Greek and Latin as far as it exists? 
+
+For that publication, another time and another place are required, and a suitable printer.
+
+However, so that nothing whatever of the things I promised above could be missed by the reader, or so that even in this last part nothing should be lacking for the completeness or for the easier understand­
 ing of my work on Harmony, come, I shall write out the headings of
 the chapters of Ptolemy’s Book III, and compare them with the corre­
 sponding points in my own work; and I shall write in summary fashion
 what is in my notes.
-First, what Ptolemy reported in Books I, II, and the beginning of
-III on the discipline of harmony, I have encompassed in my Book III
-by another method which is considerably different. However, whereas
-Ptolemy looks for the basic principles of the harmonies in abstract
-numbers, along with the ancients, I on the other hand say that there
-is no force in the numbers as counting numbers, and in their place
-establish as the basic principles of the harmonies the counted num­
-bers,’”” that is, the things themselves which are subject to the num­
-bers, in other words the plane regular figures and the divisions of the
-circle which are to be controlled by them; and so I necessarily set Books
-I and II on the harmonic figures before my Book III.
-Now Ptolemy has written at the top of Book III, Chapter III, of
-his work the title Under what class of things the nature or force of harmony
-is to be placed, and the knowledge of it, showing that there is some principle, causal, formal, mental, or even divine, which links harmonies
-with things. Chapter IV: That the force of harmonic combination belongs
-to all things whose natures stand at a higher degree of perfection; and that that
+
+First, what Ptolemy reported in Books I, II, and the beginning of III on the discipline of harmony, I have encompassed in my Book III by another method which is considerably different. However, whereas Ptolemy looks for the basic principles of the harmonies in abstract numbers, along with the ancients, I on the other hand say that there is no force in the numbers as counting numbers, and in their place establish as the basic principles of the harmonies the counted numbers,’”” that is, the things themselves which are subject to the numbers, in other words the plane regular figures and the divisions of the
+circle which are to be controlled by them; and so I necessarily set Books 1 and 2 on the harmonic figures before my Book 3.
+
+Now Ptolemy has written at the top of Book 3, Chapter 3, of his work the title Under what class of things the nature or force of harmony is to be placed, and the knowledge of it, showing that there is some principle, causal, formal, mental, or even divine, which links harmonies with things. 
+
+Chapter IV: That the force of harmonic combination belongs to all things whose natures stand at a higher degree of perfection; and that that
 is chiefly apparent in human minds and in the heavenly revolutions. There
 you see the division of what remained for Ptolemy to say: that is, first,
 on the harmonies which exist in minds, second, on the harmonies
@@ -118,61 +112,41 @@ ters and again in Chapter VII of my Book IV. There, after explaining
 the nature of minds, I showed that since a circle divided geometrically
 by inscribing the plane figures defines the harmonic proportions truly
 and appropriately, by comparison of the parts with the whole, there­
-fore, by a particular line of essential reasoning the circle must exist in minds, formally and in the abstract, not only in respect of matter,
-but also in a way in respect of actual quantity, materially considered.
+fore, by a particular line of essential reasoning the circle must exist in minds, formally and in the abstract, not only in respect of matter, but also in a way in respect of actual quantity, materially considered.
 Hence as well as the circle the harmonies also exist in minds, and this
 is the reason why minds are moved by harmonies. But all this was only
 in a general way, and no plea followed for the division of the mind
 into special faculties. Such, therefore, is the position in regard to hu­
 man minds.
-As far as celestial motions are concerned, Ptolemy compares the
-zodiac with a musical system or scale in Chapter VIII of his Book III,
-and the actual consonances with the aspects of the planets in Book
-IX. Here I have shown the particulars in which the theory of aspects
-in Ptolemy is defective, and how by reestablishing the number of the
-aspects on one hand and of the consonances on the other there even­
-tually appears a natural and causal connection between the two. How­
-ever, this is the true subject matter of my Book IV, especially of Chap­
-ters IV, V, and VI. In Chapter X Ptolemy produces a sort of melody
-from the motion of a planet from east to west; in Chapter XI he pro­
-duces the kinds of music from the true motion of the planets upwards
-and downwards;**® in Chapter XII he produces the variety of the mu­
-sical tones from their motion from side to side of the equator; and
-in Chapter XIII he produces the different tetrachords of the system
-from the various configurations of the planets with the Sun. I have
-shown that in these four chapters Ptolemy runs riot in using poetic
-or rhetorical comparisons, since what he compares are not real ob­
-jects in the heaven, with the exception of a small part of Chapter XI,
-which I wish to be consigned to the last three chapters on account
-of the affinity of their subject matter. I have also shown that here there
-is partly a comparison between things which are incompatible, as the
+
+As far as celestial motions are concerned, Ptolemy compares the zodiac with a musical system or scale in Chapter VIII of his Book III, and the actual consonances with the aspects of the planets in Book 9. 
+
+Here I have shown the particulars in which the theory of aspects in Ptolemy is defective, and how by reestablishing the number of the aspects on one hand and of the consonances on the other there eventually appears a natural and causal connection between the two. 
+
+However, this is the true subject matter of my Book IV, especially of Chapters IV, V, and VI. In Chapter X Ptolemy produces a sort of melody from the motion of a planet from east to west; in Chapter XI he produces the kinds of music from the true motion of the planets upwards and downwards;**® in Chapter XII he produces the variety of the musical tones from their motion from side to side of the equator; 
+
+In Chapter 13, he produces the different tetrachords of the system from the various configurations of the planets with the Sun. 
+
+I have shown that in these four chapters Ptolemy runs riot in using poetic or rhetorical comparisons, since what he compares are not real objects in the heaven, with the exception of a small part of Chapter 11 which I wish to be consigned to the last three chapters on account of the affinity of their subject matter.
+
+I have also shown that here there is partly a comparison between things which are incompatible, as the
 nature of what is compared proclaims, and partly things which cor­
 respond in all their branches do so merely accidentally, but do not
-agree by the necessity of any cause. So far, therefore, there is nothing
-or very little which agrees with my celestial harmonies.
-However, Ptolemy’s following Chapter, XIV, raises the question,
-in terms of what primary numbers can the sounds of the musical system or scale
-be compared with the primary spheres in the planetary system. Here I have
-shown that for Ptolemy and the Pythagoreans the comparison was im­
-possible in their conventional astronomy, though I have attempted
-to devise something which agrees with the Ptolemaic principles, so
-that in this way a suggestion of their coherence might be supplied
-by the bare title. I have also shown that, since the primary spheres
-depend on their quantities, no less than strings on their lengths, the
-comparison should have been instituted in accordance with the quan­
-tities, even though the proportion of the spheres is extremely repug­
-nant to the proportion of the consonant strings. However, at the beginning of my Book V I have also renewed from my Mysterium Cos-
-mographicum in corrected form the causal or archetypal link between
-the spheres of the world and the five regular solids.
-Ptolemy’s Chapter XV asks how the proportions of the planets’ own mo­
-tions can be derived through numbers, but the text is missing. I have, there­
-fore, shown the same as in the preceding chapter. As to the rest, I have
-presented for consideration the fact that here, 1500 years ago, Ptolemy
-would have set about handling the subject matter belonging to my
-Book V, if he had been able to through his own astronomy. Thus I,
-in the corrected astronomy, which keeps the true and simple motions
-of the planets, eliminating apparent motions, which depend on op­
-tical illusions, have shown that in the heaven according to true and
+agree by the necessity of any cause.
+
+So far, therefore, there is nothing or very little which agrees with my celestial harmonies.
+However, Ptolemy’s following Chapter 14, raises the question in terms of what primary numbers can the sounds of the musical system or scale be compared with the primary spheres in the planetary system. 
+
+Here I have shown that for Ptolemy and the Pythagoreans the comparison was impossible in their conventional astronomy, though I have attempted to devise something which agrees with the Ptolemaic principles, so
+that in this way a suggestion of their coherence might be supplied by the bare title. 
+
+I have also shown that, since the primary spheres depend on their quantities, no less than strings on their lengths, the
+comparison should have been instituted in accordance with the quantities, even though the proportion of the spheres is extremely repugnant to the proportion of the consonant strings. However, at the beginning of my Book V I have also renewed from my Mysterium Cosmographicum in corrected form the causal or archetypal link between the spheres of the world and the five regular solids. 
+
+Ptolemy’s Chapter XV asks how the proportions of the planets’ own motions can be derived through numbers, but the text is missing. I have, therefore, shown the same as in the preceding chapter. As to the rest, I have presented for consideration the fact that here, 1500 years ago, Ptolemy would have set about handling the subject matter belonging to my
+Book V, if he had been able to through his own astronomy.
+
+Thus I, in the corrected astronomy, which keeps the true and simple motions of the planets, eliminating apparent motions, which depend on optical illusions, have shown that in the heaven according to true and
 genuine quantitative reasoning, and based on measurement, but not
 by mere trivial interpretation of symbols, there are all the harmonic
 proportions, the kinds of harmonies, the musical system or scale, and
@@ -187,14 +161,15 @@ and those which are friendly or inimical to each other, through the
 celestial harmonies. And because the text is missing for this chapter
 also, I have supplied it as far as I could, especially from Macrobius;*®®
 but at the same time I have shown in the notes what this business lacks
-for success according to the ancient astronomy. However, in my work
-I have no section corresponding with Chapter XVI, except for a few
-lines in the Epilogue to Book V. For astrology deals with the effects
-of the stars on the Earth; whereas my celestial harmonies are formed
-by rays, not at the Earth but at the Sun. And this is the end of Ptolemy’s
-work. Along with it I should also bring to a close the appendix prom­
-ised at the entry to Book V, if the affinity of the subjects did not incite
-me also to give a satisfaction to those who have been in contention
+for success according to the ancient astronomy. 
+
+
+However, in my work I have no section corresponding with Chapter XVI, except for a few lines in the Epilogue to Book V. For astrology deals with the effects of the stars on the Earth; whereas my celestial harmonies are formed
+by rays, not at the Earth but at the Sun.
+
+This is the end of Ptolemy’s work.
+
+Along with it I should also bring to a close the appendix promised at the entry to Book V, if the affinity of the subjects did not incite me also to give a satisfaction to those who have been in contention
 with me, such as Mr. Robert Fludd, the Oxford physician. He filled
 his book on the Microcosm and the Macrocosm,*®* published a year
 ago, with reflections on harmony, so that I should not omit to mention 
@@ -323,18 +298,9 @@ means of a radius, taking it as sufficiently well known that they are
 far from equal, but for the sole reason that the first unit is the ele­
 mentary world, the second the aethereal world, and the third the
 empyrean. And in fact the units cannot be depicted otherwise than
-by equality of lines. But I, unless astronomy bears witness that the units
-share the same quantitative measure, do not in any way employ them
-A
-p p e n d i x
-t o
-B
-o o k
-V
-507
-as units for numbering the harmonic proportions. He, however, stand­
-ing on his principles, and erecting a pyramid on the great circle of
-the Earth as base, sets its vertex at the very apex of the empyrean heaven;
+by equality of lines. 
+
+But I, unless astronomy bears witness that the units share the same quantitative measure, do not in any way employ them as units for numbering the harmonic proportions. He, however, standing on his principles, and erecting a pyramid on the great circle of the Earth as base, sets its vertex at the very apex of the empyrean heaven;
 and dividing its height into three equal sections (just as if he had in
 absolute truth had equal units), he counts how many parts belong to
 the empyrean, how many to the celestial, how many to the elementary.
@@ -345,28 +311,30 @@ to the axis, three equal sections belong to the three regions, but with
 respect to the triangle on the axis, one unit belongs to the empyrean,
 three units to the celestial, and five to the elementary. Finally, with
 respect to volume or fatness of shape, one unit belongs to the empyrean,
-seven units to the celestial, and nineteen to the elementary. Now what
-shall I say about the other, contrary pyramid of light, of which he makes
-the worshipful Trinity itself the base, at the topmost apex of the
-empyrean heaven, and places the vertex on the very Earth? Since he
+seven units to the celestial, and nineteen to the elementary. 
+
+Now what shall I say about the other, contrary pyramid of light, of which he makes the worshipful Trinity itself the base, at the topmost apex of the empyrean heaven, and places the vertex on the very Earth? Since he
 mingles these two pyramids with each other, and elicits musical pro­
 portions from the mixture, he is attempting something entirely differ­
-ent from the intention of my work. For he compares light (which be­
-stows form and spirit) and matter, two things which are completely
+ent from the intention of my work.
+
+For he compares light (which bestows form and spirit) and matter, two things which are completely
 different from each other, and to which quantities do not in any way
 belong in the same respect; but I admit, as terms in forming harmonic
 proportion in the universe, only those things which admit quantities
 in the same respect, for instance the motion of Mars and the motion
-of Jupiter, both diurnal. The difference between us consists equally
-of this fact also, that he ascribes to the elementary region four degrees
+of Jupiter, both diurnal. 
+
+The difference between us consists equally of this fact also, that he ascribes to the elementary region four degrees
 of obscurity and darkness, because, he says, everything has four quarters,
 certainly no less than three thirds or five fifths; and in fact all four
 belong to the Earth, three to water (and therefore, it is in fact trans­
 parent), two to air, and one to fire. Again elsewhere he subdivides every
 region, belonging either to an element or to a heaven, into three spaces,
 top, middle, and bottom, which the agreement of the senses does not
-follow in every case. You see that his units are again arbitrary. How­
-ever, he proceeds on that account to establish a diatessaron between
+follow in every case. 
+
+You see that his units are again arbitrary. However, he proceeds on that account to establish a diatessaron between
 Earth and water, and to relate its three intervals, a tone, a tone and
 a semitone, to the three spaces, top, middle, and bottom, since the
 former have definite quantities arising from their causes, the latter
@@ -376,22 +344,15 @@ I have set out units which are natural, that is to say the two extreme
 motions of each planet (whether diurnal or hourly makes no differ­
 ence), expressed by their nature in their definite quantities, in which
 to seek harmonies. He seeks harmonic proportions in degrees of dark­
-ness and light, without respect to any motion: I seek harmonies only
-in motions. He plucks out a few trivial consonances, and elicits them
-from the mixture of his pyramids, from which he conjures up the cosmos
+ness and light, without respect to any motion: 
 
-privately depicted in his mind, or deems them to be represented by
+I seek harmonies only in motions. He plucks out a few trivial consonances, and elicits them from the mixture of his pyramids, from which he conjures up the cosmos privately depicted in his mind, or deems them to be represented by
 it. I have demonstrated that the whole body of harmonic combina­
 tions, with all its parts, is found in the planets’ own extreme motions,
-according to measures which are certain and derived from astronomy.
-Thus for him his conception of the cosmos, for me the cosmos itself,
-or the real motions of the planets in it, are the basis of the cosmic
-harmony.
-From this short discussion I think it is established that, although
-knowledge of the harmonic proportions is absolutely necessary for
-understanding the crowded secrets of the deepest philosophy, of which
-Robert tells, yet even if he has thoroughly learnt the whole of my work,
-he will still be considerably further from those most intricate secrets;
-and the proportions have departed from the totally accurate certainty
-of mathematical derivations. And now let this also be the end of the
-Appendix.
+according to measures which are certain and derived from astronomy. 
+
+Thus for him his conception of the cosmos, for me the cosmos itself, or the real motions of the planets in it, are the basis of the cosmic harmony.
+
+From this short discussion I think it is established that, although knowledge of the harmonic proportions is absolutely necessary for understanding the crowded secrets of the deepest philosophy, of which Robert tells, yet even if he has thoroughly learnt the whole of my work, he will still be considerably further from those most intricate secrets;
+and the proportions have departed from the totally accurate certainty of mathematical derivations. And now let this also be the end of the Appendix.
+

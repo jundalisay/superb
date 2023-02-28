@@ -1,5 +1,5 @@
 ---
-heading: Definitions 1-7
+heading: Parts 1-7
 title: "The Construction Of Regular Figures"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg

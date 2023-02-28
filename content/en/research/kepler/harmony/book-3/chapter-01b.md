@@ -1,18 +1,16 @@
 ---
 heading: Chapter 1b
-title: "The Causes of Consonances"
-description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+title: "The Sounds of Strings"
+description: "When 2 strings emit identical sounds, a third note which is consonant with one of them will also be consonant with the other"
 image: /covers/harmony.jpg
-weight: 4
+weight: 6
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---
 
 
 
-## Axiom 6
-
-When 2 strings emit identical sounds, a third note which is consonant with one of them will also be consonant with the other; and one which is dissonant from one will also be dissonant from the other, and so with various different kinds of consonances or discords also.
+## Axiom 6: When 2 strings emit identical sounds, a third note which is consonant with one of them will also be consonant with the other; and one which is dissonant from one will also be dissonant from the other, and so with various different kinds of consonances or discords also.
 
 Note that identity of sound is put in the subordinate position as a species, and consonance in the antecedent position as genus. 
 
@@ -118,8 +116,7 @@ Thus consonances along with constructible figures reach to infinity: congruent f
 
 Lastly any figure makes a single division of a circle; but the parts established in a circle always make two consonances with the whole.
 
-Although in fact the argument in this third Book will be more And from concerned with the knowledge-producing construction of sides than congruence, with the congruence of complete figures, nevertheless on account of
-their close relationship the latter will not be neglected in its place.
+Although in fact the argument in this third Book will be more And from concerned with the knowledge-producing construction of sides than congruence, with the congruence of complete figures, nevertheless on account of their close relationship the latter will not be neglected in its place.
 
 For first the Latin meaning of the word congruence, if you make a thorough investigation, is the same as that of the Greek word harmony—the words with which we shall deal in this Book—except that usage
 has quickly made a distinction between these words from the subjects
@@ -132,4 +129,3 @@ Thirdly, although we are examining not so much the whole figure as one side of i
 also acquired a construction in Book I. 
 
 The examination of the congruence of figures is therefore not to be dissociated from harmonies.
-

@@ -3,15 +3,13 @@ heading: Part 21
 title: "The 5 Elements"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg
-weight: 6
+weight: 12
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---
 
 
-## Proposition 21
-
-The plane cannot be filled by a congruence of the individual angles of plane figures of four or more kinds.
+## Proposition 21: The plane cannot be filled by a congruence of the individual angles of plane figures of four or more kinds.
 
 For the 4 smallest angles are those of the trigon, the tetragon, the pentagon, and the hexagon. 
 
@@ -21,39 +19,38 @@ Therefore, if they are joined up they come to more than four right angles. So by
 should exceed four right angles by even more if larger angles were taken.
 
 
-## Axiom 22
+### Axiom 22: If 2 plane angles do not add up to more than a third one, they will not form a solid angle with it.
 
-If 2 plane angles do not add up to more than a third one, they will not form a solid angle with it.
-
-## Proposition 23
-
-2 plane angles of a figure with an odd number of sides will not come together with an angle of another kind to form a regular solid.
+## Proposition 23: 2 plane angles of a figure with an odd number of sides will not come together with an angle of another kind to form a regular solid.
 
 For by Part 17, the solid angles would not all be the same, which is not in
 accordance with definitions V to X.
 
 
-##  Proposition 24
-
-3 plane angles of figures of three different kinds, one kind having an odd number of sides, cannot come together in a perfect solid figure. 
+##  Proposition 24: 3 plane angles of figures of three different kinds, one kind having an odd number of sides, cannot come together in a perfect solid figure. 
 
 For, again by 27, the solid angles would not all be the same, which is not in accordance with the definitions.
 
 
-## Proposition 25
-
-The most perfect regular congruences of plane figures to form a solid figure are five in number. 
+## Proposition 25: The most perfect regular congruences of plane figures to form a solid figure are 5 in number. 
 
 This is a scholium to the last proposition of the last book of Euclid.
 
-By Part 15 we must start with three plane angles, and by Part 16 we must finish at 6 trigon angles, at 4 tetragon angles and at 3 hexagon angles, since Part 18 says they add up to 4 right angles.
+Proposition 15 says that we must start with 3 plane angles
+
+Proposition 16 says we must finish at:
+- 6 trigon angles
+- 4 tetragon angles
+- 3 hexagon angles
+
+This is because Proposition 18 says they add up to 4 right angles.
 
 3e trigons, fitted together at one angle, make up less than 4 right angles in the plane, in fact they make up only two. When we make a solid angle by putting three trigons together the gap which remains can be filled by a fourth
 trigon. 
 
 This gives the Tetrahedron or Pyramid.
 
-Four trigons, fitted together at one angle, make up eight thirds of a right angle, which is less than twelve thirds, or four right angles. Joining together the sides of the trigons we obtain a pyramid with an open four-sided base. 
+4 trigons, fitted together at one angle, make up eight thirds of a right angle, which is less than twelve thirds, or four right angles. Joining together the sides of the trigons we obtain a pyramid with an open four-sided base. 
 
 Two such pyramids may be fitted together base to base to form a figure closed on all sides. This gives the Octahedron.
 
@@ -113,17 +110,13 @@ by definition, is held within the boundaries of other things.
 A few faces indicate that many from another body will be associated with them.
 
 Furthermore, the plane trigon is proper to the tetrahedron, since the complete tetrahedral figure is a solid trigon,
-while the same trigon is not proper to the icosahedron, but, rather,
-incidental to it, since the solid shape of the icosahedron is like a
-pentagon, not a trigon. Again, the tetrahedron’s point, rising from one
-face, is seen as expressive of the penetrating and dividing power of
-fire, while the blunt quinquelinear angle of the icosahedron expresses
-the filling power of humours, that is their power to wet.
+while the same trigon is not proper to the icosahedron, but, rather incidental to it, since the solid shape of the icosahedron is like a pentagon, not a trigon.
+
+The tetrahedron’s point, rising from one face, is seen as expressive of the penetrating and dividing power of fire, while the blunt quinquelinear angle of the icosahedron expresses the filling power of humours, that is their power to wet.
 
 The small thin tetrahedron shows the nature of fire; the large rounded mass of the icosahedron shows the nature of water, and as it were the shape of a drop.
 
-The tetrahedron has a very large surface and a very small body; the icosahedron has a bodily mass much greater than its surface: just as in fire it is the form that predominates and in water it
-is the matter.
+The tetrahedron has a very large surface and a very small body; the icosahedron has a bodily mass much greater than its surface: just as in fire it is the form that predominates and in water it is the matter.
 
 The dodecahedron is left for the celestial body, having the same number of faces as the Zodiac has signs. It can be shown that it has 
 
@@ -131,35 +124,41 @@ The dodecahedron is left for the celestial body, having the same number of faces
 1
 the greatest volume of all the figures, just as the heavens enclose every­
 thing else.
-Although this analogy is acceptable, though not to Aristotle (who
-did not believe that the World had been created and thus could not
-recognize the power of these quantitative figures as archetypes, be­
-cause without an architect there is no such power in them to make
-anything corporeal), yet it is acceptable to me and to all Christians,
-since our Faith holds that the World, which had no previous existence,
-was created by God in weight, measure, and number, that is in accor­
-dance with ideas coeternal with Him; although, I say, this sort of anal­
-ogy is acceptable, yet framed in this manner it has no force of neces­
-sity; indeed, it admits of other interpretations, not only because certain
-properties are at variance within the analogy, but also because the
-dodecahedron and icosahedron correspond more closely with fire,
-and finally because the number of the elements and whether the Earth
-is at rest are matters much more open to dispute than is the number
-of the figures.
 
+
+This analogy is acceptable, but not to Aristotle.
+- He did not believe that the World had been created and thus could not
+recognize the power of these quantitative figures as archetypes, because without an architect there is no such power in them to make anything corporeal)
+- Christians holds that the World:
+  - had no previous existence,
+  - was created by God in weight, measure, and number in accordance with ideas coeternal with Him
+
+This analogy is acceptable, yet framed in this manner it has no force of necessity.
+
+It admits of other interpretations, not only because certain properties are at variance within the analogy, but also because the dodecahedron and icosahedron correspond more closely with fire, and finally because the number of the elements and whether the Earth is at rest are matters much more open to dispute than is the number
+of the figures.
 
 <!-- If the Pythagoreans held out against this theory,  -->
 
-I do not blame Ramus, or Aristotle, for rejecting this disputed analogy. 24 years ago I found out a very different relation between these 5 shapes and the fabric of the world.
+I do not blame Ramus, or Aristotle, for rejecting this disputed analogy. 
+
+24 years ago I found out a very different relation between these 5 shapes and the fabric of the world.
 
 My introduction to Book 1 said that some of the ancients had been of this same opinion also, but had kept it secret, in the manner of their sect. 
 
-For Copernican Astronomy, or the Astronomy of the ancient Pythagorean Aristarchus of Samos, describes the moving world as containing 6 spheres or paths surrounding the motionless body of the Sun, which is in the center, the spheres being separated from one another by large and unequal intervals.
+Copernican Astronomy and the Astronomy of the ancient Pythagorean Aristarchus of Samos describes the moving world as containing 6 paths or spheres surrounding the motionless Sun in the center
+- The paths are separated from one another by large and unequal intervals.
+- The outermost path is that of Saturn
+- The next that of Jupiter
+- Then that of Mars
+- Then that of the Earth and the Moon
+- Then that of Venus 
+- Lastly that of Mercury, the innermost.
+  
 
-The outermost sphere is that of Saturn, the next that of Jupiter, then that of Mars, then that of the Earth and the Moon, then that of Venus and lastly that of Mercury, the innermost.
+These 5 shapes have a fundamental property that they can be drawn within a spherical surface so that their angles are on the surface, and can also be circumscribed about a spherical surface so as to touch it at the centers of their faces
 
-Now we know that it is a fundamental property of these 5 shapes that they can be inscribed within a spherical surface so that their angles are on the surface, and can also be circumscribed about a spherical surface so as to touch it at the centers of their faces; moreover, for any particular figure there is a particular interval between the 2 spheres defined in this way. Nothing seems more likely than that the 5 intervals between the six celestial spheres were taken by the Creator
-from the five figures, in an order such that the cube is to be imagined between the spheres of Saturn and Jupiter, the tetrahedron between those of Jupiter and Mars, the dodecahedron between those of Mars and the Earth, the icosahedron between those of the Earth and Venus, and the octahedron between those of Venus and Mercury.
+Moreover, for any particular figure there is a particular interval between the 2 spheres defined in this way. Nothing seems more likely than that the 5 intervals between the six celestial spheres were taken by the Creator from the five figures, in an order such that the cube is to be imagined between the spheres of Saturn and Jupiter, the tetrahedron between those of Jupiter and Mars, the dodecahedron between those of Mars and the Earth, the icosahedron between those of the Earth and Venus, and the octahedron between those of Venus and Mercury.
 
 This arrangement can be investigated numerically, and it has the force of necessity, not seeking anxiously for the number of the bodies but using the known number.
 

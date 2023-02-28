@@ -3,17 +3,14 @@ heading: Chapter 1d
 title: "The Causes of Consonances"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg
-weight: 4
+weight: 10
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---
 
 
 
-## Proposition 4
-
-A string which is in consonance with either one of two multiples in the proportion of continuous doubling is also in consonance with the 0remaining one; and if it is in dissonance with one, it is also in disso­
-nance with the other.
+## Proposition 4: A string which is in consonance with either one of two multiples in the proportion of continuous doubling is also in consonance with the 0remaining one; and if it is in dissonance with one, it is also in dissonance with the other.
 
 For by Proposition 3 sounds which are in the proportion of continuous doubling are identical with one another. However, what is in consonance with one of two identical strings is also in consonance luith the other; and the rest
 follows, by Axiom 6.
@@ -26,10 +23,10 @@ get himself into a tangle
 
 
 
-## Proposition 5
+## Proposition 5: Although the additional sides of stars are constructible, on account of their constructibility they determine the consonant parts of the whole in a circle on the same footing as their fundamental figures do, as
+in Axiom I; 
 
-Although the additional sides of stars are constructible, on account of their constructibility they determine the consonant parts of the whole in a circle on the same footing as their fundamental figures do, as
-in Axiom I; however those which cut off a part of a circle which consists of the appropriate number (of the parts which the fundamental figure made) for some inconstructible figures are excepted, when the
+However those which cut off a part of a circle which consists of the appropriate number (of the parts which the fundamental figure made) for some inconstructible figures are excepted, when the
 numbers of the part and of the whole have no common factors.
 
 The first part of this proposition is an axiom. So that it should not be made too general, it had to be restricted by the second part of the proposition. 
@@ -49,16 +46,13 @@ Therefore by Axiom V the part produced by our division, 9, will be in dissonance
 Therefore by Proposition 4 our part, 9, will also be in dissonance with the whole circle, 20, although its chord is constructible, but at the most remote degree; and its star is among the incongruent figures
 
 
-## Proposition 6
-
-The remainders of circles or strings, after parts in consonance with the whole have been cut off, if they are in the proportion of continuous doubling with their consonant part, are in consonance both with the part cut off and with the whole circle or string. 
+## Proposition 6: The remainders of circles or strings, after parts in consonance with the whole have been cut off, if they are in the proportion of continuous doubling with their consonant part, are in consonance both with the part cut off and with the whole circle or string. 
 
 With the part cut off by Proposition I, with the whole by Proposition IV.
 
 
-## Proposition 7 
+## Proposition 7: If such a remainder is in the same proportion to the half or quarter of a circle or string as the whole circle is to some other part of itself which is consonant, it will also be in consonance with the whole circle;
 
-If such a remainder is in the same proportion to the half or quarter of a circle or string as the whole circle is to some other part of itself which is consonant, it will also be in consonance with the whole circle;
 if it is in the same proportion as a dissonant part, it will be in dissonance.
 
 For the whole circle, and its half, and its quarter, are in the proportion of continuous doubling. Hence (by Proposition IV) those remainders which are consonant with such a part of the circle are also consonant with the whole; and those which are in dissonance with the former will also be in dissonance with the latter. 

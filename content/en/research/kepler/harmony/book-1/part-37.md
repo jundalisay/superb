@@ -1,9 +1,9 @@
 ---
-heading: Propositions 37
+heading: Parts 37-39
 title: "The Construction Of Regular Figures"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg
-weight: 4
+weight: 18
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---

@@ -1,9 +1,9 @@
 ---
-heading: Part 16
+heading: Part 26-27
 title: "Measurements"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg
-weight: 6
+weight: 10
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---
@@ -18,15 +18,9 @@ We have come to addition and subtraction; where we have chosen freely the lines 
 So if we now introduce rules, imposing a definite proportion upon pairs [of lines], not given in such a way that when they were combined they formed one of the 12 kinds [of line already discussed] 
 
 But the pairs given in some other way, namely when it is required for one given line also to find its greater part so
-that the ratio of the smaller to the greater part will be equal to the
-ratio of the greater part to the sum of them both; or alternatively the
-ratio of the greater to the smaller will be equal to the ratio of the
-smaller to the remainder. When the two are subtracted, the result will
-not always be [a line belonging to] some more remote degree [of com-
-mensurability], but in the circumstances, we shall fall back on one
-of the kinds that have been discussed, and having fallen back on it,
-we shall compare the line that is found, which of itself is of the eighth
-degree,^"* with lines of the fourth degree.
+that the ratio of the smaller to the greater part will be equal to the ratio of the greater part to the sum of them both; or alternatively the ratio of the greater to the smaller will be equal to the ratio of the smaller to the remainder. 
+
+When the two are subtracted, the result will not always be [a line belonging to] some more remote degree [of commensurability], but in the circumstances, we shall fall back on one of the kinds that have been discussed, and having fallen back on it, we shall compare the line that is found, which of itself is of the 8th degree, with lines of the fourth degree.
 
 In this way, 2 lines of the fourth degree (as defined in Section 15) together formed an area, from which, when it is cast into the form of a square, there emerged [as the side of the square] a line called a Medial: so the two lines, the Whole and one part, form, by subtraction, the other part, or the two parts, by addition, form the whole.
 
@@ -36,38 +30,23 @@ In the former case the similarity of proportion was between the smaller [part] a
 
 So, in the former case, given two [lines], a Rectangle was given equal to the square of the line that was to be formed, and thus the area [entered into the question] before the line [i.e. the side of the square]: in the latter case, on the contrary, having made the two [lines] that were to be made, there then follows the equality between the Rectangle of the extreme [lines] and the square of the Mean one, by Euclid VI.17 and 11.11.4'^
 
-In the former case the straight lines that make the area had squares commensurable with the square of the proposed Line: in the latter, from Euclid VL30 we know that we must take a square, commensu­
-rable with the square of the proposed line, nam ely! times it, and from
-the side of this square we must subtract half the proposed line, so
-that there remains the required part of the proposed line; and when
-this part is subtracted from the proposed line there is left the other
-required part, (or if it is added to the whole we obtain the third re­
-quired line)."^® And parts that have so many terms should, it seems,
+In the former case the straight lines that make the area had squares commensurable with the square of the proposed Line: in the latter, from Euclid VL30 we know that we must take a square, commensurable with the square of the proposed line, nam ely! times it, and from the side of this square we must subtract half the proposed line, so that there remains the required part of the proposed line; and when this part is subtracted from the proposed line there is left the other required part, (or if it is added to the whole we obtain the third required line)."^® And parts that have so many terms should, it seems,
 be placed in the fourth degree.
 
-For at this point we obtain aline of higher standing than the Medial
-itself, whichever line it is that the proportion is found iiU': because
-the Medial hangs from the proposed Expressible line by a longer chain
-[of terms] made up of four links: whereas the parts of this [line] depend
-upon the ratio in which they stand directly to the proposed Expres­
-sible line. From this it comes about that there can be many Medials
-all the same degree away from the Expressible line; indeed the larger
-part is the one and only part of an expressible line which is in this
-proportion, and in all cases of any line of lower standing than the
-Expressible^*^ there is one unique part in such proportion. Because
-of this^^ its construction is equivalent in a sense to the first degree.
-Thus when the proposed Straight Line is required to be the whole,
-and we seek its two parts according to this proportion {tales), then
-Geometers call this division in Extreme and Mean ratio. Certainly
-this name means that whereas at other times ordinary division of the
-whole into two parts is not concerned with proportion, or if some line
-[is constructed] that bears to the whole the ratio of the smaller part
-to the greater, then there will result four terms, two extremes and two
+For at this point we obtain aline of higher standing than the Medial itself, whichever line it is that the proportion is found iiU': because the Medial hangs from the proposed Expressible line by a longer chain
+[of terms] made up of four links: whereas the parts of this [line] depend upon the ratio in which they stand directly to the proposed Expressible line. 
+
+From this it comes about that there can be many Medials all the same degree away from the Expressible line; indeed the larger part is the one and only part of an expressible line which is in this proportion, and in all cases of any line of lower standing than the Expressible there is one unique part in such proportion. 
+
+Because of this its construction is equivalent in a sense to the first degree.
+
+Thus when the proposed Straight Line is required to be the whole, and we seek its two parts according to this proportion {tales), then Geometers call this division in Extreme and Mean ratio. Certainly this name means that whereas at other times ordinary division of the whole into two parts is not concerned with proportion, or if some line [is constructed] that bears to the whole the ratio of the smaller part to the greater, then there will result four terms, two extremes and two
 Means: in this case, on the contrary, there are only three terms, the
 whole and the smaller part being the two extremes; and the greater
-part being the unique mean term.’’*’
-It is also, for the same reason, called proportional section.*’’ Today
-both the section, and the proportion it defines, are given the title
+part being the unique mean term.
+
+
+It is also, for the same reason, called proportional section.*’’ Today both the section, and the proportion it defines, are given the title
 “Divine,” because of the marvelous nature of the section and its multi­
 plicity of interesting properties: the foremost of which is that always
 when the greater part is added to the whole the compound line is
@@ -77,12 +56,9 @@ while whole line becomes the greater part of the compound line, by
 Euclid XIII.5.52
 
 
-XXVII Proposition
-While such a division can be performed on all lines, on a line Ex­
-pressible in length, on one Expressible only in square, on a Medial
-line, on a line of one of the twelve kinds we have listed, and on all
-other kinds of line: in the present work we are concerned only with
-two of these kinds [of line] which coincide with kinds already explained;
+## Proposition 17: While such a division can be performed on all lines, on a line Expressible in length, on one Expressible only in square, on a Medial line, on a line of one of the twelve kinds we have listed, and on all other kinds of line
+
+In the present work we are concerned only with two of these kinds [of line] which coincide with kinds already explained;
 according to the two lines which are to be sectioned [in this way]. For
 it [the line to be sectioned] is either Expressible in length or is a Mizon.
 If the line which we propose to section is Expressible in length; the

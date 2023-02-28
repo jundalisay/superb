@@ -5,7 +5,7 @@ subtitle': RA 11534
 linkTitle: CREATE
 description: "Simplified Corporate Recovery and Tax Incentives for Enterprises: Act An Act Reforming The Corporate Income Tax And Incentives System"
 image: "/photos/tax.jpg"
-weight: 4
+weight: 6
 # date: 2021-09-30
 ---
 

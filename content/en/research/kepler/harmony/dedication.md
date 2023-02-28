@@ -1,9 +1,9 @@
 ---
 title: "Dedication to Lord James"
 # heading: "Chapter 1"
-description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+description: "Here are the reasons why I transferred these books on Harmony away from the court of Germany into England"
 image: /covers/harmony.jpg
-weight: 4
+weight: 2
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---
