@@ -24,11 +24,14 @@ Anyone who views all of human history will see that democracy is a recent and ti
 ![Battle of Monmouth](https://upload.wikimedia.org/wikipedia/commons/9/9f/BattleofMonmouth.jpg)
 
 
-Western democracy originally came from the Greeks. There were other democratic societies in Asia and tribal regions, but they didn't survive because of the **inherent problems inherent in democracy**, mainly the weakness and instability that it creates.
+Western democracy originally came from the Greeks. It quickly showed its inehrent problems and died after Greece was conquered by the undemocratic Macedonians. Its ideas were preserved by the Romans until it was unearthed by the European Enlightenment. 
+
+There were other democratic societies in Asia and [tribal regions](https://en.wikipedia.org/wiki/Licchavi_(tribe)). But unlike Greeks or Romans, Asians thought it wise not to preserve democracy because of the weakness and instability that it creates.
 
 - Greece was quickly overrun by the Persians who did not have democracy. 
 - The Roman Republic was a bit democratic but was defeated by the Roman Empire. 
-- China also was never democratic. Instead, it had undemocratic Confucianism which helped it be a strong empire for thousands of years.
+- China, after being unified by the Chin emperor, never became democratic. Instead, it had undemocratic Confucianism which helped it be a strong empire for thousands of years.
+
 
 Prior to the Spanish, the Philippines was known as Maharlika which was a confederation of states that were vassals of or connected to Manila. Because of geography, the country **never had a single ruler** and so there was never a single identity nor unified set of laws. Filipinos still see themselves belonging to tribes like Tagalogs, Bisaya, Kapampangan, Moro, etc. 
 

@@ -9,47 +9,78 @@ icon: /icons/kepler.png
 
 
 
-We must seek the causes of the harmonic proportions in the divisions of a circle into equal aliquot parts, which are made geometrically and knowably, that is, from the constructible regular plane figures. 
+We must seek the causes of the harmonic proportions in the divisions of a circle into equal aliquot parts, which are made geometrically and knowably, that is, from the constructible regular plane shapes. 
 
 I thus considered that to start with it should be intimated that the features which distinguish geometrical objects to the mind are today, as far as is apparent from published books, totally unknown. 
 
-In fact not even among the ancients is anyone found who has intimated that he knew exactly these specific distinguishing features of geometrical objects, except for Euclid and his commentator Proclus. 
+In fact, among the ancients, only Euclid and his commentator Proclus could say that knew exactly these specific distinguishing features of geometrical objects. 
 
-In Pappus the Alexandrine and the ancients who follow him the division of problems into plane, solid, and linear is sufficiently appropriate for explaining the mental attitudes which arise in connection with every single part of the subject of geometry.
+Every single part of the subject of geometry creates certain mental attitudes. These attitudes can be explained by dividing problems into planes, solids, and lines, as done by Pappus of Alexandria and his followers. 
 
-However it is both brief in words and applied to practice: no mention is made of theory, and yet unless we engage with our whole minds in the theory of this matter we shall never be able to take in the harmonic ratios. 
+However he is both:
+- brief in words
+- focused on practice
 
-Proclus Diadochus in the four books which he published on the first book of Euclid explicitly played the part of a theoretical philosopher dealing with a mathematical subject.
+He never mentions his theory. We need to know his theory otherwise we never will be able to take in the harmonic ratios. 
 
-If he had left to us his commentaries on the 10th book of Euclid as well, he would both have freed our geometers
-from ignorance, if he had not been neglected, and relieved me totally from this toil of explaining the distinguishing features of geometrical objects.
+Proclus Diadochus published 4 books on the first book of Euclid. He played the part of a theoretical philosopher dealing with a mathematical subject.
 
-For from the very outset it is readily apparent that those distinctions between entities of the mind would have been known, since he established the basic principles of the whole essence of mathematics as the same which also pervade all entities and generate them all from themselves, that is to say the end and the endless, or the limit and the unlimited, recognizing the limit or boundary as the form, the unlimited as the matter of geometrical objects.
+His commentaries on the 10th book of Euclid has relieved me totally from this toil of explaining the distinguishing features of geometrical objects.
 
-For shape and proportion are properties of quantities, shape of individual quantities and proportion of quantities in combination. 
 
-Shape is demarcated by limits, for it is by points that a straight line, by lines that a plane surface, by surfaces that a solid is bounded, circumscribed, and shaped. 
+Geometrical objects are entities of the mind which are different from each other, just as living entities are different. Euclid established the basic principles of the whole essence of mathematics to know such differences such as:
+- the end versus the endless
+- the limit versus the unlimited
 
-Therefore finite things which are circumscribed and shaped can also be grasped by the mind: infinite and un­
-bounded things, insofar as they are such, can be held in by no bonds of knowledge, which is obtained from definitions, by no bonds of constructions. 
+<!-- For from the very outset it is readily apparent that those distinctions between  would have been known, since he 
+ as the same which also pervade all entities and generate them all from themselves, --> 
 
-For shapes are in the archetype prior to their being in the product, in the divine mind prior to being in creatures, differently indeed in respect of their subject, but the same in the form of their
-essence. 
+He recognized that:
+- the limit as the form
+- the unlimited as the material of geometrical objects
 
-Therefore in quantities shape is a kind of mental essence of them, or understanding is their essential distinguishing feature. That is much clearer from the case of proportions.
+This is because shape and proportion are properties of:
+- quantities, and
+- shape of individual quantities and proportion of quantities combined 
 
-For since shape is demarcated by several limits, it comes about that on account of their being plural shape partakes of proportions. However what proportion is without the action of the mind is something which cannot be understood in any way. 
+Shape is demarcated by limits. Examples of such limits are:
+- the points that limit a straight line
+- the lines that limit a plane surface
+- surfaces that limit a 3D solid
 
-Hence by the same reasoning, one who gives limits to quantities as their essential basis supposes that quantities which have shapes have an intellectual essence. 
+Therefore:
+- finite things which are shaped can also be grasped by the mind through definitions and bonds of constructions
+- infinite things cannot be known 
 
-But there is no need for arguments: Proclus’ whole book should be read. It will be sufficiently evident that the intellectual distinguishing features of geometrical objects were properly known to him, although he does not make such an open and conspicuous declaration of that point as a separate thing on its own, so as to put even a dozing reader in mind of it. 
+Shapes are:
+- an archetype prior to becoming produced
+- in the divine mind prior to being in creatures
+- different in respect of their subject, but the same in the form of their essence. 
 
-For his eloquence flows as if in full flood, completely swathed in most plentiful doctrines of rather abstruse Platonic philosophy; and among them is this point, which is the single argument of this Book.
+Therefore, in quantities, shape is a kind of mental essence of them. This essence is made clearer through proportions.
 
-However this our age has had no room hitherto for penetration to such hidden mysteries. The book of Proclus was read by Petrus Ramus, but as far as the core of philosophy is concerned, it was despised and rejected equally with the tenth Book of Euclid; and he who had written a commentary on Euclid was repudiated and instructed Petrus Ramus’ to lose his voice, as if he had written a defense for him. 
+<!-- , or understanding is their essential distinguishing feature. That is much clearer from the case of . -->
 
-Indeed the unjust and peevish anger of a hostile critic turns against Euclid as if he were on criticism trial: the tenth Book of Euclid was condemned to the atrocious sentence of not being read, though if it were read and understood it could
-lay bare the secrets of philosophy. 
+Shape is demarcated by several limits. Shapes gain proportion when they are many. However, this proportion, without the action of the mind, is something which cannot be understood in any way.
+
+ <!-- it comes about that on account of their being plural shape partakes of proportions.  -->
+
+Hence by the same reasoning, **one who gives limits to quantities as their essential basis supposes that quantities which have shapes have an intellectual essence**. 
+
+But there is no need for arguments, as explained by Proclus’ book. 
+
+The intellectual distinguishing features of geometrical objects were properly known to him. 
+<!-- , although he does not make such an open and conspicuous declaration of that point as a separate thing on its own, so as to put even a dozing reader in mind of it.  -->
+
+He is completely an abstruse Platonist. 
+ <!-- swathed in most plentiful doctrines of rather  philosophy; and among them is this point, which is the single argument of this Book. -->
+
+However, our age has had no room to penetrate such hidden mysteries. Proclus' book was read by Petrus Ramus who <!-- , but as far as the core of philosophy is concerned, it was  --> despised and rejected it equally with the tenth Book of Euclid.
+
+He who had written a commentary on Euclid was repudiated and instructed Petrus Ramus’ to lose his voice, as if he had written a defense for him. 
+
+The unjust and peevish anger of a hostile critic turns against Euclid as if he were on criticism trial: the tenth Book of Euclid was condemned to the atrocious sentence of not being read, though if it were read and understood it could
+lay bare the secrets of philosophy.
 
 Read the words of Ramus, than which he has never uttered anything more unworthy of Ramus. (ScholaeMathematicae {MathematicalSchools), Book 21.) 
 
@@ -66,111 +97,3 @@ whole world and all the distinguishing features of its parts.
 But to you, who here act as the patron of ignorance, and to the common herd of men who snatch at profit from everything, divine or human, to you, I say, belong the phrases “prodigious sophisms,” to you “Euclid incontinently abusing his leisure,” to you “these subtleties have no place in geometry.” 
 
 Let your part be to carp at what you do not understand: for me, a hunter for the causes of things, no other paths to them had opened but in the tenth Book of Euclid.
-
-Following Ramus, Lazarus Schoner in his Geometry^ confessed that he could see absolutely no use for the five regular solids in the world, until he perused my little book which I entitled The Secret of the Universe, in which I prove that the number and distances of the planets were taken from the five regular solids. See what damage Ramus the master did to Schoner the disciple. 
-
-First Ramus, having read Aristotle thoroughly, who had refuted the Pythagorean philosophy on the proper­
-ties of the elements as deduced from the five solids, at once conceived
-in his mind a contempt for the whole of the Pythagorean philosophy;
-and then, as he knew that Proclus was a member of the Pythagorean
-sect, he did not believe him when he asserted, which was quite true,
-that the ultimate aim of Euclid’s work, to which absolutely all the propo­
-sitions of all its books were related, was the five regular solids. Hence
-there arose in Ramus a very confident conviction that the five solids
-must be removed from the aim of the books of the Elements of Euclid.
-
-With the aim of the work removed, as if the form were removed from a building, there was left a formless heap of propositions in Euclid, which Ramus attacked as if it were a fiend in all the twenty-eight books of his Schools, with great harshness of language, with great temerity, quite undeserved by so great a man. Schoner, following Ramus’ convictions, himself also believed (of course) that the regular solids had no application; and not only that, but he also neglected or despised Proclus, following the judgement of Ramus. Yet from Proclus he could learn the application of the five solids both in the Elements of Euclid and in the structure of the world. In fact the disciple was more fortunate than the n^aster, because he gratefully received my revelation of the application of the solids in the structure of the world, which Ramus had repudiated though it was taught by Proclus.
-
-For what if the Pythagoreans attributed these shapes to the elements, but not as I do to the spheres of the world? Ramus would have striven to undo this error over the true subject of the figures, as I have done; he would not have demolished this whole philosophy with one tyrannical word. 
-
-What if the Pythagoreans put forward the same teaching as I do, and hid their doctrine by wrapping it up in words? Is not the Copernican form of the world found in Aristotle himself, falsely refuted by him
-
-Under Other names, as they called the Sun, Fire, and the Moon the
-Counter Earth? For suppose the disposition of the circles was the same according to the Pythagoreans as according to Copernicus, that the 5 solids were known, and the necessity for their fivefold number;
-and suppose that they all consistently taught that the five solids were the archetypes of the parts of the world. What a short step further it is for us to believe that their doctrine in the form of a riddle was
-read by Aristotle as if it had been refuted in the true sense of the words,
-when Aristotle read it as the Earth to which they allocated the cube,
-although they as it happened meant Saturn, the orbit of which was
-separated from Jupiter by the interposition of the cube. 
-
-The common herd ascribe rest to the Earth, whereas Saturn has been allocated a very slow motion which is very close to rest, so that among the Hebrews it got its name from the word “rest.” 
-
-Similarly, Aristotle read it as the air to which the octahedron was given, whereas they as it happened meant Mercury, the orbit of which was enclosed by the octahedron.
-
-Mercury is no less swift than the nimble air is held to be. As it happened. Mars was the interpretation given to the word “fire,” which also had elsewhere the name Pyrois (fiery one) from fire; and
-to it the tetrahedron was given, perhaps because its orbit is enclosed
-by that figure. And under the disguise of water, to which the icosa­
-hedron is attributed, the star of Venus (as the one of which the course
-is contained within the icosahedron) could be hidden, because liquids
-are subject to Venus, and she herself is said to have risen from the
-sea foam, whence the name “Aphrodite.” 
-
-Lastly, the word “world” could signify the Earth. The dodecahedron is ascribed to the world, because the Earth’s course is contained within that figure, and marked off into 12 sections of its length, as that figure is contained within 12 faces round its whole compass. 
-
-Therefore that in the secrets of the Pythagoreans on this basis the five figures were distributed not among the elements, as Aristotle believed, but among the planets themselves is very strongly confirmed by the fact that Proclus tells us that the aim of geometry is to tell how the heaven has received appropriate figures for definite parts of itself.
-
-Nor is this yet the end of the damage which Ramus has inflicted on us. Consider the most ingenious of today’s geometers, Snel, clearly a supporter of Ramus, in his preface to the Problems of Ludolph van
-
-Ceulen.^ 
-
-opinion on
-11-1
-binomials.
-wuiebrord Snei’s
-
-First he says, “That division of the inexpressibles into 13 kinds is useless for application.” 
-
-I concede that, if he is to recognize no application unless it is in everyday life, and if there is to be no application of the study of nature to life. 
-
-But why does he not follow Proclus, whom he mentions, and who recognizes that there is some greater good in geometry than those of the arts which are necessary for living? 
-
-In that case in fact the application of Book 10 in deciding the kinds of figures would have been evident. Snel men­
-tions geometrical authors who are said to make no use of Book 10 of Euclid.
-
-Of course all of them deal with either linear or solid problems, and in connection with such figures or quantities as have
-no purpose within themselves, but obviously aim at other applications, and would not be investigated otherwise. But the regular figures are investigated on their own account as archetypes, have their own perfection within themselves, and are among the subjects of plane problems, notwithstanding the fact that a solid is also enclosed by plane faces. In the same way the material of the tenth Book also relates chiefly to plane surfaces. Why then should those of varying kinds be mentioned? 
-
-Or why should the goods which Codrus did not buy to feed his belly with them, but which Cleopatra bought to ornament her ears, be reckoned cheap? 
-
-“Is it only a cross fastened to our talents?”® I say, to those who molest the inexpressibles with numbers, that is by expressing them. 
-
-But I deal with those kinds not with numbers, not by algebra, but by mental processes of reasoning, because of course I do not need them in order to draw up accounts of merchandise, but to explain the causes of things. 
-
-He considers that such subtleties should be kept out of a “primer,” and hidden away in a library. He plays completely the part of the faithful disciple of Ramus, and shows no mean judgement in placing his effort. Ramus removed the form from Euclid’s edifice, and tore down the coping stone, the five solids. 
-
-By their removal every joint was loosened, the walls stand split, the arches threatening to collapse. Snel therefore takes away the stonework as well, seeing that there is no application for it except for the stability of the house which was joined together under the five solids. 
-
-How fortunate is the disciple’s understanding, and how dexterously did he learn from Ramus to understand Euclid: that is, they think that the “Elements” is so called because there is found in Euclid a wealth of every kind of propositions and problems and theorems, for every kind of quantities and of the arts concerned with them, whereas the book is called
-“Elementary Primer” from its form, because the following proposition always depends on the preceding one right up to the last one of the last Book (and partly also that of the ninth Book), which cannot do without any of the previous ones. Instead of an architect they make him a builders’ merchant or a bailiff, thinking that Euclid wrote his
-book in order to accommodate everybody else, but was the only one who had no home of his own. But that is quite enough on the subject at this point: we must return to the main topic of discourse.
-
-For I saw that the true and genuine distinguishing features of geometrical objects, from which I had to draw out the causes of the harmonic proportions, were totally unknown to the common herd; that Euclid, whose zeal had handed them on, is being hooted off by the scoffing of Ramus, and, as he is drowned by the din of frivolous people, is properly heard by no-one, or is reciting the secrets of philosophy to the deaf; and that Proclus, who could have opened the mind of
-Euclid, disclosed what was hidden, and made easy what was too difficult to grasp, was being mocked and had not continued his commentaries right up to Book 10.
-
-I therefore realized that had to:
-- transcribe from Book 10 of Euclid what chiefly related to my present undertaking
-- bring to light the train of thought of that Book, inserting mention of certain definite divisions
-- indicate why some branches of the divisions were omitted by Euclid. 
-
-Then, finally, I had to deal with the shapes themselves.
-
-There, in cases where Euclid’s demonstrations were perfectly clear I have been content with a simple reference to
-the propositions. 
-
-Many points which were demonstrated by Euclid in another way, had here, on account of the aim which I had in view,
-that is to say on account of my comparison of knowable and unknow­
-able figures, to be repeated, or linked together if they were separated,
-or changed in order. I have embraced the series of definitions, propo­
-sitions, and theorems in continuous numbering, as I did in the
-Dioptrice,'^ for convenience of reference.
-
-Also in the actual lemmas I have not been precise, and have not troubled too much about names,
-as I have been more intent on the matters themselves, seeing that I
-am now playing the role not of a geometer in philosophy but of a
-philosopher in this part of geometry.
-
-I wish I could have made my discussion still more popular, provided that it were also clearer and more accessible.
-
-But I hope that fair-minded readers will receive my work kindly on both scores, both because I relate geometrical mat­
-ters in a popular way, and because I could not by diligence overcome the obscurity of the material. I also give them this final piece of advice, that if they are completely unacquainted with mathematical matters, they should pass over my expositions and read only the propositions, from X X X to the end; and putting confidence in the propositions them­
-selves, without proof, they should pass on to the remaining books, especially the last. They should not be frightened off by the difficulty of the geometrical arguments and deprive themselves of the very great enjoyment of harmonic studies.

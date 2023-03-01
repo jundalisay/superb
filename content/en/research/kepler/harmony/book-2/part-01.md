@@ -10,17 +10,14 @@ icon: /icons/kepler.png
 
 
 
-## Part 1
+## Part 1: Congruence
 
-Congruence takes one form in the plane and another in space. In the
-plane there is congruence when individual angles'‘ of several figures
-come together at a point in such a way that they leave no gap.
+Congruence takes one form in the plane and another in space. In the plane, there is congruence when individual angles of several shapes coming together at a point in such a way that they leave no gap.
 
 
 ## Part 2: Perfect Congruence
 
-This is when the angles of the figure which come together do so in the same way at each meeting-point, so that
-these meeting-points are similar to one another and the pattern of meeting-points can be continued indefinitely.
+This is when the angles of the figure which come together do so in the same way at each meeting-point, so that these meeting-points are similar to one another and the pattern of meeting-points can be continued indefinitely.
 
 
 ## Part 3: Most Perfect Congruence 
@@ -30,20 +27,17 @@ This is when, in addition, the figures which come together in the plane are all 
 
 ## Part 4: Imperfect Congruence
 
-This is when some larger figure is surrounded by similar meeting-points but the congruence cannot be con­
-tinued indefinitely or can be so continued only by introducing meeting points of different kinds. The congruence is imperfect, and of lower degree, when the larger figure cannot be surrounded in such a way
-that similar meeting-points are formed at all its angles.
+This is when some larger figure is surrounded by similar meeting-points but the congruence cannot be continued indefinitely or can be so continued only by introducing meeting points of different kinds. The congruence is imperfect, and of lower degree, when the larger figure cannot be surrounded in such a way that similar meeting-points are formed at all its angles.
 
 
 ## Part 5: Congruence in space and a solid figure
 
-This is when the individual angles of several plane figures make up a solid angle, and regular or semi-regular figures are fitted together so as to leave no gap between the sides of the figures, which join up on the opposite side of the solid
-figure, or, if a gap is left, it is such that it can be filled by a figure of one of the kinds already employed, or, at least, by a regular figure.
+This is when the individual angles of several plane figures make up a solid angle, and regular or semi-regular figures are fitted together so as to leave no gap between the sides of the figures, which join up on the opposite side of the solid figure, or, if a gap is left, it is such that it can be filled by a figure of one of the kinds already employed, or, at least, by a regular figure.
 
 Note that there is another form of congruence, not of plane figures to form a solid figure but of these solid figures among themselves, to fill space all round a point. There are only two figures which will form such congruences: the cube
 and the rhombic dodecahedron. 
 
-Eight cube angles^ will meet at a point and fill space all round it. The rhombic figure has two types of angle: eight obtuse
+8 cube angles will meet at a point and fill space all round it. The rhombic figure has two types of angle: eight obtuse
 trilinear angles and six acute quadrilinear angles. 
 
 Four obtuse angles will join to fill space, and so will six acute ones. The result is like the way in which bees

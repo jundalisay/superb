@@ -17,6 +17,7 @@ The first and closest degree is when I know some line and can show that it is eq
 
 Here the given measure perfectly, that is of itself and by one act, measures the thing that is knowable.
 
+
 ## Part 13:  The second degree of knowledge
 
 This is when if the diameter is divided into a certain definite number of equal parts, or its square is similarly divided, then the line or plane surface we are given is equal to one or more such parts. Such a line is called in Greek ^TjXT| giiKei, expressible in length. Such an area is simply called pt|Tov, expressible. For number is the medium of expression for Geometers.’

@@ -1,6 +1,6 @@
 ---
 heading: Propositions 2-
-title: "Definitions"
+title: "Propositions"
 linkTitle: Propositions 2-
 weight: 4
 description: Commensurable are magnitudes measured by the same measure

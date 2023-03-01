@@ -36,8 +36,10 @@ Therefore there have been found two rational straight lines BA, AF commensurable
 
 
 
-PROPOSITION 30.
-To find two rational straight lines commensurable in square only and such that the square on the greater is greater is greater than the square on the less by the square on a straight line incommensurable in length with the greater.
+## PROPOSITION 30
+
+Find 2 rational straight lines commensurable in square only and such that the square on the greater is greater is greater than the square on the less by the square on a straight line incommensurable in length with the greater.
+
 Let there be set out a rational straight line AB, and two square numbers CE, ED such that their sum CD is not square; [Lemma 2] let there be described on AB the semicircle AFB, let it be contrived that, as DC is to CE, so is the square on BA to the square on AF, [X. 6, Por.] and let FB be joined.
 
 Then, in a similar manner to the preceding, we can prove that BA, AF are rational straight lines commensurable in square only.
@@ -51,11 +53,13 @@ And the square on AB is greater than the square on AF by the square on FB incomm
 Therefore AB, AF are rational straight lines commensurable in square only, and the square on AB is greater than the square on AF by the square on FB incommensurable in length with AB. Q. E. D.
 
 
-PROPOSITION 31.
+## PROPOSITION 31
+
 To find two medial straight lines commensurable in square only, containing a rational rectangle, and such that the square on the greater is greater than the square on the less by the square on a straight line commensurable in length with the greater.
+
 Let there be set out two rational straight lines A, B commensurable in square only and such that the square on A, being the greater, is greater than the square on B the less by the square on a straight line commensurable in length with A. [X. 29]
 
-And let the square on C be equal to the rectangle A, B.
+Let the square on C be equal to the rectangle A, B.
 
 Now the rectangle A, B is medial; [X. 21] therefore the square on C is also medial; therefore C is also medial. [X. 21]
 
@@ -63,7 +67,7 @@ Let the rectangle C, D be equal to the square on B.
 
 Now the square on B is rational; therefore the rectangle C, D is also rational.
 
-And since, as A is to B, so is the rectangle A, B to the square on B, while the square on C is equal to the rectangle A, B, and the rectangle C, D is equal to the square on B, therefore, as A is to B, so is the square on C to the rectangle C, D.
+Since, as A is to B, so is the rectangle A, B to the square on B, while the square on C is equal to the rectangle A, B, and the rectangle C, D is equal to the square on B, therefore, as A is to B, so is the square on C to the rectangle C, D.
 
 But, as the square on C is to the rectangle C, D, so is C to D; therefore also, as A is to B, so is C to D.
 
