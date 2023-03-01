@@ -9,7 +9,9 @@ icon: /icons/kepler.png
 ---
 
 
-## Proposition 27: Such a division can be performed on all lines, on a line Expressible in length, on one Expressible only in square, on a Medial line, on a line of 1 of the 12 kinds we have listed, and on all other kinds of line
+## Proposition 27
+
+**Such a division can be performed on all lines, on a line Expressible in length, on one Expressible only in square, on a Medial line, on a line of 1 of the 12 kinds we have listed, and on all other kinds of line**
 
 We are concerned only with two of these kinds [of line] which coincide with kinds already explained according to the two lines which are to be sectioned in this way.
 
@@ -52,7 +54,7 @@ Their Rectangle is also Expressible, because it is equal to the expressible squa
 
 ## Proposition 28
 
-On the other hand, if any line Expressible in length is thus divided in proportional section, its smaller part will be an Apotome of the first kind.
+**On the other hand, if any line Expressible in length is thus divided in proportional section, its smaller part will be an Apotome of the first kind.**
 
 So if the Expressible line is `GA`, as before, and when it is divided in proportional section its greater part is AO and its smaller OG; OG will also be an Apotome, by Euclid XIII.6.
 
@@ -67,7 +69,8 @@ What are the Terms of GO, a first Apotome, I leave for others to find.
 
 As the line GO is a First Apotome, its Prosharmozusa is a single unique line, by Euclid X.79.*’^ This line must be such that its square shall be Expressible, but not by a square number; and the line must, together with GO, make a single
 line Expressible in length; and by X.30,^'^ if this one complete line is made the
-diameter of a circle, say PX; 
+diameter of a circle, say PX
+
 
 If the Prosharmozusa, somewhat longer than `PA` (provided the whole were equal to the line PX) were from one end of the
 Diameter, X, applied to the circumference^"^ to give the line XG; then the line

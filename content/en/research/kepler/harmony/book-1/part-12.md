@@ -67,9 +67,8 @@ Here, though the individual lines clearly have moved away from commensurability,
 
 Since the combination of two such completely incommensurable lines may take many forms, each sinking lower and lower, we shall not be able to assign every pair to a single degree.
 
-{{< box >}}
 
-The word we have translated “medial” is “mese” in the original; that is, Kepler
+<!-- The word we have translated “medial” is “mese” in the original; that is, Kepler
 is using a transliteration of Euclid’s Greek adjective rather than the usual Latin trans­
 lation of it. Kepler seems to have worked primarily from the original Greek text of
 the Elements (see note 23 below).
@@ -95,6 +94,4 @@ Now, q is expressible in square (at least), therefore the expression on the righ
 of equation (3) is the product of two expressible numbers, and thus is itself express­
 ible. So the left hand side of the equation must also be expressible. That is, I is ex­
 pressible in square —which contradicts our original assumption.
-29 Compare Euclid, Elements X, 21; see Euclid trans. Heath, vol. Ill, p. 49.
-
-{{< /box >}}
+29 Compare Euclid, Elements X, 21; see Euclid trans. Heath, vol. Ill, p. 49. -->

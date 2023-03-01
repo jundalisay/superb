@@ -11,11 +11,9 @@ icon: /icons/kepler.png
 
 ## Proposition 21
 
+**From 2 lines commensurable with one another in length, nothing can be made which should be taken into account here, whether the lines are Expressible, or Medial, or of lower standing.**
 
-It is required to know that from two lines commensurable with one another in length nothing can be made which should be taken into account here, whether the lines are Expressible, or Medial, or of lower
-standing.
-
-For if they are commensurable in length, the whole built up from them will be commensurable with the parts. Now a line commensurable with an Expressible line is Expressible: by the definitions before Euclid X,20.
+If they are commensurable in length, the whole built up from them will be commensurable with the parts. Now a line commensurable with an Expressible line is Expressible: by the definitions before Euclid X,20.
 
 A line commensurable with a Medial line is a Medial by 24 of the same.
 
@@ -40,7 +38,9 @@ By subtraction Medial Apotomes, the former takes their name from the Binomials, 
 Here we may not join up an Expressible line with a Medial one: for two such lines are simply incommensurable, a type that will be discussed in the following section.
 
 
-## Proposition 23: No pair of incommensurable lines can produce the required resultants
+## Proposition 23
+
+**No pair of incommensurable lines can produce the required resultants**
 
 <!-- There remain the lines completely  with one another. -->
 

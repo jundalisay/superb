@@ -10,16 +10,19 @@ icon: /icons/kepler.png
 
 
 
-## Proposition 24: An Expressible line emerges when the first pair of such completely incommensurable lines are added or subtracted
+## Proposition 24
+
+**An Expressible line emerges when the first pair of such completely incommensurable lines are added or subtracted**
 
 These lines are those described in Part 17 as fifth degree knowable.
-
 
 They are necessarily Binomial and Apotome, see Euclid X, 112, 113, 114. 
 
 As when both the sum of the squares of a Binomial and of an Apotome, and their Rectangle, is Expressible, it is necessary that the individual Terms of the one should be commensurable with the individual Terms of the other, which is not the case for all Binomials and Apotomes. 
 
-Because two such lines which have the two required resultants necessarily form a Binomial and an Apotome; this is proved in the same way as [Euclid] X, 33, except that for two pijrai<; Suvapsi povov [lines expressible only in the power] we use pqxai pqKEi [lines expressible in length] and for the word psaov [medial] we substitute pqxov [expressible]: and finally we use the definition of the Binomial and the Apotome.
+Because two such lines which have the two required resultants necessarily form a Binomial and an Apotome.
+
+This is proved in the same way as [Euclid] X, 33, except that for two pijrai<; Suvapsi povov [lines expressible only in the power] we use pqxai pqKEi [lines expressible in length] and for the word psaov [medial] we substitute pqxov [expressible]: and finally we use the definition of the Binomial and the Apotome.
 
 By the addition and subtraction of a Binomial and an Apotome, with the required resultants, we get back to an Expressible line is seen as follows. 
 
@@ -66,5 +69,3 @@ From a fourth pair of the seventh degree*, let us:
 Here is the Origin of the 12 kinds of quantities treated by Euclid and the explanation for their Number.
 
 Euclid did not consider that he needed to go on to consider more remote kinds [of quantities] which as the sum of their squares, or as their common Rectangle, or both, go beyond the Expressible or the Medial to produce still lower kinds of quantity.
-
-

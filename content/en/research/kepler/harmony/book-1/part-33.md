@@ -9,7 +9,9 @@ icon: /icons/kepler.png
 ---
 
 
-## Proposition 33: If from twice the number of angles of the figure you subtract 4, you will obtain the Numerator of the parts of a right angle which give you the angle of the figure
+## Proposition 33
+
+**If from twice the number of angles of the figure you subtract 4, you will obtain the Numerator of the parts of a right angle which give you the angle of the figure**
 
 The Denominator of the parts is the number of angles itself.
 
@@ -26,7 +28,9 @@ each angle of the figure].
 
 
 
-## Proposition 34: A circle is cut by Geometrical description into 2 equal parts.
+## Proposition 34
+
+**A circle is cut by Geometrical description into 2 equal parts.**
 
 The line bisecting it is known by first degree knowledge: for it is itself the Diameter.
 
@@ -43,17 +47,16 @@ of others; it is equal to itself, and its own perfect Measure, the basis^’^ of
 Geometrical knowledge.
 
 
-## Proposition 35: The side of the Tetragon derives its Geometrical description [method of drawing] from its angles, if it is drawn independently of a circle {extra circulum) 
+## Proposition 35
+
+**The side of the Tetragon derives its Geometrical description [method of drawing] from its angles, if it is drawn independently of a circle {extra circulum)** 
 
 If it is inscribed in a circle this description is of the third degree of kno wledge,the description of its square is of the second degree, and so is that of the area of the figure.
 
 Let the Tetragon be OQPR, its angle, by XXXIII of this book, is a right angle, so by Euclid 1.46^^^ it is easy, given the side, to describe (draw) the Tetragon.
 
-Since it has 4 angles it has the same number of sides; thus two sides that meef^^ cut off two quarters of the
-P
-Circle, that is half the circle. So by XXXIV of this book the end-points of contiguous sides lie on a diameter of the
-B 1 Xt 
-circle. 
+Since it has 4 angles it has the same number of sides; thus two sides that meef^^ cut off two quarters of the P Circle, that is half the circle. So by XXXIV of this book the end-points of contiguous sides lie on a diameter of the
+B 1 Xt  circle. 
 
 As QO, QP, which form the right angle OQP in the semicircle OQP, have their end-points 0,P lying on the di­
 O
@@ -72,17 +75,20 @@ so the area of the Figure is also Expressible.
 
 
 
-## Proposition 36: The side of the Octagon has a Geometrical description from its Angles, as equally does the side of the star Octagon, being the chord subtending three eighths of a circle, and they [the sides] are of the eighth degree
-of knowledge, individually, the former being an Elasson, the latter a Mizon; combined, they [the sides] are of the sixth degree [of knowledge], and bear a particular proportion one to another.’*^'’ 
+## Proposition 36
 
+**The side of the Octagon has a Geometrical description from its Angles, as equally does the side of the star Octagon, being the chord subtending three eighths of a circle**
+
+These sides are of the 8th degree of knowledge, individually. The former is an Elasson, the latter a Mizon. 
+
+When combined, they [the sides] are of the sixth degree [of knowledge], and bear a particular proportion one to another.
 
 In short, the area is inexpressible, in fact a Medial.
 
 Let the octagon be UQTX)XRSP, and the star UOSQXPTRU^^^: therefore when a pair of lines, say QT, TO, containing the
 ti
-octagon angle QTO, have a line drawn through their
-other ends Q, O, the connecting line is the side of
-a Tetragon, because half of eight is four.
+octagon angle QTO, have a line drawn through their other ends Q, O, the connecting line is the side of
+a Tetragon, because half of eight is four. 
 
 Therefore, after a Tetragon has been constructed in the circle (to leave out other ways of constructing
 the Octagon), let there he drawn from the center L a perpendicular to its side 0(^ to cut the side in M
@@ -124,13 +130,9 @@ Third, the Rectangle contained by TQ QS is a Medial for it is equal to the recta
 Therefore by [Euclid] X.39 when they are compounded into one line TQS they make a Mizon,^^^ and by X.76 when TQ that is QZ, is subtracted from QS, the remainder, ZS, is an Elasson.^^^ Thus it can come about that an Elasson and
 a Mizon, belonging to one pair, become the Elements of another pair, and the
 Elasson, subtracted from its Mizon, leaves the Elasson of the other [pair].
-As for the area of the Octagon, the figure is made up of eight triangles like
-LQT. But the rectangle QTRS is made up of four such [triangles]; therefore
-it has half the area: and it is a Medial, as just proved; therefore twice this area,
+
+As for the area of the Octagon, the figure is made up of eight triangles like LQT. But the rectangle QTRS is made up of four such [triangles]; therefore it has half the area: and it is a Medial, as just proved; therefore twice this area,
 that is the area of the Octagon, will also be a Medial, by a porism to Euclid
-Hence CLAVIUS proves in his Geometria Practica, Book VIII, Propo­
-sition 31, that its area is a mean proportional between the area of the inscribed
-Tetragon and the area of the circumscribed Tetragon, which are in the ratio
-1:2, and the [method of] determination of this definite quantity [i.e. that of the
-area of the octagon] implies that it has the same quality of being a MediaU‘^^
+
+Hence CLAVIUS proves in his Geometria Practica, Book VIII, Proposition 31, that its area is a mean proportional between the area of the inscribed Tetragon and the area of the circumscribed Tetragon, which are in the ratio 1:2, and the [method of] determination of this definite quantity [i.e. that of the area of the octagon] implies that it has the same quality of being a MediaU
 

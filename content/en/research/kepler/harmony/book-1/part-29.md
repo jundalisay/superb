@@ -11,7 +11,9 @@ icon: /icons/kepler.png
 
 ## Proposition 29 
 
-When a division in proportional section is made on any line that is a Mizon; whose square is equal to the rectangle with length compounded from a given expressible line and the line whose square is 5 fourths that of the given expressible line, and with breadth whose square is 5 fourths [of the same square];
+**When a division in proportional section is made on any line that is a Mizon**
+
+Its square is equal to the rectangle with length compounded from a given expressible line and the line whose square is 5 fourths that of the given expressible line, and with breadth whose square is 5 fourths [of the same square];
 
 
 Then the smaller part will be an Elasson: where Elasson is a term not of comparison but denoting quality: while the greater part will be another Mizon, [the term] again being understood qualitatively, whatever its Elements may be.
@@ -34,15 +36,9 @@ is one rectangle contained by the proposed line, double the line GA, and the
 line PX, two lines which are both expressible but are commensurable only in
 square: on which account this rectangle will be Medial, by Euclid X.22.
 
-So since the square of the whole line PGX consists of the expressible square of PX, and a Medial rectangle, with the same breadth PX: which two, the square of PX X and the rectangle contained by twice the line GA and the line PX, are equal
-to the rectangle which is contained by PX, an expressible line, and the line which is the compound of PX and twice the line GA, [parts] which are commensurable only in square, of which parts the greater, PX, has a square greater than that
-of the smaller (twice the line GA) by an amount incommensurable with it [i£. PX] in length (for the square of PX is 5 in units such that the square of twice the line GA is 4, so the excess, 1, is the square of some line which is incom­
-mensurable with the line PX, because the ratio of 1 to 3 is not that of one square
-number to another) for which reasons the said line, constructed by compounding
-PX and twice GA, is a Binomial of the fourth kind: since, I say, the square
-of the whole line PGX is equal to such a rectangle contained by a fourth Bi­
-nomial and an Expressible: therefore the whole line PGX will be Medial. The
-Elements which compose it are the parts PG and GX.
+So since the square of the whole line PGX consists of the expressible square of PX, and a Medial rectangle, with the same breadth PX: which two, the square of PX X and the rectangle contained by twice the line GA and the line PX, are equal to the rectangle which is contained by PX, an expressible line, and the line which is the compound of PX and twice the line GA, [parts] which are commensurable only in square, of which parts the greater, PX, has a square greater than that of the smaller (twice the line GA) by an amount incommensurable with it [i£. PX] in length (for the square of PX is 5 in units such that the square of twice the line GA is 4, so the excess, 1, is the square of some line which is incommensurable with the line PX, because the ratio of 1 to 3 is not that of one square number to another) for which reasons the said line, constructed by compounding PX and twice GA, is a Binomial of the fourth kind: since, I say, the square of the whole line PGX is equal to such a rectangle contained by a fourth Binomial and an Expressible: therefore the whole line PGX will be Medial. 
+
+The Elements which compose it are the parts PG and GX.
 
 For because `PA` is an Apotome and AX a Binomial: therefore they are Incommensurable with one another in length. 
 
@@ -89,29 +85,22 @@ the first proposed Expressible line.
 So the division in divine proportion proceeds indefinitely; but the property of Mizon and Elasson does
 not follow it.
 
-In the former (the course of repeated divisions) the part which was a greater part {major) becomes, at the next division,
-a smaller one {minor)', in the latter, a line which was qualitatively an
-Elasson, never in any respect becomes a Mizon,®’ nor a Mizon an Elasson. Thus if the Mizon GX is again divided in proportional section, its greater part will be equal to the line PG, and will thus qualitatively remain an Elasson; nor can it possibly become qualitatively a Mizon, as it can quantitatively become the greater part {major) [in the course of further division]: as long, that is, as GA is proposed as Expressible.
+In the former (the course of repeated divisions) the part which was a greater part {major) becomes, at the next division, a smaller one {minor)', in the latter, a line which was qualitatively an Elasson, never in any respect becomes a Mizon,®’ nor a Mizon an Elasson. 
+
+Thus if the Mizon GX is again divided in proportional section, its greater part will be equal to the line PG, and will thus qualitatively remain an Elasson; nor can it possibly become qualitatively a Mizon, as it can quantitatively become the greater part {major) [in the course of further division]: as long, that is, as GA is proposed as Expressible.
 
 
 Do you wish to know why, if PGX is qualitatively a Mizon, and GX is also qualitatively a Mizon, then the greater Element of the line GX cannot also be a Mizon in the same way that the greater Element of the Mizon PGX, namely GX, was itself a Mizon? 
 
-The answer is that although both the lines PGX and GX are Mizons, the result is different in the former case from what it is in the latter. For in the square of PGX we have the whole square of PX and the whole rectangle con­
-tained by twice GA and the line P. 
+The answer is that although both the lines PGX and GX are Mizons, the result is different in the former case from what it is in the latter. 
 
-But in the square of GX, what is involved is [indeed] the square of PX but only half of it, namely the
-part that is contained by MX and XP, whereas of the rectangle con­
-tained by twice GA and the line P, we have only one quarter, namely
-that contained by AM and PX. 
+For in the square of PGX we have the whole square of PX and the whole rectangle con­
+tained by twice `GA` and the line `P`. 
 
-So in the latter case the proportion of Medial to Expressible is different from what it was in the former.®^
-Our proposition strives to show that there is agreement between the
-quantitative results of division in divine proportion and the qualita­
-tive description of the parts only if the parts are those formed by the
-first division of the line PGX, depending on its particular proportion
-between Medial and Expressible [areas]; the proposition does not hold
-for further divisions.
+But in the square of `GX`, what is involved is [indeed] the square of PX but only half of it, namely the part that is contained by MX and `XP`, whereas of the rectangle contained by twice GA and the line P, we have only one quarter, namely that contained by `AM` and `PX`. 
 
-Note the following contribution to the closeness of the analogy; that just as GX, a Mizon formed by division in divine proportion, makes another greater Mizon, namely PGX, by the addition of PG, which is the greater part obtained by dividing the line GX in divine proportion: so, on the other hand, PG an Elasson of this kind, formed by division in divine proportion, gives PY a smaller Elasson than itself, namely the greater part formed by division of the line PG, or GV, the
-smaller part formed by division of the line GX: so just as the greatest line, PGX, when divided in divine proportion, decomposes into the Mizon XG and the Elasson GP, so the second Mizon, GX, would de­
-compose into two Elassons XV and VG, which are equal to GP and PY: and so two Elassons would be compounded to form one Mizon; while a Mizon and an Elasson make another Greater Mizon.
+So in the latter case the proportion of Medial to Expressible is different from what it was in the former. 
+
+Our proposition strives to show that there is agreement between the quantitative results of division in divine proportion and the qualitative description of the parts only if the parts are those formed by the first division of the line PGX, depending on its particular proportion between Medial and Expressible [areas]; the proposition does not hold for further divisions.
+
+Note the following contribution to the closeness of the analogy; that just as GX, a Mizon formed by division in divine proportion, makes another greater Mizon, namely PGX, by the addition of PG, which is the greater part obtained by dividing the line GX in divine proportion: so, on the other hand, PG an Elasson of this kind, formed by division in divine proportion, gives PY a smaller Elasson than itself, namely the greater part formed by division of the line PG, or GV, the smaller part formed by division of the line GX: so just as the greatest line, PGX, when divided in divine proportion, decomposes into the Mizon XG and the Elasson GP, so the second Mizon, GX, would decompose into two Elassons XV and VG, which are equal to GP and PY: and so two Elassons would be compounded to form one Mizon; while a Mizon and an Elasson make another Greater Mizon.

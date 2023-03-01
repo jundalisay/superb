@@ -10,33 +10,19 @@ icon: /icons/kepler.png
 
 
 
-Individual Prime numbers of sides define individual classes of figures;
-and figures are counted as belonging to classes which have a number of sides obtained by repeated doubling of the Prime [that defines the class].
+Individual Prime numbers of sides define individual classes of shapes.
 
+Shapes are counted as belonging to classes which have a number of sides obtained by repeated doubling of the Prime [that defines the class].
 
-This follows from the definition in section X of this book. For, if all figures
-such that the numbers of their sides can be obtained by repeated doubling of
-one given number of sides of one of them have the same form of proper con­
-struction: then they all belong to the same Class on account of their construc­
-tion. Because bisection [of the sides of a figure] does not alter the type or class
-[to which thefigure belongs], when it is associated with individualfigures; because
-of the simplicity and quality of the Parts, both together: for from the individual
-arcs of the former figure [the process of bisection] makes only two parts, which
-are equal. But by trisection, or Quinsection, or division into more parts, you
-cannot avoid either obtaining unequal parts if there are to be only two of them,
-or many parts, that is more than two, if they are to be equal. Thus in trisecting
-an arc [of length] 3 it is either cut into 2 and 1, two unequal parts, or into
-1, 1, 1, equal parts but many.
+This follows from the definition in section X of this book. For, if all figures such that the numbers of their sides can be obtained by repeated doubling of one given number of sides of one of them have the same form of proper construction: then they all belong to the same Class on account of their construction. 
 
+Because bisection [of the sides of a figure] does not alter the type or class [to which thefigure belongs], when it is associated with individualfigures; because of the simplicity and quality of the Parts, both together: for from the individual arcs of the former figure [the process of bisection] makes only two parts, which are equal. 
 
-The foregoing proposition is proved thus. Constructibility depends on the number of sides [of the figure], by X of this book. Now prime numbers do not have any numerical part [i£. factor] in common, for unity, which they do have
-in common, does not determine a form of division and is thus not a numerical
-part or number.
+But by trisection, or Quinsection, or division into more parts, you cannot avoid either obtaining unequal parts if there are to be only two of them, or many parts, that is more than two, if they are to be equal. Thus in trisecting an arc [of length] 3 it is either cut into 2 and 1, two unequal parts, or into 1, 1, 1, equal parts but many.
 
-So the demonstrations constructed by means of these numbers [primes] have nothing in common. Therefore the classes determined by individual primes are distinct. The first of these is that which contains the figures (or
-sort-offigures) with these numbers of sides: 2, 4, 8,16,32, and so on indefinitely:
-the second has 3, 6, 12, 24, 48, 96, and so on indefinitely: the Third has 5,
-10, 20, 40, 80, 160, 320, and so on indefinitely.^*^ And there are indefinitely
+The foregoing proposition is proved thus. Constructibility depends on the number of sides [of the figure], by X of this book. Now prime numbers do not have any numerical part [i£. factor] in common, for unity, which they do have in common, does not determine a form of division and is thus not a numerical part or number.
+
+So the demonstrations constructed by means of these numbers [primes] have nothing in common. Therefore the classes determined by individual primes are distinct. The first of these is that which contains the figures (or sort-offigures) with these numbers of sides: 2, 4, 8,16,32, and so on indefinitely: the second has 3, 6, 12, 24, 48, 96, and so on indefinitely: the Third has 5, 10, 20, 40, 80, 160, 320, and so on indefinitely.^*^ And there are indefinitely
 many others.
 
 

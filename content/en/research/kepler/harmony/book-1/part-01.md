@@ -47,7 +47,9 @@ Shapes are semiregular if their angles are different from one another but they h
 ![Rhombi](/graphics/physics/harmony003.png)
 
 
-## Proposition 4: All regular shapes can be placed so that all their angles simultaneously lie on the same circle
+## Proposition 4
+
+**All regular shapes can be placed so that all their angles simultaneously lie on the same circle**
 
 Euclid (III.21) states that all equal angles can be inscribed in the same segment, and thus also in equal segments of the same circle, and all the angles of a Regular shape are equal, so all the angles of one figure can be inscribed in equal segments of one circle. 
 

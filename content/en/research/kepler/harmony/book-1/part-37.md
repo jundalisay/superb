@@ -58,19 +58,19 @@ vertical angle at A. But if the three angles are equal, the 3 sides of the Trian
 CG, which is at the same time the side of the Hexagon and of the triangle that
 IS one sixth of it, is equal to the semidiameter of the circle, CA or AG. 
 
-Thus the side of the Hexagon is expressible in length, namely half the diameter [of
-the circle]. So the former belongs to Degree II by XIII of this book.
-Let us consider a triangle [inscribed in the circle] such as triangle BCD.
-Its side BC links two sides of the hexagon CH, HB, which meet at H. Thus
-since BHC is two thirds of the semicircle and CG one third, therefore the arc
-BCG is a semicircle, and BG a diameter, passing through A. Therefore the angle
-BCG, the angle in it [sc. the semicircle[ is a Right angle, by Euclid III.31.^‘^^
-So [the sum of] the squares of BC and CG is equal to the square of BG, by Euclid
-1.47.
+Thus the side of the Hexagon is expressible in length, namely half the diameter of the circle. 
+
+So the former belongs to Degree II by XIII of this book. 
+
+Let us consider a triangle [inscribed in the circle] such as triangle BCD. 
+
+Its side BC links two sides of the hexagon CH, HB, which meet at H. Thus since BHC is two thirds of the semicircle and CG one third, therefore the arc BCG is a semicircle, and BG a diameter, passing through A. Therefore the angle BCG, the angle in it [sc. the semicircle[ is a Right angle, by Euclid III.31.
+
+So [the sum of] the squares of BC and CG is equal to the square of BG, by Euclid 1.47.
 
 But CG is a semidiameter, and its square is a quarter of that of the diameter; so subtracting a quarter from the square of the diameter BG gives as remainder the square of the side of the triangle BC. So this square is Expressible:
-but because its ratio to the square of BG is not equal to that of a square number
-to a square number, but is as 3 to 4, therefore BC is expressible only in square.
+but because its ratio to the square of BG is not equal to that of a square number to a square number, but is as 3 to 4, therefore BC is expressible only in square. 
+
 It therefore belongs to the Third degree, by section XIV above.
 
 Because BC, BD are equal, and the angles BCD, BDC are equal; therefore BE, the perpendicular dropped [from B] to CD, will cut it in E into equal lines CE, ED. The complete line CD was Expressible only in square; so the same

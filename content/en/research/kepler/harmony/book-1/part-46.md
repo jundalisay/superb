@@ -1,7 +1,7 @@
 ---
 heading: Part 46
-title: "Measurements"
-description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+title: "Divisoin of Arcs"
+description: "The division of any arc of a circle into 3, 5, 7, and so on, equal parts, and in any ratio which is not obtainable by repeated doubling from the ones which have been shown above, cannot be carried out in a Geometrical manner which produces knowledge"
 image: /covers/harmony.jpg
 weight: 28
 author: Johannes Kepler
@@ -11,99 +11,53 @@ icon: /icons/kepler.png
 
 
 
-The division of any arc of a circle into three, five, seven, and so on, equal parts, and in any ratio which is not obtainable by repeated doubling from the ones which have been shown above, cannot be carried out in a Geometrical manner which produces knowledge.
+The division of any arc of a circle into 3, 5, 7, and so on, equal parts, and in any ratio which is not obtainable by repeated doubling from the ones which have been shown above, cannot be carried out in a Geometrical manner which produces knowledge.
 
-The division of an arc into two, four and eight parts, and so on, that is into a repeatedly doubled number of parts, can be carried out Geometrically, and has been used so far. It happens that not only the complete circle can be cut into three parts, by the Trigon; but also the Semicircle, as for the Hexagon; 
+The division of an arc into 2, 4 and 8 parts, and so on, that is into a repeatedly doubled number of parts, can be carried out Geometrically, and has been used so far. 
 
-and also a quarter [of the circle], as for the Dodecagon; and also a fifth, as for
-the Pentehaedecagon; and also the arc of 135 degrees, as in the Octagon; and
-also the arc of 108 degrees, as in the Decagon. Indeed, it happens similarly
-that not only the complete circle can be cut into five parts, by the Pentagon;
-but also the semicircle, as for the Decagon; and also a third part of the circle,
-as for the Pentehaedecagon; and also the arc of 150 degrees, as for the Dodeca­
-gon. The same is true for the halves of these arcs, and for the quarters, and
-for all other parts obtainable by successive halving. But this does not come about
-because of a characteristic of Trisection and Quinsection, but by chance, and
+Not only can the complete circle be cut into 3 parts by the Trigon, but also the Semicircle, as for the Hexagon.
+
+A quarter of the circle, as for the Dodecagon; and also a fifth, as for
+the Pentehaedecagon; 
+
+also the arc of 135 degrees, as in the Octagon; and
+
+also the arc of 108 degrees, as in the Decagon. 
+
+Similarly, not only the complete circle can be cut into five parts, by the Pentagon; but also the semicircle, as for the Decagon; and also a third part of the circle, as for the Pentehaedecagon; and also the arc of 150 degrees, as for the Dodecagon.
+
+The same is true for the halves of these arcs, and for the quarters, and for all other parts obtainable by successive halving. But this does not come about because of a characteristic of Trisection and Quinsection, but by chance, and
 on account of the other properties of the figures, as already discussed.
 
-But in the general case trisection, or division in any other proposed ratio
-not obtainable by repeated doubling, is impossible, as can be seen by comparison
-with the possibility of bisection. For that, the means used to bisect the arc, and
-the angle that it measures, is the straight line subtended by the arc, which [i£.
-the straight line] can be divided into two equal parts Geometrically: since from
-the equality of these two parts it follows that the parts of any arc are equal,
-whether it be large or small with respect to the whole circle: and from this start­
-ing point we may also deduce that in a Triangle one may argue from the equality
-of sides to the equality of the angles opposite them. Now, this means [i.e. the division of the subtended line] is lacking to us in other types of section. For,
-although a straight line, subtended by an arc, can be divided into any number
-of [equal] parts, and that Geometrically; yet from any proportion of the parts
-of the subtended line (after the proportion of equality) it is not possible to deduce
-a corresponding proportion of the parts of the arc; in the same way in the Tri­
-angle one may not argue from some proportion among the sides (apart from
-the proportion of equality alone) to the same proportion among the angles op­
-posite them. For, if the subtended line were, say, divided into three equal parts;
-if the lines dividing it have been drawn perpendicular to the chord, the middle
-part of the arc will be smaller than the ones to either side; if the dividing lines
-come out from the center of the arc [i.e. the center of the circle of which the arc
-forms part], the middle part of the arc will be larger than the side ones. Therefore
-between the infinite distance^"^^ and the center of the circle, there is a point such
-that, if two lines were drawn from it, they would divide the subtended line and
-its arc into three equal parts. In fact, this point is always further from the arc
-of the circle as the arc of the circle that is to be trisected becomes smaller, but
-not in constant proportion^^^^ Thus since the arcs of the circle can be made
-indefinitely small (minui possunt in infinitum), the distance of this point can
-also increase indefinitely (excurret in infinitum): now there is no knowledge
-possible of something unbounded or of unbounded variation.^^^ This difficulty
+But in the general case trisection, or division in any other proposed ratio not obtainable by repeated doubling, is impossible, as can be seen by comparison with the possibility of bisection. 
 
-besets even Trisection, which is still simpler and closer to equality [i.e. bisection].
-Much greater difficulty will arise in the following divisions of a general arc,
-say into 5, 7, 9, 11, etc. equal parts. For there can no longer be a single point
-from which the lines are drawn which cut the chord into the required equal
-parts while the same lines also cut the arc into equal parts.^^^
-Now whatever techniques we can bring to bear to carry out division in
-the general case, techniques depending on the number that defines the division,
-these techniques must be general and apply equally to the lines subtended by
-any arc, both for a large arc which is very different from the line it subtends,
-and for a small arc, which differs little from the line. But leaving vague the
-ratio of the parts of the chord to the parts of its arc is definitely not a deter­
-mination that yields knowledge. And let this be noted particularly for Trisection
-or quinsection etc. as carried out by Biirgi's analytical method, which we dis­
-cussed at length in the preceding proposition. However all the things said there
-apply here also; moreover, some of the things said there are more appropriate
-in this place, and become clearer and more significant in the division of arcs
-than [they were] in the division of the complete circle. For, if I pass over the
+For that, the means used to bisect the arc, and the angle that it measures, is the straight line subtended by the arc, which [i£. the straight line] can be divided into two equal parts Geometrically: since from the equality of these two parts it follows that the parts of any arc are equal, whether it be large or small with respect to the whole circle: 
 
-points which the two cases have in common, [namely] that it is begging the
-question if we are told to do what it was required to find out how to do: that
-the properties of a continuous quantity cannot be given, in a way that produces
-knowledge, by discrete quantities or numbers; that whatever number is obtained
-for the side which determines the required part of the arc it cannot tell us more
-than that the side is either larger or smaller than it should be; that as [the
-relationship of] rough and unshaped matter is to something which has form,
-and as [the relationship of]an indeterminate and indefinite quantity is to a
-figure, so also is [the relationship of] the analytic method to geometrical deter­
-mination (the former is particularly excellent and noble in this semimechanical
-Cossa, but base and degraded in geometry which produces knowledge); that whereas
-every single chord which is less than a diameter is associated with two unequal
-arcs of the circle, of which one is smaller than a semicircle, and the other greater,
-and therefore the chord of a fractional part of the smaller one is smaller, and
-a part which is an equal fraction of the greater one is greater: this Analytic
-[method] of Burgi’s tells us something general, not only about these two unequal
-chords but also about many other chords of a circle, which is useful for express­
-ing [their lengths] in numbers. For example, for trisection the rule (lex) is this:
-If the arc be given (let it be 48 degrees) and its chord and let it be required
-to divide this arc into three parts, each of 16 degrees; that is if it be required
-to find the chord of this part, or its proportion to the whole chord of length
-48 degrees: then I am required to make it so that the proportion of the chord
-of the whole [arc] to the chord that is to be found, that of the part [of the arc],
-is to be equal to the proportion of this chord to the second, and of the second
-to the third: now I am required to triple the chord of the part [of the arc], and
-from it to subtract the third proportional: the remainder is said to be equal
-to the whole chord. That is, from the given chord, one third is cubed, as a frac­
-tion, and the resulting number is added to the whole: the third part of this sum
-is a little less than the required chord. For if, instead, this [chord] itself, cubed,
-is added to the whole; a third part of the sum comes quite close to the correct
-value; and this can be repeated, indefinitely. By this procedure one comes gradually
+From this starting point we may also deduce that in a Triangle one may argue from the equality of sides to the equality of the angles opposite them. Now, this means [i.e. the division of the subtended line] is lacking to us in other types of section. 
+
+For, although a straight line, subtended by an arc, can be divided into any number of [equal] parts, and that Geometrically; yet from any proportion of the parts of the subtended line (after the proportion of equality) it is not possible to deduce a corresponding proportion of the parts of the arc; in the same way in the Triangle one may not argue from some proportion among the sides (apart from the proportion of equality alone) to the same proportion among the angles opposite them. For, if the subtended line were, say, divided into three equal parts; if the lines dividing it have been drawn perpendicular to the chord, the middle part of the arc will be smaller than the ones to either side; if the dividing lines come out from the center of the arc [i.e. the center of the circle of which the arc forms part], the middle part of the arc will be larger than the side ones. 
+
+Therefore between the infinite distance and the center of the circle, there is a point such that, if two lines were drawn from it, they would divide the subtended line and its arc into three equal parts.
+
+In fact, this point is always further from the arc of the circle as the arc of the circle that is to be trisected becomes smaller, but not in constant proportion.
+
+Thus since the arcs of the circle can be made indefinitely small (minui possunt in infinitum), the distance of this point can also increase indefinitely (excurret in infinitum): now there is no knowledge
+possible of something unbounded or of unbounded variation.
+
+This difficulty besets even Trisection, which is still simpler and closer to equality [i.e. bisection].
+
+Much greater difficulty will arise in the following divisions of a general arc, say into 5, 7, 9, 11, etc. equal parts. For there can no longer be a single point from which the lines are drawn which cut the chord into the required equal parts while the same lines also cut the arc into equal parts.
+
+Now whatever techniques we can bring to bear to carry out division in the general case, techniques depending on the number that defines the division, these techniques must be general and apply equally to the lines subtended by any arc, both for a large arc which is very different from the line it subtends, and for a small arc, which differs little from the line. But leaving vague the ratio of the parts of the chord to the parts of its arc is definitely not a determination that yields knowledge. And let this be noted particularly for Trisection or quinsection etc. as carried out by Biirgi's analytical method, which we discussed at length in the preceding proposition. 
+
+However all the things said there apply here also; moreover, some of the things said there are more appropriate in this place, and become clearer and more significant in the division of arcs than [they were] in the division of the complete circle. 
+
+For, if I pass over the points which the two cases have in common, [namely] that it is begging the question if we are told to do what it was required to find out how to do: that the properties of a continuous quantity cannot be given, in a way that produces knowledge, by discrete quantities or numbers; that whatever number is obtained for the side which determines the required part of the arc it cannot tell us more than that the side is either larger or smaller than it should be; that as [the relationship of] rough and unshaped matter is to something which has form, and as [the relationship of]an indeterminate and indefinite quantity is to a figure, so also is [the relationship of] the analytic method to geometrical determination (the former is particularly excellent and noble in this semimechanical Cossa, but base and degraded in geometry which produces knowledge); that whereas every single chord which is less than a diameter is associated with two unequal arcs of the circle, of which one is smaller than a semicircle, and the other greater, and therefore the chord of a fractional part of the smaller one is smaller, and a part which is an equal fraction of the greater one is greater: this Analytic [method] of Burgi’s tells us something general, not only about these two unequal chords but also about many other chords of a circle, which is useful for expressing [their lengths] in numbers. For example, for trisection the rule (lex) is this: 
+
+If the arc be given (let it be 48 degrees) and its chord and let it be required to divide this arc into three parts, each of 16 degrees; that is if it be required to find the chord of this part, or its proportion to the whole chord of length 48 degrees: then I am required to make it so that the proportion of the chord of the whole [arc] to the chord that is to be found, that of the part [of the arc], is to be equal to the proportion of this chord to the second, and of the second
+to the third: 
+
+now I am required to triple the chord of the part [of the arc], and from it to subtract the third proportional: the remainder is said to be equal to the whole chord. That is, from the given chord, one third is cubed, as a fraction, and the resulting number is added to the whole: the third part of this sum is a little less than the required chord. For if, instead, this [chord] itself, cubed, is added to the whole; a third part of the sum comes quite close to the correct value; and this can be repeated, indefinitely. By this procedure one comes gradually
 closer to the chord subtended by 16 degrees.^^^ But if you set up the number
 that is to be cubed as greater, and in fact to have about the value that the compasses suggest should be a third part of the remainder of the circle when 48
 degrees have been subtracted, namely 312 degrees, a third of which is 104: then
