@@ -1,9 +1,8 @@
 ---
 heading: "Chapter 5"
 title: "The Kepler Tensor and Removing the Metric Tensor"
-
 date: 2022-01-03
-image: "/covers/spblack.jpg"
+image: /graphics/keplert.png
 description: "The Kepler Tensor plot movements in space or no-space according to universal relativity."
 linkTitle: "Kepler Tensor"
 author: Juan

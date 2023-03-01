@@ -1,6 +1,6 @@
 ---
 heading: Part 42
-title: "Measurements"
+title: "The Pentagon and the Star Pentagon"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg
 weight: 22
@@ -10,25 +10,21 @@ icon: /icons/kepler.png
 
 
 
-The sides of the Pentagon and the Star Pentagon, or the chord subtended by two fifths of the Circle,'*’® have a Geometrical description through their angles, and are knowable, separately in the eighth degree;
+The sides of the Pentagon and the Star Pentagon, or the chord subtended by 2/5 of the Circle, have a Geometrical description through their angles, and are knowable, separately in the 8th degree;
 combined, in the sixth and in the fourth degree of knowledge.
 
+Description independently of the circle proceeds thus: if the proposed (futurum) side is given in length, we shall divide it in proportional section by Euclid II. 11 or VI. 30, and to it we shall join the greater part formed by the section: and having drawn two sides (crura) each equal to this composite line; and making the proposed line the Base, we shall construct the interior triangle of the Pentagon.
 
-Description independently of the circle proceeds thus: if the proposed (futurum) side is given in length, we shall divide it in proportional section by Euclid II. 11 or VI. 30, and to it we shall join the greater part formed by the section: and having drawn two sides (crura) each equal to this composite line; and making
-the proposed line the Base, we shall construct the interior triangle of the Pentagon.
+The composite side (crus) comprises the whole proposed line and the greater part is found hy dividing it in the divine section. 
 
-Now, since the composite side (crus) comprises the whole proposed line and the greater part found hy dividing it in the divine section; the composite line will also be divided in this way [i£. in proportional section], and its greater
-part will be the proposed side, so that the base angle of this Triangle will be
-twice the angle at the vertex, as above for the Decagon and on the two said
-equal sides (crura) of the triangle, serving as bases, we shall add two triangles to the outside [of the figure], the triangles having their [remaining] sides (crura) equal to the proposed side.
+The composite line will also be divided in this way [ie. in proportional section], and its greater part will be the proposed side, so that the base angle of this Triangle will be twice the angle at the vertex, as above for the Decagon and on the two said equal sides (crura) of the triangle, serving as bases, we shall add two triangles to the outside [of the figure], the triangles having their [remaining] sides (crura) equal to the proposed side.
 
-The easiest inscription in the circle is via the side of the Decagon. For, since
-half of ten is five, if we join up the ends F, H o f two sides FG, GH of the Decagon
-that meet at G, the line FH will be the side of the Pentagon, and similarly for
+The easiest inscription in the circle is via the side of the Decagon. For, since half of ten is five, if we join up the ends F, H o f two sides FG, GH of the Decagon that meet at G, the line FH will be the side of the Pentagon, and similarly for
 and if we join up the ends F, K, the line FK will be the side of the star.
-So let the Pentagon be BDFHK and its star BFKDHB.
 
-Euclid, then, shows in XIII. 10 that the square of FH, the side of the Pentagon, is equal to the sum of the square of FA, the side of the Hexagon, and of the square of FG, the side of the Decagon, that is [the sum of the squares of] the
+So let the Pentagon be `BDFHK` and its star `BFKDHB`.
+
+Euclid, then, shows in 13. 10 that the square of FH, the side of the Pentagon, is equal to the sum of the square of FA, the side of the Hexagon, and of the square of FG, the side of the Decagon, that is [the sum of the squares of] the
 semidiameter, AG, and GO, the Greater part resulting from the [Proportional]
 section [of the semidiameter].
 
@@ -73,18 +69,10 @@ to
 Therefore GX is the side of the star, and its square is the sum of the square of GA, the semidiameter of the circle surrounding the ten-angled figure, and of the square of the line AX, composed of PA and AG. Thus, by what is
 proved there,^^^ GX is a Mizon, GP an Elasson.
 
-Individually they belong to the eighth degree of knowledge, and to its second level (ordine). Because, taken
-together the lines PG, GX make the sum of their squares Expressible, namely
-equal to the square PX, which is five times the square of the Expressible line
-GA: and the same two lines PG, GX give a Medial rectangle; on this basis PG,
-GX, taken together, belong to the sixth degree of knowledge which was discussed
-in XVIII above. 
+Individually they belong to the eighth degree of knowledge, and to its second level (ordine). Because, taken together the lines `PG`, `GX` make the sum of their squares Expressible, namely equal to the square PX, which is five times the square of the Expressible line `GA`. 
 
-Finally, because the side of the Pentagon and the side of the star are related as the larger part and the whole in the divine section; they accordingly also belong to the fourth degree of knowledge, when combined with one
-another: see Part 29. 
+the same two lines `PG`, `GX` give a Medial rectangle. On this basis `PG`, `GX`, taken together, belong to the 6th degree of knowledge which was discussed in Part 18. 
 
-Moreover, it follows from these properties that just as the side of the Pentagon is an Elasson, and that of the Star a Mizon,
-so too the line composed of them will again be a Mizon, and the side of the
-Pentagon will be the smaller element of this compound line, considered as a
-Mizon; while the side of the star will be its greater Element; and similarly also,
-the difference between the two sides will be an Elasson, that is Z)Q or QF, by Part 29.
+The side of the Pentagon and the side of the star are related as the larger part and the whole in the divine section. They accordingly also belong to the 4th degree of knowledge, when combined with one another: see Part 29. 
+
+It follows from these properties that just as the side of the Pentagon is an Elasson, and that of the Star a Mizon, so too the line composed of them will again be a Mizon, and the side of the Pentagon will be the smaller element of this compound line, considered as a Mizon; while the side of the star will be its greater Element; and similarly also, the difference between the two sides will be an Elasson, that is Z)Q or QF, by Part 29.

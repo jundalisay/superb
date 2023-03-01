@@ -3,7 +3,7 @@ heading: "Chapter 3"
 title: "Universal Relativity"
 
 date: 2022-01-03
-image: "/covers/spblack.jpg"
+image: /graphics/traf.png
 description: "We replace Einstein's Relativity with Universal Relativity as a template for all the movements in the universe, whether physical or metaphysical"
 author: Juan
 weight: 10

@@ -1,11 +1,12 @@
 ---
+heading: Chapter 1
 title: "The Transformative Layer of Superphysics"
-heading: Transforming Matter as Modern Alchemy
+# heading: Transforming Matter as Modern Alchemy
 date: 2020-01-28
 linkTitle: "Transformative Layer"
 image: /photos/physics/elec.jpg
 description: "The Transformative Layer deals with fusion and the conversion of particles into different material types"
-weight: 12
+weight: 2
 author: Juan
 aliases:
   /material/principles/radioactive

@@ -2,8 +2,7 @@
 heading: "Chapter 1"
 title: "The Aethereal Layer"
 date: 2020-01-31
-image: "/covers/spblack.jpg"
-# image: /photos/meta/buddhism.jpg
+image: /photos/meta/yinyang.jpg
 description: "The aethereal layer is the higgs field in Physics and is the highest physical layer"
 author: Juan
 weight: 8

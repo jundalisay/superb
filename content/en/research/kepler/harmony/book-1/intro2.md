@@ -14,23 +14,41 @@ This was until he perused my little book 'The Secret of the Universe', in which 
 
 See what damage Ramus the master did to Schoner the disciple. 
 
-First Ramus, having read Aristotle thoroughly, who had refuted the Pythagorean philosophy on the properties of the elements as deduced from the five solids, at once conceived in his mind a contempt for the whole of the Pythagorean philosophy.
+Aristotle had refuted the Pythagorean philosophy on the properties of the elements as deduced from the 5 solids.
+- Ramus thoroughly read Aristotle.   
+- He at once conceived a contempt for all of the Pythagorean philosophy.
+- He knew that Proclus was a member of the Pythagorean sect.
 
-Then, as he knew that Proclus was a member of the Pythagorean sect, he did not believe him when he asserted, which was quite true, that the ultimate aim of Euclid’s work, to which absolutely all the propositions of all its books were related, was the five regular solids. Hence there arose in Ramus a very confident conviction that the five solids must be removed from the aim of the books of the Elements of Euclid.
+Ramus did not believe Proclus when he asserted truly that the ultimate aim of Euclid’s work, was the 5 regular solids.
+<!-- to which absolutely all the propositions of all its books were related,   -->
+- Hence, a very confident conviction arose in Ramus that the 5 solids must be removed from the aim of the books of the Elements of Euclid.
 
-With the aim of the work removed, as if the form were removed from a building, there was left a formless heap of propositions in Euclid, which Ramus attacked as if it were a fiend in all the twenty-eight books of his Schools, with great harshness of language, with great temerity, quite undeserved by so great a man.
+With the aim of the work removed, as if the form were removed from a building, there was left a formless heap of propositions in Euclid.
+- Ramus attacked these as if it were a fiend in all the 28 books of his Schools
+<!-- , with great harshness of language, with great temerity, quite undeserved by so great a man. -->
 
-Schoner, following Ramus’ convictions, himself also believed (of course) that the regular solids had no application; and not only that, but he also neglected or despised Proclus, following the judgement of Ramus. Yet from Proclus he could learn the application of the five solids both in the Elements of Euclid and in the structure of the world. In fact the disciple was more fortunate than the n^aster, because he gratefully received my revelation of the application of the solids in the structure of the world, which Ramus had repudiated though it was taught by Proclus.
+Schoner followed Ramus’ convictions.
+<!-- himself also believed (of course) that the regular solids had no application; and not only that, but he also neglected or despised Proclus, following the judgement of Ramus.  -->
+- Yet from Proclus he could learn the application of the 5 solids both:
+  - in the Elements of Euclid and
+  - in the structure of the world.
 
-For what if the Pythagoreans attributed these shapes to the elements, but not as I do to the spheres of the world? Ramus would have striven to undo this error over the true subject of the figures, as I have done; he would not have demolished this whole philosophy with one tyrannical word. 
+In fact, Schoner was more fortunate than his master Ramus, because he gratefully received my revelation of the application of the solids in the structure of the world. 
 
-What if the Pythagoreans put forward the same teaching as I do, and hid their doctrine by wrapping it up in words? Is not the Copernican form of the world found in Aristotle himself, falsely refuted by him
+For what if the Pythagoreans attributed these shapes to the elements, but not as I do to the spheres of the world? 
 
-Under Other names, as they called the Sun, Fire, and the Moon the Counter Earth? 
+Ramus would have striven to undo this error over the true subject of the shapes as I have done.
+- He would not have demolished this whole philosophy with one tyrannical word. 
 
-For suppose the disposition of the circles was the same according to the Pythagoreans as according to Copernicus, that the 5 solids were known, and the necessity for their fivefold number;
+What if the Pythagoreans put forward the same teaching as I do, and hid their doctrine by wrapping it up in words? 
 
-Suppose that they all consistently taught that the five solids were the archetypes of the parts of the world. What a short step further it is for us to believe that their doctrine in the form of a riddle was read by Aristotle as if it had been refuted in the true sense of the words, when Aristotle read it as the Earth to which they allocated the cube, although they as it happened meant Saturn, the orbit of which was separated from Jupiter by the interposition of the cube. 
+Is not the Copernican form of the world found in Aristotle himself, falsely refuted by him Under Other names, as they called the Sun, Fire, and the Moon the Counter Earth? 
+
+For suppose the disposition of the circles was the same according to the Pythagoreans as according to Copernicus, that the 5 solids were known, and the necessity for their fivefold number. 
+
+Suppose that they all consistently taught that the 5 solids were the archetypes of the parts of the world.
+
+What a short step further it is for us to believe that their doctrine in the form of a riddle was read by Aristotle as if it had been refuted in the true sense of the words, when Aristotle read it as the Earth to which they allocated the cube, although they as it happened meant Saturn, the orbit of which was separated from Jupiter by the interposition of the cube. 
 
 The common herd ascribe rest to the Earth, whereas Saturn has been allocated a very slow motion which is very close to rest, so that among the Hebrews it got its name from the word “rest.” 
 
@@ -38,24 +56,25 @@ Similarly, Aristotle read it as the air to which the octahedron was given, where
 
 Mercury is no less swift than the nimble air is held to be. As it happened. 
 
-Mars was the interpretation given to the word “fire,” which also had elsewhere the name Pyrois (fiery one) from fire; and to it the tetrahedron was given, perhaps because its orbit is enclosed by that figure. And under the disguise of water, to which the icosahedron is attributed, the star of Venus (as the one of which the course is contained within the icosahedron) could be hidden, because liquids are subject to Venus, and she herself is said to have risen from the sea foam, whence the name “Aphrodite.” 
+Mars was the interpreted to the word “fire”.
+- And so the tetrahedron was given to Mars, perhaps because its orbit is enclosed by that shape.
+ <!-- which also had elsewhere the name Pyrois (fiery one) from fire; and to it  -->
+- Under the disguise of water, to which the icosahedron is attributed, the star of Venus (as the one of which the course is contained within the icosahedron) could be hidden, because liquids are subject to Venus, and she herself is said to have risen from the sea foam, whence the name “Aphrodite.” 
 
-Lastly, the word “world” could signify the Earth. The dodecahedron is ascribed to the world, because the Earth’s course is contained within that figure, and marked off into 12 sections of its length, as that figure is contained within 12 faces round its whole compass. 
+Lastly, the word “world” could signify the Earth. 
 
-Therefore that in the secrets of the Pythagoreans on this basis the five figures were distributed not among the elements, as Aristotle believed, but among the planets themselves is very strongly confirmed by the fact that Proclus tells us that the aim of geometry is to tell how the heaven has received appropriate figures for definite parts of itself.
+The dodecahedron is ascribed to the world, because the Earth’s course is contained within that shape, and marked off into 12 sections of its length, as a dodecahedron is contained within 12 faces around. 
 
-Nor is this yet the end of the damage which Ramus has inflicted on us. Consider the most ingenious of today’s geometers, Snel, clearly a supporter of Ramus, in his preface to the Problems of Ludolph van
+Therefore, in the secrets of the Pythagoreans on this basis, the 5 shapes were distributed not among the elements, as Aristotle believed, but among the planets themselves.
+- This is very strongly confirmed by Proclus telling us that the aim of geometry is to tell how the heaven has received appropriate shapes for definite parts of itself.
 
-Ceulen.^ 
+Nor is this yet the end of the damage which Ramus has inflicted on us. Consider the most ingenious of today’s geometers, 
 
-opinion on
-11-1
-binomials.
-wuiebrord Snei’s
+Snel is a supporter of Ramus. In his preface to "The Problems of Ludolph van Ceulen",  he says, “That division of the inexpressibles into 13 kinds is useless for application.” 
 
-First he says, “That division of the inexpressibles into 13 kinds is useless for application.” 
+But this is the same as saying that the study of nature is not applicable to everyday life. 
 
-I concede that, if he is to recognize no application unless it is in everyday life, and if there is to be no application of the study of nature to life. 
+ <!-- f he is to recognize no application unless it is in everyday life, and if there is to be no application of   -->
 
 But why does he not follow Proclus, whom he mentions, and who recognizes that there is some greater good in geometry than those of the arts which are necessary for living? 
 

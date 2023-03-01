@@ -1,6 +1,6 @@
 ---
 heading: Part 45
-title: "Measurements"
+title: "The Heptagon"
 description: "All shapes the number of whose sides are Primes, and their stars, and the complete classes of figures derived from them, have no Geometrical description independent of the circle"
 image: /covers/harmony.jpg
 weight: 26
@@ -12,7 +12,7 @@ icon: /icons/kepler.png
 
 ## Proposition 45
 
-The Heptagon and all shapes the number of whose sides are Primes (so-called), and their stars, and the complete classes [of figures] derived from them, have no Geometrical description independent of the circle. 
+**The Heptagon and all shapes the number of whose sides are Primes (so-called), and their stars, and the complete classes [of figures] derived from them, have no Geometrical description independent of the circle.** 
 
 In the circle, although the quantity of the side is determinate, it is equally impossible to evaluate.’^®
 

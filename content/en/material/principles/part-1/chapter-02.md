@@ -2,8 +2,7 @@
 heading: "Chapter 2"
 title: "The Quantum of Aether or Qoa"
 date: 2020-01-31
-# image: /photos/meta/buddhism.jpg
-image: "/covers/spblack.jpg"
+image: "/graphics/flipbook.gif"
 description: "A Quantum of Aether or Qoa is the seed or starting point for a universe in the multiverse in the Matrix of Existence or the Mind of Brahma"
 author: Juan
 weight: 10

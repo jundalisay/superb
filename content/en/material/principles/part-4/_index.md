@@ -1,5 +1,6 @@
 ---
 title: "The Transformative Layer (Weak Force)"
+linkTitle: Transformative
 description: "The Transformative Layer transforms particles into elements"
 image: "/photos/physics/elec.jpg"
 author: Juan

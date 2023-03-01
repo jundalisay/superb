@@ -1,11 +1,10 @@
 ---
 heading: "Chapter 3"
 title: "Gravitational Relativity -- Action at a Distance"
-
 # date: 2020-01-31
 date: 2021-12-30
 weight: 12
-image: /covers/kepler.jpg
+image: /graphics/gravrelm.png
 description: "The Source of All Movement is Internal, Not External"
 linkTitle: "Gravitational Relativity"
 icon: /icons/spmat.png

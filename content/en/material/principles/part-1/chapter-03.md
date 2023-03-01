@@ -1,10 +1,8 @@
 ---
 heading: "Chapter 3"
 title: "Aethereal Relativity -- Action at a Distance"
-
 date: 2020-01-31
-# image: /photos/meta/buddhism.jpg
-image: "/covers/spblack.jpg"
+image: /graphics/qoaprices.png
 description: "Aethereal Relativity explains the Principles for Movement in the Aethereal Layer which is above the Spatial Layer"
 icon: /spmat.png
 weight: 12

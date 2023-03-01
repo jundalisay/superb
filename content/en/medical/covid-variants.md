@@ -1,6 +1,6 @@
 ---
 title: "The 13 Covid Variants"
-heading: plotting their landing zones
+heading: Plotting their 'landing zones'
 date: 2022-01-06
 image: /photos/med/covid.jpg
 description: "We list down the Covid variants to establish patterns"

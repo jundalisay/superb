@@ -1,7 +1,6 @@
 ---
-heading: "Chapter 3"
+heading: "Chapter 2"
 title: "Quantum of Electricity"
-
 date: 2020-01-29
 image: /photos/physics/light.jpg
 description: "In Superphysics, electrons have a positive or masculine charge while protons have a negative or feminine charge. This is in line with the male Yang and the female Yin"

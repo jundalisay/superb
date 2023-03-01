@@ -1,11 +1,12 @@
 ---
+heading: Chapter 3
 title: "Material Relativity -- Contact Forces"
-heading: "Putting Newton under Kepler and Descartes"
+# heading: "Putting Newton under Kepler and Descartes"
 date: 2020-01-31
 image: /photos/physics/baseball.jpg
 description: "The Principles for Movement in the Material Layer which is the lowest and crudest layer"
 linkTitle: "Material Relativity"
-weight: 16
+weight: 4
 icon: /icons/spmat.png
 aliases:
   /material/principles/material-relativity

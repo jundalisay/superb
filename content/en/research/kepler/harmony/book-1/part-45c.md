@@ -1,7 +1,20 @@
+---
+heading: Part 45
+title: "Biirgi’s Cossa"
+description: "All shapes the number of whose sides are Primes, and their stars, and the complete classes of figures derived from them, have no Geometrical description independent of the circle"
+image: /covers/harmony.jpg
+weight: 26
+author: Johannes Kepler
+icon: /icons/kepler.png
+---
 
 
 
-But now, see what Biirgi’s Cossa tells us about the side of the Pentagon. By the Method employed above we obtain the number 5j - 5iiJ + Iv, which is not equal to any chord; that is, if five quantities are constructed in continuous proportion, the first of them being the side of the Pentagon; the proportion being that of the side of the Pentagon to the semidiameter; then five lines equal to the first proportional plus one [equal to the] fifth will be equal to five [equal to
+What does Biirgi’s Cossa tell us about the sides of the Pentagon?
+
+We obtain the number 5j - 5iiJ + Iv in the previous part. 
+
+This is not equal to any chord; that is, if five quantities are constructed in continuous proportion, the first of them being the side of the Pentagon; the proportion being that of the side of the Pentagon to the semidiameter; then five lines equal to the first proportional plus one [equal to the] fifth will be equal to five [equal to
 the] third. 
 
 Again, as for the heptagon, this does not tell us how to construct the continuous proportion for which this relationship will hold, nor does it express the lengths of the proportionals in terms of things already known, but it tells us, once the [system of continuous] proportion is set out, what relationship will follow.

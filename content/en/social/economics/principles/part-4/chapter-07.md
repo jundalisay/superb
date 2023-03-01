@@ -43,12 +43,12 @@ Superphysics has three tools* to check the health of an economy:
 
 Measure | General | Specific
 --- | --- | ---
-Quantity of Real Value | GDP + Industry + Trade | Purchasing Power
-Quality of Real Value< | GDP + Demand + Capital | Economic Table
+Quantity of Real Value | `GDP` + `Industry` + `Trade` | Purchasing Power
+Quality of Real Value< | `GDP` + `Demand` + `Capital` | Economic Table
 
 
 
-## The DCTI Tool: A Heckofalot of Ratios
+## The DCTI Tool
 
 The DCTI Tool can prevent crises by checking a society's Demand, Capital, Trade, and Industry metrics to see if they match [the Four Laws of Value](/social/economics/principles/four-laws-of-value):
 
@@ -60,42 +60,51 @@ It will go with Pool Clearing to filter out currency attacks. It can prevent cap
 It will go with Indicators to check whether the economy is going with [the Eagle](/social/economics/principles/eagle). Is a society growing sustainably as it moves forward, giving revenue to wage-earners, profit-earners, rent-tax-earners, and donation earners? Or is most of the revenue going to banks, government agencies, and tech companies while starving the rest?
 
 
-Type | Demand The needs and wants of the people | Capital Available potential effort | Industry The actual kinetic effort or production | Trade The exchange of productions or spreading of the effort
+Type | Demand The needs and wants of the people | Capital Available potential effort | Trade The exchange of productions or spreading of the effort | Industry The actual kinetic effort or production 
 --- | --- | --- | --- | ---
-Quantitative G Economic Growth V Economic Value | P Population Size Y Youth or Age F Female-Male Ratio | J Employment L Education  Ii Incoming Investments Xi Outgoing investments | G Real GDP in Dollar or Grain Value O Grain Value Initiated By Government S Grain Value Initiated By Services A Grain Value Initiated By Agriculture M Grain Value Initiated By Manufacturing | G as Nominal GDP Growth R Rate Of Interest N Inflation D Debt It Imports Xt Exports 
-Qualitative | GP, VP, GF, VF, GY, VY | GJ, VJ, GL, VL, VIi, VXi | GO, VO, GS, VS, GA, VA, GM, VM | GR, GN, GD, GIt, GXt, VIt, VXt
-Supereconomic Indicators | G Change in Grain Value P Number of Users Y Average Age of Users F Average Female-Male Ratio | G Change In Grain Value J Users Without Job Contracts For X Months L Users Without Learning or Training Contracts For Y Years | O grain value of govt contracts S grain value of service contracts A grain value of agri contracts M grain value of product contracts | R Interest Rate of Clearing Funds or Resource banks N Grain Index Inflation D Debt via Resource banking It value of imports via Pool Xt value of exports via Pool*
-Industry | Strong Layer | Real Price via the Economic Table | Economic balance or stasis that is lacking in Capitalism 
+Quantitative | Population Size `P`, Youth or Age `Y`, Female-Male Ratio `F` | Employment `J`, Education `L`,  Incoming Investments `Ii`, Outgoing investments `Xi` | Nominal GDP Growth `G`, Rate Of Interest `R`, Inflation `N`, Debt `D`, Imports `It`, Exports `Xt`, Economic Value `V`  | Real GDP in Dollar or Grain Value `G`, Grain Value Initiated By Government `O` Grain Value Initiated By Services `S`, Grain Value Initiated By Agriculture `A`, Grain Value Initiated By Manufacturing `M`
+Qualitative | `GP`, `VP`, `GF`, `VF`, `GY`, `VY` | `GJ`, `VJ`, `GL`, `VL`, `VIi`, `VXi` | `GO`, `VO`, `GS`, `VS`, `GA`, `VA`, `GM`, `VM` | `GR`, `GN`, `GD`, `GIt`, `GXt`, `VIt`, `VXt`
+Supereconomic Indicators | Change in Grain Value `G`, Number of Users `P`, Average Age of Users `Y`, Average Female-Male Ratio `F` | Change In Grain Value `G`, Users Without Job Contracts For X Months `J`, Users Without Learning or Training Contracts For Y Years `L` | `R` Interest Rate of Clearing Funds or Point banks, Grain Index,  Inflation `N`, Debt via Points banking `D`, Value of imports via Pool `It`, Value of exports via Pool* `Xt` | Grain value of govt contracts `O`, Grain value of service contracts `S`, Grain value of agri contracts `A`, Grain value of product contracts `M` 
+Goal | Minimum Requirements | Real Price via the Economic Table | Economic Growth (this is the only aspect that Modern Economics focuses on)| Economic balance or stasis 
 
 
-> *The grain value of exports includes the GOSAM that was involved, with additional as the increased cost of transportation
+> *The grain value of exports includes the `GOSAM` that was involved, with additional as the increased cost of transportation
 
 
-These give us ratios that describe the socio-economic nature of the society in question. This is different from Economics which favors equations:
 
-**Demand Ratios**
-- GP - population size per rise or fall in the economy. A slope that is too high indicates overpopulation
-- GF - the portion of the economy that goes to males or females
-- GY - the share of the economy per age (youth). A rising slope may indicate a rise or fall in education as the society gets wealthier.
+## A Heckofalot of Ratios
 
-**Capital Ratios**
-- GJ - the rise or fall in unemployment as the society gets wealthier. A rising slope may indicate inequality or oligarchy
-- GL - the rise or fall in education as the society gets wealthier. A rising slope may indicate investments in higher education and austere morals as opposed to liberal morals
-- GIi - the rise or fall in inbound investments as the society gets wealthier. A rising slope may indicate a young country.
-- GXi - the rise or fall in outbound investments as the society gets wealthier. A rising slope may indicate an old country.
+These give us ratios that describe the socio-economic nature of the society in question. This mirrors the 'harmonic' ratios of [Kepler's Platonic Solids](/research/kepler/harmony/book-1/intro) and is very different from Economics which favors equations:
 
-**Industry Ratios**
-- GO - the rise or fall in government as the society gets wealthier. A rising slope may likewise indicate the spread of austere morals as state control, as opposed to liberalism
-- GS - the rise or fall in services as the society gets wealthier. A rising slope may indicate investments in services and a probable rise in liberal morals and the merchant class
-- GA - the rise or fall in agriculture as the society gets wealthier. A rising slope indicate increased investments in agriculture as opposed to services or manufacturing and could also be a sign of austere morals or of the rise of the laborer class
-- GM - the rise or fall in manufacturing as the society gets wealthier. A rising slope indicate investments in manufacturing and likewise a probable rise in austere morals or of the rise of the intellectual class
+Demand Ratios | Description
+--- | ---
+`GP` | population size per rise or fall in the economy. A slope that is too high indicates overpopulation
+`GF` | the portion of the economy that goes to males or females
+`GY` | the share of the economy per age (youth). A rising slope may indicate a rise or fall in education as the society gets wealthier.
 
-**Trade Ratios**
-- GR- the rise or fall in interest rates as the society gets wealthier. A rising slope may indicate the dominance of the borrowers, as a sign of liberal morals
-- GN- the rise or fall in inflation as the society gets wealthier. A rising slope may indicate the dominance of speculation, as a sign of liberal morals
-- GD- the rise or fall in public debt as the society gets wealthier. A rising slope indicates debt-driven GDP Growth, as a sign of liberal morals
-- GIt- the rise or fall in imports as the society gets wealthier. A rising slope may indicate a service country
-- GXt- the rise or fall in exports as the society gets wealthier. A rising slope may indicate a manufacturing or agri country
+
+Capital Ratios | Description
+--- | ---
+`GJ` | the rise or fall in unemployment as the society gets wealthier. A rising slope may indicate inequality or oligarchy
+`GL` | the rise or fall in education as the society gets wealthier. A rising slope may indicate investments in higher education and austere morals as opposed to liberal morals
+`GIi` | the rise or fall in inbound investments as the society gets wealthier. A rising slope may indicate a young country.
+`GXi` | the rise or fall in outbound investments as the society gets wealthier. A rising slope may indicate an old country.
+
+
+Industry Ratios | Description
+--- | ---
+`GO` | the rise or fall in government as the society gets wealthier. A rising slope may likewise indicate the spread of austere morals as state control, as opposed to liberalism
+`GS` | the rise or fall in services as the society gets wealthier. A rising slope may indicate investments in services and a probable rise in liberal morals and the merchant class
+`GA` | the rise or fall in agriculture as the society gets wealthier. A rising slope indicate increased investments in agriculture as opposed to services or manufacturing and could also be a sign of austere morals or of the rise of the laborer class
+`GM` | the rise or fall in manufacturing as the society gets wealthier. A rising slope indicate investments in manufacturing and likewise a probable rise in austere morals or of the rise of the intellectual class
+
+Trade Ratios | Description
+--- | ---
+`GR` | the rise or fall in interest rates as the society gets wealthier. A rising slope may indicate the dominance of the borrowers, as a sign of liberal morals
+`GN` | the rise or fall in inflation as the society gets wealthier. A rising slope may indicate the dominance of speculation, as a sign of liberal morals
+`GD` | the rise or fall in public debt as the society gets wealthier. A rising slope indicates debt-driven GDP Growth, as a sign of liberal morals
+`GIt` | the rise or fall in imports as the society gets wealthier. A rising slope may indicate a service country
+`GXt` | the rise or fall in exports as the society gets wealthier. A rising slope may indicate a manufacturing or agri country
 
 
 {{< q a="smith" >}}

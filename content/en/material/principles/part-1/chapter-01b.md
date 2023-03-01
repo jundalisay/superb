@@ -2,7 +2,7 @@
 heading: "Chapter 1b"
 title: "The Aether Drag"
 date: 2023-02-05
-image: "/covers/spblack.jpg"
+image: /graphics/physics/michelson.png
 # image: /photos/meta/buddhism.jpg
 description: "The aether drag is a fallacy created by post-Descartes physicists, probably by Fresnel"
 author: Juan

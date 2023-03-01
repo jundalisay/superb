@@ -2,7 +2,7 @@
 title: "Gravitational Signatures"
 heading: "Chapter 2"
 date: 2022-01-03
-image: "/covers/spblack.jpg"
+image: /graphics/keplertgr.png
 description: "In Superphysics, electrons have a positive or masculine charge, while protons have a negative or feminine charge. This is consistent with the male Yang or Shiva, and the female Yin or Shakti"
 author: Juan
 weight: 6

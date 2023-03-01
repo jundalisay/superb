@@ -1,5 +1,5 @@
 ---
-heading: He was Vegetarian
+heading: He Preferred Potatoes as Policy
 title: "Adam Smith on Vegetarian Diets"
 date: 2016-06-20
 image: /photos/psych/eat.jpg

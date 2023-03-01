@@ -5,7 +5,7 @@ linkTitle: "Elastic Theory"
 # date: 2020-01-31
 date: 2023-02-10
 weight: 14
-image: /covers/kepler.jpg
+image: /graphics/physics/bands.jpg
 description: "The Elastic Theory is from Descartes and kepler, with important maxim-contributions from Socrates, Taoism, Buddhism, and Hinduism."
 icon: /icons/spmat.png
 ---
@@ -24,6 +24,10 @@ It manifests as the orbital patterns of the material planets and comets, leading
 Descartes adds on to Kepler's Physics by adding the idea of the electromagnetic and galactic slings to the material slings which he calls aethereal 'Fire', 'Air', and 'Earth' respectively.
 
 We merge the Physics of Kepler and Descartes with current findings to create the Theory of Elastic Gravitational Bands, or **The Elastic Theory**.
+
+
+{{< youtube IMOftV0yfso >}}
+
 
 Instead of gravity being based on matter (as Newtonian mass) or the fabric of spacetime (as Einstein's fabric), it is based on different types of elastic bands that depend on the nature of the identities in question.
 

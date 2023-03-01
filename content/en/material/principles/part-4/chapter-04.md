@@ -1,10 +1,11 @@
 ---
-heading: Feynman Diagrams
-title: "Radioactive Relativity -- Radioactive Movement"
+heading: Chapter 4
+# heading: Feynman Diagrams
+title: "Transformative Relativity -- Radioactive Movement"
 date: 2022-01-03
-linkTitle: "Radioactive Relativity"
+linkTitle: "Transformative Relativity"
 image: /graphics/physics/feynman.jpg
-description: "Radioactive Relativity explains the Principles for Movement in the Radioactive Layer"
+description: "Transformative Relativity explains the Principles for Movement in the Transformative Layer"
 icon: /icons/spmat.png
 weight: 12
 aliases:
@@ -13,13 +14,12 @@ aliases:
 
 
 
-Radioactive Relativity explains the principles for the Radioactive (Weak) Layer. In Physics, this is done by the Feynman diagrams. 
+Transformative Relativity explains the principles for the Transformative (Weak) Layer. In Physics, this is done by the Feynman diagrams. 
+
 
 ## Feynman Diagrams 
 
-These diagrams show the interaction between two particles. 
-
-It has the following lines
+These diagrams show the interaction between 2 particles. It has the following lines:
 
 Line | Particle
 --- | ---
@@ -29,5 +29,6 @@ Loop | Gluon
 Dashed | W, Z Boson 
 
 
-More to come! (This is quite complicated)
+More to come!
+
 

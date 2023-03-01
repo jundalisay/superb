@@ -77,23 +77,40 @@ He is completely an abstruse Platonist.
 
 However, our age has had no room to penetrate such hidden mysteries. Proclus' book was read by Petrus Ramus who <!-- , but as far as the core of philosophy is concerned, it was  --> despised and rejected it equally with the tenth Book of Euclid.
 
-He who had written a commentary on Euclid was repudiated and instructed Petrus Ramus’ to lose his voice, as if he had written a defense for him. 
+He who had written a commentary on Euclid was angrily repudiated by Petrus Ramus who condemned Euclid's Book 10:
+<!-- and instructed ’ to lose his voice, as if he had written a defense for him.  -->
 
-The unjust and peevish anger of a hostile critic turns against Euclid as if he were on criticism trial: the tenth Book of Euclid was condemned to the atrocious sentence of not being read, though if it were read and understood it could
-lay bare the secrets of philosophy.
+<!-- The unjust and peevish anger of a hostile critic turns against Euclid as if he were on criticism trial: the tenth Book of Euclid  -->
+<!-- was condemned to the atrocious sentence of not being read, though if it were read and understood it could
+lay bare the secrets of philosophy. -->
 
-Read the words of Ramus, than which he has never uttered anything more unworthy of Ramus. (ScholaeMathematicae {MathematicalSchools), Book 21.) 
+<!-- Read the words of Ramus, than which he has never uttered anything more unworthy of Ramus. (ScholaeMathematicae {MathematicalSchools), Book 21.)  -->
 
-The material” he says, "which is the subject of Book X, is conveyed in such a way that I have never found the same obscurity in literature or the arts — obscurity, I mean, not for the understanding of what Euclid is saying (for that may be quite clear to the unlearned and unlettered if they pay attention to it, that is only what is there and what is present in the text) but for thoroughly understanding and investigating what end and what purpose are intended for the work, what the kinds, species and distinguishing features of the objects under discussion are; for I have never read or heard anything so confused or involved. 
+ <!-- in literature or the arts — obscurity, I mean, not for the understanding of what Euclid is saying (for that may be quite clear to the unlearned and unlettered if they pay attention to it, that is only what is there and what is present in the text)  -->
 
-Furthermore the superstition of the Pythagoreans seems to have invaded this, so to speak, cave.”
+{{< q a="Ramus" >}}
+The subject material of Book 10 is so obscure. It thoroughly understands and investigates the end and purpose it aims for, such as the kinds and distinguishing features of objects. I have never read or heard anything so confused or involved. The superstition of the Pythagoreans seems to have invaded this cave.”
+{{< /q >}}
 
-But, my goodness, Ramus, if you had not believed that this book was too hard to understand, you would never have slandered it with the accusation of such obscurity. There is need for harder work, need for tranquillity, need for concentration, and above all for mental exertion, until you grasp the writer’s intention. When the superior mind
-has struggled to that point, then at last, seeing that it has reached the
-light of truth, it is exultantly flooded with incredible pleasure, and
-in that, as it were, watch tower, it perceives with great precision the
+But my goodness, Ramus, if you had not believed that this book was too hard to understand, you would never have slandered it with the accusation of such obscurity? 
+
+Until you grasp the writer’s intention, you need:
+- harder work
+- tranquillity
+- concentration
+- mental exertion, above all
+
+When the superior mind has struggled to that point, then at last, seeing that it has reached the light of truth, it is exultantly flooded with incredible pleasure, and in that, as it were, watch tower, it perceives with great precision the
 whole world and all the distinguishing features of its parts. 
 
-But to you, who here act as the patron of ignorance, and to the common herd of men who snatch at profit from everything, divine or human, to you, I say, belong the phrases “prodigious sophisms,” to you “Euclid incontinently abusing his leisure,” to you “these subtleties have no place in geometry.” 
+But you who :
+- act as the patron of ignorance with the common herd of men, and
+- snatch at profit from everything, divine or human
 
-Let your part be to carp at what you do not understand: for me, a hunter for the causes of things, no other paths to them had opened but in the tenth Book of Euclid.
+You make “prodigious sophisms” as your comments of:
+- “Euclid incontinently abusing his leisure” 
+- “these subtleties have no place in geometry” 
+
+Let your part be to carp at what you do not understand.
+
+I am a hunter for the causes of things. Only Book 10 of Euclid opened the paths to them.

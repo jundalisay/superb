@@ -5,7 +5,7 @@ title: "The Quantum of Spacetime or Qost"
 date: 2020-01-31
 linkTitle: "Qost"
 # image: /photos/physics/galaxy.jpg
-image: "/covers/spblack.jpg"
+image: "https://sorasystem.sirv.com/photos/sun800.jpg"
 description: "The Quantum of Spacetime or Qost is the smallest unit of spacetime"
 author: Juan
 weight: 10

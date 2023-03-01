@@ -30,7 +30,7 @@ The best reality in 2022 would have been for the Ukranian President to flee in F
 
 The worst reality is for Russia to use nuclear weapons, with North Korea and even China joining in to create World War 3.
 
-Some predict the war to [end soon](https://www.rand.org/blog/2023/01/how-the-war-in-ukraine-could-end-sooner-than-expected.html), probably even [within this year](https://www.aljazeera.com/news/2023/2/21/qa-dr-pavel-felgenhauer-russia-ukraine-war). Others predict a conflict with [no foreseeable end](https://www.bbc.com/news/world-us-canada-63987113.0)
+Some predict the war to [end soon](https://www.rand.org/blog/2023/01/how-the-war-in-ukraine-could-end-sooner-than-expected.html), probably even [within this year](https://www.aljazeera.com/news/2023/2/21/qa-dr-pavel-felgenhauer-russia-ukraine-war). Others predict a conflict with [no foreseeable end](https://www.bbc.com/news/world-us-canada-63987113)
 
 Our model clearly says that the war will go on up to a specific year when Russsia leaves its current Warrior Cycle. In fact, a long war is advantageous to Russia as the West does not seem to like long wars. This is proven by:
 - the withdrawal of NATO in Afghanistan 

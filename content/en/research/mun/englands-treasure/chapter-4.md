@@ -1,22 +1,16 @@
+---
+title:  "Selling Our Money in the Merchandise Trade increases our Wealth"
+heading:  "Chapter 4 "
+image: "/covers/treasure.jpg"
+description:  "According to Mun, exporting local currency to facilitate foreign trade increases national wealth"
+author: Mun
+---
 
-
-
-+++
-title=  "Selling Our Money in the Merchandise Trade increases our Wealth"
-heading=  "Chapter 4 "
-date=  2020-01-29
-image=  "/covers/treasure.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/medieval/guinea.jpg"
-description=  "According to Mun, exporting local currency to facilitate foreign trade increases national wealth"
-linkb=  "/research/mun/englands-treasure/chapter-2"
-linkbtext=  "Chapter 2"
-linkf=  "/research/mun/englands-treasure/chapter-5"
-linkftext=  "Chapter 5"
-+++
 
 Our annual consumption of foreign goods is £2,000,000. Our sales are £200,000. If we add £300,000 in money to our sales, how can we earn more money?
 
-### The Carrying Trade
+
+## The Carrying Trade
 
 We can earn more money by bringing in more foreign goods to be re-sold overseas, since we would not need them locally. 
 - If we send £100,000 money to Amsterdam to buy Pepper then send it to Italy, it must yield £200,000, doubling the money.

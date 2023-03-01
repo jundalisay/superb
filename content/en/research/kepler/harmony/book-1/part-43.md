@@ -36,12 +36,17 @@ How much more will this apply to the forty-sided polygon (Tessaracontagon) and t
 
 ## Proposition 44
 
-The sides of the Pentekaedecagon and its stars, namely the chords subtending two, four, or seven fifteenths [of the c i r c l e ] , d o have a Geometrical description, but not apart from the circle; and in the circle, also, not through their angles, thus [the geometrical description] is not intrinsic (impropriam) and the knowledge is of a different kind, of a more remote degree than that of all the preceding sides. The triacontagon and the remaining figures of this class are of even more remote degree.
+The sides of the Pentekaedecagon and its stars, namely the chords subtending 2, 4, or 7 15ths [of the circle], do have a Geometrical description, but not apart from the circle.
 
-For it is described from figures before it, the relevant ones having a number of sides that is not obtainable by doubling, because 15 is an odd number, half of it not being a [whole] numbeF'^'^: that is from
-the Triangle BCD and the Pentagon BIFHK, each star ting from the same point B. For if you subtract 1/3 of a circle, the arc BC, from 2/5, L [the arc] `BIF`, that is 5 fifteenths from 6 fifteenths, A / the remainder is CF, 1 fifteenth. So joining the
-angles C, F gives the line CF as the side [of the pentekaedecagon]. Here neither the size of the angle J m nor the number of Angles in thefigure is concerned in the process of description; nor do I construct any triangle in accordance with this number, as was done for the previous figures.
+In the circle, also, not through their angles, thus [the geometrical description] is not intrinsic (impropriam) and the knowledge is of a different kind, of a more remote degree than that of all the preceding sides. 
 
+The triacontagon and the remaining shapes of this class are of even more remote degree.
+
+For it is described from figures before it, the relevant ones having a number of sides that is not obtainable by doubling, because 15 is an odd number, half of it not being a [whole] numbeF that is from the Triangle BCD and the Pentagon BIFHK, each star ting from the same point B. For if you subtract 1/3 of a circle, the arc BC, from 2/5, L [the arc] `BIF`, that is 5 fifteenths from 6 fifteenths, A / the remainder is CF, 1 fifteenth. 
+
+So joining the angles `C`, `F` gives the line `CF` as the side of the pentekaedecagon. 
+
+Here neither the size of the angle J m nor the number of Angles in thefigure is concerned in the process of description; nor do I construct any triangle in accordance with this number, as was done for the previous figures.
 
 But neither can it [this figure] be described in any other way. 
 
