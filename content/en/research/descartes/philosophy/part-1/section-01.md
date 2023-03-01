@@ -4,7 +4,7 @@ heading: Section 1
 weight: 2
 description: "To seek truth, it is necessary once in life to doubt all things as far as possible."
 author: "Rene Descartes"
-image: "/covers/philosophy.jpg"
+image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---
 

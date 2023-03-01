@@ -3,7 +3,7 @@ heading: "Chapter 1b"
 title: "The Importance of the 7 Mount Types"
 description: "All that there is to destiny or fate is this matter of the seven types"
 weight: 4
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 author: William Benham
 ---
 

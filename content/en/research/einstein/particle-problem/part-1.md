@@ -4,7 +4,7 @@ heading: "Part 1"
 description: "We investigate the possibility of an atomistic theory of matter and electricity which, while excluding singularities of the ﬁeld, uses only General Relativity and Maxwell's theory"
 author: "Einstein and Rosen"
 icon: "/icons/einbla.png"
-image: "/covers/pproblem.jpg"
+image: "/covers/particle.png"
 # date: 2020-01-30
 weight: 4
 ---

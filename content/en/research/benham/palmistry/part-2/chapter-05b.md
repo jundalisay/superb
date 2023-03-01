@@ -2,7 +2,7 @@
 title: "How to Read the Heart Line"
 heading: "Chapter 5b"
 weight: 18
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 description: "Classifying the subject's type is the first step."
 icon: "/avatars/blank.png"
 author: William Benham

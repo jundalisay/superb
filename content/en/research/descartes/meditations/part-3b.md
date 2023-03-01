@@ -4,7 +4,7 @@ heading: Part 3b
 weight: 10
 description: "The natural light shows that the total cause of something must contain at least as much reality as does the effect."
 author: "Rene Descartes"
-image: "/covers/meditations.jpg"
+image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---
 

@@ -4,7 +4,7 @@ title: "Main, Minor, Chance Lines, Proportion, Two Hands"
 # heading: "A Working Hypothesis"
 # date: 2021-11-16
 weight: 6
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 description: "There is another Minor line, called the Via Lascivia, and supposed to be a sister line to the Mercury line. But I consider it as a chance line, and so it does not have  fixed place among the Minor lines"
 author: William Benham
 ---

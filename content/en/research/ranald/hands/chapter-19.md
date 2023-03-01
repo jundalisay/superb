@@ -1,10 +1,15 @@
+---
+heading: Chapter 19
+title: "Skin, Lines And Ridges In Their Application To Medicine"
+weight: 42
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
 
-THE
-Chapter XIX.
-SKIN, LINES
-AND RIDGES
-IN
-THEIR APPLICATION TO MEDICINE
+
+
+
 IN ADDITION
 nails
 and

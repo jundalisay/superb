@@ -10,6 +10,11 @@ icon: "/flags/ua.png"
 ---
 
 
+Current Cycle | Years per Cycle | Social Age
+--- | --- | ---
+To be determined | - | -
+
+
 The Russia-Ukraine war is now on its second year, creating nearly the worst reality after a year of conflict.
 
 
@@ -20,6 +25,7 @@ The best reality in 2022 would have been for the Ukranian President to flee in F
 - the massive deaths, casualties, and destruction in Ukraine
 - the loss of soldiers on both sides
 - the massacre at Bucha and other places
+- the Ukrainian [refugee crisis](https://www.timesofisrael.com/raped-abused-exploited-ukrainian-women-seeking-refuge-in-israel-find-no-haven/)
 - the global [food](https://en.wikipedia.org/wiki/2022%E2%80%932023_food_crises) and [supply chain crisis](https://en.wikipedia.org/wiki/2021%E2%80%932023_global_supply_chain_crisis) 
 
 The worst reality is for Russia to use nuclear weapons, with North Korea and even China joining in to create World War 3.

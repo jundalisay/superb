@@ -3,7 +3,7 @@ heading: "Chapter 25c"
 title: "Health Issues of the Venusian"
 description: "Bulbous nails, in whatever degree found, will tell that throat, bronchial, or pulmonary trouble is present"
 weight: 136
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 author: William Benham
 ---
 

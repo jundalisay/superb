@@ -2,7 +2,7 @@
 title: "The One is All"
 heading: "Chapter 11"
 weight: 22
-image: "/covers/parmenides.jpg"
+image: "/covers/parm.png"
 description: "The One is in everything that exists"
 icon: "/icons/soc.png"
 ---

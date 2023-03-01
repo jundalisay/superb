@@ -7,7 +7,7 @@ weight: 6
 # date: 2022-08-08
 description: "Einstein Ether is a impotent something"
 icon: "/icons/einbla.png"
-image: "/covers/epr.jpg"
+image: "/covers/epr.png"
 ---
 
 

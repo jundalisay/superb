@@ -3,7 +3,7 @@ title: "The Strength of the Line of Head"
 heading: "Chapter 6e"
 # date: 2021-11-20
 weight: 34
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 description: "A deep and well cut line shows great mental power, good self-control, fixedness of purpose, good memory, and general mental health and strength"
 author: William Benham
 ---

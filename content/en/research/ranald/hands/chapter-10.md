@@ -1,8 +1,14 @@
+---
+heading: Chapter 10
+title: "The Lines of Destiny"
+weight: 22
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
 
-THE LINE OF DESTINY
-Chapter X.
-THE
-line of destiny or Saturn (see plate 27, number 4), tells the
+
+THE line of destiny or Saturn (see plate 27, number 4), tells the
 plan of life, and whether that plan will be easily fulfilled or meet
 with many obstacles. When the destiny line is deep, clear and with-
 out interfering cross markings, you may expect a career pursued with

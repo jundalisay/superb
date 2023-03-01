@@ -1,8 +1,45 @@
-Definitions
-1. Those magnitudes measured by the same measure are said (to be) commensurable, but (those) of which no (magnitude) admits to be a common measure (are said to be) incommensurable.
-2. (Two) straight-lines are commensurable in square+ when the squares on them are measured by the same area, but (are) incommensurable (in square) when no area admits to be a common measure of the squares on them.§
-3. These things being assumed, it is proved that there exist an infinite multitude of straight-lines commensu- rable and incommensurable with an assigned straight- line those (incommensurable) in length only, and those also (commensurable or incommensurable) in square." Therefore, let the assigned straight-line be called ratio- nal. And (let) the (straight-lines) commensurable with it, either in length and square, or in square only, (also be called) rational. But let the (straight-lines) incommensu- rable with it be called irrational.*
-4. And let the square on the assigned straight-line be called rational. And (let areas) commensurable with it (also be called) rational. But (let areas) incommensu- rable with it (be called) irrational, and (let) their square- roots (also be called) irrational-the sides themselves, if the (areas) are squares, and the (straight-lines) describ- ing squares equal to them, if the (areas) are some other rectilinear (figure)."
+---
+heading: Proposition 1
+title: "Definitions"
+linkTitle: Proposition 1
+weight: 4
+description: Commensurable are magnitudes measured by the same measure
+author: "Euclid"
+image: /covers/elements.jpg
+---
+
+
+
+## Definitions
+
+1. "Commensurable" are magnitudes measured by the same measure.
+
+"Incommensurable" are magnitudes which have no common measure.
+
+2. Two straight-lines are commensurable in square when the squares on them are measured by the same area.
+
+They are incommensurable in square when no area can have a common measure.  
+<!-- of the squares on them. -->
+
+3. There is an infinite number of straight-lines which are either commensurable or incommensurable.
+
+Some are commensurable or incommensurable in length only. Others are commensurable or incommensurable in area also, with an assigned straight line. 
+
+
+
+<!-- Therefore, let the assigned straight-line be called ratio- nal. And (let) the (straight-lines) commensurable with it, either in length and square, or in square only, (also be called) rational. But let the (straight-lines) incommensu- rable with it be called irrational.* -->
+
+'Rational' lines are:
+- the assigned straight line 
+- those straight lines which are commensurable with the assigned straight line, whether in length and in square, or in square only
+
+'Irrational' lines are those which are incommensurable with the assigned straight line.
+
+
+4. Let the square on the assigned straight line be called rational and those areas which are commensurable with it rational, but those which are incommensurable with it irrational, and the straight lines which produce them irrational, that is, in case the areas are squares, the sides themselves, but in case they are any other rectilineal figures, the straight lines on which are described squares equal to them
+
+<!-- And let the square on the assigned straight-line be called rational. And (let areas) commensurable with it (also be called) rational. But (let areas) incommensu- rable with it (be called) irrational, and (let) their square- roots (also be called) irrational-the sides themselves, if the (areas) are squares, and the (straight-lines) describ- ing squares equal to them, if the (areas) are some other rectilinear (figure)." -->
+
 
 ## Proposition 1
 

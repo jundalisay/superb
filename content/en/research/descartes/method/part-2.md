@@ -3,7 +3,7 @@ heading: Part 2
 title: Single Founders
 weight: 8
 description: Rene Descartes 1635
-image: "/covers/method.jpg"
+image: "/covers/method.png"
 author: "Rene Descartes"
 icon: /icons/descartes.png
 ---

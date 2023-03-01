@@ -3,7 +3,7 @@ heading: "Chapter 10c"
 title: "The Saturn Line Defets Between 30-45"
 weight: 58
 author: William Benham
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 description: "The Saturn line is frequently called the line of Fate."
 ---
 

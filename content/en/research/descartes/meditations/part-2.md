@@ -6,7 +6,7 @@ heading: Part 2
 weight: 4
 description: "'Everything I see is fictitious. My memory tells me nothing but lies. I have no senses. Body, shape, extension, movement and place are illusions. So what remains true?'"
 author: "Rene Descartes"
-image: "/covers/meditations.jpg"
+image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---
 

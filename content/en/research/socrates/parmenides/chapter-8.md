@@ -2,7 +2,7 @@
 title: "Relativity of Time"
 heading: "Chapter 8"
 weight: 16
-image: "/covers/parmenides.jpg"
+image: "/covers/parm.png"
 description: "The One is affected by time"
 icon: "/icons/soc.png"
 ---

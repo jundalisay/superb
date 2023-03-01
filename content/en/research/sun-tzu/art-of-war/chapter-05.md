@@ -1,6 +1,6 @@
 ---
 title: "Energy"
-image: "/covers/war.jpg"
+image: "/covers/war.png"
 description: "Controlling a large force is the same as the controlling a few men. It is merely a question of dividing up their numbers"
 heading: "Chapter 5"
 weight: 10

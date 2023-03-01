@@ -1,7 +1,14 @@
-Chapter IV.
-THE PALM
-THE palm
-itself, its shape and consistency, aside from the markings
+---
+heading: Chapter 4
+title: "The Palm"
+weight: 10
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
+
+
+THE palm itself, its shape and consistency, aside from the markings
 upon it, tells much about the person whose hand you are studying.
 Development of the hand, which is the instrument of the brain, is
 dependent on all the biological and chemical factors which also de-
@@ -9,19 +16,21 @@ termine the personality. Studies of the ductless glands have given us
 some understanding of the complicated chemistry governing human
 energy, sex, and nervous reactions, from the simplest reflex to in-
 volved inhibitions and neuroses.
-This same machinery of nerve communication and glandular secre-
-tions, which decides the weight, height and nervous and muscular
-responses of the individual, also determines the development of the
+
+This same machinery of nerve communication and glandular secretions, which decides the weight, height and nervous and muscular responses of the individual, also determines the development of the
+
 From studying a large number of hands, I have been able to
 hand.
+
 associate particular types of
 palmar structure with
-specific character-
-istics.
+specific characteristics.
+
 For example, the consistency of the hand tells much about the
 A firm, full, elastic palm, warm and alive to the touch,
 indicates a person who is active, well-directed, alive. Flabbiness shows
 individual.
+
 a phlegmatic disposition, to which action comes with an effort. If
 the palm is at the same time both flabby and covered with minute
 lines, you may be sure that the subject dissipates his energies in

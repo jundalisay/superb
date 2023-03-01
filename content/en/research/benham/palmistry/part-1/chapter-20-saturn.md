@@ -3,7 +3,7 @@ heading: "Chapter 20"
 title: "The Mount Of Saturn"
 description: "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
 weight: 106
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 author: William Benham
 ---
 

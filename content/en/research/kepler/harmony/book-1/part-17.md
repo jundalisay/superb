@@ -1,6 +1,6 @@
 ---
 heading: Parts 17-20
-title: "Degrees of Knowledge"
+title: "5th to 8th Degree of Knowledge"
 description: "The quantity of a line is knowable if it is either itself immediately measurable"
 image: /covers/harmony.jpg
 weight: 8
@@ -63,11 +63,13 @@ Euclid is particularly concerned with finding these three pairs of lines, distin
 
 ## Part 20: The eighth degree of knowledge
 
-This is a continuation of what has gone before, and once more refers to individual lines, but to those which are made up of two terms, namely of two combinations of the preceding combinations, or by the subtraction of one, called the
-Epharmozusa [conjugate], from the other partner, to make a new kind
-of line. 
-
+This is a continuation of what has gone before. It refers to individual lines which are made up of 2 terms, as:
+- 2 combinations of the preceding combinations, or 
+- the subtraction of one, called the Epharmozusa [conjugate], from the other partner, to make a new kind of line. 
 
 So that for these we know or measure not complete lines, not the squares of complete lines, not pairs of terms taken one from each, but their combined squares and their Rectangle, as in sections XVIII and X IX above.
 
-And although we can enumerate as many degrees of knowledge as there are kinds [of line], so that the earlier degree is always higher than the later: yet because any addition or subtraction refers to its degree, and no operation of addition or subtraction gives rise to diversity, but all are equally related to their pair of Terms or Elements: on this account we shall make them only one degree: but let us recognize that it contains kinds of lines that differ in standing.
+There are as many degrees of knowledge as there are kinds of line. The earlier degree is always higher than the later. 
+
+Yet because any addition or subtraction refers to its degree, and no operation of addition or subtraction gives rise to diversity, but all are equally related to their pair of Terms or Elements: on this account we shall make them only one degree: but let us recognize that it contains kinds of lines that differ in standing.
+

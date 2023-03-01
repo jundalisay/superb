@@ -4,7 +4,7 @@ title: "The Girdle of Venus"
 description: "The Girdle of Venus is found on many hands, the palm being crossed by innumerable lines running in every direction"
 weight: 68
 author: William Benham
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 aliases:
   /research/benham/palmistry/part-2/chapter-28
   /research/benham/palmistry/chapter-28

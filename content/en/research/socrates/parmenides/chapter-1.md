@@ -3,7 +3,7 @@ title: "Socrates, Zeno, and Parmenides"
 heading: "Chapter 1"
 weight: 2
 author: Plato
-image: "/covers/parmenides.jpg"
+image: "/covers/parm.png"
 description: "Socrates, Zeno, and Parmenides talk about the philosophy"
 icon: "/icons/soc.png"
 ---

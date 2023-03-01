@@ -3,7 +3,7 @@ title: "Defects of the Line of Head"
 heading: "Chapter 6b "
 # date: 2021-11-20
 weight: 28
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 description: "One of the first things to do in reading the Head line is to distinguish disease from character of the mentality."
 author: William Benham
 ---

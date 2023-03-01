@@ -1,5 +1,13 @@
-Chapter IX.
-THE LINE OF HEART
+---
+heading: Chapter 9
+title: "The Lines of Heart"
+weight: 20
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
+
+
 THE line of heart (see plate 27,
 above the line of head,
 number

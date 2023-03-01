@@ -3,7 +3,7 @@ heading: Part 1
 title: My Life
 weight: 4
 description: Descartes gives 4 Precepts on Math and Logic
-image: "/covers/method.jpg"
+image: "/covers/method.png"
 author: "Rene Descartes"
 icon: /icons/descartes.png
 ---

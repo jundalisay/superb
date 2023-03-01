@@ -1,9 +1,14 @@
+---
+heading: Chapter 5
+title: "The Mounts amd their Attributes"
+weight: 12
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
 
-Chapter V.
-THE MOUNTS OF THE
-THEIR ATTRIBUTES
-WHEN you look at the inner face of
-the palm,
+
+WHEN you look at the inner face of the palm,
 HAND AND
 you do not
 see a flat

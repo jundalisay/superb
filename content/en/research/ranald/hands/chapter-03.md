@@ -1,24 +1,25 @@
-Chapter
-WHEN
-THE THUMB
-III.
-Professor G. Elliot Smith identified the few fragments of
-all that remains of the Peking Man as definitely those
-bone which are
-human being, and not of an ape, he based his classifi-
-cation on the hand, especially the thumb. More than any other mem-
-ber, the thumb marks man as different from the beasts. If you want
-of a very early
-what distinguishes the leader, the creator, the successful
+---
+heading: Chapter 3
+title: "The Thumb"
+# date: 1767
+weight: 8
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
+
+
+When Professor G. Elliot Smith identified the few fragments of all that remains of the Peking Man as definitely those
+bone which are human being, and not of an ape, he based his classification on the hand, especially the thumb. More than any other member, the thumb marks man as different from the beasts. 
+
+If you want of a very early what distinguishes the leader, the creator, the successful
 man from his fellows, likely as not, you will find that
 secret in his thumb.
-Notice how short and rigid are the thumbs on plate 17, showing
-handprints made by an anthropoid ape. In the hand of man, the
-thumb is opposable, that is, it can swing in an arc and touch every
-one of the other fingers. An ape's thumb cannot. Our manual dexter-
-the secret of
+
+Notice how short and rigid are the thumbs on plate 17, showing handprints made by an anthropoid ape. In the hand of man, the
+thumb is opposable, that is, it can swing in an arc and touch every one of the other fingers. An ape's thumb cannot. Our manual dexterity, the secret of
 and
-ity,
+
 influential
 our ability to handle tools, to create, to build, to write, to guide
 we owe to our thumbs.

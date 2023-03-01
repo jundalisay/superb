@@ -3,7 +3,7 @@ title: "Preface"
 weight: 1
 description: "To The French Translator Of The Principles Of Philosophy Serving For A Preface"
 author: "Rene Descartes"
-image: "/covers/philosophy.jpg"
+image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---
 

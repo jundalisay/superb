@@ -3,7 +3,7 @@ heading: Part 1b
 title: The Sciences
 weight: 6
 description: Descartes gives 4 Precepts on Math and Logic
-image: "/covers/method.jpg"
+image: "/covers/method.png"
 author: "Rene Descartes"
 icon: /icons/descartes.png
 ---

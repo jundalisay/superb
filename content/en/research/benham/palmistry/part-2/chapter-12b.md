@@ -4,7 +4,7 @@ title: "The Length of the Mercuty Line"
 description: "The length of the Mercury line adds to the power of the line and its usefulness."
 weight: 66
 author: William Benham
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 ---
 
 

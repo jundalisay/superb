@@ -3,7 +3,7 @@ title: "The Line of Head"
 heading: "Chapter 6 "
 # date: 2021-11-20
 weight: 26
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 description: "The line of the Head is the second line which receives the Electric Current when it enters our bodies through the finger of Jupiter"
 author: William Benham
 ---

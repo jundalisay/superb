@@ -5,7 +5,7 @@ linkTitle: Part 2
 # date: 2022-01-29
 weight: 4
 description: ""
-image: "/covers/philosophy.jpg"
+image: "/covers/philos.png"
 ---
 
 

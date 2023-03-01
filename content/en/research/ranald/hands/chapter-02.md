@@ -1,16 +1,18 @@
-Chapter
-II.
-SINCE most
-THE FINGERS
-hands are of the mixed type, each finger must be con-
-The fingers, being instruments of the brain and
-sidered separately.FINGERS
-19
-connected with
-it through the tiny telegraph wires of the nerves,
-certain
-qualities. Each finger indicates specific talents or
-represent
+---
+heading: Chapter 2
+title: "The FINGERS"
+# date: 1767
+weight: 6
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
+
+
+Most hands are of the mixed type. Each finger must be considered separately.
+
+The fingers, being instruments of the brain, connected with it through the tiny telegraph wires of the nerves,
+certain qualities. Each finger indicates specific talents or represent
 size
 of the finger, its shape, its texture and propor-
 The

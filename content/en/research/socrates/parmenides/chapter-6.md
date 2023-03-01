@@ -2,7 +2,7 @@
 title: "Relativity of the One to the Others"
 heading: "Chapter 6"
 weight: 12
-image: "/covers/parmenides.jpg"
+image: "/covers/parm.png"
 description: "The One is in Itself which was a Whole and also in Others within that Whole"
 icon: "/icons/soc.png"
 ---

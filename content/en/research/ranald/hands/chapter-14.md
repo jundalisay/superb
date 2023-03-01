@@ -1,12 +1,15 @@
+---
+heading: Chapter 14
+title: "The Minor Lines of the Hand"
+weight: 30
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
 
-Chapter XIV.
-THE MINOR LINES OF THE HAND
-IN addition to the major lines, which are present in almost every
-hand, there are a number of minor groovings which your hand may
-or may not show. Some of these give valuable assistance to the talentsMINOR LINES OF THE HAND
-and
-characteristics revealed
-by the
+
+
+There are a number of minor groovings which your hand may or may not show. Some of these give valuable assistance to the talents and characteristics revealed by the
 rest of
 71
 your hand. Others are

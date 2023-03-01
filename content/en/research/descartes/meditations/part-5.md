@@ -4,7 +4,7 @@ heading: Part 5
 weight: 15
 description: "Before enquiring into whether there are any such things, I should consider the ideas of them in my thought, in order to see which of those ideas are distinct and which confused."
 author: "Rene Descartes"
-image: "/covers/meditations.jpg"
+image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---
 

@@ -23,6 +23,7 @@ For the thunderbolt of heaven passes through walled houses, as do shouts and cri
 
 But yet because true reasoning and the nature of things constrains us, give heed, until in a few verses we set forth that there are things which exist with solid and everlasting body, which we show to be the seeds of things and their first-beginnings, out of which the whole sum of things now stands created.
 
+
 ## Proof 1: Void and body are mutually exclusive.
 
 The nature of body and of space, in which all things take place, are very different. 

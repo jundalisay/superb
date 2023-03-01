@@ -1,6 +1,6 @@
 ---
 title: "Attack by Fire"
-image: "/covers/war.jpg"
+image: "/covers/war.png"
 description: "Attack by Strategem"
 heading: "Chapter 12"
 

@@ -2,7 +2,7 @@
 title: "The Weak Line of Life"
 heading: "Chapter 7c "
 weight: 42
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 description: "The thin Life line indicates a lack of robust, muscular vitality and great endurance."
 author: William Benham
 ---

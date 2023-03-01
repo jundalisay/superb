@@ -1,6 +1,6 @@
 ---
 title: "Waging War"
-image: "/covers/war.jpg"
+image: "/covers/war.png"
 description: "The cost of raising an army of 100,000 men is 1,000 ounces of silver per day"
 heading: "Chapter 2"
 weight: 4

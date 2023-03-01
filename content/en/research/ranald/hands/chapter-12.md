@@ -1,10 +1,17 @@
+---
+heading: Chapter 12
+title: "The Liness of Sex Influence"
+weight: 26
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
+
+
 this indication will
 explained in
-Chapter XII.
 ON
-fully/
-THE LINES OF SEX INFLUENCE
-the outer edge of the hand, extending into the palm under the
+fully the outer edge of the hand, extending into the palm under the
 there are often a number of horizontal lines. These are
 little finger,
 number 6), or, as the older

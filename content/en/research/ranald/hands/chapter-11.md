@@ -1,9 +1,15 @@
-LINE OF APOLLO
-Chapter
+---
+heading: Chapter 11
+title: "The Line of Apollo"
+weight: 24
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
 
-XL THE LINE OF APOLLO
-THOUGH
-the line of Apollo (see plate 27, number 5) is accounted
+
+
+THOUGH the line of Apollo (see plate 27, number 5) is accounted
 one of the major lines of the hand, it is not present in every hand,
 nor even in the majority. Yet, without it, the hand is a poor thing,
 promising hardship and struggle without assurance of success. The

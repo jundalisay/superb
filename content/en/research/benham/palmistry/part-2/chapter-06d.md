@@ -2,7 +2,7 @@
 title: "Defects of the Head Line"
 heading: "Chapter 6d"
 weight: 32
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 description: "A downward deflection of the Head line can reveal when a person will be impressed with psychic phenomena and spiritism"
 author: William Benham
 ---

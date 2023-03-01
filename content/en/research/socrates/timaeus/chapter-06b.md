@@ -3,6 +3,7 @@ title: "Kundalini"
 heading: "Chapter 6b"
 weight: 36
 image: "/photos/social/monkey.jpg"
+# image: "/covers/timaeus.jpg"
 description: "The bonds of life which unite the soul with the body are made fast in the marrow. They are the root and foundation of the human race"
 author: Plato
 icon: /icons/soc.png

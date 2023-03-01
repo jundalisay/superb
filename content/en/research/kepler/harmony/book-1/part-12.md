@@ -1,5 +1,5 @@
 ---
-heading: Parts 12-20
+heading: Parts 12-16
 title: "Degrees of Knowledge"
 description: "The quantity of a line is knowable if it is either itself immediately measurable"
 image: /covers/harmony.jpg
@@ -56,7 +56,7 @@ The square of a Medial [line] is also itself called Medial, whether it takes the
 
 
 
-XVI Definition
+## Part 16: Individual Lines
 
 We now come to different individual lines, through the combination of pairs of lines which themselves also introduce new degrees of knowledge. 
 
@@ -95,7 +95,5 @@ of equation (3) is the product of two expressible numbers, and thus is itself ex
 ible. So the left hand side of the equation must also be expressible. That is, I is ex­
 pressible in square —which contradicts our original assumption.
 29 Compare Euclid, Elements X, 21; see Euclid trans. Heath, vol. Ill, p. 49.
+
 {{< /box >}}
-
-
-

@@ -4,15 +4,15 @@ heading: Section 4
 weight: 8
 description: "The duration alone of our life is sufficient to demonstrate the existence of God"
 author: "Rene Descartes"
-image: "/covers/philosophy.jpg"
+image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---
 
 
 
-LXII. The distinction of reason (logical distinction).
+62. The distinction of reason (logical distinction).
 
-Finally, the distinction of reason is that between a substance and some one of its attributes, without which it is impossible, however, we can have a distinct conception of the substance itself; or between two such attributes of a common substance, the one of which we essay to think without the other. 
+The distinction of reason is that between a substance and some one of its attributes, without which it is impossible, however, we can have a distinct conception of the substance itself; or between two such attributes of a common substance, the one of which we essay to think without the other. 
 
 This distinction is manifest from our inability to form a clear and distinct idea of such substance, if we separate from it such attribute; or to have a clear perception of the one of two such attributes if we separate it from the other. For example, because any substance which ceases to endure ceases also to exist, duration is not distinct from substance except in thought (RATIONE); 
 
@@ -20,15 +20,15 @@ In general all the modes of thinking which we consider as in objects differ only
 
 It occurs, indeed, to me that I have elsewhere classed this kind of distinction with the modal (viz., towards the end of the Reply to the First Objections to the Meditations on the First Philosophy); but there it was only necessary to treat of these distinctions generally, and it was sufficient for my purpose at that time simply to distinguish both of them from the real.
 
-LXIII. How thought and extension may be distinctly known, as constituting, the one the nature of mind, the other that of body.
+63. How thought and extension may be distinctly known, as constituting, the one the nature of mind, the other that of body.
 
 Thought and extension may be regarded as constituting the natures of intelligent and corporeal substance; and then they must not be otherwise conceived than as the thinking and extended substances themselves, that is, as mind and body, which in this way are conceived with the greatest clearness and distinctness. Moreover, we more easily conceive extended or thinking substance than substance by itself, or with the omission of its thinking or extension. For there is some difficulty in abstracting the notion of substance from the notions of thinking and extension, which, in truth, are only diverse in thought itself (i.e., logically different); and a concept is not more distinct because it comprehends fewer properties, but because we accurately distinguish what is comprehended in it from all other notions.
 
-LXIV. How these may likewise be distinctly conceived as modes of substance.
+64. How these may likewise be distinctly conceived as modes of substance.
 
 Thought and extension may be also considered as modes of substance; in as far, namely, as the same mind may have many different thoughts, and the same body, with its size unchanged, may be extended in several diverse ways, at one time more in length and less in breadth or depth, and at another time more in breadth and less in length; and then they are modally distinguished from substance, and can be conceived not less clearly and distinctly, provided they be not regarded as substances or things separated from others, but simply as modes of things. For by regarding them as in the substances of which they are the modes, we distinguish them from these substances, and take them for what in truth they are: whereas, on the other hand, if we wish to consider them apart from the substances in which they are, we should by this itself regard them as self-subsisting things, and thus confound the ideas of mode and substance.
 
-LXV. How we may likewise know their modes.
+65. How we may likewise know their modes.
 
 In the same way we will best apprehend the diverse modes of thought, as intellection, imagination, recollection, volition, etc., and also the diverse modes of extension, or those that belong to extension, as all figures, the situation of parts and their motions, provided we consider them simply as modes of the things in which they are; and motion as far as it is concerned, provided we think merely of locomotion, without seeking to know the force that produces it, and which nevertheless I will essay to explain in its own place.
 

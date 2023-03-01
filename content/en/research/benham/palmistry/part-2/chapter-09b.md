@@ -3,7 +3,7 @@ heading: "Chapter 9b"
 title: "How to Read the Affection Lines"
 weight: 52
 author: William Benham
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 description: "There are 2 ways to read the age on lines of Affection"
 ---
 

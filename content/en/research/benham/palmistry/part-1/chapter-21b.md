@@ -4,7 +4,7 @@ title: "The Characteristics of the Apollonian"
 description: "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
 weight: 114
 author: William Benham
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 ---
 
 

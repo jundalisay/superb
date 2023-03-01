@@ -4,7 +4,7 @@ heading: Part 3c
 weight: 12
 description: "These external ideas and causes are made of substance. For example, I think that a stone is a substance, or is a thing capable of existing independently"
 author: "Rene Descartes"
-image: "/covers/meditations.jpg"
+image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---
 

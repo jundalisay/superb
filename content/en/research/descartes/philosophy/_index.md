@@ -4,5 +4,5 @@ linkTitle: Principles
 # date: 1633
 weight: 6
 description: "The Principles of Philosophy by Descartes"
-image: "/covers/philosophy.jpg"
+image: "/covers/philos.png"
 ---

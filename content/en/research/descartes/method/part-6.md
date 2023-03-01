@@ -3,7 +3,7 @@ heading: Part 6
 title: Cartesian Method
 weight: 20
 description: Rene Descartes 1635
-image: "/covers/method.jpg"
+image: "/covers/method.png"
 author: "Rene Descartes"
 icon: /icons/descartes.png
 ---

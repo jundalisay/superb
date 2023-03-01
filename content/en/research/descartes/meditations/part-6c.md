@@ -4,7 +4,7 @@ heading: Part 6c
 weight: 21
 description: "The mind is not immediately affected by all parts of the body but only by the brain – or perhaps just by the small part of it which is said to contain the ‘common sense’ (as the pineal gland)"
 author: "Rene Descartes"
-image: "/covers/meditations.jpg"
+image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---
 

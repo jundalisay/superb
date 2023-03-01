@@ -3,7 +3,7 @@ heading: Part 3
 title: The 3 Maxims
 weight: 12
 description: Rene Descartes 1635
-image: "/covers/method.jpg"
+image: "/covers/method.png"
 author: "Rene Descartes"
 icon: /icons/descartes.png
 ---

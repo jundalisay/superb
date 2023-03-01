@@ -1,4 +1,13 @@
-Chapter XIII.
+---
+heading: Chapter 13
+title: "The Line of Health or Hepatica"
+weight: 28
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
+
+
 THE
 of
 Hepatica (see plate 27, number 7), which

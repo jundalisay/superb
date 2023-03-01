@@ -1,12 +1,21 @@
+---
+heading: Chapter 23
+title: "Notable Hands"
+weight: 52
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
+
+
 In the following pages you will find the hands and analyses of
 ten world famous personages outstanding in different lines of en-
 deavor. Observe the various signs and lines in their hands that in-
-dicate their fame
-and
-success.
+dicate their fame and success.
 
 
-THE HAND OF FRANKLIN DELANO ROOSEVELT
+## THE HAND OF FRANKLIN DELANO ROOSEVELT
+
 pure spatulate
 is
 almost

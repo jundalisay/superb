@@ -1,7 +1,13 @@
+---
+heading: Chapter 20
+title: "Types Of Fingerprints"
+weight: 44
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
 
-XX. TYPES OF FINGERPRINTS
-Chapter
-THE
+
 The Hand as Medium
 one use to which study of the hands has been put with thor-
 method is in fingerprinting for the purposes of iden-

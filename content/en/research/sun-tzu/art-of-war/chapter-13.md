@@ -1,6 +1,6 @@
 ---
 title: "The Use of Spies"
-image: "/covers/war.jpg"
+image: "/covers/war.png"
 description: "The Ground Book"
 heading: "Chapter 3"
 weight: 26

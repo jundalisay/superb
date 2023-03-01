@@ -3,7 +3,7 @@ title: "Protagoras the Sophist"
 heading: "Part 3"
 weight: 8
 author: Plato
-image: "/covers/prot.png"
+image: "/covers/prot.jpg"
 description: "When we entered, we found Protagoras taking a walk in the cloister"
 icon: "/icons/soc.png"
 ---

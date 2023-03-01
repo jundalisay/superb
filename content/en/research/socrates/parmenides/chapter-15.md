@@ -2,7 +2,7 @@
 title: "The One is All and All are One"
 heading: "Chapter 15"
 weight: 30
-image: "/covers/parmenides.jpg"
+image: "/covers/parm.png"
 description: "The Others become other than each Other, for the only remaining alternative is that they are other than nothing."
 author: Plato
 icon: "/icons/soc.png"

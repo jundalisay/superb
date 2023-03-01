@@ -3,7 +3,7 @@ heading: "Chapter 22"
 title: "The Mount Of Mars"
 description: "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
 weight: 120
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 author: William Benham
 ---
 

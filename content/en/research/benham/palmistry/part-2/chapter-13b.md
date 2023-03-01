@@ -4,7 +4,7 @@ title: "The Girdle of Venus with Other Lines"
 description: "In every case, the Girdle will indicate some degree of nervousness and some degree of ardor"
 weight: 70
 author: William Benham
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 ---
 
 

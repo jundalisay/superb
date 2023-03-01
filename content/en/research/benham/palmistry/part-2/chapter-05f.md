@@ -2,7 +2,7 @@
 title: "Breaks in the Heart Line"
 heading: "Chapter 5f"
 weight: 24
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 description: "Breaks are always serious even though small. When wide or when the ends of the broken line are far apart and unrepaired, they become serious enough to warrant the reading of probable fatality"
 icon: "/avatars/blank.png"
 author: William Benham

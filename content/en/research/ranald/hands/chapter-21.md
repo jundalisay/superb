@@ -1,9 +1,17 @@
-PART FO UR
-Chapter
-The Hand as
-Vocational Guide
+---
+heading: Chapter 21
+title: "The Hand as Vocational Guide"
+weight: 46
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
 
-XXL CHILD TRAINING
+
+PART FO UR
+
+CHILD TRAINING
+
 IN DISCUSSING
 guidance, I
 wish

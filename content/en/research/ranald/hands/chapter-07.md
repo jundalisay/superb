@@ -1,8 +1,15 @@
+---
+heading: Chapter 7
+title: "The Line of Life"
+weight: 16
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
 
-THE LINE OF
-Chapter VII.
-THE
-line of life
+
+
+THE line of life
 Venus and Mars
 thumb.
 my

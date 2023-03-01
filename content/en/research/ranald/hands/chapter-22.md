@@ -1,7 +1,15 @@
-ADULT VOCATIONAL GUIDANCE
-Chapter XXII.
-SPECIALIZATION is
-greater efficiency, man
+---
+heading: Chapter 22
+title: "ADULT VOCATIONAL GUIDANCE"
+weight: 50
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
+
+
+
+SPECIALIZATION is greater efficiency, man
 the keynote of present-day vocations. For
 has subdivided even the physical labor of
 roadbuilding or the manufacture of an automobile into many

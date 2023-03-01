@@ -4,7 +4,7 @@ heading: Section 5
 weight: 8
 description: "The duration alone of our life is sufficient to demonstrate the existence of God"
 author: "Rene Descartes"
-image: "/covers/philosophy.jpg"
+image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---
 

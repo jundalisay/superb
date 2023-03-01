@@ -1,7 +1,15 @@
-Chapter XVI.
+---
+heading: Chapter 16
+title: "The Structure Of The Hand"
+weight: 34
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
+
 
 WHEN The Doctor Loo\s at Hands
-THE STRUCTURE OF THE HAND
+
 the doctor looks at hands,
 only what
 we laymen

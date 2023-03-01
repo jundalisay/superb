@@ -2,7 +2,7 @@
 title: "Color of the Heart Line"
 heading: "Chapter 5e"
 weight: 22
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 description: "Every variation in the path of the Heart line means a change in the qualities for which it stands."
 icon: "/avatars/blank.png"
 author: William Benham

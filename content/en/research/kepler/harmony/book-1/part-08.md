@@ -1,5 +1,5 @@
 ---
-heading: Parts 8-20
+heading: Parts 8-11
 title: "Measuring Shapes"
 description: "The quantity of a line is knowable if it is either itself immediately measurable"
 image: /covers/harmony.jpg

@@ -2,7 +2,7 @@
 title: "The Sequence and Cycle of Creation"
 heading: "Chapter 7"
 weight: 14
-image: "/covers/parmenides.jpg"
+image: "/covers/parm.png"
 description: "The One is affected by time"
 icon: "/icons/soc.png"
 ---

@@ -2,7 +2,7 @@
 heading: "Chapter 7 "
 title: "The Line of Life"
 weight: 38
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 description: "The Saturn line is frequently called the line of Fate."
 author: William Benham
 ---

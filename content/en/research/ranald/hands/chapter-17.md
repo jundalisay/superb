@@ -1,3 +1,13 @@
+---
+heading: Chapter 17
+title: "The Nails"
+weight: 38
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
+
+
 Chapter XVII. THE NAILS
 
 ABNORMALITIES in shape, strength, texture, brittleness

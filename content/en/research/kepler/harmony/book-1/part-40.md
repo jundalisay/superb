@@ -1,7 +1,7 @@
 ---
 heading: Parts 40-41
-title: "The Construction Of Regular Figures"
-description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+title: "The Decagon and The Star Decagon"
+description: "The Regular shape with 24 sides, and all figures obtainable from it by repeated doubling of the number of sides, can be inscribed in the circle Geometrically"
 image: /covers/harmony.jpg
 weight: 20
 author: Johannes Kepler
@@ -11,17 +11,22 @@ icon: /icons/kepler.png
 
 ## Proposition 40
 
-The Regular shape with 24 sides, and all figures obtainable from it by repeated doubling of the number of sides, can be inscribed in the circle Geometrically, but the knowledge of the side strays further into degrees still more distant from those considered earlier.
+The Regular shape with 24 sides, and all figures obtainable from it by repeated doubling of the number of sides, can be inscribed in the circle Geometrically. 
+
+But the knowledge of the side strays further into degrees still more distant from those considered earlier.
 
 The same applies to the sides of its stars, which subtend 5, 7, or 1 1 twenty-fourths [of the circle].
 
-This is proven as Proposition 37 above was from the 16-sided figure; but with this difference, that here the side of the star Dodecagon and half of it are first Binomials, so that the rectangle contained by the half [side] and the diameter, [the latter] being Expressible, this time does not yet come to be of a new species, because by 54, the side of the area is again a BinomiaV 
+This is proven as Proposition 37 above was from the 16-sided figure. The difference is that here the side of the star Dodecagon and half of it are first Binomials, so that the rectangle contained by the half [side] and the diameter, [the latter] being Expressible. This time does not yet come to be of a new species, because by 54, the side of the area is again a BinomiaV 
 
 But now this rectangle, subtracted from the Expressible [rectangle contained by] the complete [diameter] and the half Diameter, leaves a new species, of which no mention has so far been made, and of lower degree, because more composite. 
 
 This is produced by the square of the side of the figure with 24 angles.
 
 This is all the more true for figures of this Class with more angles; such as figures with 48 angles, 96 angles and so on.
+
+{{< img src="/graphics/physics/h-b1-40.png" alt="Kepler" >}}
+
 
 The chord subtended by five twenty-fourths of the circle is disclosed by bisection of the arc
 containing five twelfths: the square of the former [i.e. ii] subtracted from the square of the diameter, leaves the square of the chord subtended by 7 24ths^'-''^: so the square of the side,

@@ -4,7 +4,7 @@ heading: "Part 2"
 description: "The Schwarzschild Solution"
 author: "Einstein and Rosen"
 icon: "/icons/einbla.png"
-image: "/covers/pproblem.jpg"
+image: "/covers/particle.png"
 weight: 6
 # date: 2020-01-30
 ---

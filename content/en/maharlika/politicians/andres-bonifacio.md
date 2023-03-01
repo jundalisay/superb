@@ -56,7 +56,7 @@ Rizal did not believe in the capabilities of the masses at all:
 {{< /q >}}
 
 
-Felipe-nos surrender to policies of foreigners and vested interests, such as exporting its people as overseas workers as OFWs (Overseas Felipe-no Worker)
+Felipe-nos surrender to policies of foreigners and vested interests, such as exporting its people as overseas workers as OFWs (Overseas Felipe-no Worker, where the 'King Felipes' are the wealthy foreigners)
 
 On the other hand, Katagalugans (River People) or Maharlikans (free people) have Andres Bonifacio as their national hero. These are free from foreign and vested interests, just as rivers flow freely according to their national interests. 
 

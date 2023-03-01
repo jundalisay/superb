@@ -1,6 +1,13 @@
+---
+heading: Chapter 8
+title: "The Line of the Head"
+weight: 18
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
 
-THE LINE OF THE HEAD
-Chapter VIII.
+
 THE
 is
 to find a cold

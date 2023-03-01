@@ -1,13 +1,15 @@
+---
+heading: Chapter 18
+title: "The Conformation And Shape Of The Hand And Its Significance In Medicine"
+weight: 40
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
 
-Chapter XVIII.
-TO SAY
-THE CONFORMATION AND SHAPE
-OF THE HAND AND ITS SIGNIFI-
-CANCE IN MEDICINE.
-that a thin, much-lined
-hand
-is
-repeat the superstitions of witch doctors
+
+
+TO SAY that a thin, much-lined hand is repeat the superstitions of witch doctors
 to recognize
 is
 what

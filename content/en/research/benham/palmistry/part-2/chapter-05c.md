@@ -2,7 +2,7 @@
 title: "Path of Line"
 heading: "Chapter 5c"
 weight: 19
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 description: "By noting the course of the line, I do not refer to defects in it, which we will consider later, but to the direction it takes in crossing the hand"
 icon: "/avatars/blank.png"
 author: William Benham

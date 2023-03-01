@@ -92,7 +92,7 @@ All planets, except Mercury, rotates in a very small manner to be detected. But 
 
 
 
-Apart from this one, GR allows only two deductions which can be tested by observation= 
+Apart from this one, GR allows only two deductions which can be tested by observation:
 - the curvature of light rays by the sun's gravitational field [gravitational lensing] and
 - a displacement of the spectral lines of light reaching us from large stars, as compared with the corresponding lines for light produced in an analogous manner terrestrially (i.e. by the same kind of molecule * ). 
 

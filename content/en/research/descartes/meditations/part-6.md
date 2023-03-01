@@ -4,7 +4,7 @@ heading: Part 6
 weight: 18
 description: "I perceive them clearly and distinctly as the subject matter of pure mathematics. So I at least know that they could exist, because anything that I perceive in that way could be created by God"
 author: "Rene Descartes"
-image: "/covers/meditations.jpg"
+image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---
 

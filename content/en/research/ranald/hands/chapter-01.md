@@ -1,17 +1,16 @@
 ---
 heading: Chapter 1
-title: "THE TYPES AND CHARACTERISTICS OF HANDS"
+title: "The Types And Characteristics Of Hands"
 # date: 1767
 weight: 4
-author: François Quesnay
-image: "/covers/rights.png"
-icon: /icons/quesnay.png
-description: "The natural right of man may vaguely be defined to be, the right which man has to whatever is proper for his enjoyment"
+author: Ranald
+image: "/covers/hands.png"
+description: ""
 ---
 
 
 
-'WHAT,
+<!-- 'WHAT,
 will these
 hands ne'er be clean? Here's the smell of blood
 the perfumes of Arabia will not sweeten this little hand."
@@ -22,22 +21,18 @@ all
 wants, their loves, their passions the best and worst they have
 ever done or ever hope to do. If you can read the stories in their
 hands, you will know your friends and enemies even better than
-know themselves.
-One of the few things which modern,
-they
-scientific hand analysis has
-retained from the lore of ancient palmistry is the classification of
-human hands by their shapes. Though various students of the
-hand have divided their subject into as many as 170 typical divisions,
-most authorities agree on seven basic types, each with its character-
-istic traits.
-THE ELEMENTARY HAND
-The elementary hand
-belongs to the simplest and least cultivated
-recognized, being thick, clumsy and stolid-
-are
-short in proportion to the palm and have a
-looking. Its fingers
+know themselves. -->
+
+
+One of the few things which modern, scientific hand analysis has retained from ancient palmistry is the classification of human hands by their shapes. 
+
+Various students of the hand have divided their subject into as many as 170 typical divisions. But most authorities agree on 7 basic types, each with its characteristic traits.
+
+## THE ELEMENTARY HAND
+
+The elementary hand belongs to the simplest and least cultivated recognized, being thick, clumsy and stolid- are short in proportion to the palm and have a looking. 
+
+Its fingers
 persons.
 It
 is
@@ -432,7 +427,9 @@ dominant forces are. I shall discuss that in the chapter on the
 mounts and in the one about the fingers. Aside from what the indi-
 vidual fingers tell us, we can consider certain tendencies common to
 all
-mixed hands.ANALYSIS AND INTERPRETATION
+mixed hands.
+
+ANALYSIS AND INTERPRETATION
 18
 The mixed hand shows
 versatility
@@ -459,4 +456,3 @@ to
 any
 one or two dominants, then make a careful analysis of the fingers,
 lines and mounts, balancing the various factors against each other.
-

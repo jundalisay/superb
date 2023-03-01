@@ -2,7 +2,7 @@
 title: "The Infinite Divisibility of the Others within the Illusion of the One"
 heading: "Chapter 14"
 weight: 28
-image: "/covers/parmenides.jpg"
+image: "/covers/parm.png"
 description: "The Others become other than each Other, for the only remaining alternative is that they are other than nothing."
 icon: "/icons/soc.png"
 ---

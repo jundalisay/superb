@@ -1,6 +1,6 @@
 ---
 title: "Sun Tzu"
-image: "/covers/war.jpg"
+image: "/covers/war.png"
 weight: 106
 # date: 2022-04-10
 ---

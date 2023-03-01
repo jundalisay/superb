@@ -1,6 +1,15 @@
-Chapter VI.
-IN
-THE LINES OF THE PALM
+---
+heading: Chapter 6
+title: "The Lines of the Palm"
+weight: 14
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
+
+
+IN THE LINES OF THE PALM 
+
 the superstitious, fortune-telling uses of palmistry, the lines of
 hand are regarded as a sort of key to the future, the various di-
 rections and signs being given somewhat arbitrary significance. This

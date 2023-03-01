@@ -4,7 +4,7 @@ title: "The Jupiterian Thumb"
 description: "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
 weight: 104
 author: William Benham
-image: "/photos/objects/hand.jpg"
+image: "/covers/reading.png"
 ---
 
 Are strong determination and reason back of Jupiterian desires and ambitions?

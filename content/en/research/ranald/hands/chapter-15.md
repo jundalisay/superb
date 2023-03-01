@@ -1,4 +1,14 @@
-Chapter XV.SPECIAL MARKINGS IN THE PALM
+---
+heading: Chapter 15
+title: "Special Markings In The Palm"
+weight: 32
+author: Ranald
+image: "/covers/hands.png"
+description: ""
+---
+
+
+
 addition to the eminences on the palm and the lines which cross
 you will often notice special formations. Each of
 in all directions,

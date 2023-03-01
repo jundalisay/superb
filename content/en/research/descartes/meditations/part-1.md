@@ -5,7 +5,7 @@ heading: Part 1
 weight: 2
 description: "Rene Descartes starts to doubt all of his beliefs"
 author: "Rene Descartes"
-image: "/covers/meditations.jpg"
+image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---
 

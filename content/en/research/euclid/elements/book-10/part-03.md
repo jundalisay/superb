@@ -1,4 +1,17 @@
-PROPOSITION 29.
+---
+heading: Propositions 29-
+title: "Definitions"
+linkTitle: Propositions 29-
+weight: 4
+description: Commensurable are magnitudes measured by the same measure
+author: "Euclid"
+image: /covers/elements.jpg
+---
+
+
+
+## PROPOSITION 29
+
 To find two rational straight lines commensurable in square only and such that the square on the greater is greater than the square on the less by the square on a straight line commensurable in length with the greater.
 For let there be set out any rational straight line AB, and two square numbers CD, DE such that their difference CE is not square; [Lemma 1] let there be described on AB the semicircle AFB, and let it be contrived that,
 

@@ -4,7 +4,7 @@ heading: Part 6b
 weight: 20
 description: "Sensory ideas must be produced by some substance other than me. This substance actually has (either in a straightforward way or in a higher form) all the reality that is represented in the ideas that it produces."
 author: "Rene Descartes"
-image: "/covers/meditations.jpg"
+image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---
 

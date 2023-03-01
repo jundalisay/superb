@@ -5,7 +5,7 @@ linkTitle: "Particle Problem"
 weight: 6
 # "introduced the sophistry of General Relativity"
 description: "Einstein and Rosen Create the absurd concept of wormholes"
-image: "/covers/pproblem.jpg"
+image: "/covers/particle.png"
 ---
 
 
