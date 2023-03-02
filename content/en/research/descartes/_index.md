@@ -1,6 +1,7 @@
 ---
 title: "Descartes, Rene"
 heading: "Enlightened"
+linkTitle: Descartes
 # date: 2022-07-29
 weight: 22
 # date: 2022-08-08

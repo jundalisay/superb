@@ -35,40 +35,52 @@ Schoner followed Ramus’ convictions.
 
 In fact, Schoner was more fortunate than his master Ramus, because he gratefully received my revelation of the application of the solids in the structure of the world. 
 
-For what if the Pythagoreans attributed these shapes to the elements, but not as I do to the spheres of the world? 
-
-Ramus would have striven to undo this error over the true subject of the shapes as I have done.
+If the Pythagoreans attributed these shapes to the elements and not to the orbits of the world as I did, then Ramus would have striven to undo this error as I have done.
+<!-- over the true subject of the shapes -->
 - He would not have demolished this whole philosophy with one tyrannical word. 
 
-What if the Pythagoreans put forward the same teaching as I do, and hid their doctrine by wrapping it up in words? 
+If the Pythagoreans put forward the same teaching as mine and hid their doctrine by wrapping it up in words then Ramus would not say what he said.
+- In this way, the Copernican 'world' would be found in Aristotle himself
+- Ramus would then be wrong to falsely refute Coernicus under other names, as they called the Sun, Fire, and the Moon the Counter Earth
 
-Is not the Copernican form of the world found in Aristotle himself, falsely refuted by him Under Other names, as they called the Sun, Fire, and the Moon the Counter Earth? 
+Suppose that:
+- the disposition of the orbits of the Pythagoreans and Copernicus were the same
+- the 5 solids were known
+- the necessity for their fivefold number were also known 
 
-For suppose the disposition of the circles was the same according to the Pythagoreans as according to Copernicus, that the 5 solids were known, and the necessity for their fivefold number. 
+Suppose that the Pythagoreans and Copernicus all consistently taught that the 5 solids were the archetypes of the parts of the world.
 
-Suppose that they all consistently taught that the 5 solids were the archetypes of the parts of the world.
+It would then be so easy for us to believe that their doctrine was in the form of a riddle was.
+- The Pythagoreans assigned the cube to the Earth, but I think they really meant Saturn -- its orbit was separated from Jupiter by the interposition of the cube.
+- This riddle was read by Aristotle who refuted it correctly refuted it
+<!-- in the true sense of the words, when Aristotle read it as  -->
 
-What a short step further it is for us to believe that their doctrine in the form of a riddle was read by Aristotle as if it had been refuted in the true sense of the words, when Aristotle read it as the Earth to which they allocated the cube, although they as it happened meant Saturn, the orbit of which was separated from Jupiter by the interposition of the cube. 
+The common herd ascribe rest to the Earth. But data shows that Saturn has a very slow motion which is very close to rest. 
+- This is why the Hebrews gave it a name from the word “rest” 
 
-The common herd ascribe rest to the Earth, whereas Saturn has been allocated a very slow motion which is very close to rest, so that among the Hebrews it got its name from the word “rest.” 
 
-Similarly, Aristotle read it as the air to which the octahedron was given, whereas they as it happened meant Mercury, the orbit of which was enclosed by the octahedron.
+The Pythagoreans assigned the octahedron to air. But I think they meant Mercury -- its orbit was enclosed by the octahedron.
+- Mercury is as swift as our nimble air is
+<!-- Similarly, Aristotle read it as the air to which the  was given, whereas they as it happened , the  of which  -->
 
-Mercury is no less swift than the nimble air is held to be. As it happened. 
-
-Mars was the interpreted to the word “fire”.
-- And so the tetrahedron was given to Mars, perhaps because its orbit is enclosed by that shape.
+Mars was the interpreted to the word “fire, amd so the tetrahedron was given to Mars perhaps because its orbit is enclosed by that shape.
  <!-- which also had elsewhere the name Pyrois (fiery one) from fire; and to it  -->
-- Under the disguise of water, to which the icosahedron is attributed, the star of Venus (as the one of which the course is contained within the icosahedron) could be hidden, because liquids are subject to Venus, and she herself is said to have risen from the sea foam, whence the name “Aphrodite.” 
+
+
+The icosahedron was assigned to water, which I assign to the star of Venus (as the one of which the course is contained within the icosahedron).
+- This is because liquids are subject to Venus, and she herself is said to have risen from the sea foam, whence the name “Aphrodite”. 
 
 Lastly, the word “world” could signify the Earth. 
 
-The dodecahedron is ascribed to the world, because the Earth’s course is contained within that shape, and marked off into 12 sections of its length, as a dodecahedron is contained within 12 faces around. 
+The dodecahedron is assigned to the world. I think this is because the Earth’s course is contained within that shape, and marked off into 12 sections of its length, as a dodecahedron is contained within 12 faces around. 
 
-Therefore, in the secrets of the Pythagoreans on this basis, the 5 shapes were distributed not among the elements, as Aristotle believed, but among the planets themselves.
-- This is very strongly confirmed by Proclus telling us that the aim of geometry is to tell how the heaven has received appropriate shapes for definite parts of itself.
+**Therefore, the Pythagoreans were assigning the the 5 shapes not among the elements, as Aristotle believed, but among the planets themselves.**
+- This is very strongly confirmed by Proclus telling us that the aim of geometry is to tell how the heaven has received appropriate shapes for definite parts of itself*.
 
-Nor is this yet the end of the damage which Ramus has inflicted on us. Consider the most ingenious of today’s geometers, 
+> *Sueprphysics Note: Here only Kepler is mistaken. Euclid, Proclus, and the Pythagoreans were correct. The 5 shapes are the visualization of the 5 layers of Strong force, Weak force, Electromagnetism, Spacetime, and Aether. This is different from their current visualization which uses color as quantum chromodynamics.  
+
+
+<!-- Nor is this yet the end of the damage which Ramus has inflicted on us. Consider the most ingenious of today’s geometers,  -->
 
 Snel is a supporter of Ramus. In his preface to "The Problems of Ludolph van Ceulen",  he says, “That division of the inexpressibles into 13 kinds is useless for application.” 
 
@@ -81,8 +93,10 @@ But why does he not follow Proclus, whom he mentions, and who recognizes that th
 In that case in fact the application of Book 10 in deciding the kinds of figures would have been evident. Snel men­
 tions geometrical authors who are said to make no use of Book 10 of Euclid.
 
-Of course all of them deal with either linear or solid problems, and in connection with such figures or quantities as have
-no purpose within themselves, but obviously aim at other applications, and would not be investigated otherwise. But the regular figures are investigated on their own account as archetypes, have their own perfection within themselves, and are among the subjects of plane problems, notwithstanding the fact that a solid is also enclosed by plane faces. In the same way the material of the tenth Book also relates chiefly to plane surfaces. Why then should those of varying kinds be mentioned? 
+Of course, all of them deal with either linear or solid problems, and in connection with such figures or quantities as have
+no purpose within themselves, but obviously aim at other applications, and would not be investigated otherwise. 
+
+But the regular shapes are investigated on their own account as archetypes, have their own perfection within themselves, and are among the subjects of plane problems, notwithstanding the fact that a solid is also enclosed by plane faces. In the same way the material of the tenth Book also relates chiefly to plane surfaces. Why then should those of varying kinds be mentioned? 
 
 Or why should the goods which Codrus did not buy to feed his belly with them, but which Cleopatra bought to ornament her ears, be reckoned cheap? 
 

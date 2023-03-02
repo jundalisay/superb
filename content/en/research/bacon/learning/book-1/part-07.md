@@ -1,8 +1,8 @@
 ---
 title: "Part 7"
 weight: 18
-description: ""
-image: "/covers/learning.jpg"
+description: "Human proofs is so large a field."
+image: "/covers/learning.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---

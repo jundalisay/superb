@@ -6830,6 +6830,10 @@ body {
   background-color: #000f3a;
   background-image: url(/avatars/quesnay.png); }
 
+.Ramus {
+  background-color: darkred !important;
+  background-image: url(/icons/ramus.png) !important; }
+
 .ric {
   background-color: #3a0000;
   background-image: url(/avatars/ricardo.jpg); }

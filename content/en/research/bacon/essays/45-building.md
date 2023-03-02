@@ -3,7 +3,7 @@ heading: "Essay 45"
 title: "Buildings"
 weight: 56
 description: "HOUSES are built to live in, and not to look at"
-image: "/covers/essaysbacon.jpg"
+image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---

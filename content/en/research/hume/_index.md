@@ -1,5 +1,6 @@
 ---
 title: "Hume, David"
+linkTitle: Hume
 heading: Enlightened
 # date: 2022-07-11
 weight: 40

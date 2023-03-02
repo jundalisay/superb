@@ -3,22 +3,30 @@ heading: "Essay 4"
 title: "Revenge"
 weight: 10
 description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
-image: "/covers/essaysbacon.jpg"
+image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---
 
 
 
-REVENGE is a kind of wild justice; which the more man's nature runs to, the more ought law to weed it out.
+REVENGE is a kind of wild justice -- the more man's nature runs to, the more the law should weed it out.
 
-For as for the first wrong, it doth but offend the law; but the revenge of that wrong, putteth the law out of office.
+The first wrong offends the law.
+- But the revenge of that wrong puts the law out of office.
 
-Certainly, in taking revenge, a man is but even with his enemy; but in passing it over, he is superior; for it is a prince's part to pardon. And Solomon, I am sure, saith, It is the glory of a man, to pass by an offence. 
+In taking revenge, a man is but even with his enemy.
+- But if he lets it pass over, he is superior for it is a prince's part to pardon.
 
-That which is past is gone, and irrevocable; and wise men have enough to do, with things present and to come; therefore they do but trifle with themselves, that labor in past matters. There is no man doth a wrong, for the wrong's sake; but thereby to purchase himself profit, or pleasure, or honor, or the like. 
+Solomon said: "It is the glory of a man, to pass by an offence."
 
-Therefore why should I be angry with a man, for loving himself better than me? And if any man should do wrong, merely out of ill-nature, why, yet it is but like the thorn or briar, which prick and scratch, because they can do no other.
+That past is gone and irrevocable. Wise men have enough to do with things present and future. Therefore they do but trifle with themselves than labor in past matters.
+
+No man does a wrong for the wrong's sake; but thereby to purchase himself profit, pleasure, honor, or the like. 
+
+Therefore, why should I be angry with a man, for loving himself better than me?
+
+If any man should do wrong, merely out of ill-nature, why, yet it is but like the thorn or briar, which prick and scratch, because they can do no other.
 
 The most tolerable sort of revenge, is for those wrongs which there is no law to remedy; but then let a man take heed, the revenge be such as there is no law to punish; else a man's enemy is still before hand, and it is two for one.
 
@@ -42,10 +50,10 @@ This would have done better in poesy, where transcendences are more allowed. And
 
 The virtue of prosperity, is temperance; the virtue of adversity, is fortitude; which in morals is the more heroical virtue. 
 
-Prosperity is the blessing of the Old Testament; adversity is the blessing of the New; which carrieth the greater benediction, and the clearer revelation of God's favor. Yet even in the Old Testament, if you listen to David's harp, you shall hear as many hearse-like airs as carols; and the pencil of the Holy Ghost hath labored more in describing the afflictions of Job, than the felicities of Solomon.
+Prosperity is the blessing of the Old Testament; adversity is the blessing of the New; which carrieth the greater benediction, and the clearer revelation of God's favor.
 
-Prosperity is not without many fears and distastes; and adversity is not without comforts and hopes. We see in needle-works and embroideries, it is more pleasing to have a lively work, upon a sad and solemn ground, than to have a dark and melancholy work, upon a lightsome ground: judge therefore of the pleasure of the heart, by the pleasure of the eye. Certainly virtue is like precious odors, most fragrant when they are incensed, or crushed: for prosperity doth best discover vice, but adversity doth best discover virtue.
+Yet even in the Old Testament, if you listen to David's harp, you shall hear as many hearse-like airs as carols; and the pencil of the Holy Ghost hath labored more in describing the afflictions of Job, than the felicities of Solomon.
 
+Prosperity is not without many fears and distastes; and adversity is not without comforts and hopes. We see in needle-works and embroideries, it is more pleasing to have a lively work, upon a sad and solemn ground, than to have a dark and melancholy work, upon a lightsome ground: judge therefore of the pleasure of the heart, by the pleasure of the eye. 
 
-
-
+Virtue is like precious odors, most fragrant when they are incensed, or crushed: for prosperity doth best discover vice, but adversity doth best discover virtue.

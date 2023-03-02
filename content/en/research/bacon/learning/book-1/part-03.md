@@ -1,8 +1,8 @@
 ---
 title: "Part 3"
 weight: 8
-description: ""
-image: "/covers/learning.jpg"
+description: "Learned men themselves grow discredit into learning"
+image: "/covers/learning.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---

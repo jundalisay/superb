@@ -3,7 +3,7 @@ heading: "Essay 36"
 title: "Ambition"
 weight: 48
 description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
-image: "/covers/essaysbacon.jpg"
+image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---

@@ -2,8 +2,8 @@
 heading: "Part 2"
 title: "Learning and Politics"
 weight: 6
-description: ""
-image: "/covers/learning.jpg"
+description: "Learning has received disgraces from politics"
+image: "/covers/learning.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---

@@ -3,7 +3,7 @@ heading: "Part 4"
 title: "The 3 Diseases in Learning"
 weight: 10
 description: "Errors and vanities have intervened in the studies of the learned"
-image: "/covers/learning.jpg"
+image: "/covers/learning.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---
@@ -13,7 +13,9 @@ author: Francis Bacon
 
 My goal is not to justify the errors, but by a censure and separation of the errors to make a justification of that which is good and sound, and to deliver that from the aspersion of the other.  
 
-We see that it is the manner of men to scandalise and deprave that which retaineth the state and virtue, by taking advantage upon that which is corrupt and degenerate, as the heathens in the primitive Church used to blemish and taint the Christians with the faults and corruptions of heretics.  But nevertheless I have no meaning at this time to make any exact animadversion of the errors and impediments in matters of learning, which are more secret and remote from vulgar opinion, but only to speak unto such as do fall under or near unto a popular observation.
+We see that it is the manner of men to scandalise and deprave that which retaineth the state and virtue, by taking advantage upon that which is corrupt and degenerate, as the heathens in the primitive Church used to blemish and taint the Christians with the faults and corruptions of heretics.  
+
+Nevertheless, I have no meaning at this time to make any exact animadversion of the errors and impediments in matters of learning, which are more secret and remote from vulgar opinion, but only to speak unto such as do fall under or near unto a popular observation.
 
 
 {{< s v="2" >}} There are therefore chiefly 3 vanities in studies. 
@@ -62,22 +64,33 @@ Thus much of the first disease or distemper of learning.
 
 {{< s v="5" >}} The second which followeth is in nature worse than the former: for as substance of matter is better than beauty of words, so contrariwise vain matter is worse than vain words: wherein it seemeth the reprehension of St. Paul was not only proper for those times, but prophetical for the times following; and not only respective to divinity, but extensive to all knowledge:
 
-Devita profanas vocum novitates, et oppositiones falsi nominis scientiæ.  For he assigneth two marks and badges of suspected and falsified science: the one, the novelty and strangeness of terms; the other, the strictness of positions, which of necessity doth induce oppositions, and so questions and altercations. 
+<!-- Devita profanas vocum novitates, et oppositiones falsi nominis scientiæ.   -->
 
-Surely, like as many substances in nature which are solid do putrefy and corrupt into worms;—so it is the property of good and sound knowledge to putrefy and dissolve into a number of subtle, idle, unwholesome, and (as I may term them) vermiculate questions, which have indeed a kind of quickness and life of spirit, but no soundness of matter or goodness of quality. 
+He assigned 2 badges of suspected and falsified science:
+
+- the one, the novelty and strangeness of terms
+- the other, the strictness of positions, which of necessity doth induce oppositions, and so questions and altercations. 
+
+Many solid substances in nature putrefy and corrupt into worms.
+- Likewise, good and sound knowledge putrefies and dissolves into a number of subtle, idle, unwholesome, and vermiculate questions.
+  - These have a kind of quickness and life of spirit, but no soundness of matter or goodness of quality. 
 
 This kind of degenerate learning did chiefly reign amongst the schoolmen. They had:
 - sharp and strong wits
 - abundance of leisure
 - small variety of reading.
 
-But their wits were shut in the cells of a few authors (chiefly Aristotle their dictator), just as their persons were shut in the cells of monasteries and colleges. 
+But their wits were shut in the cells of a few authors (chiefly Aristotle, their dictator), just as their persons were shut in the cells of monasteries and colleges. 
 
-They know little history, either of nature or time, did out of no great quantity of matter and infinite agitation of wit spin out unto us those laborious webs of learning which are extant in their books.  
+They:
+- know little history, either of nature or time
+- produced a little of matter and infinite agitation of wit, giving us those laborious webs of learning in their books
 
-For the wit and mind of man, if it work upon matter, which is the contemplation of the creatures of God, worketh according to the stuff and is limited thereby. 
+The wit and mind of man works on matter as the contemplation of the creatures of God.
+- If done this way, it works according to the stuff and is limited thereby. 
 
-But if it work upon itself, as the spider worketh his web, then it is endless, and brings forth indeed cobwebs of learning, admirable for the fineness of thread and work, but of no substance or profit.
+But if it works on itself, then it is endless, as the spider works his web
+- It brings forth cobwebs of learning, admirable for the fineness of thread and work, but of no use or substance.
 
 
 {{< s v="6" >}} This same unprofitable subtility or curiosity is of 2 sorts either:
@@ -98,9 +111,12 @@ So as it is not possible but this quality of knowledge must fall under popular c
 
 {{< s v="7" >}} Notwithstanding, certain it is that if those schoolmen to their great thirst of truth and unwearied travail of wit had joined variety and universality of reading and contemplation, they had proved excellent lights, to the great advancement of all learning and knowledge. 
 
-But as they are, they are great undertakers indeed, and fierce with dark keeping.  But as in the inquiry of the divine truth, their pride inclined to leave the oracle of God’s word, and to vanish in the mixture of their own inventions; so in the inquisition of nature, they ever left the oracle of God’s works, and adored the deceiving and deformed images which the unequal mirror of their own minds, or a few received authors or principles, did represent unto them.  And thus much for the second disease of learning.
+But as they are, they are great undertakers and fierce with dark keeping. But as in the inquiry of the divine truth, their pride inclined to leave the oracle of God’s word, and to vanish in the mixture of their own inventions. 
 
-{{< s v="8" >}} For the 3rd vice or disease of learning, which concerneth deceit or untruth, it is of all the rest the foulest; as that which doth destroy the essential form of knowledge, which is nothing but a representation of truth: for the truth of being and the truth of knowing are one, differing no more than the direct beam and the beam reflected.  
+In the inquisition of nature, they ever left the oracle of God’s works, and adored the deceiving and deformed images which the unequal mirror of their own minds, or a few received authors or principles, did represent unto them.  
+<!-- And thus much for the second disease of learning. -->
+
+{{< s v="8" >}} The 3rd vice or disease of learning which concerns deceit or untruth, it is of all the rest the foulest; as that which doth destroy the essential form of knowledge, which is nothing but a representation of truth: for the truth of being and the truth of knowing are one, differing no more than the direct beam and the beam reflected.  
 
 This vice branched itself into 2 sorts:
 

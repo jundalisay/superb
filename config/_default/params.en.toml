@@ -4,11 +4,21 @@ contact_form =  "https://hub.pantrypoints.com/api/email"
 
 [latests]
     [latests.a]
+        title = "How to Fix Ukraine"
+        subtitle = "Supersociology"        
+        url = "/social/cycles/ukraine"
+        img = "/flags/ua.png"
+    [latests.d]
+        title = "The Elastic Theory of Gravity"
+        subtitle = "Material Superphysics"
+        url = "/material/principles/part-2/chapter-04/"
+        img = "/graphics/physics/bands.jpg"
+    [latests.b]
         title = "The Age of the Universe"
         url = "/material/age-universe"
         subtitle = "Material Superphysics"
         img = "/photos/physics/galaxy.jpg"
-    [latests.b]
+    [latests.c]
         title = "The End of Capitalism (and Marxism)"
         subtitle = "Supereconomics"
         url = "/social/economics/end-of-capitalism"
@@ -16,20 +26,16 @@ contact_form =  "https://hub.pantrypoints.com/api/email"
         # title = "Moneyless Maharlikan System to Solve Stagflation"
         # url = "/maharlika/economics/maharlika-2050"
         # img = "/graphics/flag.png"
-    [latests.c]
-        title = "Alternative to General Relativity"
-        subtitle = "Material Superphysics"
-        url = "/material/fallacies/general-relativity"
-        img = "/graphics/physics/general.jpg"
+    # [latests.d]
+    #     title = "Alternative to General Relativity"
+    #     subtitle = "Material Superphysics"
+    #     url = "/material/fallacies/general-relativity"
+    #     img = "/graphics/physics/general.jpg"
     # [latests.b]
     #     title = "The Covid Star"
     #     url = "/medical/physical/solutions/covid-flu-star"
     #     img = "/photos/physics/star.jpg"
-    [latests.d]
-        title = "How to Fix Russia and Ukraine"
-        subtitle = "Supersociology"        
-        url = "/social/cycles/russia"
-        img = "/flags/ua.png"
+
 
 
 

@@ -3,7 +3,7 @@ heading: "Part 1"
 title: "The 3 True Limitations of Human Knowledge"
 weight: 4
 description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
-image: "/covers/learning.jpg"
+image: "/covers/learning.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---

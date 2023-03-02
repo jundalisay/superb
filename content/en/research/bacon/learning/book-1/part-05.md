@@ -2,8 +2,8 @@
 title: Other Causes of the Errors in Learning
 heading: "Part 5"
 weight: 14
-description: ""
-image: "/covers/learning.jpg"
+description: "The first of these is the extreme affecting of 2 extremities"
+image: "/covers/learning.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---

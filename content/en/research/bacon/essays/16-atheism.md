@@ -3,7 +3,7 @@ heading: "Essay 16"
 title: "Of Atheism, Simplified"
 weight: 24
 description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
-image: "/covers/essaysbacon.jpg"
+image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---
