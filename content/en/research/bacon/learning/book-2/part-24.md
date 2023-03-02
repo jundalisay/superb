@@ -3,13 +3,15 @@ title: Sacred Theology or Divinity
 heading: "Part 24"
 weight: 48
 description: ""
-image: "/covers/learning.jpg"
+image: "/covers/learning.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---
 
 
-Thus have I concluded this portion of learning touching civil knowledge. And with civil knowledge have concluded human philosophy; and with human philosophy, philosophy in general.  
+I concluded this portion of learning touching civil knowledge. 
+- With civil knowledge, I have concluded human philosophy.
+- With human philosophy, I have concluded philosophy in general.  
 
 <!-- And being now at some pause, looking back into that I have passed through, this writing seemeth to me (si nunquam fallit imago), as far as a man can judge of his own work, not much better than that noise or sound which musicians make while they are in tuning their instruments, which is nothing pleasant to hear, but yet is a cause why the music is sweeter afterwards.  So have I been content to tune the instruments of the Muses, that they may play that have better hands. -->
 

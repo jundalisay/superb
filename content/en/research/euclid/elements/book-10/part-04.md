@@ -1,100 +1,83 @@
 ---
-heading: Proposition 32
-title: "Propositions"
-linkTitle: Proposition 1
-weight: 4
+heading: Part 4
+title: "Auares"
+linkTitle: Part 4 
+weight: 10
 description: Commensurable are magnitudes measured by the same measure
 author: "Euclid"
 image: /covers/elements.jpg
 ---
 
 
-## PROPOSITION 32
+## Proposition 9
 
-To find two medial straight lines commensurable in square only, containing a medial rectangle, and such that the square on the greater is greater than the square on the less by the square on a straight line commensurable with the greater.
+Squares on straight-lines (which are) commensurable in length have to one another the ratio which (some) square number (has) to (some) square number.
 
-Let there be set out three rational straight lines A, B, C commensurable in square only, and such that the square on A is greater than the square on C by the square on a straight line commensurable with A, [X. 29] and let the square on D be equal to the rectangle A, B.
+Squares having to one another the ratio which (some) square number (has) to (some) square number will also have sides (which are) commensurable in length. But squares on straight-lines (which are) incommensurable in length do not have to one another the ratio which (some) square number (has) to (some) square number. And squares not having to one another the ratio which (some) square number (has) to (some) square number will not have sides (which are) commensurable in length either.
+Ar CH
+Br
+D
+For let A and B be (straight-lines which are) commen- surable in length. I say that the square on A has to the square on B the ratio which (some) square number (has) to (some) square number.
 
-Therefore the square on D is medial; therefore D is also medial. [X. 21]
-
-Let the rectangle D, E be equal to the rectangle B, C.
-
-Then since, as the rectangle A, B is to the rectangle B, C, so is A to C; while the square on D is equal to the rectangle A, B, and the rectangle D, E is equal to the rectangle B, C, therefore, as A is to C, so is the square on D to the rectangle D, E.
-
-But, as the square on D is to the rectangle D, E, so is D to E; therefore also, as A is to C, so is D to E.
-
-But A is commensurable with C in square only; therefore D is also commensurable with E in square only. [X. 11]
-
-But D is medial; therefore E is also medial. [X. 23, addition]
-
-And, since, as A is to C, so is D to E, while the square on A is greater than the square on C by the square on a straight line commensurable with A, therefore also the square on D will be greater than the square on E by the square on a straight line commensurable with D.[X. 14]
-
-I say next that the rectangle D, E is also medial.
-
-For, since the rectangle B, C is equal to the rectangle D, E, while the rectangle B, C is medial, [X. 21] therefore the rectangle D, E is also medial.
-
-Therefore two medial straight lines D, E, commensurable in square only, and containing a medial rectangle, have been found such that the square on the greater is greater than the square on the less by the square on a straight line commensurable with the greater.
-
-Similarly again it can be proved that the square on D is greater than the square on E by the square on a straight line incommensurable with D, when the square on A is greater than the square on C by the square on a straight line incommensurable with A. [X. 30]
-LEMMA.
-Let ABC be a right-angled triangle having the angle A right, and let the perpendicular AD be drawn; I say that the rectangle CB, BD is equal to the square on BA, the rectangle BC, CD equal to the square on CA, the rectangle BD, DC equal to the square on AD, and, further, the rectangle BC, AD equal to the rectangle BA, AC.
-And first that the rectangle CB, BD is equal to the square on BA.
-
-For, since in a right-angled triangle AD has been drawn from the right angle perpendicular to the base, therefore the triangles ABD, ADC are similar both to the whole ABC and to one another. [VI. 8]
-
-And since the triangle ABC is similar to the triangle ABD, therefore, as CB is to BA, so is BA to BD; [VI. 4] therefore the rectangle CB, BD is equal to the square on AB. [VI. 17]
-
-For the same reason the rectangle BC, CD is also equal to the square on AC.
-
-And since, if in a right-angled triangle a perpendicular be drawn from the right angle to the base, the perpendicular so drawn is a mean proportional between the segments of the base, [VI. 8, Por.] therefore, as BD is to DA, so is AD to DC; therefore the rectangle BD, DC is equal to the square on AD. [VI. 17]
-
-I say that the rectangle BC, AD is also equal to the rectangle BA, AC.
-
-For since, as we said, ABC is similar to ABD, therefore, as BC is to CA, so is BA to AD. [VI. 4]
-
-Therefore the rectangle BC, AD is equal to the rectangle BA, AC. [VI. 16] Q. E. D.
+For since A is commensurable in length with B, A thus has to B the ratio which (some) number (has) to (some) number [Prop. 10.5]. Let it have (that) which C (has) to D. Therefore, since as A is to B, so C (is) to D. But the (ratio) of the square on A to the square on B is the square of the ratio of A to B. For similar figures are in the squared ratio of (their) corresponding sides [Prop. 6.20 com.]. And the (ratio) of the square on C to the square on D is the square of the ratio of the [number] C to the [number] D. For there exits one number in mean proportion to two square numbers, and (one) square (number) has to the (other) square [num- ber] a squared ratio with respect to (that) the side (of the former has) to the side (of the latter) [Prop. 8.11]. And, thus, as the square on A is to the square on B, so the square [number] on the (number) C (is) to the square [number] on the [number] D.+
+And so let the square on A be to the (square) on Bas the square (number) on C (is) to the [square] (number) on D. I say that A is commensurable in length with B.
+For since as the square on A is to the [square] on B, so the square (number) on C (is) to the [square] (number) on D. But, the ratio of the square on A to the (square) on B is the square of the (ratio) of A to B [Prop. 6.20 corr.]. And the (ratio) of the square [number] on the [number] C to the square [number] on the [number] D is the square of the ratio of the [number] C to the [number] D [Prop. 8.11]. Thus, as A is to B, so the [number] C also (is) to the [number] D. A, thus, has to B the ratio which the number C has to the number D. Thus, A is commensurable in length with B [Prop. 10.6].
+And so let A be incommensurable in length with B. I say that the square on A does not have to the [square] on B the ratio which (some) square number (has) to (some) square number.
+For if the square on A has to the [square] on B the ra- tio which (some) square number (has) to (some) square number then A will be commensurable (in length) with B. But it is not. Thus, the square on A does not have to the [square] on the B the ratio which (some) square number (has) to (some) square number.
+So, again, let the square on A not have to the [square] on B the ratio which (some) square number (has) to (some) square number. I say that A is incommensurable in length with B.
+For if A is commensurable (in length) with B then the (square) on A will have to the (square) on B the ra- tio which (some) square number (has) to (some) square number. But it does not have (such a ratio). Thus, A is not commensurable in length with B.
+Thus, (squares) on (straight-lines which are) commensurable in length, and so on....
+Corollary
+And it will be clear, from (what) has been demon- strated, that (straight-lines) commensurable in length (are) always also (commensurable) in square, but (straight- lines commensurable) in square (are) not always also (commensurable) in length.
 
 
-PROPOSITION 33.
-To find two straight lines incommensurable in square which make the sum of the squares on them rational but the rectangle contained by them medial.
-Let there be set out two rational straight lines AB, BC commensurable in square only and such that the square on the greater AB is greater than the square on the less BC by the square on a straight line incommensurable with AB, [X. 30] let BC be bisected at D, let there be applied to AB a parallelogram equal to the square on either of the straight lines BD, DC and deficient by a square figure, and let it be the rectangle AE, EB; [VI. 28] let the semicircle AFB be described on AB, let EF be drawn at right angles to AB, and let AF, FB be joined.
+##  Proposition 10
 
-Then, since AB, BC are unequal straight lines, and the square on AB is greater than the square on BC by the square on a straight line incommensurable with AB, while there has been applied to AB a parallelogram equal to the fourth part of the square on BC, that is, to the square on half of it, and deficient by a square figure, making the rectangle AE, EB, therefore AE is incommensurable with EB. [X. 18]
-
-And, as AE is to EB, so is the rectangle BA, AE to the rectangle AB, BE, while the rectangle BA, AE is equal to the square on AF, and the rectangle AB, BE to the square on BF; therefore the square on AF is incommensurable with the square on FB; therefore AF, FB are incommensurable in square.
-
-And, since AB is rational, therefore the square on AB is also rational; so that the sum of the squares on AF, FB is also rational. [I. 47]
-
-And since, again, the rectangle AE, EB is equal to the square on EF, and, by hypothesis, the rectangle AE, EB is also equal to the square on BD, therefore FE is equal to BD; therefore BC is double of FE, so that the rectangle AB, BC is also commensurable with the rectangle AB, EF.
-
-But the rectangle AB, BC is medial; [X. 21] therefore the rectangle AB, EF is also medial. [X. 23, Por.]
-
-But the rectangle AB, EF is equal to the rectangle AF, FB; [Lemma] therefore the rectangle AF, FB is also medial.
-
-But it was also proved that the sum of the squares on these straight lines is rational.
-
-Therefore two straight lines AF, FB incommensurable in square have been found which make the sum of the squares on them rational, but the rectangle contained by them medial. Q. E. D.
+To find two straight-lines incommensurable with a given straight-line, the one (incommensurable) in length only, the other also (incommensurable) in square.
+A+
+E
+D
+B
+C
+Let A be the given straight-line. So it is required to find two straight-lines incommensurable with A, the one (incommensurable) in length only, the other also (incom- mensurable) in square.
+For let two numbers, B and C, not having to one another the ratio which (some) square number (has) to (some) square number-that is to say, not (being) simi- lar plane (numbers)-have been taken. And let it be con- trived that as B (is) to C, so the square on A (is) to the square on D. For we leamed (how to do this) [Prop. 10.6 corr.]. Thus, the (square) on A (is) commensurable with the (square) on D [Prop. 10.6]. And since B does not have to the ratio which (some) square number (has) to (some) square number, the (square) on A thus does not have to the (square) on D the ratio which (some) square number (has) to (some) square number either. Thus, A is incommensurable in length with D [Prop. 10.9]. Let the (straight-line) E (which is) in mean proportion to A and D have been taken [Prop. 6.13]. Thus, as A is to D, so the square on A (is) to the (square) on E [Def. 5.9]. And A is incommensurable in length with D. Thus, the square on A is also incommensurble with the square on E [Prop. 10.11]. Thus, A is incommensurable in square with E.
 
 
+Thus, two straight-lines, D and E, (which are) in- commensurable with the given straight-line A, have been found, the one, D, (incommensurable) in length only, the other, E, (incommensurable) in square, and, clearly, also in length. [(Which is) the very thing it was required to show.]
+the original text.
 
-PROPOSITION 34.
-To find two straight lines incommensurable in square which make the sum of the squares on them medial but the rectangle contained by them rational.
-Let there be set out two medial straight lines AB, BC, commensurable in square only, such that the rectangle which they contain is rational, and the square on AB is greater than the square on BC by the square on a straight line incommensurable with AB; [X. 31, ad fin.] let the semicircle ADB be described on AB, let BC be bisected at E, let there be applied to AB a parallelogram equal to the square on BE and deficient by a square figure, namely the rectangle AF, FB; [VI. 28] therefore AF is incommensurable in length with FB. [X. 18]
+## Proposition 11
 
-Let FD be drawn from F at right angles to AB, and let AD, DB be joined.
+If 4 magnitudes are proportional, and the first is commensurable with the second, then the third will also be commensurable with the fourth. And if the first is in- commensurable with the second, then the third will also be incommensurable with the fourth.
+A
+CH
+B
+ᎠᎰ
+Let A, B, C, D be four proportional magnitudes, (such that) as A (is) to B, so C (is) to D. And let A be commensurable with B. I say that C will also be com- mensurable with D.
+For since A is commensurable with B, A thus has to B the ratio which (some) number (has) to (some) number [Prop. 10.5]. And as A is to B, so C (is) to D. Thus, C also has to D the ratio which (some) number (has) to (some) number. Thus, C is commensurable with D [Prop. 10.6].
+And so let A be incommensurable with B. I say that C will also be incommensurable with D. For since A is incommensurable with B, A thus does not have to B the ratio which (some) number (has) to (some) number [Prop. 10.7]. And as A is to B, so C (is) to D. Thus, C does not have to D the ratio which (some) number (has) to (some) number either. Thus, C is incommensurable with D [Prop. 10.8).
+Thus, if four magnitudes, and so on.
 
-Since AF is incommensurable in length with FB, therefore the rectangle BA, AF is also incommensurable with the rectangle AB, BF. [X. 11]
 
-But the rectangle BA, AF is equal to the square on AD, and the rectangle AB, BF to the square on DB; therefore the square on AD is also incommensurable with the square on DB.
+## Proposition 12
 
-And, since the square on AB is medial, therefore the sum of the squares on AD, DB is also medial. [III. 31, I. 47]
+(Magnitudes) commensurable with the same magnitude are also commensurable with one another.
+For let A and B each be commensurable with C. I say that A is also commensurable with B.
+For since A is commensurable with C, A thus has to C the ratio which (some) number (has) to (some) number [Prop. 10.5]. Let it have (the ratio) which D (has) to E. Again, since C is commensurable with B, C thus has to B the ratio which (some) number (has) to (some) number [Prop. 10.5]. Let it have (the ratio) which F (has) to G. And for any multitude whatsoever
 
-And, since BC is double of DF, therefore the rectangle AB, BC is also double of the rectangle AB, FD.
 
-But the rectangle AB, BC is rational; therefore the rectangle AB, FD is also rational. [X. 6]
-
-But the rectangle AB, FD is equal to the rectangle AD, DB; [Lemma] so that the rectangle AD, DB is also rational.
-
-Therefore two straight lines AD, DB incommensurable in square have been found which make the sum of the squares on them medial, but the rectangle contained by them rational. Q. E. D.
-
+of given ratios F to G-let the numbers H, K, L (which are) contin- uously (proportional) in the (se) given ratios have been taken [Prop. 8.4]. Hence, as D is to E, so H (is) to K, and as F (is) to G, so K (is) to L.
+(namely,) those which D has to E, and
+C
+B
+A
+D
+H
+E
+K
+L
+F
+G
+Therefore, since as A is to C, so D (is) to E, but as D (is) to E, so H (is) to K, thus also as A is to C, so H (is) to K [Prop. 5.11]. Again, since as C is to B, so F (is) to G, but as F (is) to G, [so] K (is) to L, thus also as C (is) to B, so K (is) to L [Prop. 5.11]. And also as A is to C, so H (is) to K. Thus, via equality, as A is to B, so H (is) to L [Prop. 5.22]. Thus, A has to B the ratio which the number H (has) to the number L. Thus, A is commensurable with B [Prop. 10.6].
+Thus, (magnitudes) commensurable with the same magnitude are also commensurable with one another. (Which is) the very thing it was required to show.
 

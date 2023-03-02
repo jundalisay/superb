@@ -2,7 +2,7 @@
 title: "Part 6"
 weight: 16
 description: ""
-image: "/covers/learning.jpg"
+image: "/covers/learning.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---

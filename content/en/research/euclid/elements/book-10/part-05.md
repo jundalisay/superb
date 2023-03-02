@@ -1,101 +1,85 @@
 ---
-heading: Proposition 35
-title: "Propositions"
-linkTitle: Proposition 1
-weight: 4
+heading: Part 5
+title: "Suares"
+linkTitle: Part 5
+weight: 12
 description: Commensurable are magnitudes measured by the same measure
 author: "Euclid"
 image: /covers/elements.jpg
 ---
 
 
-PROPOSITION 35.
-To find two straight lines incommensurable in square which make the sum of the squares on them medial and the rectangle contained by them medial and moreover incommensurable with the sum of the squares on them.
-Let there be set out two medial straight lines AB, BC commensurable in square only, containing a medial rectangle, and such that the square on AB is greater than the square on BC by the square on a straight line incommensurable with AB; [X. 32 , ad fin.] let the semicircle ADB be described on AB, and let the rest of the construction be as above.
+## Proposition 13
 
-Then, since AF is incommensurable in length with FB, [X. 18 ] AD is also incommensurable in square with DB. [X. 11 ]
+If two magnitudes are commensurable, and one of them is incommensurable with some magnitude, then the remaining (magnitude) will also be incommensurable with it.
+A
+B
 
-And, since the square on AB is medial, therefore the sum of the squares on AD, DB is also medial. [III. 31 , I. 47 ]
-
-And, since the rectangle AF, FB is equal to the square on each of the straight lines BE, DF, therefore BE is equal to DF; therefore BC is double of FD, so that the rectangle AB, BC is also double of the rectangle AB, FD.
-
-But the rectangle AB, BC is medial; therefore the rectangle AB, FD is also medial. [X. 32, Por.]
-
-And it is equal to the rectangle AD, DB; [Lemma after X. 32 ] therefore the rectangle AD, DB is also medial.
-
-And, since AB is incommensurable in length with BC, while CB is commensurable with BE, therefore AB is also incommensurable in length with BE, [X. 13 ] so that the square on AB is also incommensurable with the rectangle AB, BE. [X. 11 ]
-
-But the squares on AD, DB are equal to the square on AB, [I. 47 ] and the rectangle AB, FD, that is, the rectangle AD, DB, is equal to the rectangle AB, BE; therefore the sum of the squares on AD, DB is incommensurable with the rectangle AD, DB.
-
-Therefore two straight lines AD, DB incommensurable in square have been found which make the sum of the squares on them medial and the rectangle contained by them medial and moreover incommensurable with the sum of the squares on them. Q. E. D.
-
-PROPOSITION 36.
-If two rational straight lines commensurable in square only be added together, the whole is irrational; and let it be called binomial.
-For let two rational straight lines AB, BC commensurable
-in square only be added together; I say that the whole AC is irrational.
-
-For, since AB is incommensurable in length with BC—
-for they are commensurable in square only— and, as AB is to BC, so is the rectangle AB, BC to the square on BC, therefore the rectangle AB, BC is incommensurable with the square on BC. [X. 11 ]
-
-But twice the rectangle AB, BC is commensurable with the rectangle AB, BC [X. 6 ], and the squares on AB, BC are commensurable with the square on BC—for AB, BC are rational straight lines commensurable in square only— [X. 15 ] therefore twice the rectangle AB, BC is incommensurable
-with the squares on AB, BC. [X. 13 ]
-
-And, componendo, twice the rectangle AB, BC together with the squares on AB, BC, that is, the square on AC [II. 4 ], is incommensurable with the sum of the squares on AB, BC. [X. 16 ]
-
-But the sum of the squares on AB, BC is rational;
-therefore the square on AC is irrational, so that AC is also irrational. [X. Def. 4 ]
-
-And let it be called binomial.
+Let A and B be two commensurable magnitudes, and let one of them, A, be incommensurable with some other (magnitude), C. I say that the remaining (magnitude), B, is also incommensurable with C.
+For if B is commensurable with C, but A is also com- mensurable with B, A is thus also commensurable with C [Prop. 10.12]. But, (it is) also incommensurable (with C). The very thing (is) impossible. Thus, B is not com- mensurable with C. Thus, (it is) incommensurable. Thus, if two magnitudes are commensurable, and so on....
 
 
+### Lemma
 
-PROPOSITION 37.
-If two medial straight lines commensurable in square only and containing a rational rectangle be added together, the whole is irrational; and let it be called a first bimedial straight line.
-For let two medial straight lines AB, BC commensurable in square only and containing a rational rectangle be added together; I say that the whole AC is irrational.
+For two given unequal straight-lines, to find by (the square on) which (straight-line) the square on the greater (straight-line is) larger than (the square on) the lesser. 
 
-For, since AB is incommensurable in length with BC, therefore the squares on AB, BC are also incommensurable with twice the rectangle AB, BC; [cf. X. 36, ll. 9-20] and, componendo, the squares on AB, BC together with twice the rectangle AB, BC, that is, the square on AC [II. 4], is incommensurable with the rectangle AB, BC. [X. 16 ]
+Let AB and C be the two given unequal straight-lines, and let AB be the greater of them. So it is required to find by (the square on) which (straight-line) the square on AB (is) greater than (the square on) C.
+Let the semi-circle ADB have been described on AB. And let AD, equal to C, have been inserted into it [Prop. 4.1]. And let DB have been joined. So (it is) clear that the angle ADB is a right-angle [Prop. 3.31], and that the square on AB (is) greater than (the square on) AD-that is to say, (the square on) C-by (the square on) DB [Prop. 1.47).
+And, similarly, the square-root of (the sum of the squares on) two given straight-lines is also found likeso.
+Let AD and DB be the two given straight-lines. And let it be necessary to find the square-root of (the sum of the squares on) them. For let them have been laid down such as to encompass a right-angle-(namely), that (angle encompassed) by AD and DB. And let AB have been joined. (It is) again clear that AB is the square-root of (the sum of the squares on) AD and DB [Prop. 1.47]. (Which is) the very thing it was required to show.
+a being greater than 8, to find a straight-line of length such that
+Proposition 14
+If four straight-lines are proportional, and the square on the first is greater than (the square on) the sec ond by the (square) on (some straight-line) commen- surable [in length] with the first, then the square on the third will also be greater than (the square on) the fourth by the (square) on (some straight-line) commen- surable [in length] with the third. And if the square on the first is greater than (the square on) the second by the (square) on (some straight-line) incommensurable [in length] with the first, then the square on the third will also be greater than (the square on) the fourth by the (square) on (some straight-line) incommensurable [in length] with the third.
+Let A, B, C, D be four proportional straight-lines, (such that) as A (is) to B, so C (is) to D. And let the square on A be greater than (the square on) B by the (square) on E, and let the square on C be greater than (the square on) D by the (square) on F. I say that A is either commensurable (in length) with E, and C is also commensurable with F, or A is incommensurable (in length) with E, and C is also incommensurable with
+F.
+A BECD F
 
-But the rectangle AB, BC is rational, for, by hypothesis, AB, BC are straight lines containing a rational rectangle; therefore the square on AC is irrational; therefore AC is irrational. [X. Def. 4 ]
+For since as A is to B, so C (is) to D, thus as the (square) on A is to the (square) on B, so the (square) on C (is) to the (square) on D [Prop. 6.22]. But the (sum of the squares) on E and B is equal to the (square) on A, and the (sum of the squares) on D and F is equal to the (square) on C. Thus, as the (sum of the squares) on E and B is to the (square) on B, so the (sum of the squares) on D and F (is) to the (square) on D. Thus, via separation, as the (square) on E is to the (square) on B, so the (square) on F (is) to the (square) on D [Prop. 5.17]. Thus, also, as E is to B, so F (is) to D [Prop. 6.22]. Thus, inversely, as B is to E, so D (is) to F [Prop. 5.7 corr.]. But, as A is to B, so C also (is) to D. Thus, via equality, as A is to E, so C (is) to F [Prop. 5.22]. Therefore, A is either commensurable (in length) with E, and C is also commensurable with F, or A is incommensurable (in length) with E, and C is also incommensurable with F [Prop. 10.11]. Thus, if, and so on....
 
-And let it be called a first bimedial straight line. Q. E. D.
+## Proposition 15
 
+If 2 commensurable magnitudes are added together then the whole will also be commensurable with each of them. And if the whole is commensurable with one of them then the original magnitudes will also be commen- surable (with one another).
+For let the two commensurable magnitudes AB and BC be laid down together. I say that the whole AC is also commensurable with each of AB and BC.
 
-PROPOSITION 38.
-If two medial straight lines commensurable in square only and containing a medial rectangle be added together, the whole is irrational; and let it be called a second bimedial straight line.
-For let two medial straight lines AB, BC commensurable in square only and containing a medial rectangle be added together; I say that AC is irrational.
+B
+D
+For since AB and BC are commensurable, some mag- nitude will measure them. Let it (so) measure (them), and let it be D. Therefore, since D measures (both) AB and BC, it will also measure the whole AC. And it also measures AB and BC. Thus, D measures AB, BC, and AC. Thus, AC is commensurable with each of AB and BC [Def. 10.1].
+And so let AC be commensurable with AB. I say that AB and BC are also commensurable.
+For since AC and AB are commensurable, some mag- nitude will measure them. Let it (so) measure (them), and let it be D. Therefore, since D measures (both) CA and AB, it will thus also measure the remainder BC. And it also measures AB. Thus, D will measure (both) AB and BC. Thus, AB and BC are commensurable [Def. 10.1].
+Thus, if two magnitudes, and so on....
+Proposition 16
+If two incommensurable magnitudes are added to- gether then the whole will also be incommensurable with each of them. And if the whole is incommensurable with one of them then the original magnitudes will also be in- commensurable (with one another).
+B
+5
+D
+For let the two incommensurable magnitudes AB and BC be laid down together. I say that that the whole AC is also incommensurable with each of AB and BC.
+For if CA and AB are not incommensurable then some magnitude will measure [them]. If possible, let it (so) measure (them), and let it be D. Therefore, since D measures (both) CA and AB, it will thus also mea- sure the remainder BC. And it also measures AB. Thus, D measures (both) AB and BC. Thus, AB and BC are commensurable [Def. 10.1]. But they were also assumed (to be) incommensurable. The very thing is impossible. Thus, some magnitude cannot measure (both) CA and AB. Thus, CA and AB are incommensurable [Def. 10.1]. So, similarly, we can show that AC and CB are also incommensurable. Thus, AC is incommensurable with each of AB and BC.
+And so let AC be incommensurable with one of AB and BC. So let it, first of all, be incommensurable with 
 
-For let a rational straight line DE be set out, and let the parallelogram DF equal to the square on AC be applied to DE, producing DG as breadth. [I. 44 ]
+AB. I say that AB and BC are also incommensurable. For if they are commensurable then some magnitude will measure them. Let it (so) measure (them), and let it be D. Therefore, since D measures (both) AB and BC, it will thus also measure the whole AC. And it also mea- sures AB. Thus, D measures (both) CA and AB. Thus, CA and AB are commensurable [Def. 10.1]. But they were also assumed (to be) incommensurable. The very thing is impossible. Thus, some magnitude cannot mea- sure (both) AB and BC. Thus, AB and BC are incom- mensurable [Def. 10.1].
+Thus, if two...magnitudes, and so on....
+Lemma
+If a parallelogram, falling short by a square figure, is applied to some straight-line then the applied (parallelo- gram) is equal (in area) to the (rectangle contained) by the pieces of the straight-line created via the application (of the parallelogram).
+A
+C
+B
+For let the parallelogram AD, falling short by the square figure DB, have been applied to the straight-line AB. I say that AD is equal to the (rectangle contained) by AC and CB.
+And it is immediately obvious. For since DB is a square, DC is equal to CB. And AD is the (rectangle contained) by AC and CD-that is to say, by AC and CB.
+Thus, if... to some straight-line, and so on....
+Proposition 17+
+If there are two unequal straight-lines, and a (rect- angle) equal to the fourth part of the (square) on the lesser, falling short by a square figure, is applied to the greater, and divides it into (parts which are) commen- surable in length, then the square on the greater will be larger than (the square on) the lesser by the (square) on (some straight-line) commensurable [in length] with the greater. And if the square on the greater is larger than (the square on) the lesser by the (square) on (some straight-line) commensurable [in length] with the greater, and a (rectangle) equal to the fourth (part) of the (square) on the lesser, falling short by a square figure, is applied to the greater, then it divides it into (parts which are) commensurable in length. 
 
-Then, since the square on AC is equal to the squares on AB, BC and twice the rectangle AB, BC, [II. 4 ] let EH, equal to the squares on AB, BC, be applied to DE; therefore the remainder HF is equal to twice the rectangle AB, BC.
+Let A and BC be two unequal straight-lines, of which (let) BC (be) the greater. And let a (rectangle) equal to the fourth part of the (square) on the lesser, A—that is, (equal) to the (square) on half of A-falling short by a square figure, have been applied to BC. And let it be the (rectangle contained) by BD and DC [see previous lemma]. And let BD be commensurable in length with DC. I say that that the square on BC is greater than the (square on) A by (the square on some straight-line) commensurable (in length) with (BC).
+A
+B F
+E
+D C
+For let BC have been cut in half at the point E [Prop. 1.10]. And let EF be made equal to DE [Prop. 1.3]. Thus, the remainder DC is equal to BF. And since the straight-line BC has been cut into equal (pieces) at E, and into unequal (pieces) at D, the rectangle contained by BD and DC, plus the square on ED, is thus equal to the square on EC [Prop. 2.5]. (The same) also (for) the quadruples. Thus, four times the (rectangle contained) by BD and DC, plus the quadruple of the (square) on DE, is equal to four times the square on EC. But, the square on A is equal to the quadruple of the (rectangle contained) by BD and DC, and the square on DF is equal to the quadruple of the (square) on DE. For DF is double DE. And the square on BC is equal to the quadruple of the (square) on EC. For, again, BC is dou- ble CE. Thus, the (sum of the) squares on A and DF is equal to the square on BC. Hence, the (square) on BC is greater than the (square) on A by the (square) on DF. Thus, BC is greater in square than A by DF. It must also be shown that BC is commensurable (in length) with DF. For since BD is commensurable in length with DC, BC is thus also commensurable in length with CD [Prop. 10.15]. But, CD is commensurable in length with CD plus BF. For CD is equal to BF [Prop. 10.6]. Thus, BC is also commensurable in length with BF plus CD [Prop. 10.12]. Hence, BC is also commensurable in length with the remainder FD [Prop. 10.15]. Thus, the square on BC is greater than (the square on) A by the (square) on (some straight-line) commensurable (in length) with (BC).
 
-And, since each of the straight lines AB, BC is medial, therefore the squares on AB, BC are also medial.
+And so let the square on BC be greater than the (square on) A by the (square) on (some straight-line) commensurable (in length) with (BC). And let a (rect- angle) equal to the fourth (part) of the (square) on A, falling short by a square figure, have been applied to BC. And let it be the (rectangle contained) by BD and DC. It must be shown that BD is commensurable in length with DC.
+For, similarly, by the same construction, we can show that the square on BC is greater than the (square on) A by the (square) on FD. And the square on BC is greater than the (square on) A by the (square) on (some straight- line) commensurable (in length) with (BC). Thus, BC is commensurable in length with FD. Hence, BC is also commensurable in length with the remaining sum of BF and DC [Prop. 10.15]. But, the sum of BF and DC is commensurable [in length] with DC [Prop. 10.6]. Hence, BC is also commensurable in length with CD [Prop. 10.12]. Thus, via separation, BD is also commen- surable in length with DC [Prop. 10.15].
 
-But, by hypothesis, twice the rectangle AB, BC is also medial.
-
-And EH is equal to the squares on AB, BC,
-while FH is equal to twice the rectangle AB, BC; therefore each of the rectangle EH, HF is medial.
-
-And they are applied to the rational straight line DE; therefore each of the straight lines DH, HG is rational and incommensurable in length with DE. [X. 22 ]
-
-Since then AB is incommensurable in length with BC, and, as AB is to BC, so is the square on AB to the rectangle AB, BC, therefore the square on AB is incommensurable with the rectangle AB, BC. [X. 11 ]
-
-But the sum of the squares on AB, BC is commensurable with the square on AB, [X. 15 ] and twice the rectangle AB, BC is commensurable with the rectangle AB, BC. [X. 6 ]
-
-Therefore the sum of the squares on AB, BC is incommensurable
-with twice the rectangle AB, BC. [X. 13 ]
-
-But EH is equal to the squares on AB, BC, and HF is equal to twice the rectangle AB, BC.
-
-Therefore EH is incommensurable with HF, so that DH is also incommensurable in length with HG. [VI. 1 , X. 11 ]
-
-Therefore DH, HG are rational straight lines commensurable in square only; so that DG is irrational. [X. 36 ]
-
-But DE is rational; and the rectangle contained by an irrational and a rational
-straight line is irrational; [cf. X. 20 ] therefore the area DF is irrational, and the side of the square equal to it is irrational. [X. Def. 4 ]
-
-But AC is the side of the square equal to DF; therefore AC is irrational.
-
-And let it be called a second bimedial straight line. Q. E. D.
-
+Thus, if there are two unequal straight-lines, and so on....
+DC, and ẞ = A) then c and √/a-ase commensurable when a -2
 
 

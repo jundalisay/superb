@@ -2,7 +2,7 @@
 heading: Part B
 title: "The ‘first-bodies’ are atoms"
 linkTitle: Part B
-weight: 6
+weight: 7
 description: Which consists of infinite atoms moving in infinite space
 author: "Titus Lucretius Carus"
 image: /covers/things.jpg

@@ -3,7 +3,7 @@ heading: Part D
 title: "The Universe is Infinite"
 linkTitle: Part D
 # date: 2022-07-24
-weight: 8
+weight: 12
 description: There is no limit to their full sum, or to the void, or to the space in which all things are carried on
 author: "Titus Lucretius Carus"
 image: /covers/things.jpg

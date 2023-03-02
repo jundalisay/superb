@@ -3,7 +3,7 @@ title: Civil knowledge
 heading: "Part 14"
 weight: 46
 description: "Civil knowledge is conversant about a subject which of all others is most immersed in matter, and hardliest reduced to axiom"
-image: "/covers/learning.jpg"
+image: "/covers/learning.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---

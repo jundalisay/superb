@@ -3,7 +3,7 @@ title: Mathematics
 heading: "Part 8"
 weight: 18
 description: "Mathematics is the part of natural philosophy, which is commonly made a principal part"
-image: "/covers/learning.jpg"
+image: "/covers/learning.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---

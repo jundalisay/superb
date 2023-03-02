@@ -3,7 +3,7 @@ heading: Part D
 title: "The Youth of the World"
 linkTitle: Part D
 # date: 2022-07-24
-weight: 8
+weight: 10
 description: Thunder when clouds clash together face to face
 author: "Titus Lucretius Carus"
 image: /covers/things.jpg

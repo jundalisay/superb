@@ -1,7 +1,7 @@
 ---
 # heading: Book 10
 title: Notes
-weight: 2
+weight: 22
 # date: 2022-01-31
 description: 
 author: "Diogenes Laertius"

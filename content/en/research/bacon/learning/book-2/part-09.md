@@ -3,7 +3,7 @@ title: The knowledge of ourselves
 heading: "Part 9"
 weight: 20
 description: "the knowledge of ourselves"
-image: "/covers/learning.jpg"
+image: "/covers/learning.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---

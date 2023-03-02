@@ -3,7 +3,7 @@ heading: Part B
 title: "The Forms of the Atoms and their Effects in Combination"
 linkTitle: Part B
 # date: 2022-07-24
-weight: 4
+weight: 6
 description: There is no limit to their full sum, or to the void, or to the space in which all things are carried on
 author: "Titus Lucretius Carus"
 image: /covers/things.jpg

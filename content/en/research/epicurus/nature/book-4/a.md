@@ -3,7 +3,7 @@ heading: Part A
 title: "Existence and Nature of the ‘Idols’"
 linkTitle: Part A
 # date: 2022-07-24
-weight: 2
+weight: 4
 description: The "idols of things" are like films stripped from the outermost body of things
 author: "Titus Lucretius Carus"
 image: /covers/things.jpg

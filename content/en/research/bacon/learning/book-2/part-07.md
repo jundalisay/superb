@@ -1,14 +1,15 @@
 ---
-title: "Part 7"
+heading: "Part 7"
+title: Natural Philosophy
 weight: 16
-description: ""
-image: "/covers/learning.jpg"
+description: "Democritus said that the truth of nature lies hidden in certain deep mines and caves"
+image: "/covers/learning.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---
 
 
-(1) Leaving therefore divine philosophy or natural theology (not divinity or inspired theology, which we reserve for the last of all as the haven and sabbath of all man’s contemplations) we will now proceed to natural philosophy. 
+{{< s v="1" >}}  Leaving therefore divine philosophy or natural theology (not divinity or inspired theology, which we reserve for the last of all as the haven and sabbath of all man’s contemplations) we will now proceed to natural philosophy. 
 
 Democritus said that the truth of nature lies hidden in certain deep mines and caves.  
 
@@ -43,7 +44,7 @@ Yet all true natural philosophy has a double scale or ladder, ascendent and desc
 
 Therefore, these 2 parts must be severally considered and handled.
 
-(2) Natural science or theory is divided into physic and metaphysic.
+{{< s v="2" >}}  Natural science or theory is divided into physic and metaphysic.
 
 I use the word metaphysic in a differing sense from that that is received.  
 

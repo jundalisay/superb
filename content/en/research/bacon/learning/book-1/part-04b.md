@@ -3,7 +3,7 @@ heading: Part 4b
 title: "Why we Accept Wrong Things"
 weight: 12
 description: ""
-image: "/covers/learning.jpg"
+image: "/covers/learning.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---

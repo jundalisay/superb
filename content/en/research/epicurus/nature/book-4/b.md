@@ -1,4 +1,16 @@
-B.: Sensation and Thought
+---
+heading: Part B
+title: "Sensation and Thought"
+linkTitle: Part B
+# date: 2022-07-24
+weight: 6
+description: The "idols of things" are like films stripped from the outermost body of things
+author: "Titus Lucretius Carus"
+image: /covers/things.jpg
+---
+
+
+
 2. Thouch and sight give us the same information: they must be affected by similar causes.Moreover, since a shape felt by the hands in the darkness is known to be in some way the same as is seen in the light and the clear brightness, it must needs be that touch and sight are stirred by a like cause. If then we handle a square thing, and it stirs our touch in the darkness, what square thing can fall upon our sight in the light, except its image? Wherefore it is clear that the cause of seeing lies in the images, nor without them can anything be seen.
 
 The idols meet our eyes wherever we turn.Next those things which I call the idols of things are borne everywhere, and are cast off and meted out to every side. But because we can see them only

@@ -3,7 +3,7 @@ heading: Part 14
 title: "The Parts of Writing"
 weight: 32
 description: "The custody or retaining of knowledge is either in writing or memory"
-image: "/covers/learning.jpg"
+image: "/covers/learning.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---

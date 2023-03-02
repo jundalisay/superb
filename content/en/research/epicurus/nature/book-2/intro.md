@@ -3,7 +3,7 @@ heading: Part A
 title: "The Motion of the Atoms"
 linkTitle: Part A
 # date: 2022-07-24
-weight: 66
+weight: 2
 description: There is no limit to their full sum, or to the void, or to the space in which all things are carried on
 author: "Titus Lucretius Carus"
 image: /covers/things.jpg

@@ -3,7 +3,7 @@ heading: Part A
 title: "Nature and Formation of the Soul"
 linkTitle: Part A
 # date: 2022-07-24
-weight: 2
+weight: 4
 description: There is no limit to their full sum, or to the void, or to the space in which all things are carried on
 author: "Titus Lucretius Carus"
 image: /covers/things.jpg
@@ -11,7 +11,9 @@ image: /covers/things.jpg
 
 
 
-The mind is a part of the body. We often call it as the understanding, in which is placed the reasoning and guiding power of life, is a part of a man no whit the less than hand and foot and eyes are created parts of the whole living being. <Yet many wise men have thought> that the sensation of the mind is not placed in any part determined, but is a certain vital habit of the body, which the Greeks call a harmony, not a ‘harmony’. in that it makes us live with sensation, although in no part does an understanding exist: as when often good health is said to belong to the body, and yet it is not itself any part of a healthy man.
+The mind is a part of the body. We often call it as the understanding, in which is placed the reasoning and guiding power of life, is a part of a man no whit the less than hand and foot and eyes are created parts of the whole living being. 
+
+Yet many wise men have thought that the sensation of the mind is not placed in any part determined, but is a certain vital habit of the body, which the Greeks call a harmony, not a ‘harmony’. in that it makes us live with sensation, although in no part does an understanding exist: as when often good health is said to belong to the body, and yet it is not itself any part of a healthy man.
 
 In this wise they do not set the sensation of the mind in any part determined; and in this they seem to me to wander very far astray. Thus often the body,1. Mind and body are independent in pleasure and pain. which is clear to see, is sick, when, all the same we feel pleasure in some other hidden part; and contrariwise it happens that the reverse often comes to be in turn, when one wretched in mind feels pleasure in all his body; in no other wise than if, when a sick man’s foot is painful, all the while, may be, his head is in no pain. 
 

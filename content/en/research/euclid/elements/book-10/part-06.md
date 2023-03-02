@@ -1,98 +1,99 @@
 ---
-heading: Proposition 39
-title: "Propositions"
-weight: 4
+heading: Part 5
+title: "Squares"
+linkTitle: Part 5
+weight: 12
 description: Commensurable are magnitudes measured by the same measure
 author: "Euclid"
 image: /covers/elements.jpg
 ---
 
 
-## PROPOSITION 39
 
-If 2 straight lines incommensurable in square which make the sum of the squares on them rational, but the rectangle contained by them medial, be added together, the whole straight line is irrational : and let it be called major.
-For let two straight lines AB, BC incommensurable in square, and fulfilling the given conditions [X. 33 ], be added together; I say that AC is irrational.
+## Proposition 18
 
-For, since the rectangle AB, BC is medial, twice the rectangle AB, BC is also medial. [X. 6 and 23, Por.]
+If there are two unequal straight-lines, and a (rect- angle) equal to the fourth part of the (square) on the lesser, falling short by a square figure, is applied to the greater, and divides it into (parts which are) incom- mensurable [in length], then the square on the greater will be larger than the (square on the) lesser by the (square) on (some straight-line) incommensurable (in length) with the greater.
 
-But the sum of the squares on AB, BC is rational; therefore twice the rectangle AB, BC is incommensurable with the sum of the squares on AB, BC, so that the squares on AB, BC together with twice the rectangle AB, BC that is, the square on AC, is also incommensurable with the sum of the squares on AB, BC; [X. 16 ] therefore the square on AC is irrational, so that AC is also irrational. [X. Def. 4 ]
+If the square on the greater is larger than the (square on the) lesser by the (square) on (some straight-line) incommensurable (in) length) with the greater, and a (rectangle) equal to the fourth (part) of the (square) on the lesser, falling short by a square figure, is applied to the greater, then it divides it into (parts which are) incommensurable [in length].
 
-And let it be called major. Q. E. D.
+Let A and BC be two unequal straight-lines, of which (let) BC (be) the greater. And let a (rectangle) equal to the fourth [part] of the (square) on the lesser, A, falling short by a square figure, have been applied to BC. And let it be the (rectangle contained) by BDC. And let BD be incommensurable in length with DC. I say that that the square on BC is greater than the (square on) A by the (square) on (some straight-line) incommensurable (in length) with (BC).
 
-PROPOSITION 40.
-If two straight lines incommensurable in square which make the sum of the squares on them medial, but the rectangle contained by them rational, be added together, the whole straight line is irrational; and let it be called the side of a rational plus a medial area.
-For let two straight lines AB, BC incommensurable in square, and fulfilling the given conditions [X. 34 ], be added together; I say that AC is irrational.
+A
+B FE
+D
+C
+For, similarly, by the same construction as before, we can show that the square on BC is greater than the (square on) A by the (square) on FD. [Therefore] it must be shown that BC is incommensurable in length with DF. For since BD is incommensurable in length with DC, BC is thus also incommensurable in length with CD [Prop. 10.16]. But, DC is commensurable (in length) with the sum of BF and DC [Prop. 10.6]. And, thus, BC is incommensurable (in length) with the sum of BF and DC [Prop. 10.13]. Hence, BC is also incommen- surable in length with the remainder FD [Prop. 10.16]. And the square on BC is greater than the (square on) A by the (square) on FD. Thus, the square on BC is greater than the (square on) A by the (square) on (some straight-line) incommensurable (in length) with (BC).
+So, again, let the square on BC be greater than the (square on) A by the (square) on (some straight-line) in- commensurable (in length) with (BC). And let a (rect- angle) equal to the fourth [part] of the (square) on A, falling short by a square figure, have been applied to BC. And let it be the (rectangle contained) by BD and DC. It must be shown that BD is incommensurable in length with DC.
+For, similarly, by the same construction, we can show that the square on BC is greater than the (square) on A by the (square) on FD. But, the square on BC is greater than the (square) on A by the (square) on (some straight-line) incommensurable (in length) with (BC). Thus, BC is incommensurable in length with FD. Hence, BC is also incommensurable (in length) with the re- maining sum of BF and DC [Prop. 10.16]. But, the sum of BF and DC is commensurable in length with DC [Prop. 10.6]. Thus, BC is also incommensurable in length with DC (Prop. 10.13]. Hence, via separa- tion, BD is also incommensurable in length with DC [Prop. 10.16].
+Thus, if there are two... straight-lines, and so on....
+- DC, and ẞ = A) then a and a-ase incommensurable when
+Proposition 19
+The rectangle contained by rational straight-lines (which are) commensurable in length is rational.
+For let the rectangle AC have been enclosed by the rational straight-lines AB and BC (which are) commen- surable in length. I say that AC is rational.
+D
+C
+B
+For let the square AD have been described on AB. AD is thus rational [Def. 10.4]. And since AB is com- mensurable in length with BC, and AB is equal to BD, BD is thus commensurable in length with BC. And as BD is to BC, so DA (is) to AC [Prop. 6.1]. Thus, DA is commensurable with AC [Prop. 10.11]. And DA (is) rational. Thus, AC is also rational [Def. 10.4]. Thus, the... by rational straight-lines...commensurable, and
+so on....
 
-For, since the sum of the squares on AB, BC is medial, while twice the rectangle AB, BC is rational, therefore the sum of the squares on AB, BC is incommensurable with twice the rectangle AB, BC; so that the square on AC is also incommensurable with twice the rectangle AB, BC. [X. 16 ]
 
-But twice the rectangle AB, BC is rational; therefore the square on AC is irrational.
+## Proposition 20
 
-Therefore AC is irrational. [X. Def. 4 ]
+If a rational (area) is applied to a rational (straight- line) then it produces as breadth a (straight-line which is) rational, and commensurable in length with the (straight- line) to which it is applied.
+B
+A
+For let the rational (area) AC have been applied to the rational (straight-line) AB, producing the (straight-line) BC as breadth. I say that BC is rational, and commen- surable in length with BA.
+For let the square AD have been described on AB.
 
-And let it be called the side of a rational plus a medial area. Q. E. D.
+AD is thus rational [Def. 10.4]. And AC (is) also ratio- nal. DA is thus commensurable with AC. And as DA is to AC, so DB (is) to BC [Prop. 6.1]. Thus, DB is
+also commensurable (in length) with BC [Prop. 10.11]. And DB (is) equal to BA. Thus, AB (is) also commen- surable (in length) with BC. And AB is rational. Thus, BC is also rational, and commensurable in length with AB [Def. 10.3].
+Thus, if a rational (area) is applied to a rational (straight-line), and so on....
+Proposition 21
+The rectangle contained by rational straight-lines (which are) commensurable in square only is irrational, and its square-root is irrational-let it be called medial.
+B
+A
+For let the rectangle AC be contained by the rational straight-lines AB and BC (which are) commensurable in square only. I say that AC is irrational, and its square- root is irrational-let it be called medial.
+For let the square AD have been described on AB. AD is thus rational [Def. 10.4]. And since AB is incom- mensurable in length with BC. For they were assumed to be commensurable in square only. And AB (is) equal to BD. DB is thus also incommensurable in length with BC. And as DB is to BC, so AD (is) to AC [Prop. 6.1]. Thus, DA [is] incommensurable with AC [Prop. 10.11]. And DA (is) rational. Thus, AC is irrational [Def. 10.4]. Hence, its square-root [that is to say, the square-root of the square equal to it] is also irrational [Def. 10.4]-let it be called medial. (Which is) the very thing it was required to show.
 
 
-PROPOSITION 41.
-If two straight lines incommensurable in square which make the sum of the squares on them medial, and the rectangle contained by them medial and also incommensurable with the sum of the squares on them, be added together, the whole straight line is irrational; and let it be called the side of the sum of two medial areas.
-For let two straight lines AB, BC incommensurable in square and satisfying the given conditions [X. 35 ] be added together; I say that AC is irrational.
+### Lemma
 
-Let a rational straight line DE be set out, and let there be applied to DE the rectangle DF equal to the squares on AB, BC, and the rectangle GH equal to twice the rectangle AB, BC; therefore the whole DH is equal to the square on AC. [II. 4 ]
+If there are two straight-lines then as the first is to the second, so the (square) on the first (is) to the (rectangle contained) by the two straight-lines.
+Let FE and EG be two straight-lines. I say that as FE is to EG, so the (square) on FE (is) to the (rectangle contained) by FE and EG.
+For let the square DF have been described on FE. And let GD have been completed. Therefore, since as FE is to EG, so FD (is) to DG [Prop. 6.1], and FD is the (square) on FE, and DG the (rectangle contained) by DE and EG-that is to say, the (rectangle contained) by FE and EG-thus as FE is to EG, so the (square) on FE (is) to the (rectangle contained) by FE and EG. And also, similarly, as the (rectangle contained) by GE and EF is to the (square on) EF-that is to say, as GD (is) to FD-so GE (is) to EF. (Which is) the very thing it was required to show.
 
-Now, since the sum of the squares on AB, BC is medial, and is equal to DF, therefore DF is also medial.
 
-And it is applied to the rational straight line DE; therefore DG is rational and incommensurable in length with DE. [X. 22 ]
+## Proposition 22
 
-For the same reason GK is also rational and incommensurable in length with GF, that is, DE.
+The square on a medial (straight-line), being ap- plied to a rational (straight-line), produces as breadth a (straight-line which is) rational, and incommensurable in length with the (straight-line) to which it is applied.
 
-And, since the squares on AB, BC are incommensurable with twice the rectangle AB, BC, DF is incommensurable with GH; so that DG is also incommensurable with GK. [VI. 1 , X. 11 ]
+A C D E
+F
 
-And they are rational; therefore DG, GK are rational straight lines commensurable in square only; therefore DK is irrational and what is called binomial. [X. 36 ]
+Let A be a medial (straight-line), and CB a rational (straight-line), and let the rectangular area BD, equal to the (square) on A, have been applied to BC, producing CD as breadth. I say that CD is rational, and incommen- surable in length with CB.
+For since A is medial, the square on it is equal to a 
 
-But DE is rational; therefore DH is irrational, and the side of the square which is equal to it is irrational. [X. Def. 4 ]
+(rectangular) area contained by rational (straight-lines which are) commensurable in square only [Prop. 10.21]. Let the square on (A) be equal to GF. And the square on (A) is also equal to BD. Thus, BD is equal to GF. And (BD) is also equiangular with (GF). And for equal and equiangular parallelograms, the sides about the equal an- gles are reciprocally proportional [Prop. 6.14]. Thus, pro- portionally, as BC is to EG, so EF (is) to CD. And, also, as the (square) on BC is to the (square) on EG, so the (square) on EF (is) to the (square) on CD [Prop. 6.22]. And the (square) on CB is commensurable with the (square) on EG. For they are each rational. Thus, the (square) on EF is also commensurable with the (square) on CD [Prop. 10.11]. And the (square) on EF is ratio- nal. Thus, the (square) on CD is also rational [Def. 10.4]. Thus, CD is rational. And since EF is incommensurable in length with EG. For they are commensurable in square only. And as EF (is) to EG, so the (square) on EF (is) to the (rectangle contained) by FE and EG [see previ- ous lemma]. The (square) on EF [is] thus incommen- surable with the (rectangle contained) by FE and EG [Prop. 10.11]. But, the (square) on CD is commensu- rable with the (square) on EF. For they are rational in square. And the (rectangle contained) by DC and CB is commensurable with the (rectangle contained) by FE and EG. For they are (both) equal to the (square) on A. Thus, the (square) on CD is also incommensurable with the (rectangle contained) by DC and CB [Prop. 10.13]. And as the (square) on CD (is) to the (rectangle con- tained) by DC and CB, so DC is to CB [see previous lemma]. Thus, DC is incommensurable in length with CB [Prop. 10.11]. Thus, CD is rational, and incommen- surable in length with CB. (Which is) the very thing it was required to show.
 
-But AC is the side of the square equal to HD; therefore AC is irrational.
+## Proposition 23
 
-And let it be called the side of the sum of two medial areas. Q. E. D.
+A (straight-line) commensurable with a medial (straight- line) is medial.
+Let A be a medial (straight-line), and let B be com- mensurable with A. I say that B is also a medial (staight- line).
+Let the rational (straight-line) CD be set out, and let the rectangular area CE, equal to the (square) on A, have been applied to CD, producing ED as width. ED is thus rational, and incommensurable in length with CD [Prop. 10.22]. And let the rectangular area CF, equal to the (square) on B, have been applied to CD, produc- ing DF as width. Therefore, since A is commensurable with B, the (square) on A is also commensurable with the (square) on B. But, EC is equal to the (square) on A, and CF is equal to the (square) on B. Thus, EC is com- mensurable with CF. And as EC is to CF, so ED (is) to DF [Prop. 6.1]. Thus, ED is commensurable in length with DF [Prop. 10.11]. And ED is rational, and incom- mensurable in length with CD. DF is thus also ratio- nal [Def. 10.3], and incommensurable in length with DC [Prop. 10.13]. Thus, CD and DF are rational, and com- mensurable in square only. And the square-root of a (rect- angle contained) by rational (straight-lines which are) commensurable in square only is medial [Prop. 10.21]. Thus, the square-root of the (rectangle contained) by CD and DF is medial. And the square on B is equal to the (rectangle contained) by CD and DF. Thus, B is a me- dial (straight-line).
+A
+B
+E
+D F
+Corollary
+And (it is) clear, from this, that an (area) commensu-
+rable with a medial area is medial.
+me, a medial area is expressible as 1
 
-LEMMA.
-And that the aforesaid irrational straight lines are divided only in one way into the straight lines of which they are the sum and which produce the types in question, we will now prove after premising the following lemma.
-Let the straight line AB be set out, let the whole be cut into unequal parts at each of the points C, D, and let AC be supposed greater than DB; I say that the squares on AC, CB are greater than the squares on AD, DB.
+## Proposition 24
 
-For let AB be bisected at E.
+A rectangle contained by medial straight-lines (which are) commensurable in length is medial.
+For let the rectangle AC be contained by the medial straight-lines AB and BC (which are) commensurable in length. I say that AC is medial.
 
-Then, since AC is greater than DB, let DC be subtracted from each; therefore the remainder AD is greater than the remainder CB.
+For let the square AD have been described on AB. AD is thus medial [see previous footnote]. And since AB is commensurable in length with BC, and AB (is) equal to BD, DB is thus also commensurable in length with BC. Hence, DA is also commensurable with AC [Props. 6.1, 10.11]. And DA (is) medial. Thus, AC (is) also medial [Prop. 10.23 corr.]. (Which is) the very thing it was required to show.
 
-But AE is equal to EB; therefore DE is less than EC; therefore the points C, D are not equidistant from the point of bisection.
-
-And, since the rectangle AC, CB together with the square on EC is equal to the square on EB, [II. 5 ] and, further, the rectangle AD, DB together with the square on DE is equal to the square on EB, [id.] therefore the rectangle AC, CB together with the square on EC is equal to the rectangle AD, DB together with the square on DE.
-
-And of these the square on DE is less than the square on EC; therefore the remainder, the rectangle AC, CB, is also less than the rectangle AD, DB, so that twice the rectangle AC, CB is also less than twice the rectangle AD, DB.
-
-Therefore also the remainder, the sum of the squares on AC, CB, is greater than the sum of the squares on AD, DB. Q. E. D. 1
-
-1 3. and which produce the types in question. The Greek is ποιουσῶν τὰ προκείμενα εἴδη, and I have taken εἴδη to mean “types (of irrational straight lines),” though the expression might perhaps mean “satisfying the conditions in question.”
-
-PROPOSITION 42.
-A binomial straight line is divided into its terms at one point only
-.
-Let AB be a binomial straight line divided into its terms at C; therefore AC, CB are rational straight lines commensurable in square only. [X. 36 ]
-I say that AB is not divided at another point into two rational straight lines commensurable in square only.
-
-For, if possible, let it be divided at D also, so that AD, DB are also rational straight lines commensurable in square only.
-
-It is then manifest that AC is not the same with DB.
-
-For, if possible, let it be so.
-
-Then AD will also be the same as CB, and, as AC is to CB, so will BD be to DA; thus AB will be divided at D also in the same way as by the division at C: which is contrary to the hypothesis.
-
-Therefore AC is not the same with DB.
-
-For this reason also the points C, D are not equidistant from the point of bisection.
-
-Therefore that by which the squares on AC, CB differ from the squares on AD, DB is also that by which twice the rectangle AD, DB differs from twice the rectangle AC, CB, because both the squares on AC, CB together with twice the rectangle AC, CB, and the squares on AD, DB together with twice the rectangle AD, DB, are equal to the square on AB. [II. 4 ]
-
-But the squares on AC, CB differ from the squares on AD, DB by a rational area, for both are rational; therefore twice the rectangle AD, DB also differs from twice the rectangle AC, CB by a rational area, though they are medial [X. 21 ]: which is absurd, for a medial area does not exceed a medial by a rational area. [x. 26 ]
-
-Therefore a binomial straight line is not divided at different points; therefore it is divided at one point only. Q. E. D.
 

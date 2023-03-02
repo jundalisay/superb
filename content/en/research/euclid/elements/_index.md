@@ -4,5 +4,5 @@ title: "Elements of Geometry"
 # date: 2022-07-24
 weight: 2
 description: Euclid's Elements of Geometry
-image: /covers/euclid.jpg
+image: /covers/elements.jpg
 ---

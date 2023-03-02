@@ -1,9 +1,9 @@
 ---
-heading: "Part 2a"
+heading: "Part 2"
 title: History
 weight: 6
 description: "Civil history is of 3 kinds, similar to 3 kinds of pictures or images"
-image: "/covers/learning.jpg"
+image: "/covers/learning.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---

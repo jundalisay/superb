@@ -3,7 +3,7 @@ heading: "Part 11"
 title: The human knowledge which concerns the mind
 weight: 24
 description: "The human knowledge which concerns the mind has 2 parts"
-image: "/covers/learning.jpg"
+image: "/covers/learning.png"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---
