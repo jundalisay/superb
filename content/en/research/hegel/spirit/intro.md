@@ -1,7 +1,7 @@
 ---
 title: Introduction
 description: The subject of philosophy is the actual knowledge of what truly is.
-image: /covers/phenom.jpg
+image: /covers/phenom.png
 author: Hegel
 icon: /avatars/hegel.png
 weight: 1

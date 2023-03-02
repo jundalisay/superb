@@ -2,7 +2,7 @@
 heading: "Section 2b"
 title: "The Contradictoriness of the Perception of 'Things'"
 description: I am aware of the 'thing' as a one and have to keep it fixed in this true character as 'one'
-image: /covers/phenom.jpg
+image: /covers/phenom.png
 author: Hegel
 icon: /avatars/hegel.png
 weight: 10

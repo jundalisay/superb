@@ -1,8 +1,8 @@
 ---
-heading: Part 5
-title: "Squares"
-linkTitle: Part 5
-weight: 12
+heading: Part 12
+title: "Bimedials"
+linkTitle: Part 12
+weight: 26
 description: Commensurable are magnitudes measured by the same measure
 author: "Euclid"
 image: /covers/elements.jpg

@@ -2,9 +2,9 @@
 heading: "Section 7"
 title: "Religion"
 description: The subject of philosophy is the actual knowledge of what truly is.
-image: /covers/phenom.jpg
+image: /covers/phenom.png
 author: Hegel
-weight: 1
+weight: 14
 ---
 
 

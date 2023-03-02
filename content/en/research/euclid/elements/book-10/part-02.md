@@ -1,7 +1,7 @@
 ---
 heading: Part 2
 title: "Incommensurable magnitudes"
-linkTitle: Part 
+linkTitle: Part 2
 weight: 6
 description: Commensurable are magnitudes measured by the same measure
 author: "Euclid"

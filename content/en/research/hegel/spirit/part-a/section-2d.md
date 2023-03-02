@@ -2,7 +2,7 @@
 heading: "Part A: Consciousness"
 title: "Force and the Understanding: The World of Appearance and the Supersensible World"
 description: The subject of philosophy is the actual knowledge of what truly is.
-image: /covers/phenom.jpg
+image: /covers/phenom.png
 author: Hegel
 icon: /avatars/hegel.png
 weight: 14
@@ -25,9 +25,26 @@ We (who are analysing experience) found this object arise through the process of
 It is, consequently, our business in the first instance to step into its place and be the notion, which works up into shape what is contained in the result. With this complete formation of the object, which is presented to consciousness as a bare existent fact (ein Seyendes), mere implicit awareness then first becomes to itself conceptual consciousness, conscious comprehension.
 
 
-{{< s v='134' >}} The result arrived at was the unconditioned universal, in the first instance in the negative and abstract sense that consciousness negated its one-sided notions and abstracted them: it surrendered them. This result, however, has inherently a positive significance; it has established the unity of existence-for-self, and existence-for-another; in other words, absolute opposites are immediately posited as one and the same reality. At first this seems to affect merely the formal relation of the moments to one another. But to be for-self and to be for-another constitutes the content itself as well, because the opposition, looked at truly, can have no other nature than what has come about in the result – viz. that the content, taken in perception for truth, belongs, in point of fact, solely to the form, and is dissipated into its unity. This content is at the same time universal; there can be no other content which by its peculiar constitution would refuse to return into this unconditioned universality. Such a content would be some specific way or other of being for-itself and taking up a relation to something else. But to be in general for-self and to stand in relation to something else constitutes the very nature and meaning of that whose truth lies in being unconditionally universal; and the result is through and through universal.
+{{< s v='134' >}}
+
+The result arrived at was the unconditioned universal, in the first instance in the negative and abstract sense that consciousness negated its one-sided notions and abstracted them: it surrendered them.
+
+This result, however, has inherently a positive significance; it has established the unity of existence-for-self, and existence-for-another; in other words, absolute opposites are immediately posited as one and the same reality. 
+
+At first this seems to affect merely the formal relation of the moments to one another. But to be for-self and to be for-another constitutes the content itself as well, because the opposition, looked at truly, can have no other nature than what has come about in the result – viz. that the content, taken in perception for truth, belongs, in point of fact, solely to the form, and is dissipated into its unity.
+
+This content is at the same time universal; there can be no other content which by its peculiar constitution would refuse to return into this unconditioned universality. Such a content would be some specific way or other of being for-itself and taking up a relation to something else. But to be in general for-self and to stand in relation to something else constitutes the very nature and meaning of that whose truth lies in being unconditionally universal; and the result is through and through universal.
 
 <!-- Φ 135.  -->
 
-Since, however, this unconditioned universal is an object for consciousness, the distinction of form and content makes its appearance within it: and, in the shape of content, the moments have the aspect in which they were first presented – that of being on one side a universal medium of many substantial elements, and, on the other, a unit reflected into self, where their substantial independence is overthrown and done away with. The former dissolves the independence of the thing, is the condition of passivity which consists in being something for something else; the latter is its individual subsistence, its being something on its own account (für sich). We have to see what shape these moments take in the unconditioned universal which is their essential nature. It is obvious at the outset that by existing only in this universal they do not at all lie any longer apart from one another, but rather are in themselves essentially self-cancelling aspects, and what is established is only their transition into one another.
+
+{{< s v='135' >}}
+
+Since, however, this unconditioned universal is an object for consciousness, the distinction of form and content makes its appearance within it. 
+
+In the shape of content, the moments have the aspect in which they were first presented – that of being on one side a universal medium of many substantial elements, and, on the other, a unit reflected into self, where their substantial independence is overthrown and done away with. 
+
+The former dissolves the independence of the thing, is the condition of passivity which consists in being something for something else; the latter is its individual subsistence, its being something on its own account (für sich). 
+
+We have to see what shape these moments take in the unconditioned universal which is their essential nature. It is obvious at the outset that by existing only in this universal they do not at all lie any longer apart from one another, but rather are in themselves essentially self-cancelling aspects, and what is established is only their transition into one another.
 

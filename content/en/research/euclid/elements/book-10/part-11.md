@@ -1,8 +1,8 @@
 ---
-heading: Proposition 32
-title: "Propositions"
-linkTitle: Proposition 1
-weight: 4
+heading: Part 11
+title: "More Medials"
+linkTitle: Part 11
+weight: 24
 description: Commensurable are magnitudes measured by the same measure
 author: "Euclid"
 image: /covers/elements.jpg

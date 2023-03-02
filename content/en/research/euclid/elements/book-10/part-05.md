@@ -1,6 +1,6 @@
 ---
 heading: Part 5
-title: "Suares"
+title: "Proportion"
 linkTitle: Part 5
 weight: 12
 description: Commensurable are magnitudes measured by the same measure
@@ -28,7 +28,10 @@ Let the semi-circle ADB have been described on AB. And let AD, equal to C, have 
 And, similarly, the square-root of (the sum of the squares on) two given straight-lines is also found likeso.
 Let AD and DB be the two given straight-lines. And let it be necessary to find the square-root of (the sum of the squares on) them. For let them have been laid down such as to encompass a right-angle-(namely), that (angle encompassed) by AD and DB. And let AB have been joined. (It is) again clear that AB is the square-root of (the sum of the squares on) AD and DB [Prop. 1.47]. (Which is) the very thing it was required to show.
 a being greater than 8, to find a straight-line of length such that
-Proposition 14
+
+
+## Proposition 14
+
 If four straight-lines are proportional, and the square on the first is greater than (the square on) the sec ond by the (square) on (some straight-line) commen- surable [in length] with the first, then the square on the third will also be greater than (the square on) the fourth by the (square) on (some straight-line) commen- surable [in length] with the third. And if the square on the first is greater than (the square on) the second by the (square) on (some straight-line) incommensurable [in length] with the first, then the square on the third will also be greater than (the square on) the fourth by the (square) on (some straight-line) incommensurable [in length] with the third.
 Let A, B, C, D be four proportional straight-lines, (such that) as A (is) to B, so C (is) to D. And let the square on A be greater than (the square on) B by the (square) on E, and let the square on C be greater than (the square on) D by the (square) on F. I say that A is either commensurable (in length) with E, and C is also commensurable with F, or A is incommensurable (in length) with E, and C is also incommensurable with
 F.

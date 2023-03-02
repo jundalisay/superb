@@ -2,7 +2,7 @@
 heading: "Section 2c"
 title: "The Transition to Unconditioned Universality and the sphere of Understanding"
 description: The subject of philosophy is the actual knowledge of what truly is.
-image: /covers/phenom.jpg
+image: /covers/phenom.png
 author: Hegel
 icon: /avatars/hegel.png
 weight: 12

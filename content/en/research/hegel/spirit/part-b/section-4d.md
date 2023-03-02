@@ -2,7 +2,7 @@
 heading: "Section 4"
 title: "Scepticism"
 description: The subject of philosophy is the actual knowledge of what truly is.
-image: /covers/phenom.jpg
+image: /covers/phenom.png
 author: Hegel
 weight: 10
 ---

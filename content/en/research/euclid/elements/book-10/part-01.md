@@ -1,7 +1,7 @@
 ---
-heading: Proposition 1
+heading: Part 1
 title: "Definitions"
-linkTitle: Proposition 1
+linkTitle: Part 1
 weight: 4
 description: Commensurable are magnitudes measured by the same measure
 author: "Euclid"

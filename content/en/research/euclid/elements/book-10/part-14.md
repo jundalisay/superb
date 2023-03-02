@@ -1,7 +1,8 @@
 ---
-heading: Proposition 39
-title: "Propositions"
-weight: 4
+heading: Part 14
+title: "Majors"
+linkTitle: Part 14
+weight: 30
 description: Commensurable are magnitudes measured by the same measure
 author: "Euclid"
 image: /covers/elements.jpg
@@ -17,9 +18,11 @@ For, since the rectangle AB, BC is medial, twice the rectangle AB, BC is also me
 
 But the sum of the squares on AB, BC is rational; therefore twice the rectangle AB, BC is incommensurable with the sum of the squares on AB, BC, so that the squares on AB, BC together with twice the rectangle AB, BC that is, the square on AC, is also incommensurable with the sum of the squares on AB, BC; [X. 16 ] therefore the square on AC is irrational, so that AC is also irrational. [X. Def. 4 ]
 
-And let it be called major. Q. E. D.
+let it be called major. Q. E. D.
 
-PROPOSITION 40.
+
+## PROPOSITION 40
+
 If two straight lines incommensurable in square which make the sum of the squares on them medial, but the rectangle contained by them rational, be added together, the whole straight line is irrational; and let it be called the side of a rational plus a medial area.
 For let two straight lines AB, BC incommensurable in square, and fulfilling the given conditions [X. 34 ], be added together; I say that AC is irrational.
 

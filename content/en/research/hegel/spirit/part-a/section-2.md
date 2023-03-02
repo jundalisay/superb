@@ -2,7 +2,7 @@
 heading: "Section 2"
 title: "Perception Or Things and their Deceptiveness"
 description: Immediate certainty does not make the truth its own, for its truth is something universal, whereas certainty wants to deal with the This.
-image: /covers/phenom.jpg
+image: /covers/phenom.png
 author: Hegel
 icon: /avatars/hegel.png
 weight: 10

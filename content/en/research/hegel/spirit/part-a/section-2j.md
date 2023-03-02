@@ -2,7 +2,7 @@
 heading: "Section 2f"
 title: "The Inner Realm"
 description: This true being of things does not exist immediately for consciousness.
-image: /covers/phenom.jpg
+image: /covers/phenom.png
 author: Hegel
 icon: /avatars/hegel.png
 weight: 18
@@ -30,16 +30,19 @@ This inner nature is therefore for it an extreme placed over against it. But it 
 
 <!-- Φ 144. -->
 
+{{< s v='144' >}}
+
 Within this inner truth, this absolute universal which has got rid of the opposition between universal and particular, and become the object of understanding, is a supersensible world which henceforth opens up as the true world, lying beyond the sensuous world which is the world of appearance. 
 
 Away remote from the changing vanishing present (Diesseits) lies the permanent beyond (Jenseits): an immanent inherent reality (ein Ansich), which is the first and therefore imperfect manifestation of Reason, i.e. it is merely the pure element where the truth finds its abode and its essential being.
 
 
-<!-- Φ 145.  -->
+{{< s v='145' >}}
 
 Our object henceforward has thus the form of a syllogistic inference, whose extremes are the inner being of things and understanding, and its middle term the sphere of appearance. The course of this inferential process, however, furnishes the further characterization of what understanding detects in the. inner world by the aid of the middle term; and gives rise to the experience understanding goes through regarding this relation of the terms when joined and united together.
 
-<!-- Φ 146.  -->
+
+{{< s v='146' >}}
 
 The inner world is so far for consciousness a bare and simple beyond, because consciousness does not as yet find itself in it. It is empty, for it is the nothingness of appearance, and positively the naked universal.
 
@@ -48,9 +51,18 @@ This type of inwardness suits those who say that the inner being of things canno
 
 ### The Supersensible as an Appearance
 
-The result is, of course, the same if you place a blind man amid the wealth of the supersensible world (if it has a wealth, whether this be a content peculiarly its own, or whether consciousness itself be this content), and if you place one with sight in absolute darkness, or, if you like, in pure light, supposing the supersensible world to be this. The seeing man sees in that pure light as little as in absolute darkness, and just as much as the blind man in the ample wealth which lay before him. If there were nothing more to be done with the inner sphere and with our being bound up along with it by means of the world of appearance, then there would be nothing left but to stop at the phenomenal world, i.e. take something for truth about which we know that it is not true. Or in order that there may be something in this empty void – which, while it originally came about as a state devoid of objective, things, has, however, since it is emptiness pure and simple, to be taken to be also devoid of all mental relations and distinctions of consciousness qua consciousness – in order that in this complete vacuity, which is even called the holy of holies, the inner sanctuary, there may yet be something, we should be driven to fill it up with dreamings, appearances, produced by consciousness itself. It would have to be content with being treated so badly, for it would not deserve anything better, since even dreams are something better than its own barren emptiness.
+The result is, of course, the same if you place a blind man amid the wealth of the supersensible world (if it has a wealth, whether this be a content peculiarly its own, or whether consciousness itself be this content), and if you place one with sight in absolute darkness, or, if you like, in pure light, supposing the supersensible world to be this.
 
-Φ 147. The inner world, or the supersensible beyond, has, however, arisen: it comes to us out of the sphere of appearance, and the latter is its mediating agency: in other words, appearance is its essential nature and, in point of fact, its filling. The supersensible is the established truth of the sensible and perceptual. The truth of the sensible and the perceptual lies, however, in being appearance. The supersensible is then appearance qua appearance. We distort the proper meaning of this, if we take it to mean that the supersensible is therefore the sensible world, or the world as it is for immediate sense-certainty, and perception. For, on the contrary, appearance is just not the world of sense-knowledge and perception as positively being, but this world as superseded or established in truth as an inner world. It is often said that the supersensible is not appearance; but by appearance is thereby meant not appearance, but rather the sensible world taken as itself real actuality.
+The seeing man sees in that pure light as little as in absolute darkness, and just as much as the blind man in the ample wealth which lay before him. 
+
+If there were nothing more to be done with the inner sphere and with our being bound up along with it by means of the world of appearance, then there would be nothing left but to stop at the phenomenal world, i.e. take something for truth about which we know that it is not true.
+
+Or in order that there may be something in this empty void – which, while it originally came about as a state devoid of objective, things, has, however, since it is emptiness pure and simple, to be taken to be also devoid of all mental relations and distinctions of consciousness qua consciousness – in order that in this complete vacuity, which is even called the holy of holies, the inner sanctuary, there may yet be something, we should be driven to fill it up with dreamings, appearances, produced by consciousness itself. 
+
+It would have to be content with being treated so badly, for it would not deserve anything better, since even dreams are something better than its own barren emptiness.
+
+
+{{< s v='147' >}} The inner world, or the supersensible beyond, has, however, arisen: it comes to us out of the sphere of appearance, and the latter is its mediating agency: in other words, appearance is its essential nature and, in point of fact, its filling. The supersensible is the established truth of the sensible and perceptual. The truth of the sensible and the perceptual lies, however, in being appearance. The supersensible is then appearance qua appearance. We distort the proper meaning of this, if we take it to mean that the supersensible is therefore the sensible world, or the world as it is for immediate sense-certainty, and perception. For, on the contrary, appearance is just not the world of sense-knowledge and perception as positively being, but this world as superseded or established in truth as an inner world. It is often said that the supersensible is not appearance; but by appearance is thereby meant not appearance, but rather the sensible world taken as itself real actuality.
 
 Φ 148. Understanding, which is our object here, finds itself in this position, that, for it, the inner world has come about to begin with, only as the implicit inherent being, universal and still without a filling. The play of forces has simply and solely this negative significance of not being something per se; and its only positive significance is that of being the mediating agency, but outside understanding. The relation of understanding to the inner world through mediation is, however, its own process, by which the inner world will be found to receive fullness of content.
 

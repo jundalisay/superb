@@ -1,8 +1,8 @@
 ---
-heading: Propositions 2-
+heading: Part 7
 title: "Propositions"
-linkTitle: Propositions 2-
-weight: 4
+linkTitle: Part 7
+weight: 16
 description: Commensurable are magnitudes measured by the same measure
 author: "Euclid"
 image: /covers/elements.jpg

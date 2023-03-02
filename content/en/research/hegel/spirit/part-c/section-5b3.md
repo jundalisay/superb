@@ -1,10 +1,10 @@
 ---
-heading: "Section 2b"
+heading: "Section 5b3"
 title: "Observation of Organic Nature"
 description: The subject of philosophy is the actual knowledge of what truly is.
-image: /covers/phenom.jpg
+image: /covers/phenom.png
 author: Hegel
-weight: 1
+weight: 10
 ---
 
 
@@ -12,7 +12,9 @@ weight: 1
 
 Such an object which sustains the procedure in the simple activity of the notion is an organism.
 
-Organic existence is this absolutely fluid condition wherein determinateness, which would only put it in relation to an other, is dissolved. Inorganic things involve determinateness in their very essence; and on that account a thing realizes the completeness of the moments of the notion only along with another thing, and hence gets lost when it enters the dialectic movement. In the case of an organic being, on the other hand, all determinate characteristics, by means of “which it is palpable to another, are held under the control of the simple organic unity; none of them comes forward as essential and capable of detaching itself from the rest and relating itself to an other being. What is organic, therefore, preserves itself in its very relation.
+Organic existence is this absolutely fluid condition wherein determinateness, which would only put it in relation to an other, is dissolved. Inorganic things involve determinateness in their very essence; and on that account a thing realizes the completeness of the moments of the notion only along with another thing, and hence gets lost when it enters the dialectic movement. 
+
+In the case of an organic being, on the other hand, all determinate characteristics, by means of “which it is palpable to another, are held under the control of the simple organic unity; none of them comes forward as essential and capable of detaching itself from the rest and relating itself to an other being. What is organic, therefore, preserves itself in its very relation.
 
 
 {{< s v='255' >}} The aspects of law on which the instinct of reason directs its observation here are, as we see from the above, in the first instance organic nature and inorganic nature in their relation to one another. The latter means for organic nature just the free play-a freedom opposed to the simple notion of organic nature — loosely connected characteristics in which individuated nature is at once dissolved, and out of the continuity of which the individuated unit of nature at the same time breaks away and exists separately. 

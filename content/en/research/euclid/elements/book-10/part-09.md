@@ -1,8 +1,8 @@
 ---
-heading: Propositions 29-
-title: "Definitions"
-linkTitle: Propositions 29-
-weight: 4
+heading: Part 9
+title: "Rational Lines"
+linkTitle: Part 9
+weight: 20
 description: Commensurable are magnitudes measured by the same measure
 author: "Euclid"
 image: /covers/elements.jpg

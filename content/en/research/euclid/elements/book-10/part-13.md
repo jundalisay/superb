@@ -1,8 +1,8 @@
 ---
-heading: Proposition 35
-title: "Propositions"
-linkTitle: Proposition 1
-weight: 4
+heading: Part 13
+title: "Binomials"
+linkTitle: Part 13
+weight: 28
 description: Commensurable are magnitudes measured by the same measure
 author: "Euclid"
 image: /covers/elements.jpg
@@ -46,7 +46,8 @@ with the squares on AB, BC. [X. 13 ]
 And, componendo, twice the rectangle AB, BC together with the squares on AB, BC, that is, the square on AC [II. 4 ], is incommensurable with the sum of the squares on AB, BC. [X. 16 ]
 
 But the sum of the squares on AB, BC is rational;
-therefore the square on AC is irrational, so that AC is also irrational. [X. Def. 4 ]
+
+Therefore, the square on AC is irrational, so that AC is also irrational. [X. Def. 4 ]
 
 And let it be called binomial.
 
