@@ -18,6 +18,8 @@ The use of mathematics in Natural Philosophy and Politics most of all concerns t
 It furnishes everything that is important for the contemplation of nature. It declares the most splendid order of the ratios, according to which the whole of this universe has been constructed.
 
 Timaeus says that the analogy of the proportions connects together everything in the world. It restores the friendship between things which are in conflict, and relations and mutual affection between those which are widely separated.
+{{< /q >}}
+
 
 {{< q >}}
 Hence it is also possible to hunt out by logical thinking the appropriate pattern of angles.

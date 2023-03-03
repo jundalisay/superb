@@ -1,7 +1,7 @@
 ---
 heading: Chapter 1
 title: "The Essence of the Harmonic Proportions, Both Sensible and Intelligible"
-description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+description: "Being on the point of examining the essence of the harmonies, I find myself in doubt whether it will be clearer"
 image: /covers/harmony.jpg
 weight: 6
 author: Johannes Kepler
@@ -9,30 +9,19 @@ icon: /icons/kepler.png
 ---
 
 
-Being on the point of examining the essence of the harmonies, I find
-myself in doubt whether it will be clearer 
+Being on the point of examining the essence of the harmonies, I find myself in doubt whether it will be clearer 
 
-Is it better to seek the opinions of the ancients first on and then to compare them with mine, or to start
-by expounding my own opinion. 
+Is it better to seek the opinions of the ancients first on and then to compare them with mine, or to start by expounding my own opinion. 
 
 The former method in philosophy is accepted by everyone, and is frequently recommended by Aristotle:
+
 the latter seems more suitable for the matter in hand.
 
-For few have attempted to examine the nature of the harmonies as a class; and if
-anything has been said on the substance of the mathematical types
-and classes, whatever can be applied to the harmonies as a class must
-necessarily in the philosophy of the Gentiles be full of obscurity, and
-on that account the mind of the reader must be tossed with doubt
-between love for such pretty theories and suspicion of falsehood. In
-the company of Christians, and for anyone who embraces with a firm
-faith the sacrosanct mystery of the Trinity and the origin of all things
-in the Mosaic story, the heads of the examination can both be ex­
-pounded more clearly, and find the minds of readers more inclined
-to believe them.
+For few have attempted to examine the nature of the harmonies as a class; and if anything has been said on the substance of the mathematical types and classes, whatever can be applied to the harmonies as a class must necessarily in the philosophy of the Gentiles be full of obscurity, and on that account the mind of the reader must be tossed with doubt between love for such pretty theories and suspicion of falsehood. 
 
-Therefore, to organize the procedure for stating them, we shall have to start with the classification. For sensible harmony,
-or things which are analogous to it,is one thing, harmony which is
-apart from and purified of sensible things is another. 
+In the company of Christians, and for anyone who embraces with a firm faith the sacrosanct mystery of the Trinity and the origin of all things in the Mosaic story, the heads of the examination can both be expounded more clearly, and find the minds of readers more inclined to believe them.
+
+Therefore, to organize the procedure for stating them, we shall have to start with the classification. For sensible harmony, or things which are analogous to it,is one thing, harmony which is apart from and purified of sensible things is another. 
 
 The former are many, both in respect of their subjects, which are different in kind, and individually; but genuine harmony which is apart from sensible subjects is one and the same in whatever kind. For instance, the harmony which arises from double proportion is one and the same kind. 
 
@@ -62,8 +51,7 @@ Therefore, sounds are a harmony in virtue of something which is an accident, ina
 subject to it, and does not exist separately, and its absence does not
 involve the dissolution of the things subject to it.
 
-Second, just as quantity is universally inseparable from the bodies to which it belongs, but can quite well be increased and diminished along with the bodies themselves, and yet is an accident; in the same way also the actual order among sounds, to which we have made harmony subject as to its category, cannot be taken away from sounds which are more than one in number and differentiated from each other by the quantity of their height and depth in pitch. For either they will cease to be more than one, or if they are more than one, there will be an order among them
-in respect of excess and deficiency— a changeable order indeed, if one of the things which are related by being subject to it changes. 
+Second, just as quantity is universally inseparable from the bodies to which it belongs, but can quite well be increased and diminished along with the bodies themselves, and yet is an accident; in the same way also the actual order among sounds, to which we have made harmony subject as to its category, cannot be taken away from sounds which are more than one in number and differentiated from each other by the quantity of their height and depth in pitch. For either they will cease to be more than one, or if they are more than one, there will be an order among them in respect of excess and deficiency— a changeable order indeed, if one of the things which are related by being subject to it changes. 
 
 Therefore, order goes hand in hand with quantities, and in the same species as number. 
 
@@ -71,17 +59,9 @@ Third, just as number is, it is defined as being a multiplicity assembled from u
 
 Thus the same philosopher says elsewhere that if the soul which counts is taken away, all number is taken away, but not the individual units. 
 
-Hence number is found in many things themselves materially, but is
-nothing apart from them, unless a mind is present to count. For only
-then is number apart from things themselves, and abstracted from
-things, something different from them, that is to say it is the concep- tion in the mind of the plurality of indivisible things. In the same
-way also the actual order of sounds and of other sensible things with
-which we are here dealing is nothing other than several sounds, unless
-mind is present, comparing with each other sounds which are differ­
-ent in pitch; and in general every relation is nothing without mind
-apart from the things which it relates, because they do not have the
-relation which they are said to have unless the presence of some mind
-is assumed, to relate one to another.
+Hence number is found in many things themselves materially, but is nothing apart from them, unless a mind is present to count. For only then is number apart from things themselves, and abstracted from things, something different from them, that is to say it is the concep- tion in the mind of the plurality of indivisible things.
+
+In the same way also the actual order of sounds and of other sensible things with which we are here dealing is nothing other than several sounds, unless mind is present, comparing with each other sounds which are different in pitch; and in general every relation is nothing without mind apart from the things which it relates, because they do not have the relation which they are said to have unless the presence of some mind is assumed, to relate one to another.
 
 Therefore, what is true in general of order and of relation is to be presumed by far the most strongly of harmony, which is based on proportion, and on the counting of parts which are equal in quantity.
 

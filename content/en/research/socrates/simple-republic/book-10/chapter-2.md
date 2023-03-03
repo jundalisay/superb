@@ -38,7 +38,7 @@ The imitative art is an inferior one who marries an inferior, and has inferior o
 Imitation imitates the actions of men, whether voluntary or involuntary. This results in a man not being in unity with himself.
 {{< /l >}}
 
-<!-- {{< r a="Glaucon" >}} Probably the same would be true of poetry.{{< /l >}} {{< l a="Socrates" >}} -->
+<!-- {{< r a="Glaucon" >}} Probably the same would be true of poetry.{{< /r >}} -->
 
 <!-- Do not rely on a probability derived from the analogy of painting. Is the faculty concerned with which poetical imitation good or bad? -->
 <!-- They then imagine that a good or bad result has ensued. They then rejoice or sorrow accordingly. But in all this variety of circumstances, is the man at ? -->

@@ -276,4 +276,4 @@ Both the Marcos and Aquino regimes did nothing or very little towards a solid in
 
 {{< me d="May 2022" >}}
 The long term measures are in [Maharlika 2050](/maharlika/economics/maharlika-2050) 
-{{< mess >}}
+{{< /me >}}

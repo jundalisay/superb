@@ -130,10 +130,11 @@ Institutions such as Bretton Woods | Debt Crises
 
 Unfortunately for the world, Smith and Hume (and even Marx in a way) said that profits naturally fall with economic development, and so keeping the idea of profit maximization at a time of low profits (or developed world) will just lead to [secular stagnation](https://en.wikipedia.org/wiki/Secular_stagnation).
 
-{{< quote ava="hume" >}}
 <p>An extensive commerce produces large stocks which reduces both interest and profits. It is always assisted, in its diminution of the one, by the proportional sinking of the other. Low profits arise from the encrease of commerce and industry, they serve in their turn to its farther encrease, by rendering the commodities cheaper, encouraging the consumption, and heightening the industry. And thus, if we consider the whole connexion of causes and effects, interest is the barometer of the state, and its lowness is a sign almost infallible of the flourishing condition of a people. Those who have asserted, that the plenty of money was the cause of low interest, seem to have taken a collateral effect for a cause.</p>
 <cite>Hume, Essays</cite>
-</div> -->
+</div>
+
+-->
 
 
 ## So how do we get rid of the bad ideas from Economics?

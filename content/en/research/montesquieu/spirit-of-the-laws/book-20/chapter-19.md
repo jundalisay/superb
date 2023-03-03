@@ -38,15 +38,15 @@ The people had no confidence in these men. The commerce declined by the perpetua
 
 
 
-## Chapter 21= The Commerce of the Nobility in a Monarchy
+## Chapter 21: The Commerce of the Nobility in a Monarchy
 
 In a monarchy, it is contrary to the spirit of commerce for the nobility to be merchants.
 
-The Emperors Honorius and Theodosius said= 
+The Emperors Honorius and Theodosius said:
 
-{{< quote >}}
+{{< q >}}
 “This would be pernicious to cities. It would remove the facility of buying and selling between the merchants and the plebeians.”
-</div>
+{{< /q >}}
 
 It is contrary to the spirit of monarchy, to admit the nobility into commerce.
 
@@ -54,7 +54,7 @@ The custom of suffering the nobility of England to trade, is one of those things
 
 
 
-## Chapter 22= A singular Reflection
+## Chapter 22: A singular Reflection
 
 Some people think that there should be laws in France to make the nobility enter commerce.
 
@@ -89,4 +89,3 @@ They take the field so as to not be reproached for not doing their.
 who, when they can no longer hope for riches, live in expectation of honours, and, when they have not obtained the latter, enjoy the consolation of having acquired glory:
 
 All these things have necessarily added to the grandeur of France which has been increasing in power for three centuries. This is due to the goodness of its laws.
-

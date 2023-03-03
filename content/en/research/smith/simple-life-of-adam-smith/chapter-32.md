@@ -20,9 +20,10 @@ But the announcement was not made on any good authority. -->
 
 But there is no evidence that he intended to publish a separate work on Montesquieu. Before March 1790, his strength seems to have been much wasted. The Earl of Buchan was in town in February and visited him. Upon leaving Smith, the Earl said= 
 
-{{< quote ava="smith" >}}
+{{< q a="smith" >}}
 “My dear Doctor, I hope to see you oftener when I come to town next February,”
-</div>
+{{< /q >}}
+
 
 But Smith squeezed his earl's hand and replied=  
 
@@ -229,28 +230,34 @@ There is a painting by T. Collopy in the National Museum of Antiquities at Edinb
 It is thought to be Adam Smith’s portrait because the title Wealth of Nations appears on the back of a book on the table in the picture.
 But Stewart very explicitly says that Smith never sat for his portrait, so it is very doubtful.
 All other likenesses of Smith are founded on those of Tassie and Kay.
-Smith was= 
-of middle height,
-full but not corpulent,
-with erect figure,
-well-set head, and
-large gray or light blue eyes.
+
+Smith was:
+- of middle height,
+- full but not corpulent,
+- with erect figure,
+- well-set head, and
+- large gray or light blue eyes.
+
 They beamed with “inexpressible benignity.”
+
 He dressed so well that nobody seems to have remarked it.
-While we hear of= 
-Hume’s black-spotted yellow coat,
-Gibbon’s flowered velvet,
-Hutton’s battered attire,
-Henry Erskine’s gray hat with the torn rim.
+
+While we hear of:
+- Hume’s black-spotted yellow coat,
+- Gibbon’s flowered velvet,
+- Hutton’s battered attire,
+- Henry Erskine’s gray hat with the torn rim.
+
 But there is no allusion to Smith’s dress for fault or merit.
  
 
 Smith’s books which went to his heir, Lord Reston, were divided. On Lord Reston’s death, they were divided between his two daughters. The economic books went to Mrs. Bannerman, the wife of the late Professor Bannerman of Edinburgh. The works on other subjects went to Mrs. Cunningham, wife of the Rev. Mr. Cunningham of Prestonpans. Both portions still exist.
 
-The former in the Library of the New College, Edinburgh, to which they have been presented by Dr. D. Douglas Bannerman of Perth; and
-The latter is with Professor Cunningham of[Pg 440] Queen’s College, Belfast, except= 
-a few which were sold in Edinburgh in 1878, and
-a section, consisting almost exclusively of Greek and Latin classics, which Professor Cunningham has presented to the library of the college of which he is a member.
+The former in the Library of the New College, Edinburgh, to which they have been presented by Dr. D. Douglas Bannerman of Perth.
+
+The latter is with Professor Cunningham of[Pg 440] Queen’s College, Belfast, except:
+- a few which were sold in Edinburgh in 1878, and
+- a section, consisting almost exclusively of Greek and Latin classics, which Professor Cunningham has presented to the library of the college of which he is a member.
 
 Among other relics of Smith that are still extant are four medallions by Tassie, which very probably hung in his library.
 They are medallions of his personal friends= 

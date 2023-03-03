@@ -42,9 +42,10 @@ the law of nations relating to all societies, there is a polity, or civil consti
 
 Gravina observes:
 
-{{< quote >}}
+{{< q >}}
 The united strength of individuals makes up the 'body politic'. The general strength may be in the hands of one person or of many.
-</div>
+{{< /q >}}
+
 
 Some think that the most natural government was that of a single person, as nature had established paternal authority, But this is wrong. If the power of a father is similar to a single government, then it follows that after the death of the father, the brothers, and the cousins after the decease of those brothers, refer to a government of many. 
 

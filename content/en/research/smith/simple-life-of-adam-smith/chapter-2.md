@@ -20,11 +20,11 @@ Dr. A. Carlyle came to Glasgow College formoved his divinity classes after he ha
 
 He says he found a spirit of inquiry and a zeal for learning abroad among Glasgow students that Edinburgh students did not have.
 
-This intellectual awakening was the result of the teaching of three professors= 
+This intellectual awakening was the result of the teaching of three professors: 
 
 > 1. Alexander Dunlop, Professor of Greek
 
-He was a man of= 
+He was a man of: 
 - fine scholarship and taste, and
 - an unusually engaging method of instruction.
 
@@ -40,17 +40,22 @@ Smith improved his Greek under Dunlop, but not so much. Dunlop spent most of his
 
 Smith then showed a marked predilection for mathematics. Dugald Stewart's father, Professor Matthew Stewart of Edinburgh, was Smith's classmate at Glasgow. Dugald Stewart heard his father reminding Smith of a "geometrical problem of considerable difficulty proposed to him as an exercise by Dr. Simson when they first met". It occupied Smith.
 
-Dr. Maclaine was Smith's classmate. He became= 
+Dr. Maclaine was Smith's classmate. He became: 
 - the embassy chaplain at the Hague,
 - the translator of Mosheim, and
 - author of several theological works.
 
 He told Dugald Stewart of Smith's fondness for math in those early days. Smith always retained the profoundest veneration for his mathematics professor, Robert Simson.
 
-His Theory of Moral Sentiments, published immediately before his death in 1790, has a high tribute to Simson's gifts and character. It illustrates his favourite proposition that men of science are much less sensitive to public criticism and much more indifferent to unpopularity or neglect than poets or painters because the excellence of their work allows easy and satisfactory demonstration, whereas the excellence of the poet or painter's work depends on uncertain judgments of taste. He points to Robert Simson as an example of this= 
+His Theory of Moral Sentiments, published immediately before his death in 1790, has a high tribute to Simson's gifts and character. It illustrates his favourite proposition that men of science are much less sensitive to public criticism and much more indifferent to unpopularity or neglect than poets or painters because the excellence of their work allows easy and satisfactory demonstration, whereas the excellence of the poet or painter's work depends on uncertain judgments of taste. He points to Robert Simson as an example of this: 
 
-{{< quote ava="smith" >}}Mathematicians may have the most perfect assurance of the truth and of the importance of their discoveries. They are frequently very indifferent about the public's reception. The two greatest mathematicians that I have been known to and are the two greatest in my time are Dr. Robert Simson of Glasgow and Dr. Matthew Stewart of Edinburgh. They never seemed to feel the slightest uneasiness from the neglect caused by the public's ignorance of their most valuable works.
-</div>
+{{< q a="smith" >}}
+Mathematicians may have the most perfect assurance of the truth and of the importance of their discoveries. 
+
+They are frequently very indifferent about the public's reception. The two greatest mathematicians that I have been known to and are the two greatest in my time are Dr. Robert Simson of Glasgow and Dr. Matthew Stewart of Edinburgh. 
+
+They never seemed to feel the slightest uneasiness from the neglect caused by the public's ignorance of their most valuable works.
+{{< /q >}}
 
 
 When Smith wrote of Simson, he had been long intimate with D'Alembert.
@@ -63,7 +68,7 @@ Smith improved his Greek under Dunlop and acquired a distinct ardour for mathema
 But Hutcheson had the most powerful and enduring influence on him in Glasgow. Smith called him "the never-to-be-forgotten Hutcheson." Smith is sometimes considered a disciple of either Hume or Quesnay, but he was really a disciple of Hutcheson.
 Hutcheson was one of the most impressive lecturers that ever spoke from an academic chair.
 
-Dugald Stewart knew many of Hutcheson's pupils and says every one of them told of the extraordinary impression of his lectures. He was the first professor in Glasgow to= 
+Dugald Stewart knew many of Hutcheson's pupils and says every one of them told of the extraordinary impression of his lectures. He was the first professor in Glasgow to: 
 - give up lecturing in Latin and
 - speak to his audience in their own tongue.
 
@@ -71,15 +76,15 @@ He spoke without notes and with the greatest freedom and animation. His eloquenc
 
 His immediate predecessor in that chair was Professor Gershom Carmichael. He was the reputed father of the Scottish Philosophy and was still a Puritan of the Puritans. He was wrapped in a gloomy Calvinism, desponding after signs that would never come.
 
-But Hutcheson belonged to a new era which= 
+But Hutcheson belonged to a new era which: 
 - had turned to the light of nature for guidance, and
-- had discovered by it the good and benevolent Deity of the 18th century which= 
+- had discovered by it the good and benevolent Deity of the 18th century which: 
   - lived only for human welfare, and
   - had a will which was not to be known from mysterious signs and providences, but from a broad consideration of the greater good of mankind—"the greatest happiness of the greatest number.
 
 Hutcheson was the original author of that famous phrase and was a curse to the exponents of the prevailing theology.
 
-In Smith's first year at Glasgow, the local Presbytery set the whole University in a ferment by prosecuting Hutcheson for teaching= 
+In Smith's first year at Glasgow, the local Presbytery set the whole University in a ferment by prosecuting Hutcheson for teaching: 
 - that the standard of moral goodness was the promotion of the happiness of others, and
 - that we could have a knowledge of good and evil without and prior to a knowledge of God.
 
@@ -87,7 +92,7 @@ In Smith's first year at Glasgow, the local Presbytery set the whole University 
 
 His students actually appeared before the Presbytery and defended their hero zealously by word and writing.
 
-Smith was only a freshman and would play no leading part in these proceedings. He certainly adopted Hutcheson's religious optimism for his own creed, either= 
+Smith was only a freshman and would play no leading part in these proceedings. He certainly adopted Hutcheson's religious optimism for his own creed, either: 
 - when he entered Hutcheson's class and listened to his lectures on natural theology, or perhaps
 - when he attended his private class on the Sundays for special theological study.
  
@@ -103,7 +108,7 @@ He founded the right of property on mankind's general sympathy.
 It reasonably expected for the occupant to enjoy unmolested the object which he had acquired or discovered.
 But most probably, his whole theory of moral sentiments was suggested by Hutcheson's lectures.
 Perhaps germs of it were suggested when he was passing through the class.
-For Hutcheson expressly asks=  Can we reduce our moral sentiments to sympathy?
+For Hutcheson expressly asks:  Can we reduce our moral sentiments to sympathy?
 Hutcheson answered no, because we often approve of the actions of people who we have no sympathy for, such as our enemies.
 Smith's added an ingenious attempt to surmount that objection by the theory of sympathy with an impartial spectator.
  
@@ -111,7 +116,7 @@ Hutcheson's name does not occur in the history of political economy. But he lect
 
 A discussion of contracts required him to examine the principles of value, interest, currency, etc.
 
-These lectures were fragmentary, but they are remarkable for= 
+These lectures were fragmentary, but they are remarkable for: 
 - showing a grasp of economic questions before his time, and
 - presenting some of Smith's most characteristic positions with a clear view of their importance.
 
@@ -125,15 +130,19 @@ The French Physiocrats claim that Smith learned that doctrine in their school. H
  
 Smith was just 16 years old then. Hutcheson seems to have recognised Smith's quality and brought him under David Hume's personal notice. A letter by Hume to Hutcheson on March 4, 1740 indicates it had some difficulties. 
 
-{{< quote ava="hume" >}}My bookseller has sent a copy of my book to Mr. Smith. I hope he has received it as well as your letter. I have not yet heard what he has done with the abstract. Perhaps you have. I have got it printed in London, but not in the Works of the Learned, there having been an article with regard to my book somewhat abusive before I sent up the abstract.</div>
+{{< q a="hume" >}}
+My bookseller has sent a copy of my book to Mr. Smith. I hope he has received it as well as your letter. I have not yet heard what he has done with the abstract. Perhaps you have. I have got it printed in London, but not in the Works of the Learned, there having been an article with regard to my book somewhat abusive before I sent up the abstract.
+{{< /q >}}
+
+
 
 Mr. Burton thinks that the "Mr. Smith" mentioned in it is Adam Smith. If so, then he must have been away from Glasgow at that time because Hutcheson was communicating with him by letter. But that could be explained by the circumstance that he had been appointed to one of the Snell exhibitions at Balliol College, Oxford. He might have gone home to Kirkcaldy to prepare for residence at the English University, though he did not actually set out for it until June.
 
-<!--  If so, it means= 
+<!--  If so, it means: 
 - that he wrote an abstract of Hume's recently published Treatise of Human Nature, and that his abstract was to be sent to some periodical for publication, and
-- that Hume was so pleased with it that he presented its young author with a copy of his own work=  -->
+- that Hume was so pleased with it that he presented its young author with a copy of his own work:  -->
 
-These Snell exhibitions were originally founded by an old Glasgow student, a strong Episcopalian, to educate Scotchmen for the service of the Episcopal Church in Scotland. They were naturally the prize of the best student of Glasgow College when they fell vacant. They have been held for two centuries by many distinguished men, including= 
+These Snell exhibitions were originally founded by an old Glasgow student, a strong Episcopalian, to educate Scotchmen for the service of the Episcopal Church in Scotland. They were naturally the prize of the best student of Glasgow College when they fell vacant. They have been held for two centuries by many distinguished men, including: 
 - Sir William Hamilton and Lockhart,
 - Archbishop Tait and 
 - Lord President Inglis
@@ -143,14 +152,14 @@ The founder decreed that the holders were bound under penalty of £500 "to enter
 Smith must have accepted the Snell exhibition with a view to the Episcopal ministry.
 But the founder's original purpose was frustrated by the Revolution settlement. It made "the Church in Scotland" Presbyterian and didn't leave any Episcopal remnant to serve, which prevented the enforcement of the original condition. The last attempt to impose it was made during Smith's own tenure of the exhibition, and failed.
 
-In 1744 the Vice-Chancellor and the heads of Colleges at Oxford raised a process in the Court of Chancery for compelling the Snell exhibitioners "to= 
+In 1744 the Vice-Chancellor and the heads of Colleges at Oxford raised a process in the Court of Chancery for compelling the Snell exhibitioners "to: 
 submit and conform to the doctrines and discipline of the Church of England, and
 enter into holy orders when capable by the canons of the Church of England"
 But the Court of Chancery refused to interfere.
 The exhibitioners were left entirely free to choose their sect, their profession, and their country, as seemed best to themselves.
 In Smith's time, the Snell foundation yielded five exhibitions of £40 a year each, tenable for 11 years.
  
-The other names of Smith's friends among his fellowadam-students at Glasgow that have been preserved were= 
+The other names of Smith's friends among his fellowadam-students at Glasgow that have been preserved were: 
 Professor Matthew Stewart, and
 
 Smith considered him to be the greatest mathematician of his time, after Robert Simson.
@@ -164,8 +173,9 @@ Dr. Watson was the historian of Philip II.
 Thompson, Dr. Watson, and Dr. Maclaine, seem all to have been writing the history of the Peace of Utrecht.
 Smith knew all three.
 
-He said= 
-Watson was much afraid of Maclaine.
-Maclaine was just as much afraid of Watson.
+He said: 
+- Watson was much afraid of Maclaine.
+- Maclaine was just as much afraid of Watson.
+
 But he could have told them that they should fear Thompson the most.
 

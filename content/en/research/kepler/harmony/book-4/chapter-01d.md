@@ -3,13 +3,15 @@ heading: Chapter 1
 title: "The Essence of the Harmonic Proportions, Both Sensible and Intelligible"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg
-weight: 6
+weight: 12
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---
 
 
-On numbers, I should not contest the view that Aristotle rightly refuted the Pythagoreans; for the numbers are at second remove, in a sense, or even at third, and fourth, and beyond any limit I can state, and they have in them nothing which they have not got either from quantities, or from other true and real entities, or even from various products of Mind. Thus I do not attribute anything either to the Platonic numbers, which are attributed to the change in Republics, which Bodin adopts in his Historical Method, nor to those called Climacteric, that is on their own account, except insofar as they num-
+On numbers, I should not contest the view that Aristotle rightly refuted the Pythagoreans; for the numbers are at second remove, in a sense, or even at third, and fourth, and beyond any limit I can state, and they have in them nothing which they have not got either from quantities, or from other true and real entities, or even from various products of Mind.
+
+Thus, I do not attribute anything either to the Platonic numbers, which are attributed to the change in Republics, which Bodin adopts in his Historical Method, nor to those called Climacteric, that is on their own account, except insofar as they num-
 revolutions and configurations of the stars, as I indicated not long ago openly enough in the prolegomena to the Ephemerides.
 
 But as far as continuous quantities are concerned, I entirely agree with Proclus, though his rhetoric sweeps on like a torrent, overflowing its banks and concealing the hidden shoals and whirlpools of doubt, while his mind, full of the majesty of such great matters, struggles in the constraints of language, and his conclusion, never satisfying itself with the flood of words, oversteps the simplicity of his propositions.
@@ -40,37 +42,26 @@ harmonies.
 
 Therefore, if a part of the essence of something is within the mind, and thus in its operation or activity, that thing must be established within, that is to say the terms of the harmonies, the circle and its part.
 
-You may ask how knowledge of a thing can be possessed, when The soul has the mind has never learnt it, and perhaps cannot learn it, if it is de- knowledge of 
-^
-^
-mathematics by prived of sensation of external things? To this Proclus replies above instinct,
-in words which are commonplace in his philosophy: we today, if I am
-not mistaken, quite correctly use the term “instinct.” Indeed to the 
+You may ask how knowledge of a thing can be possessed, when The soul has the mind has never learnt it, and perhaps cannot learn it, if it is de- knowledge of mathematics by prived of sensation of external things? To this Proclus replies above instinct, in words which are commonplace in his philosophy: we today, if I am
+not mistaken, quite correctly use the term “instinct.” 
 
-human mind and to other minds quantity is known by instinct, even
-if for this purpose it is deprived of all sensation. Of itself it under­
-stands a straight line, of itself an equal distance from a given point,
-of itself it forms for itself from these an image of a circle. If so, it can
-much more readily find the construction by means of that, and so
-perform the function of the eye in seeing the diagram (if there is never­
-theless a need for one). Certainly the mind itself, if it never had the
-use of an eye at all, would demand an eye for itself for the compre­
-hension of things which are placed outside it, and would lay down
-laws for its structure which were drawn from itself (if in fact it were
-pure and sound and without hindrance, that is, if it were only what it
-Proclus says
-is). For the recognition of quantities, which is innate in the mind, dic­
-almost the same
-tates what the nature of the eye must be; and therefore, the eye has
+To the human mind and to other minds quantity is known by instinct, even if for this purpose it is deprived of all sensation. Of itself it understands a straight line, of itself an equal distance from a given point, of itself it forms for itself from these an image of a circle. If so, it can much more readily find the construction by means of that, and so
+perform the function of the eye in seeing the diagram (if there is nevertheless a need for one).
+
+Certainly the mind itself, if it never had the use of an eye at all, would demand an eye for itself for the comprehension of things which are placed outside it, and would lay down laws for its structure which were drawn from itself (if in fact it were pure and sound and without hindrance, that is, if it were only what it Proclus says
+is). For the recognition of quantities, which is innate in the mind, dictates what the nature of the eye must be; and therefore, the eye has almost the same
+
 a little after the
 been made as it is because the mind is as it is, and not the other way
 passage just
 quoted: that the
-round. And why waste words? Geometry, which before the origin of
-truth about the
+round.
+
+Why waste words? 
+
+Geometry, which before the origin of truth about the
 things was coeternal with the divine mind and is God himself(for what
-gods is adapted
-could
+gods is adapted could
 there be in God which would not be God himself?), supplied
 to mathematical
 entities, and the
@@ -78,16 +69,14 @@ God with patterns for the creation of the world, and passed over to
 Creator of the
 Man along with the image of God; and was not in fact taken in through
 whole universe
-used mathemati­
+used mathematical archetypes,
 the eyes.
-cal archetypes,
-Therefore, since quantities possess constructibility not by virtue
-coeternal with
-of the figures’ passing before the eyes, but in virtue of being clear to
-Himself, in the
-construction of
-the eyes of the mind, in virtue not so much of having been abstracted
+
+Therefore, since quantities possess constructibility not by virtue coeternal with
+of the figures’ passing before the eyes, but in virtue of being clear to Himself, in the
+construction of the eyes of the mind, in virtue not so much of having been abstracted
 the world.
+
 from sensible things but of never having been associated with them,
 therefore, we have rightly established abstract quantity as the terms
 for archetypal proportions, that is those which are constructible from
@@ -101,7 +90,9 @@ to it, and its nature can be recognized even in the narrow space of
 a point. This, I think, was what Proclus meant when he said that mathe­
 matical things existed in the soul in an uncorporeal and unlocalized
 mode.
+
 The symbolism
+
 Finally there is a chief and supreme argument, that quantities pos of divine and
 sess a certain wonderful and obviously divine organization, and there
 human things in
@@ -111,7 +102,7 @@ quantities.
 them. Of the semblance of the Holy Trinity in the spherical I have
 written in many places^^ in my Optics, in my Commentaries on Mars, and in the theory of the sphere; and I want to return to the subject here.
 
-We come, therefore, to the straight line, which by its extension from a point at the center to a single point at the surface sketches out the first rudiments of creation, and imitates the eternal begetting of the Son (represented and depicted by the departure from the center towards the infinite points of the whole surface, by infinite lines, subject
+The straight line, by its extension from a point at the center to a single point at the surface sketches out the first rudiments of creation, and imitates the eternal begetting of the Son (represented and depicted by the departure from the center towards the infinite points of the whole surface, by infinite lines, subject
 to the most perfect equality in all respects).
 
 This straight line is of course an element of a corporeal form. If this is spread out sideways, it now suggests a corporeal form, creating a plane; but a spherical shape cut by a plane gives the shape of a circle at its section, a true image of the created mind, which is in charge of ruling the body. 
@@ -120,7 +111,9 @@ It is in the same proportion to the spherical as the human mind is to the divine
 
 But to the plane, in which it is also placed, it is as the curved to the straight, which are incompatible and incommensurable. 
 
-Also the circle exists splendidly both in the plane which cuts, circumscribing the spherical shape, and in the spherical shape which is cut, by the mutual concurrence of the two, just as the mind both exists in the body, giving form to it and to its connections with the corporeal form, like a kind of irradiation shed from the divine face onto the body and drawing thence its more noble nature. Just as this is a confirmation from the harmonic proportions of the circle as the subject and the source of their terms, equally it is the strongest possible argument for abstraction, as the suggestion of the divinity of the mind exists neither in a circle of definite quantity, nor in an imperfect one, for they are material and sensible. 
+Also the circle exists splendidly both in the plane which cuts, circumscribing the spherical shape, and in the spherical shape which is cut, by the mutual concurrence of the two, just as the mind both exists in the body, giving form to it and to its connections with the corporeal form, like a kind of irradiation shed from the divine face onto the body and drawing thence its more noble nature. 
+
+Just as this is a confirmation from the harmonic proportions of the circle as the subject and the source of their terms, equally it is the strongest possible argument for abstraction, as the suggestion of the divinity of the mind exists neither in a circle of definite quantity, nor in an imperfect one, for they are material and sensible. 
 
 The main point is that the circle should be abstracted from corporeal and sensible things to the same extent as concepts of the curved, the symbol of the mind, are separated and, so to speak, abstracted from the straight, the shadow of bodies. 
 

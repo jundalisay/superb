@@ -49,13 +49,13 @@ P. 58. That in which the Sirens subsist.
 
 Proclus says:
 
-{{< quote >}}
+{{< q >}}
 “The divine Plato knew that there are three kinds of Sirens
 - the celestial, which is under the government of Jupiter
 - that which produces generation, and is under the government of Neptune
 - that which is cathartic, and is under the government of Pluto
 It is common to all these to incline all things through an harmonic motion to their ruling Gods. Hence, when the soul is in the heavens, the Sirens are desirous of uniting it to the divine life which florishes there. But it is proper that souls living in generation should sail beyond them, like the Homeric Ulysses, that they may not be allured by generation, of which the sea is an image. And when souls are in Hades, the Sirens are desirous of uniting them through intellectual conceptions to Pluto. So that Plato knew that in the kingdom of Hades there are Gods, dæmons, and souls, who dance as it were round Pluto, allured by the Sirens that dwell there.”
-</div>
+{{< /q >}}
 
 
 P. 60. That it is requisite to put the shoe on the right foot first.

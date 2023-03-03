@@ -44,6 +44,8 @@ One of them said:
 
 {{< l a="Someone" >}}
 Do not kill Joseph, but throw him into the bottom of the well; some caravan may pick him up.”
+{{< /l >}}
+
 
 {{< s v="11-16" >}} 
 
@@ -126,4 +128,3 @@ They said, “Good Allah, this is not a human, this must be a precious angel.”
 <!-- 34. Thereupon his Lord answered him, and diverted their scheming away from him. 
 
 35. Then it occurred to them, after they had seen the signs, to imprison him for a while. -->
-

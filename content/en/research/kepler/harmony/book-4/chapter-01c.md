@@ -1,14 +1,13 @@
 ---
-heading: Chapter 1
-title: "The Essence of the Harmonic Proportions, Both Sensible and Intelligible"
-description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+heading: Chapter 1c
+title: "The Pure and Secret Harmonies"
+description: "To establish them outside the soul is self-contradictory"
 image: /covers/harmony.jpg
-weight: 6
+weight: 10
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---
 
-The pure and secret harmonies
 
 
 The pure and secret harmonies are insensible to us. 
@@ -16,7 +15,9 @@ The pure and secret harmonies are insensible to us.
 
 I explained the archetypes or paradigms of sensible harmonies. If the archetypes existed outside the soul, then we would be deprived of a great argument for asserting the necessity of the soul, in order to establish the essence of harmony.
 
-But to establish them outside the soul is self-contradictory. This is because the basic elements of true and archetypal harmony, which exists its terms, without any tinge of sensible emanation, are nevertheless divided and several in number. 
+But to establish them outside the soul is self-contradictory. 
+
+This is because the basic elements of true and archetypal harmony, which exists its terms, without any tinge of sensible emanation, are nevertheless divided and several in number. 
 
 For since it is also a proportion, it therefore itself requires its pair of terms. However, these terms, as we have assumed
 in the previous Books, are the complete circle and an aliquot part or aliquot parts of it, which are constructible by division of the arc. 

@@ -1,16 +1,11 @@
+---
+title:  "Origin of the Point of Honour"
+heading:  "Chapter 20-21"
+description:  "The capitulary of Lewis the Debonnaire, allows the liberty of chusing to fight either with the sword or baston"
+author:  "Montesquieu"
+image: "/covers/spirit.jpg"
+---
 
-+++
-title=  "Origin of the Point of Honour"
-heading=  "Chapter 20-21"
-description=  "The capitulary of Lewis the Debonnaire, allows the liberty of chusing to fight either with the sword or baston"
-date=  2020-03-21
-author=  "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-19"
-linkbtext=  "Chapter 19"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-22"
-linkftext=  "Chapter 22"
-+++
 
 <!-- WE meet with inexplicable enigmas in the codes of  -->
 
@@ -19,7 +14,7 @@ The laws of the Barbarians are strange.
 The law of the Frisians allows only half a sou in composition to a person that had been beaten with a stick. Yet for ever so small a wound it allows more.
 
 By the Salic law, if a freeman gave three blows with a stick to another freeman, he paid three sous;
-if he drew blood, he was punished as if he had wounded him with steel, and he paid fifteen sous=  thus the punishment was proportioned to the greatness of the wound.
+if he drew blood, he was punished as if he had wounded him with steel, and he paid fifteen sous:  thus the punishment was proportioned to the greatness of the wound.
 
 The law of the Lombards established different compositions for one, two, three, four blows; and so on. At present, a single blow is equivalent to a hundred thousand.
 
@@ -59,13 +54,13 @@ All this was included in the affront of being beaten, and in this case the propo
 
 
 
-## Chapter 21=  A new Reflection upon the Point of Honour among the Germans
+## Chapter 21:  A new Reflection upon the Point of Honour among the Germans
 
-Tacitus says= 
+Tacitus says: 
 
-{{< quote >}}
+{{< q >}}
 “IT was a great infamy,” says , “among the Germans for a person to leave his buckler behind him in battle; for which reason many after a misfortune of this kind have destroyed themselves.”
-</div>
+{{< /q >}}
 
 
 Thus the ancient Salic law allows a composition of fifteen sous to any person that had been injuriously reproached with having left his buckler behind him.

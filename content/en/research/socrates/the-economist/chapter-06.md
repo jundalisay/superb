@@ -14,8 +14,7 @@ Your words command my entire sympathy, when you bid us endeavour to begin each w
 
 <!-- So at any rate will we endeavour to act at all times; but will you now endeavour on your side to continue the discussion of economy from the point at which you broke off, and bring it point by point to its conclusion? What you have said so far has not been thrown away on me. I seem to discern already more clearly, what sort of behaviour is necessary to anything like real living.  -->
 
-<!-- {{< l a="Socrates" >}}
-Socrates= What say you then? Shall we first survey the ground already traversed, and retrace the steps on which we were agreed, so that, if possible we may conduct the remaining portion of the argument to its issue with like unanimity? (3) (3) Lit. "try whether we can go through the remaining steps with like..."  -->
+<!-- Socrates= What say you then? Shall we first survey the ground already traversed, and retrace the steps on which we were agreed, so that, if possible we may conduct the remaining portion of the argument to its issue with like unanimity? (3) (3) Lit. "try whether we can go through the remaining steps with like..."  -->
 
 Should 2 business partners run through their accounts without dispute, so now as partners in an argument it will be no less agreeable to sum up the points under discussion, as you say, with unanimity. 
 {{< /r >}}

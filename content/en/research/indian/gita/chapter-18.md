@@ -3,7 +3,7 @@ title: "The Threeforld Kinds"
 heading: "Chapter 18 "
 weight: 36
 author: "Vyasa"
-description: ""
+description: "The very truth is abstention or Sannyas, and renunciation or Tyaga. What is the difference between the two?"
 image: "/covers/gita.jpg"
 icon: "/icons/krishna.png"
 ---
@@ -26,34 +26,31 @@ Renunciation is of threefold form:
 - Worship
 - Penance
 - Alms
+{{< /l >}}
+
+
 
 They should be gladly done. All those three are purifying waters for true souls.
 
 Yet it is higher to give up attachment, and all the fruit produced by works.
 
-This My insuperable and fixed decree.
+This is My insuperable and fixed decree.
 
-Abstaining from a work by right prescribed
-Never is meet! 
+Abstaining from a work by right prescribed never is meet! 
 
 So to abstain doth spring from "Darkness," and Delusion teacheth it.
 
-Abstaining from a work grievous to flesh,
-When one saith "'Tis unpleasing!" this is null!
+Abstaining from a work grievous to flesh, when one saith "'Tis unpleasing!" this is null!
 
-Such a person acts from "passion", not nough of gain
-Wins his Renunciation!
+Such a person acts from "passion", not nough of gain Wins his Renunciation!
 
-Abstaining from attachment to the work,
-Abstaining from rewardment in the work,
+Abstaining from attachment to the work, Abstaining from rewardment in the work,
 
 While yet one doeth it full faithfully,
 Saying, "Tis right to do!" that is "true " act
 
-And abstinence! Who doeth duties so,
-Unvexed if his work fail, if it succeed
-Unflattered, in his own heart justified,
-Quit of debates and doubts, his is "true" act:
+And abstinence! Who doeth duties so, Unvexed if his work fail, if it succeed
+Unflattered, in his own heart justified, Quit of debates and doubts, his is "true" act:
 
 For, being in the body, none may stand wholly aloof from act; yet, who abstains from profit of his acts is abstinent.
 

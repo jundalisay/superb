@@ -27,6 +27,8 @@ I usually don't have time to sit at leisure. But I promised to meet some foreign
 
 {{< l a="Socrates" >}}
 When you are not busy, where do you spend your time? What do you do?
+{{< /l >}}
+
 
 <!-- I will not conceal from you how anxious I am to learn from your lips by what conduct you have earned for yourself the title "beautiful and good." (3) It is not by spending your days indoors at home, I am sure; the whole habit of your body bears witness to a different sort of life.  -->
 

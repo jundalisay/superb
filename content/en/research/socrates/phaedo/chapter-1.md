@@ -33,7 +33,7 @@ Yes, Echecrates, I was.
 
 {{< r a="Echecrates" >}}
 What did he say in his last hours? We don't have much information because no Phliasian ever goes to Athens now.
-{{< /l >}}
+{{< /r >}}
 
 {{< l a="Phaedo" >}}
 Did you not hear of the proceedings at the trial?
@@ -41,7 +41,7 @@ Did you not hear of the proceedings at the trial?
 
 {{< r a="Echecrates" >}}
 Yes, someone told us about the trial. But we could not understand why he should have been put to death long after his trial.
-{{< /l >}}
+{{< /r >}}
 
 {{< l a="Phaedo" >}}
 There was an accident. According to Athenian tradition, Theseus went to Crete with 14 youths and saved them. They then vowed to Apollo to send a yearly mission to Delos. 
@@ -51,7 +51,7 @@ This custom still continues. The voyage to and from Delos starts when the priest
 
 {{< r a="Echecrates" >}}
 Please tell me how he died.
-{{< /l >}}
+{{< /r >}}
 
 {{< l a="Phaedo" >}}
 He died so fearlessly. His words were so noble and gracious, that to me he appeared blessed. I thought he was dying as part of a divine call, and that he was doing it happily. This is why I did not pity him. 
@@ -105,12 +105,11 @@ But Evenus is a philosopher. So he will be willing to die, but he will not take 
 
 {{< r a="Cebes" >}}
 Why should a man not to take his own life, but a philosopher should be ready to follow the dying?
-{{< /l >}}
+{{< /r >}}
 
 <!-- {{< l a="Socrates" >}}And have you, Cebes and Simmias, who are the disciples of Philolaus, never heard him speak of this?{{< /l >}}
 Yes, but his language was obscure, Socrates.
 
-{{< l a="Socrates" >}}
 My words, too, are only an echo; but there is no reason why I should not repeat what I have heard= and indeed, as I am going to another place, it is very meet for me to be thinking and talking of the nature of the pilgrimage which I am about to make. What can I do better in the interval between this and the setting of the sun?
 
 Then tell me, Socrates, why is suicide held to be unlawful? as I have certainly heard Philolaus, about whom you were just now asking, affirm when he was staying with us at Thebes= and there are others who say the same, although I have never understood what was meant by any of them.
@@ -133,15 +132,17 @@ If one of your own possessions, such as an ox killed itself without your permiss
 {{< r a="Cebes" >}}
 Yes, but how can you reconcile this seemingly true belief that God is our guardian and we his possessions, with the willingness to die which we were just now attributing to the philosopher? That the wisest of men should be willing to leave a service in which they are ruled by the gods who are the best of rulers, is not reasonable; for surely no wise man thinks that when set at liberty he can take better care of himself than the gods take of him. 
 
-A fool may perhaps think so—he may argue that he had better run away from his master, not considering that his duty is to remain to the end, and not to run away from the good, and that there would be no sense in his running away. The wise man will want to be ever with him who is better than himself. Now this, Socrates, is the reverse of what was just now said; for upon this view the wise man should sorrow and the fool rejoice at passing out of life.
-{{< /l >}}
+A fool may perhaps think so—he may argue that he had better run away from his master, not considering that his duty is to remain to the end, and not to run away from the good, and that there would be no sense in his running away. 
+
+The wise man will want to be ever with him who is better than himself. Now this, Socrates, is the reverse of what was just now said; for upon this view the wise man should sorrow and the fool rejoice at passing out of life.
+{{< /r >}}
 
 The earnestness of Cebes seemed to please Socrates. Here, said he, turning to us, is a man who is always inquiring, and is not so easily convinced by the first thing which he hears.
 
 
 {{< r a="Simmias" >}}
 Cebes thinks that you are too ready to leave us and the gods.
-{{< /l >}}
+{{< /r >}}
 
 
 {{< l a="Socrates" >}}
@@ -154,4 +155,3 @@ But you will take away your thoughts with you and not impart them to us. They ar
  -->
 <!-- {{< r a="Cebes" >}}
 Crito= The prison guard says that you should not talk much since it increases heat which then interferes with the poison. Excited persons usually take a second or even a third dose.{{< /l >}} -->
-

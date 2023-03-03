@@ -72,6 +72,7 @@ Proof: All things necessarily follow from the nature of God (Prop. 16), and by t
 If things, therefore, could have been of a different nature, or have been conditioned to act in a different way, so that the order of nature would have been different, God's nature would also have been able to be different from what it now is; and therefore (by Prop. 11) that different nature also would have perforce existed, and consequently there would have been able to be two or more Gods. This (by Prop. 14, Coroll. 1) is absurd.
 Therefore things could not have been brought into being by God in any other manner, &c. Q.E.D.
 
+
 {{< box >}}
 ### Note 1
 
@@ -83,6 +84,8 @@ For similar reasons a thing is said to be impossible; namely, inasmuch as its es
 but a thing can in no respect be called contingent, save in relation to the imperfection of our knowledge.
 
 A thing of which we do not know whether the essence does or does not involve a contradiction, or of which, knowing that it does not involve a contradiction, we are still in doubt concerning the existence, because the order of causes escapes us,—such a thing, I say, cannot appear to us either necessary or impossible. Wherefore we call it contingent or possible.
+{{< /box >}}
+
 
 ### Note 2
 

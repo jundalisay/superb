@@ -1,20 +1,11 @@
+---
+title: "Flux and Reflux of the ecclesiastic and temporal Jurisdiction"
+heading: "Chapter 41"
+description: "Research from Montesquieu"
+author: "Montesquieu"
+image: "/covers/spirit.jpg"
+---
 
-
-
-
-
-+++
-title=  "Flux and Reflux of the ecclesiastic and temporal Jurisdiction"
-heading=  "Chapter 41"
-description=  "Research from Montesquieu"
-date=  2020-03-07
-author=  "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-40"
-linkbtext=  "Chapter 40"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-42"
-linkftext=  "Chapter 42"
-+++
 
 THE civil power was in the hands of an infinite number of lords. This made it easy for the ecclesiastic jurisdiction to gain daily a greater extent.
 
@@ -22,7 +13,7 @@ The ecclesiastic courts weakened the courts of the lords and strengthened the ro
 
 The parliament, which in its form of proceedings had adopted whatever was good and useful in the spiritual courts, soon perceived nothing else but the abuses which had crept into those tribunals.
 
-As the royal jurisdiction gained ground every day, it grew every day more capable of correcting those abuses, as explained by= 
+As the royal jurisdiction gained ground every day, it grew every day more capable of correcting those abuses, as explained by:
 - Beaumanoir
 - Boutillier
 - the ordinances of our kings

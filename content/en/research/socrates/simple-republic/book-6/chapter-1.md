@@ -213,7 +213,7 @@ Whereas weak natures cannot do any very great good or very great evil.
 Our philosopher is like a plant which, having proper nurture, must necessarily grow and mature into all virtue.
 
 But, if sown and planted in an alien soil, he becomes the most noxious of all weeds unless he be preserved by some divine power.
-{{< l a="Socrates" >}}
+{{< /l >}}
 
 {{< r a="Adeimantus" >}}
 Do you really think that our youth are corrupted by Sophists?

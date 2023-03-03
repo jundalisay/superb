@@ -1,12 +1,9 @@
-+++
-title=  "Propositions 21 to 30"
-description=  "This idea of the mind is united to the mind in the same way as the mind is united to the body"
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-2/propositions-11-20"
-linkbtext=  "Propositions 11-20"
-linkf=  "/research/spinoza/simple-ethics/part-2/propositions-31-49"
-linkftext=  "Propositions 31-49"
-+++
+---
+title:  "Propositions 21 to 30"
+description:  "This idea of the mind is united to the mind in the same way as the mind is united to the body"
+image: "/covers/ethics.jpg"
+author: Spinoza
+---
 
 
 ## 21. This idea of the mind is united to the mind in the same way as the mind is united to the body. 

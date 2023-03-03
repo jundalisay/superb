@@ -3,7 +3,7 @@ heading: Chapter 26
 title: "The Relationship of the Harmonic"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg
-weight: 24
+weight: 26
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---

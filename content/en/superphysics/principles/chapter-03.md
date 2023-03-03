@@ -114,14 +114,11 @@ https://buddhism.stackexchange.com/questions/2801/is-there-evidence-of-a-buddhis
 <!-- Movement, Cause and Effect
 The law of conservation of mass and energy is:
 
-{{< quote >}}
 Matter and Energy cannot be created nor destroyed 
-</div>
 
 
 We extend this to the aethereal layer of ideas and feelings:
 
-{{< quote >}}
 Ideas and Feelings cannot be created nor destroyed 
 </div> -->
 

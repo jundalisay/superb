@@ -27,7 +27,7 @@ The Christian religion, which ordains that men should love each other, would, wi
 
 
 
-## Chapter 2= A Paradox of Mr. Bayle’s
+## Chapter 2: A Paradox of Mr. Bayle’s
 
 Mr. Bayle has pretended to prove that:
 - it is better to be an atheist than an idolater
@@ -35,11 +35,16 @@ Mr. Bayle has pretended to prove that:
 
 He says:
 
-{{< quote >}}
+{{< q >}}
 I prefer to have had no existence than to be a villain.
-</div>
+{{< /q >}}
 
-This is only a sophism, founded on this, that it is of no importance to the human race to believe that a certain man exists; whereas it is extremely useful for them to believe the existence of a God. From the idea of his non-existence, immediately follows that of our independence; or, if we cannot conceive this idea, that of disobedience. To say that religion is not a restraining motive, because it does not always restrain, is equally absurd, as to say, that the civil laws are not a restraining motive. It is a false way of reasoning against religion, to collect, in a large work, a long detail of the evils it has produced, if we do not give, at the same time, an enumeration of the advantages which have flowed from it. Were I to relate all the evils that have arisen in the world from civil laws, from monarchy, and from republican government, I might tell of frightful things. Were it of no advantage for subjects to have religion, it would still be of some if princes had it, and if they whitened with foam the [160] only rein which can restrain those who fear not human laws.
+
+This is only a sophism, founded on this, that it is of no importance to the human race to believe that a certain man exists; whereas it is extremely useful for them to believe the existence of a God.
+
+From the idea of his non-existence, immediately follows that of our independence; or, if we cannot conceive this idea, that of disobedience. To say that religion is not a restraining motive, because it does not always restrain, is equally absurd, as to say, that the civil laws are not a restraining motive.
+
+It is a false way of reasoning against religion, to collect, in a large work, a long detail of the evils it has produced, if we do not give, at the same time, an enumeration of the advantages which have flowed from it. Were I to relate all the evils that have arisen in the world from civil laws, from monarchy, and from republican government, I might tell of frightful things. Were it of no advantage for subjects to have religion, it would still be of some if princes had it, and if they whitened with foam the [160] only rein which can restrain those who fear not human laws.
 
 A prince who loves and fears religion is a lion, who stoops to the hand that strokes, or to the voice that appeases him. He who fears and hates religion, is like the savage beast that growls and bites the chain which prevents his flying on the passenger. He who has no religion at all, is that terrible animal, who perceives his liberty only when he tears in pieces, and when he devours.
 
@@ -49,11 +54,11 @@ To diminish the horror of atheism, they lay too much to the charge of idolatry. 
 
 
 
-## Chapter 3= A Moderate Government is Best for Christianity; A Despotic One is Best for Islam
+## Chapter 3: A Moderate Government is Best for Christianity; A Despotic One is Best for Islam
 
 THE Christian religion is a stranger to mere despotic power. The mildness so frequently recommended [161] in the gospel, is incompatible with the despotic rage with which a prince punishes his subjects, and exercises himself in cruelty.
 
-As this religion forbids the plurality of wives, its princes are less confined, less concealed from their subjects, and consequently have more humanity= they are more disposed to be directed by laws, and more capable of perceiving, that they cannot do whatever they please.
+As this religion forbids the plurality of wives, its princes are less confined, less concealed from their subjects, and consequently have more humanity: they are more disposed to be directed by laws, and more capable of perceiving, that they cannot do whatever they please.
 
 The Muslim princes incessantly give or receive death. The Christians render their princes less timid, and consequently less cruel. The prince confides in his subjects, and the subjects in the prince. 
 
@@ -75,7 +80,7 @@ Europeans are not at present more disunited than the people and the armies, or e
 
 
 
-## Chapter 4= Consequences from the Character of Christianity and Islam
+## Chapter 4: Consequences from the Character of Christianity and Islam
 
 <!-- FROM the characters of the Christianity and Islam,  -->
 
@@ -84,6 +89,3 @@ It is difficult to prove which religion is true. But it is easier to prove that 
 It is a misfortune to human nature, when religion is given by a conqueror. Islam speaks only by the sword and instills that destructive spirit with which it was founded.
 
 Sabbaco was one of the pastoral kings of Egypt. His story is very extraordinary. The tutelar god of Thebes appeared to him in a dream and ordered him to put to death all the priests of Egypt. He judged, that the gods were displeased at his being on the throne, since they commanded him to commit an action contrary to their ordinary pleasure; and therefore he retired into Ethiopia.
-
-
-

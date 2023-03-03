@@ -3,7 +3,7 @@ heading: Chapter 9f
 title: "The Relationship of the Harmonic"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg
-weight: 22
+weight: 30
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---

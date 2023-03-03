@@ -30,7 +30,7 @@ The base mechanic arts
 The physical enervation enfeebles the soul. The demand which these base mechanic arts makes on the time of those employed in them leaves them no leisure to devote to the claims of friendship and the state. 
 
 They necessarily become sorry friends and ill defenders of the fatherland. In some states, especially the warlike ones, no citizen is allowed to exercise any mechanical craft at all. 
-{{ /l }}
+{{< /l >}}
 
 
 {{< r a="Critobulus" >}}
@@ -41,7 +41,7 @@ Then which are the arts you would counsel us to engage in?
 We should imitate the kings of Persia. 
 
 They regard amongst the noblest and most necessary pursuits two in particular, which are the arts of husbandry and war, and in these two he takes the strongest interest.
-{{ /l }}
+{{< /l >}}
 
 
 {{< r a="Critobulus" >}}

@@ -128,17 +128,22 @@ They went in the order of their choice to Lachesis [past] who sent with them the
 
 {{< l a="Socrates" >}}
 This genius led the souls first to Clotho [present] and drew them within the revolution of the spindle impelled by her hand, thus ratifying the destiny* of each.
-
+{{< /l >}}
 
 > *Superphysics note: This explains free-will being bound by predestination. In app development, this is similar to the compilation process of code. In Superphysics, the life-patterns are compiled into the chakras of the metaphysical soul, just as biological patterns are compiled into the DNA of a physical body
 
 
+{{< l a="Socrates" >}}
 Then, when they were fastened to this, carried them to Atropos [future]. He spun the threads and made them irreversible* and they passed beneath the throne of Necessity.
+{{< /l >}}
+
 
 > *Superphysics note: This is similar to the deploy phase of an app onto the Play store or App store
 
 
+{{< l a="Socrates" >}}
 When they had all passed, they marched on in a scorching heat to the plain of Forgetfulness*, which was a barren waste destitute of trees and verdure.
+{{< /l >}}
 
 
 > *Superphysics note: This is the main property of Maya that generates the illusion of dualistic existence. In apps, this prevents the app or user input from knowing the app's uncompiled code or blueprint

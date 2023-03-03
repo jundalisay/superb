@@ -132,7 +132,7 @@ The Master protested that he would go and live among the 9 wild tribes.
 
 {{< r a="Someone" >}}
 How could you put up with a rude, uncivilized life? 
-{{< r a="Someone" >}}
+{{< /r >}}
 
 {{< l a="Confucius" >}}
 It would not be rude if there were a 'superior man' among them.

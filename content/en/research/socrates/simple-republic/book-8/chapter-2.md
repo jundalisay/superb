@@ -103,8 +103,6 @@ He subdues his other desires thinking that they are unprofitable. Money is highl
 
 <!-- He is a shabby fellow who saves something out of everything and makes a purse for himself. This is the sort of man whom the vulgar applaud. Is he not a true image of the State which he represents?
 
-
-{{< r a="Glaucon" >}}
 Yes, 
 
 Socrates:

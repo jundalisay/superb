@@ -1,9 +1,9 @@
 ---
-heading: Chapter 1
-title: "The Essence of the Harmonic Proportions, Both Sensible and Intelligible"
-description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
+heading: Chapter 1b
+title: "A harmony is a single thing"
+description: "A harmony is a single thing"
 image: /covers/harmony.jpg
-weight: 6
+weight: 8
 author: Johannes Kepler
 icon: /icons/kepler.png
 ---
@@ -12,29 +12,29 @@ icon: /icons/kepler.png
 
 The third feature is the reception of external things into the mind, and the necessity and manner of it.
 
-A harmony is a single thing, the sensible terms outside the soul are not a single thing, and can never be made one except within the soul.
+A harmony is a single thing. The sensible terms outside the soul are not a single thing and can never be made one except within the soul.
 
-However, they cannot be within the soul unless they are received inside it, which it does not need many words to prove from experience. The craftsman of music in parts can indeed meditate on the harmony of two or more voices within his mind, even though he does not receive them into it. But that harmony is not in virtue of that fact sensible, whereas we are speaking of the essence of what is sensible.
+However, they cannot be within the soul unless they are received inside it, which it does not need many words to prove from experience. 
 
-Yet what is the nature of that reception? Surely the sounds, to use a rather well-known example to stand for all, persist outside the ears, in the air, and so before the sounds do the motions of the bodies, according to the quantity of which the sounds follow? Do they not remain in their bodies? By what means then do they enter? 
+The craftsman of music in parts can indeed meditate on the harmony of two or more voices within his mind, even though he does not receive them into it. 
+
+But that harmony is not in virtue of that fact sensible, whereas we are speaking of the essence of what is sensible.
+
+Yet what is the nature of that reception? Surely the sounds, to use a rather well-known example to stand for all, persist outside the ears, in the air, and so before the sounds do the motions of the bodies, according to the quantity of which the sounds follow? 
+
+Do they not remain in their bodies? By what means then do they enter? 
 
 I reply, partly actively, partly passively: actively, when they give out emanations—when struck, the sounds of their own motion; when they are shining, the rays of their own light and color; and, as we say, when we speak of objects moving our senses. Now moving is acting. 
 
 On the other hand they enter passively, not themselves as such, but by their emanations, which must always experience something passively, according to our manner of speaking, when they are felt, remembered, or compared. 
 
-In every way this very making of two terms into one in the mind, from which the sensible essence of harmony results,
-is in fact a relating and comparing in the case of things taken in conjunction which is of the same kind as seeing and hearing in the case of single things, and to that extent less.
+In every way this very making of two terms into one in the mind, from which the sensible essence of harmony results, is in fact a relating and comparing in the case of things taken in conjunction which is of the same kind as seeing and hearing in the case of single things, and to that extent less.
 
-Certainly all these are experienced passively, but are referred to equivocally, with great ambiguity
-of meaning.  
+Certainly all these are experienced passively, but are referred to equivocally, with great ambiguity of meaning.  
 
-But let us establish the degrees of passive experiences. First, to
-take an example, water is passive, if it is very cold and grows warm
-when fires are applied to it.
+But let us establish the degrees of passive experiences. First, to take an example, water is passive, if it is very cold and grows warm when fires are applied to it.
 
-A second meaning is that moisture is passive, when it is actually active, that is to say in moistening what is dry,
-because part of it is seized by the pores of what is desiccated, and
-is mixed with it, which is passive. 
+A second meaning is that moisture is passive, when it is actually active, that is to say in moistening what is dry, because part of it is seized by the pores of what is desiccated, and is mixed with it, which is passive. 
 
 Similarly water is also passive when it is sipped; for the thirsty person swallows it down, and absorbs part of it. But in a third meaning also water is passive in the swallowing, at least when it is in contact with the tongue, not only because it grows warm from the warmth of the tongue, though itself it also cools the tongue with its coldness, nor only because a bit of the water sticks on the tongue, but simply because it is touched by the tongue, which is like being very lightly hit, or struck, or pushed, which causes a local motion of the parts within the whole. Now being moved is passive.
 
@@ -73,17 +73,8 @@ i
 the soul cau be absent without loss of the essence of harmony,
 I reply by inverting the question. To find the appropriate propor 
 
-tion in sensible things is to uncover and recognize and bring to light
-a similarity of that proportion in sensible things to some particular
-archetype of the truest harmony which is within the soul. Therefore,
-just as the Athenians found some virtue in Zeno, and did not find the
-privileges of the Prytaneum*'’ in him but conferred them on him,
-which Zeno could not achieve without the Athenians, so the soul finds
-order and proportion in the sounds and rays (although it does not
-find even that outside, but in fact the terms, as stated), but makes this
-proportion harmonic itself by comparison with its archetype. It could
-not be called harmonic, and would be allotted no power in moving
-spirits, if this archetype did not exist. Enough, then, on sensible
-harmonies.
+tion in sensible things is to uncover and recognize and bring to light  a similarity of that proportion in sensible things to some particular archetype of the truest harmony which is within the soul. Therefore, just as the Athenians found some virtue in Zeno, and did not find the privileges of the Prytaneum in him but conferred them on him, which Zeno could not achieve without the Athenians, so the soul finds order and proportion in the sounds and rays (although it does not find even that outside, but in fact the terms, as stated), but makes this proportion harmonic itself by comparison with its archetype.
+
+It could not be called harmonic, and would be allotted no power in moving spirits, if this archetype did not exist. Enough, then, on sensible harmonies.
 
 

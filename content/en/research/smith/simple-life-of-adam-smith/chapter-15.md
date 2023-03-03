@@ -53,7 +53,7 @@ He was also a partner in Millar's publishing business.
 
 Smith wrote him on a Friday in London, some time during the winter of 1766-67.
 
-{{< quote ava="smith" >}}
+{{< q a="smith" >}}
 My Dear Strahan,
 
 <!-- I go to the country for a few days this afternoon, so that it will be unnecessary to send me any more sheets until I return. -->
@@ -61,8 +61,10 @@ The Dissertation upon the Origin of Languages is to be printed at the end of the
 
 I ever am, etc.,
 Adam Smith.
+
 Friday
-</div>
+{{< /q >}}
+
 
 
 When the Wealth of Nations came out in 1776, Smith described himself on the title-page as LL.D. and F.R.S., late Professor of Moral Philosophy in Glasgow University, But he wants to be plain Adam Smith on the Theory.
@@ -92,7 +94,7 @@ He would have undertaken command of the more memorable expedition to observe the
   The following is Smith's letter= —
 
 
-{{< quote ava="smith" >}}
+{{< q a="smith" >}}
 My Lord,
 
 I send you Quiros's memorial, presented to Philip II after his return from his voyage. It is translated from Spanish. The voyage itself is long, obscure, and difficult to understand, except by those who are acquainted with the geography and navigation of those countries.
@@ -103,7 +105,7 @@ He would be glad to read this to you himself, and show you on his map the geogra
 
 It is extremely short, not much longer than this memorial of Quiros.
 
-I do not know whether= 
+I do not know whether:
 this will be be convenient for you
 this continent exists or not.
 But supposing it exists, I am very certain he is the best man to discover it.
@@ -142,21 +144,26 @@ They naturally followed the interests of their peculiar situation pointed.
 I have the honour to be, with the highest regard, my lord, your lordship's most obedient humble servant,
 Adam Smith.
 Tuesday, February 12, 1767
-</div>
+{{< /q >}}
 
 
 The problem of colonial rights and responsibilities had just come rapidly to the forefront of public questions in England.
-The French= 
-abandoned North America in 1763.
-had given a new importance to the plantations.
+
+The French:
+- abandoned North America in 1763.
+- had given a new importance to the plantations.
+
 seemed to develop at the same time a stronger disposition to= 
 assert colonial rights on the one side of the Atlantic, and
 interfere with them on the other.
+
 The Stamp Act of 1765 had already begun the struggle against imperial taxation which Charles Townshend's tea duty, imposed a few months after this letter was written, was to precipitate into rebellion.
-Therefore, there was very good reason why Lord Shelburne should be= 
-studying the relations of dependencies to mother countries, and
-turning their attention to earlier colonial experiments such as those of ancient Rome.
-In the Wealth of Nations, Smith came to= 
+
+Therefore, there was very good reason why Lord Shelburne should be:
+- studying the relations of dependencies to mother countries, and
+- turning their attention to earlier colonial experiments such as those of ancient Rome.
+
+In the Wealth of Nations, Smith came to:
 modify his view in this letter of the independence of the Roman colonies.
 explain they were less prosperous than the Greek colonies because they were= 
 not independent,

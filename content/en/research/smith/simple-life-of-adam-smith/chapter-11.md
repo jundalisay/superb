@@ -18,7 +18,7 @@ Sir William Hamilton thought that it was “perhaps the most philosophical essay
 
 Smith wrote the following letter to Mr. Baird= 
 
-{{< quote ava="smith" >}}
+{{< q a="smith" >}}
 Glasgow, February 7, 1763<br><br>
 Dear Sir
 <br>
@@ -54,10 +54,12 @@ If Mr. Ward has not seen it, I have it at his service.
 The grammatical articles in the French Encyclopédie have also given me much entertainment.
 Very probably Mr. Ward has seen both these works.
 He might have considered the subject more than I have done, may think less of them.
+
 Remember me to Mrs. Baird and Mr. Oswald.
-Believe me to be, with great truth, dear sir, sincerely yours,
+<!-- Believe me to be, with great truth, dear sir, sincerely yours, -->
+
 Adam Smith
-</div>
+{{< /q >}}
 
 
 

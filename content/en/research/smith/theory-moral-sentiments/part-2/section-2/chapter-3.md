@@ -12,19 +12,19 @@ description: "Society requires the virtue called Justice which is sustained by t
 
 ## Society requires the virtue called Justice which is sustained by the utility afforded by society
 
-{{< quote >}}15{{< /quote >}} It is thus that man, who can subsist only in society, was fitted by nature to that situation for which he was made. Everyone in society needs each other's assistance and protection. The society flourishes and is happy if the necessary assistance is reciprocally afforded from love, gratitude, friendship, and esteem. All its members are: 
+{{< s v="15" >}} It is thus that man, who can subsist only in society, was fitted by nature to that situation for which he was made. Everyone in society needs each other's assistance and protection. The society flourishes and is happy if the necessary assistance is reciprocally afforded from love, gratitude, friendship, and esteem. All its members are: 
 - bound together by love and affection, and
 - drawn to one common centre of mutual good offices.
 
 
-{{< quote >}}16{{< /quote >}} Society will not necessarily be dissolved if= 
+{{< s v="16" >}} Society will not necessarily be dissolved if: 
 - the necessary assistance does not come from such generous and disinterested motives, and
 - there were no mutual love and affection among its members.
 
 However, it will be less happy and agreeable. Society may subsist among different men, as among different merchants, from a sense of its utility, without any mutual love or affection. In such a case, no one would owe any obligation or be bound in gratitude to any other. Society may still be upheld by a mercenary exchange of good offices according to an agreed valuation.
  
 
-17 However, society cannot subsist among those who are always ready to hurt one another. The moment that injury begins and mutual animosity take place= 
+{{< s v="17" >}} However, society cannot subsist among those who are always ready to hurt one another. The moment that injury begins and mutual animosity take place: 
 - all the bands of it are broken apart, and
 - its members are dissipated and scattered abroad by their discordant affections' violence and opposition
 
@@ -35,15 +35,15 @@ A society of robbers and murderers must at least abstain from robbing and murder
 
 Beneficence is the ornament which embellishes the building, not the foundation which supports it. Therefore, it was sufficient to recommend, but not necessary to impose. 
 
-Justice, on the contrary, is the main pillar that supports the building. If it is removed, the great, immense fabric of human society must crumble into atoms. That fabric which raises and supports us in this world was the peculiar and darling care of Nature. To enforce the observation of justice, Nature has implanted in the human breast as the great safeguards of society= 
+Justice, on the contrary, is the main pillar that supports the building. If it is removed, the great, immense fabric of human society must crumble into atoms. That fabric which raises and supports us in this world was the peculiar and darling care of Nature. To enforce the observation of justice, Nature has implanted in the human breast as the great safeguards of society: 
 - that consciousness of demerit and
 - those terrors of punishment
-<!--  which attend the violation of the following= 
+<!--  which attend the violation of the following: 
 - to protect the weak
 - to curb the violent
 - to chastise the guilty -->
 
-Men are naturally sympathetic. But they feel so little for those they have no particular connection with, compared to what they feel for themselves. The misery of a person, that they do not know, is of so little importance to them compared to their own small convenience. They can even hurt him and may have had many temptations to do so. Like wild beasts, they would always be ready to fly on him if this principle did not= 
+Men are naturally sympathetic. But they feel so little for those they have no particular connection with, compared to what they feel for themselves. The misery of a person, that they do not know, is of so little importance to them compared to their own small convenience. They can even hurt him and may have had many temptations to do so. Like wild beasts, they would always be ready to fly on him if this principle did not: 
 - stand up within them in his defence, and
 - overawe them to respect his innocence.
 <!--  person, who is merely their fellow-creature, -->
@@ -54,12 +54,12 @@ A man would enter an assembly of men as he enters a den of lions.
 
 ### The Means Are Naturally Adjusted For The Ends
 
-19 In every part of the universe, we observe that the means are adjusted nicely to the ends which they are intended to produce. A plant or animal body is contrived to advance nature's two great purposes= 
+19 In every part of the universe, we observe that the means are adjusted nicely to the ends which they are intended to produce. A plant or animal body is contrived to advance nature's two great purposes: 
 
 1. The support of the individual
 2. The propagation of the species
 
-But we still distinguish the effect from the ultimate cause. Digestion, blood circulation, and the secretion of the juices drawn from it, are necessary operations for the great purposes of animal life. Yet we never= 
+But we still distinguish the effect from the ultimate cause. Digestion, blood circulation, and the secretion of the juices drawn from it, are necessary operations for the great purposes of animal life. Yet we never: 
 - separate those purposes from their ultimate causes <!-- try to account for them from those purpose of life as from their efficient causes -->
 - imagine that the blood circulates or that food digests of its own accord merely to circulate or digest
 
@@ -70,22 +70,22 @@ The gears of the watch are all adjusted for its end purpose of pointing the hour
 Similarly, in accounting for the operations of bodies, we always distinguish the effect from the ultimate cause. But in accounting for the mind's operations, we usually confound cause with effect. An enlightened reason naturally leads us to advance the two ends of support and propagation. We conclude that the cause of that reason is our feelings.<!--  sentiments and actions to advance those ends. --> We imagine this cause to be the wisdom of man, which in reality is the wisdom of God. Superficially, this cause seems enough to produce those two effects. The system of human nature is more simple and agreeable when all its operations are deduced from a single principle.
 
 
-20 Society cannot subsist unless the laws of justice are tolerably observed. No social intercourse can happen between men who always injure each other. It has been thought that this necessity led to law enforcement. It has been said that man= 
+20 Society cannot subsist unless the laws of justice are tolerably observed. No social intercourse can happen between men who always injure each other. It has been thought that this necessity led to law enforcement. It has been said that man: 
 - has a natural love for society, and
 - desires that the union of mankind should be preserved for its own sake, even if he derives no benefit from it.
 
-Society's order is agreeable to him. Its disorder and confusion, on the contrary, is disagreeable. Man is sensible too that= 
+Society's order is agreeable to him. Its disorder and confusion, on the contrary, is disagreeable. Man is sensible too that: 
 - his own interest is connected with society's prosperity, and
 - the happiness, and perhaps his existence, depends on its preservation.
 
-Therefore, man abhors whatever can destroy society. <!-- He is willing to do anything to hinder it. Injustice necessarily tends to destroy society. --> Every appearance of injustice, therefore, alarms him and so he runs to stop the progress of injustice. <!-- If allowed to go on, it would quickly end everything that is dear to him. --> If he cannot restrain it gently then he must beat it down by force. <!-- At any rate, he must stop its further progress. --> Hence they say= 
+Therefore, man abhors whatever can destroy society. <!-- He is willing to do anything to hinder it. Injustice necessarily tends to destroy society. --> Every appearance of injustice, therefore, alarms him and so he runs to stop the progress of injustice. <!-- If allowed to go on, it would quickly end everything that is dear to him. --> If he cannot restrain it gently then he must beat it down by force. <!-- At any rate, he must stop its further progress. --> Hence they say: 
 
-{{< quote >}}
+{{< q >}}
 Man approves of law enforcement, even the capital punishment of its violators. The disturber of the public peace is hereby removed out of the world. Others are terrified by his fate from imitating his example.
-</div>
+{{< /q >}}
 
 
-21 We naturally confirm the propriety of punishment when we reflect how necessary it is to preserve society. This is true when=  
+21 We naturally confirm the propriety of punishment when we reflect how necessary it is to preserve society. This is true when:  
 - the terror of punishment breaks the violator's injustice,
 - the violator ceases to be feared and instead begins to be pitied by the humane.
 
@@ -94,10 +94,10 @@ The thought of the violator's suffering extinguishes the resentment in the human
 <!-- 's general interest -->
 
 22 Sometimes too we defend the general rules of justice by their necessity to society. We frequently hear the young and licentious ridiculing the sacred rules of morality. This rouses our indignation which makes us eager to refute and expose their detestable principles. But we do this without knowing why. We just think that they should be hated just because they are the natural objects of hatred. We think that the society's disorder will result from the prevalence of licentious practices.
-<!-- are unwilling to= 
+<!-- are unwilling to: 
 - assign this as the only reason why we condemn them, nor
 - pretend that it is merely because we hate them. -->
-<!-- - professing the most abominable maxims of conduct= 
+<!-- - professing the most abominable maxims of conduct: 
 - sometimes from the corruption,
 - more frequently from vanity. -->
  <!-- It is their intrinsic hatefulness which originally inflames us against them. --> 
@@ -139,6 +139,6 @@ However, he does not look on the just punishment of an ungrateful murderer in th
 Our sense of its demerit pursues it even beyond the grave. However, we still think that God's justice still requires that He should avenge the injuries of the widow and the fatherless who are so often insulted with impunity.
 <!-- Its punishment there cannot deter the rest of mankind, who know it not, from being guilty of the like practices here. -->
 
-Accordingly, every religion and superstition has a Tartarus and an Elysium, which are places for= 
+Accordingly, every religion and superstition has a Tartarus and an Elysium, which are places for: 
 - the punishment of the wicked, and
 - the reward of the just.

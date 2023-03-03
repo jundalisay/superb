@@ -1,20 +1,12 @@
+---
+title:  "The public Prosecutor"
+heading:  "Chapter 36"
+description:  "The Roman law had popular form for the prosecution of crimes, which were inconsistent with the office of a public prosecutor"
+date:  2020-03-10
+author:  "Montesquieu"
+image: "/covers/spirit.jpg"
+---
 
-
-
-
-
-+++
-title=  "The public Prosecutor"
-heading=  "Chapter 36"
-description=  "The Roman law had popular form for the prosecution of crimes, which were inconsistent with the office of a public prosecutor"
-date=  2020-03-10
-author=  "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-34"
-linkbtext=  "Chapter 34"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-37"
-linkftext=  "Chapter 37"
-+++
 
 The Salic, Ripuarian, and other barbarous laws punished crimes with pecuniary fines. They did not have a public officer who does criminal prosecutions. And indeed the issue of all causes being reduced to the reparation of damages, every prosecution was in some measure civil, and might be managed by any one. 
 
@@ -22,17 +14,21 @@ On the other hand, the Roman law had popular form for the prosecution of crimes,
 
 The custom of judicial combats was no less opposite to this idea; for who is it that would chuse to make himself every man’s champion against all the world?
 
-I find, in the collection of formulas, inserted by Muratori in the laws of the Lombards, that under the princes of the second race there was an advocate for the public prosecutor. But whoever pleases to read the entire collection of these formulas, will find that there was a total difference between such officers and those we now call the public prosecutor, our attorney-generals, our king’s solicitors, or our solicitors for the nobility. The former were rather agents to the public for the management of political and domestic affairs, than for the civil. And indeed we did not find in those formulas that they were intrusted with criminal prosecutions, or with causes relating to minors, to churches, or to the condition of persons.
+Muratori inserted in the collection of formulas in the laws of the Lombards, that under the princes of the second race there was an advocate for the public prosecutor. But whoever pleases to read the entire collection of these formulas, will find that there was a total difference between such officers and those we now call the public prosecutor, our attorney-generals, our king’s solicitors, or our solicitors for the nobility. 
+
+The former were rather agents to the public for the management of political and domestic affairs, than for the civil. We did not find in those formulas that they were intrusted with criminal prosecutions, or with causes relating to minors, to churches, or to the condition of persons.
 
 I said that the establishment of a public prosecutor was repugnant to the usage of judicial combats. I find notwithstanding, in one of those formulas, an [319] advocate for the public prosecutor, who had the liberty to fight. Muratori has placed it just after the constitution* of Henry I, for which it was made. In this constitution, it is said, 
 
-{{< quote >}}
+
+{{< q >}}
 “That if any man kills his father, his brother, or any of his other relations, he shall lose their succession, which shall pass to the other relations, and his own shall go to the exchequer.” 
-</div>
+{{< /q >}}
 
-Now it was in suing for the succession which had devolved to the exchequer, that the advocate for the public prosecutor, by whom its rights were defended, had the privilege of fighting=  This case fell within the general rule.
 
-We see in those formulas the advocate for the public prosecutor proceeding against= 
+Now it was in suing for the succession which had devolved to the exchequer, that the advocate for the public prosecutor, by whom its rights were defended, had the privilege of fighting:  This case fell within the general rule.
+
+We see in those formulas the advocate for the public prosecutor proceeding against: 
 - a person who had taken a robber, but had not brought him before the count
 - another who had raised an insurrection or tumult against the count
 - another who had saved a man’s life whom the count had ordered to be put to death

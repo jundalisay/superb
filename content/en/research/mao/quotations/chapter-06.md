@@ -34,7 +34,7 @@ the Communist Party of China (December 1, 1958), quoted in the explanatory note 
 
 {{< cite >}}
 "Talk with the American Correspondent Anna Louise Strong", Selected Works, Vol. 4, pp. 98-99.*
-{{< cite >}}
+{{< /cite >}}
 
 
 All the reputedly powerful reactionaries are merely paper tigers. This is because they are divorced from the people. Hitler was a paper tiger and was overthrown. The tsar of Russia, the emperor of China and Japanese imperialism were all paper tigers. They were all overthrown. 
