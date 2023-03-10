@@ -13,7 +13,7 @@ author: Leibniz
 
 <!-- Translation © George MacDonald Ross, 1999 -->
 
-1. Monads are simple substances which make up compounds. By ‘simple’ I mean ‘without parts’.
+1. Monads are simple substances which make up compounds. ‘Simple’ means without parts.
 
 2. Compounds imply the existence of simple substances.
 
@@ -79,29 +79,45 @@ Appetite cannot always completely attain the whole perception it is aiming for, 
 
 16. We ourselves experience a multiplicity in a simple substance, when we find that the least thought of which we are conscious includes a variegation within its object.
 
-So anyone who accepts that the soul is a simple substance must accept this multiplicity within the monad. Bayle should not find any difficulty over this, as he does in his Dictionary, in the article on Rorarius.
+Anyone who accepts that the soul is a simple substance must accept this multiplicity within the monad. 
+
+<!-- Bayle should not find any difficulty over this, as he does in his Dictionary, in the article on Rorarius. -->
+
 
 17. Perception, and anything that depends on it, cannot be explained in terms of mechanistic causation — that is, in terms of shapes and motions.
 
-Let us pretend that there was a machine, which was constructed in such a way as to give rise to thinking, sensing, and having perceptions. You could imagine it expanded in size (while retaining the same proportions), so that you could go inside it, like going into a mill. On this assumption, your tour inside it would show you the working parts pushing each other, but never anything which would explain a perception. So perception is to be sought, not in compounds (or machines), but in simple substances. Furthermore, there is nothing to be found in simple substances, apart from perceptions and their changes. Again, all the internal actions of simple substances can consist in nothing other than perceptions and their changes.
+Let us pretend that:
+- a machine could think, sense, and have perceptions.
+- it was possible for you to go inside it, like going into a mill. 
 
-18. You could call all simple substances, or created monads, entelechies, since they have within themselves a certain perfection (echousi to enteles [in Greek]). 
+Your tour inside it would show you the working parts pushing each other, but never anything which would explain a perception. So perception is to be sought, not in compounds (or machines), but in simple substances. 
+
+Furthermore, there is nothing to be found in simple substances, apart from perceptions and their changes. 
+
+Again, all the internal actions of simple substances can consist in nothing other than perceptions and their changes.
+
+
+18. You could call all simple substances, or created monads, entelechies, since they have within themselves a certain perfection (echousi to enteles [in Greek]).
 
 There is a certain self-sufficiency (autarkeia), which makes them the source of their internal actions, and (so to speak) incorporeal automata.
+
 
 19. If we are willing to give the name ‘soul’ to everything which has perceptions and appetites (in the general sense I have just explained), then all created simple substances (monads) could be called ‘souls’. 
 
 But since sensation is something more than simple perception, I am prepared to accept that the general name ‘monad’ or ‘entelechy’ is sufficient for simple substances which only have simple perceptions, and that we should reserve the name ‘soul’ for those which have more distinct perceptions accompanied by memory.
 
+
 20. We experience within ourselves a state in which we remember nothing, and have no distinct perceptions
 
 For example, when we fall into a faint, or are overcome by a deep sleep without any dreams. In this state, the soul is not discernibly different from a simple monad. But the soul is something more than a simple substance, since this state does not persist, and the soul can emerge from it.
+
 
 21. It certainly does not follow that simple substances are without any perceptions. 
 
 This is not even possible, for the reasons I have already given. Simple substances cannot cease to exist; but it is also the case that they cannot continue to exist without some affections, which are nothing other than their perceptions. 
 
 However, when there is a large number of little perceptions, with nothing distinguished from anything else, we are in a state of unconsciousness. For example, if we keep on spinning round in the same direction many times without stopping, we suffer from a dizziness which can make us faint, and prevent us from distinguishing anything. Death can temporarily put animals into this state.
+
 
 22. In the natural course of events, every present state of a simple substance is the consequence of its preceding state; and similarly its present state is pregnant with the future.
 
@@ -133,5 +149,7 @@ Three-quarters of the time, our behaviour is purely like that of the empiricists
 
 29. But it is knowledge of necessary and eternal truths which distinguishes us from mere animals, and which gives us reason and the sciences, by elevating us to knowledge of ourselves and of God. This is what in us is called the ‘rational soul’, or spirit.
 
-30. It is also through the knowledge of necessary truths and what can be abstracted from them that we are raised to acts of reflection, which make us think of what is called the self, and to consider that this or that is in us. It is thus that, in thinking of ourselves, we think of being, of substance, of the simple and the compound, of the immaterial, and even of God, by forming a conception of what is limited within us, and without limits in him. These acts of reflection provide us with the primary objects of our reasonings.
+30. It is also through the knowledge of necessary truths and what can be abstracted from them that we are raised to acts of reflection, which make us think of what is called the self, and to consider that this or that is in us. 
+
+It is thus that, in thinking of ourselves, we think of being, of substance, of the simple and the compound, of the immaterial, and even of God, by forming a conception of what is limited within us, and without limits in him. These acts of reflection provide us with the primary objects of our reasonings.
 

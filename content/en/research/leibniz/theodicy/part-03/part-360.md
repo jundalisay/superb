@@ -1,4 +1,16 @@
-360. Now that I have proved sufficiently that everything comes to pass according to determinate reasons, there cannot be any more difficulty over these principles of God's foreknowledge. Although these determinations do not compel, they cannot but be certain, and they foreshadow what shall happen. It is true that God sees all at once the whole sequence of this universe, when he chooses it, and that thus he has no need of the connexion of effects and causes in order to foresee these effects. But since his wisdom causes him to choose a sequence in perfect connexion, he cannot but see one part of the sequence in the other. It is one of the rules of my system of general harmony, that the present is big with the future, and that he who sees all sees in that which is that which shall be. What is more, I have proved conclusively that God sees in each portion of the universe the whole universe, owing to the perfect connexion of things. He is infinitely more discerning than Pythagoras, who judged the height of Hercules by the size of his footprint. There must therefore be no doubt that effects follow their causes determinately, in spite of contingency and even of freedom, which nevertheless exist together with certainty or determination.
+---
+title: "Cicero"
+description: Cicero said in his book De Fato that Carneades had found something more subtle than the deviation of atoms
+author: Leibniz
+image: "/covers/theodicy.png"
+weight: 28
+---
+
+
+
+360. Everything comes to pass according to determinate reasons, there cannot be any more difficulty over these principles of God's foreknowledge. 
+
+Although these determinations do not compel, they cannot but be certain, and they foreshadow what shall happen. It is true that God sees all at once the whole sequence of this universe, when he chooses it, and that thus he has no need of the connexion of effects and causes in order to foresee these effects. But since his wisdom causes him to choose a sequence in perfect connexion, he cannot but see one part of the sequence in the other. It is one of the rules of my system of general harmony, that the present is big with the future, and that he who sees all sees in that which is that which shall be. What is more, I have proved conclusively that God sees in each portion of the universe the whole universe, owing to the perfect connexion of things. He is infinitely more discerning than Pythagoras, who judged the height of Hercules by the size of his footprint. There must therefore be no doubt that effects follow their causes determinately, in spite of contingency and even of freedom, which nevertheless exist together with certainty or determination.
 
 361. Durand de Saint-Pourçain, among others, has indicated this clearly in saying that contingent futurities are seen determinately in their causes, and that God, who knows all, seeing all that shall have power to tempt or repel the will, will see therein the course it shall take. I could cite many other authors who have said the same thing, and reason does not allow the possibility of thinking otherwise. M. Jacquelot implies also (Conformity of Faith with Reason, p. 318 et seqq.), as M. Bayle observes (Reply to the Questions of a Provincial, vol. III, ch. 142, p. 796), that the dispositions of the human heart and those of circumstances acquaint God [342]unerringly with the choice that man shall make. M. Bayle adds that some Molinists say the same, and refers us to those who are quoted in the Suavis Concordia of Pierre de S. Joseph, the Feuillant (pp. 579, 580).
 

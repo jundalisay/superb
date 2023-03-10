@@ -1,6 +1,6 @@
 ---
-heading: Part 120
-linkTitle: Part 120
+heading: Part 124
+linkTitle: Part 124
 title: "Bayle's 19 philosophic maxims"
 description: The whole future is doubtless determined
 author: Leibniz

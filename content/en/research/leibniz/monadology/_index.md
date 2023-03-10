@@ -1,7 +1,7 @@
 ---
 title: "The Monadology"
 # heading: Semi-enlightened
-description: THE MONADOLOGY
+description: The Monadology
 author: Leibniz
 image: "/covers/monad.png"
 weight: 2

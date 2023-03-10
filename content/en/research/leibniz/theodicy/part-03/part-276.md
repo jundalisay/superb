@@ -1,5 +1,32 @@
+---
+title: "What the Bible says"
+description:  PUBLISHED RECENTLY IN LONDON
+author: Leibniz
+image: "/covers/theodicy.png"
+weight: 18
+---
 
-276. It is said in the Scriptures that God hardeneth (Exod. iv. [296]21 and vii. 3; Isa. lxiii. 17); that God sendeth a lying spirit (1 Kings xxii. 23); strong delusion that they should believe a lie (2 Thess. ii. 11); that he deceived the prophet (Ezek. xiv. 9); that he commanded Shimei to curse (2 Sam xvi. 10); that the children of Eli hearkened not unto the voice of their father, because the Lord would slay them (1 Sam. ii. 25); that the Lord took away Job's substance, even although that was done through the malice of brigands (Job i. 21); that he raised up Pharaoh, to show his power in him (Exod. ix. 19; Rom. ix. 17) that he is like a potter who maketh a vessel unto dishonour (Rom. ix. 21); that he hideth the truth from the wise and prudent (Matt. xi. 25); that he speaketh in parables unto them that are without, that seeing they may see and not perceive, and hearing they may hear and not understand, lest at any time they might be converted, and their sins might be forgiven them (Mark iv. 12; Luke viii. 10); that Jesus was delivered by the determinate counsel and foreknowledge of God (Acts ii. 23); that Pontius Pilate and Herod with the Gentiles and the people of Israel did that which the hand and the counsel of God had determined before to be done (Acts iv. 27, 28); that it was of the Lord to harden the hearts of the enemy, that they should come against Israel in battle, that he might destroy them utterly, and that they might have no favour (Joshua xi. 20); that the Lord mingled a perverse spirit in the midst of Egypt, and caused it to err in all its works, like a drunken man (Isa. xix. 14); that Rehoboam hearkened not unto the word of the people, for the cause was from the Lord (1 Kings xii. 15); that he turned the hearts of the Egyptians to hate his people (Ps. cv. 25). But all these and other like expressions suggest only that the things God has done are used as occasion for ignorance, error, malice and evil deeds, and contribute thereto, God indeed foreseeing this, and intending to use it for his ends, since superior reasons of perfect wisdom have determined him to permit these evils, and even to co-operate therein. 'Sed non sineret bonus fieri male, nisi omnipotens etiam de malo posset facere bene', in St. Augustine's words. But this has been expounded more fully in the preceding part.
+
+276. The Bible says that:
+- God:
+  - hardened (Exod. iv. [296]21 and vii. 3; Isa. lxiii. 17).
+  - sent a lying spirit (1 Kings xxii. 23); strong delusion that they should believe a lie (2 Thess. ii. 11)
+  - deceived the prophet (Ezek. xiv. 9)
+  - commanded Shimei to curse (2 Sam xvi. 10)
+  - would slay the children of Eli unless they hearkened unto the voice of their father (1 Sam. ii. 25)
+  - took away Job's substance, even although that was done through the malice of brigands (Job i. 21)
+  - raised up Pharaoh, to show his power in him (Exod. ix. 19; Rom. ix. 17) 
+  - is like a potter who maketh a vessel unto dishonour (Rom. ix. 21)
+  - hid the truth from the wise and prudent (Matt. xi. 25)
+  - spoke in parables unto them that are without, that seeing they may see and not perceive, and hearing they may hear and not understand, lest at any time they might be converted, and their sins might be forgiven them (Mark iv. 12; Luke viii. 10)
+- thatJesus was delivered by the determinate counsel and foreknowledge of God (Acts ii. 23)
+- Pontius Pilate and Herod with the Gentiles and the people of Israel did that which the hand and the counsel of God had determined before to be done (Acts iv. 27, 28)
+- that it was of the Lord to harden the hearts of the enemy, that they should come against Israel in battle, that he might destroy them utterly, and that they might have no favour (Joshua xi. 20)
+- the Lord mingled a perverse spirit in the midst of Egypt, and caused it to err in all its works, like a drunken man (Isa. xix. 14)
+- Rehoboam hearkened not unto the word of the people, for the cause was from the Lord (1 Kings xii. 15); that he turned the hearts of the Egyptians to hate his people (Ps. cv. 25). 
+
+But all these and other like expressions suggest only that the things God has done are used as occasion for ignorance, error, malice and evil deeds, and contribute thereto, God indeed foreseeing this, and intending to use it for his ends, since superior reasons of perfect wisdom have determined him to permit these evils, and even to co-operate therein. 'Sed non sineret bonus fieri male, nisi omnipotens etiam de malo posset facere bene', in St. Augustine's words. But this has been expounded more fully in the preceding part.
+
 
 277. God made man in his image (Gen. i. 26); he made him upright (Eccles. vii. 29). But also he made him free. Man has behaved badly, he has fallen; but there remains still a certain freedom after the fall. Moses said as from God: 'I call heaven and earth to record this day against you, that I have set before you life [297]and death, blessing and cursing; therefore choose life' (Deut. xxx. 19). 'Thus saith the Lord: Behold, I set before you the way of life, and the way of death' (Jer. xxi. 8). He has left man in the power of his counsel, giving him his ordinances and his commandments. 'If thou wilt, thou shalt keep the commandments' (or they shall keep thee). 'He hath set before thee fire and water, to stretch forth thine hand to whichever thou wilt' (Sirach xv. 14, 15, 16). Fallen and unregenerate man is under the domination of sin and of Satan, because it pleases him so to be; he is a voluntary slave through his evil lust. Thus it is that free will and will in bondage are one and the same thing.
 

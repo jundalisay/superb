@@ -1,5 +1,23 @@
+---
+title: "Human Knowledge"
+description: Distinct knowledge is intelligence. It occurs in the actual use of reason; but the senses supply us with confused thoughts
+author: Leibniz
+image: "/covers/theodicy.png"
+weight: 20
+---
 
-289. Our knowledge is of two kinds, distinct or confused. Distinct knowledge, or intelligence, occurs in the actual use of reason; but the senses supply us with confused thoughts. And we may say that we are immune from bondage in so far as we act with a distinct knowledge, but that we are the slaves of passion in so far as our perceptions are confused. In this sense we have not all the freedom of spirit that were to be desired, and we may say with St. Augustine that being subject to sin we have the freedom of a slave. Yet a slave, slave as he is, nevertheless has freedom to choose according to the state wherein he is, although more often than not he is under the stern necessity of choosing between two evils, because a superior force prevents him from attaining the goods whereto he aspires. That which in a slave is effected by bonds and constraint in us is effected by passions, whose violence is sweet, but none the less pernicious. In truth we will only that which pleases us: but unhappily what pleases us now is often a real evil, which would displease us if we had the eyes of the understanding open. Nevertheless that evil state of the slave, which is also our own, does not prevent us, any more than him, from making a free choice of that which pleases us most, in the state to which we are reduced, in proportion to our present strength and knowledge.
+
+
+289. Our knowledge is of 2 kinds:
+
+- distinct 
+- confused
+
+Distinct knowledge is intelligence. It occurs in the actual use of reason; but the senses supply us with confused thoughts. And we may say that we are immune from bondage in so far as we act with a distinct knowledge, but that we are the slaves of passion in so far as our perceptions are confused. In this sense we have not all the freedom of spirit that were to be desired, and we may say with St. Augustine that being subject to sin we have the freedom of a slave. 
+
+Yet a slave, slave as he is, nevertheless has freedom to choose according to the state wherein he is, although more often than not he is under the stern necessity of choosing between two evils, because a superior force prevents him from attaining the goods whereto he aspires. 
+
+That which in a slave is effected by bonds and constraint in us is effected by passions, whose violence is sweet, but none the less pernicious. In truth we will only that which pleases us: but unhappily what pleases us now is often a real evil, which would displease us if we had the eyes of the understanding open. Nevertheless that evil state of the slave, which is also our own, does not prevent us, any more than him, from making a free choice of that which pleases us most, in the state to which we are reduced, in proportion to our present strength and knowledge.
 
 290. As for spontaneity, it belongs to us in so far as we have within us the source of our actions, as Aristotle rightly conceived. [304]The impressions of external things often, indeed, divert us from our path, and it was commonly believed that, at least in this respect, some of the sources of our actions were outside ourselves. I admit that one is bound to speak thus, adapting oneself to the popular mode of expression, as one may, in a certain sense, without doing violence to truth. But when it is a question of expressing oneself accurately I maintain that our spontaneity suffers no exception and that external things have no physical influence upon us, I mean in the strictly philosophical sense.
 
@@ -7,7 +25,7 @@
 
 292. As this system was not known formerly, other ways were sought for emerging from this labyrinth, and the Cartesians themselves were in difficulties over the subject of free will. They were no longer satisfied by the 'faculties' of the Schoolmen, and they considered that all the actions of the soul appear to be determined by what comes from without, according to the impressions of the senses, and that, ultimately, all is controlled in the universe by the providence of God. Thence arose naturally the objection that there is therefore no freedom. To that M. Descartes replied that we are assured of God's providence by reason; but that we are likewise assured of our freedom by experience thereof within ourselves; and that we must believe in both, even though we see not how it is possible to reconcile them.
 
-[305]
+
 
 293. That was cutting the Gordian knot, and answering the conclusion of an argument not by refuting it but by opposing thereto a contrary argument. Which procedure does not conform to the laws for philosophical disputes. Notwithstanding, most of the Cartesians contented themselves with this, albeit the inward experience they adduce does not prove their assertion, as M. Bayle has clearly shown. M. Regis (Philos., vol. 1, Metaph., book 2, part 2, c. 22) thus paraphrases M. Descartes' doctrine: 'Most philosophers', he says, 'have fallen into error. Some, not being able to understand the relation existing between free actions and the providence of God, have denied that God was the first efficient cause of free will: but that is sacrilegious. The others, not being able to apprehend the relation between God's efficacy and free actions, have denied that man was endowed with freedom: and that is a blasphemy. The mean to be found between these two extremes is to say' (id. ibid., p. 485) 'that, even though we were not able to understand all the relations existing between freedom and God's providence, we should nevertheless be bound to acknowledge that we are free and dependent upon God. For both these truths are equally known, the one through experience, and the other through reason; and prudence forbids one to abandon truths whereof one is assured, under the pretext that one cannot apprehend all the relations existing between them and other truths well known.'
 
