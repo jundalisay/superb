@@ -12,10 +12,11 @@ weight: 14
 
 ### 33. When we love a thing similar to ourselves we endeavour, as far as we can, to bring about that it should love us in return. 
 
-<!-- Proof=  That which we love we endeavour, as far as we can, to conceive in preference to anything else (3.12).
+Proof: That which we love we endeavour, as far as we can, to conceive in preference to anything else (3.12).
 
 If the thing be similar to ourselves, we shall endeavour to affect it pleasurably in preference to anything else (3.29).
-In other words, we shall endeavour, as far as we can, to bring it about, that the thing should be affected with pleasure accompanied by the idea of ourselves, that is (3.13 note), that it should love us in return. Q.E.D. -->
+In other words, we shall endeavour, as far as we can, to bring it about, that the thing should be affected with pleasure accompanied by the idea of ourselves, that is (3.13 note), that it should love us in return. Q.E.D.
+
 
 ### 34. The greater the emotion with which we conceive a loved object to be affected towards us, the greater will be our complacency. 
 

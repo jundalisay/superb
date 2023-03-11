@@ -2,9 +2,12 @@
 heading: Part 2
 title: "Magellan in Cebu and Mactan"
 date: 2020-07-10
+weight: 4
 image: /photos/medieval/magellan.jpg
 description: "We then went northwest, passing among 5 islands Ceylon, Bohol, Canighan, Baybai, Gatighan"
 icon: /icons/sun.png
+aliases:
+  /maharlika/history/simplified-pigafetta2
 ---
 
 
@@ -30,7 +33,8 @@ From Gatighan, we headed west to Cebu around 15 leguas (75km)
 
 At noon on Sunday, April 7, we entered Cebu, passing by many villages with many houses built on logs.
 - All the artillery was fired, an action which caused great fear to those people.
-- Magellan sent a foster-son of his as ambassador to the king of Cebu with the interpreter.
+
+Magellan sent a foster-son of his as ambassador to the king of Cebu with the interpreter.
 - They found a vast crowd of people with the king, all of whom had been frightened by the mortars.
 - The interpreter told them that that was our custom when entering into such places, as a sign of peace and friendship, and that we had discharged all our mortars to honor the king of the village.
 - The king and all of his men were reassured, and the king had us asked by his governor what we wanted.
@@ -182,13 +186,20 @@ One of our men died on Tuesday night.
 
 On Wednesday morning, I asked Raja Humabon where we could bury him.
 - He replied, “If I and my vassals all belong to your sovereign, how much more ought the land.”
-- I told the king that we would like to consecrate the place, and to set up a cross there.
+
+I told the king that we would like to consecrate the place, and to set up a cross there.
 - He replied that he was quite satisfied, and that he wished to adore the cross as did we.
-- The deceased was buried in the square with as much pomp as possible, in order to furnish a good example.
+
+The deceased was buried in the square with as much pomp as possible, in order to furnish a good example.
 - Then we consecrated the place, and in the evening buried another man.
-- We carried a quantity of merchandise ashore which we stored in a house.
+
+We carried a quantity of merchandise ashore which we stored in a house.
 - The king took it under his care as well as four men who were left to trade the goods by wholesale.
-- Those people live in accordance with justice, and have weights and measures.
+
+
+## The Cebuanos
+
+Those people live in accordance with justice, and have weights and measures.
 - They love peace, ease, and quiet. 
 - They have wooden balances, the bar of which has a cord in the middle by which it is held. At one end is a bit of lead, and at the other marks like quarter-libras, third-libras, and libras. When they wish to weigh they take the scales which has three wires like ours, and place it above the marks, and so weigh accurately.
 - They have very large measures without any bottom. 
@@ -298,5 +309,3 @@ Cebu is a large island with dogs, cats, rice, millet, panicum, sorgo, ginger, ba
 
 18 leguas from Cebu is another island called Bohol where we burned the ship “Conceptione,” for too few men of us were left [to work it].
 - We stowed the best of its contents in the other two ships, and the laid our course toward the south southwest, coasting along the island called Panilongon, where black men like those in Etiopia live.
-
-
