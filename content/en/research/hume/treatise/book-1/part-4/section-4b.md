@@ -1,15 +1,14 @@
-+++
-title       = "Hume's Physics: Identity and Space for that Identity to Exist"
-description = "The material universe only has two principles=  space and identity"
-date        = "2021-12-16"
-image = "/covers/treatise.jpg"
-author      = "David Hume"
-linkTitle   = "Section 4b"
-linkb = "/research/hume/treatise/book-1/part-4/section-4"
-linkbtext = "Section 4"
-linkf = "/research/hume/treatise/book-1/part-4"
-linkftext = "Index"
-+++
+---
+heading: "Section 4b"
+title: "Hume's Physics: Identity and Space for that Identity to Exist"
+weight: 12
+image: /covers/treatise.png
+description: "The material universe only has two principles: space and identity"
+author: David Hume
+icon: /icons/hume.png
+---
+
+
 
 
 ## Hume's Primary Qualities of the Material Universe: Space and Identity

@@ -2,7 +2,7 @@
 title: "Conclusion"
 heading: "Section 9"
 description: "IT is surprising that any man in so late an age, should find it requisite to prove, by elaborate reasoning, that Personal Merit consists altogether in the possession of mental qualities, USEFUL or AGREEABLE to the PERSON HIMSELF or to OTHERS"
-image: /covers/morals.jpg
+image: /covers/morals.png
 author: David Hume
 icon: /avatars/hume.png
 weight: 26

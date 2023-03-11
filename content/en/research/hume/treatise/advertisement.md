@@ -2,7 +2,7 @@
 title: "Advertisement"
 weight: 1
 description: "Advertisement Treatise of Human Nature"
-image: "/covers/treatise.jpg"
+image: "/covers/treatise.png"
 author: David Hume
 icon: /icons/hume.png
 ---
@@ -63,8 +63,10 @@ We have so often lost our labour in such researches.
 
 If we must forever be a prey to errors and delusions, we resolve that they shall at least be natural and entertaining.
 Only the most determined skepticism, with a great indolence, can justify this aversion to metaphysics.
+
 For if truth is within the reach of human capacity at all, it must lie very deep and abstruse.
 It must be vain and presumptuous to hope to arrive at it without pains, while the greatest geniuses have failed with the utmost pains.
+
 I pretend to no such advantage in the philosophy I am going to unfold.
 I would esteem it a strong presumption against it, were it so very easy and obvious.
 

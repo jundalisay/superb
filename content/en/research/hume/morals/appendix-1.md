@@ -2,8 +2,8 @@
 title: "Moral Sentiments"
 heading: "Appendix 1"
 description: "The Difference in the feelings of the ancients and modersn lead to their differences in eloquence"
-image: /covers/morals.jpg
-weight: 26
+image: /covers/morals.png
+weight: 30
 author: David Hume
 icons: /icons/hume.png
 --- 

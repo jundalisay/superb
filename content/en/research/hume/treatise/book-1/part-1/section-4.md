@@ -2,7 +2,7 @@
 heading: "Section 4"
 title: "The Connection of Ideas"
 weight: 10
-image: /covers/treatise.jpg
+image: /covers/treatise.png
 description: "Generally, simple ideas and impressions are exactly correspondent, as the complex are formed from them"
 author: David Hume
 icon: /icons/hume.png

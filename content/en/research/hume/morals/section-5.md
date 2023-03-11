@@ -2,7 +2,7 @@
 title: "Why Utility Pleases"
 heading: "Section 5"
 description: "There would be no need for governments or political society if everyone could observe justice and equity and had the strength of mind to resist present pleasure and advantage"
-image: /covers/morals.jpg
+image: /covers/morals.png
 author: David Hume
 icon: /avatars/hume.png
 weight: 14

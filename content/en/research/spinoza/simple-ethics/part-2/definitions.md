@@ -1,16 +1,17 @@
-+++
-title=  "Definitions"
-description=  "Body is a mode which expresses in a certain determinate manner the essence of God, in so far as he is considered as an extended thing"
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-1"
-linkbtext=  "Part 1"
-linkf=  "/research/spinoza/simple-ethics/part-2/propositions-1-10"
-linkftext=  "Props 1-10"
-+++
+---
+title: "Definitions"
+image: "/covers/ethics.jpg"
+description: "Body is a mode which expresses in a certain determinate manner the essence of God, in so far as he is considered as an extended thing"
+author: Spinoza
+weight: 4
+---
+
+
 
 I now explain the results from God's essence, which are able to lead us, as it were by the hand, to the knowledge of the human mind and its highest blessedness.
 
-### Definitions
+
+## Definitions
 
 1. Body is a mode which expresses in a certain determinate manner the essence of God, in so far as he is considered as an extended thing. (See Pt. 1, Prop. 25, Coroll.) 
 

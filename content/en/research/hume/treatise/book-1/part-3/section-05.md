@@ -2,7 +2,7 @@
 title: "The Impressions of the Senses and Memory"
 heading: Section 5
 description: "The Impressions of the Senses and Memory Simplified"
-image: /covers/treatise.jpg
+image: /covers/treatise.png
 weight: 10
 author: David Hume
 icon: /avatars/hume.png

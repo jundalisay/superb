@@ -2,16 +2,16 @@
 title: "The Ego (Self-Love)"
 heading: "Appendix 2"
 description: "THERE is a principle, supposed to prevail among many, which is utterly incompatible with all virtue or moral sentiment"
-image: /covers/morals.jpg
+image: /covers/morals.png
 author: David Hume
-weight: 1
+weight: 32
 ---
 
 
 
 THERE is a principle, supposed to prevail among many, which is utterly incompatible with all virtue or moral sentiment; and as it can proceed from nothing but the most depraved disposition, so in its turn it tends still further to encourage that depravity. 
 
-Some people think that= 
+Some people think that:
 - BENEVOLENCE is mere hypocrisy
 - friendship a cheat
 - public spirit a farce

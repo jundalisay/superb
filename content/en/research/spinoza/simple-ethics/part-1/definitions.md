@@ -1,19 +1,15 @@
+---
+title: "Definitions"
+image: "/covers/ethics.jpg"
+description: "Self—caused means something of which the essence involves existence"
+author: Spinoza
+weight: 4
+---
 
-+++
-title=  "Definitions"
 
-image=  "/covers/ethics.jpg"
-description=  "Self—caused means something of which the essence involves existence"
-linkf=  "/research/spinoza/simple-ethics/"
-linkftext=  "Index"
-linkb=  "/research/spinoza/simple-ethics"
-linkbtext=  "The Ethics"
-icon=  "/avatars/spinoza.png"
-+++
+<!-- ## Part 1=  God -->
 
-## Part 1=  God
-
-### Definitions= 
+## Definitions:
 
 1. Self—caused means something of which the essence involves existence.
 
@@ -29,18 +25,18 @@ For instance, a body is finite because we always conceive another greater body. 
 
 6. God means a being absolutely infinite. It is a substance consisting in infinite attributes, of which each expresses eternal and infinite essentiality. I say absolutely infinite, not infinite after its kind, for infinite attributes may be denied for a thing infinite only after its kind. But something absolutely infinite contains in its essence whatever expresses reality and involves no negation.
 
-7. A free thing is something= 
-    - that exists solely by the necessity of its own nature
-    - that does actions which are determined by itself alone.
+7. A free thing is something:
+- that exists solely by the necessity of its own nature
+- that does actions which are determined by itself alone.
 
 8. On the other hand, a thing is necessary, or rather constrained, if it is determined by something external to itself, to a fixed and definite method of existence or action.
 
 9. Eternity means existence itself, in so far as it is conceived necessarily to follow solely from the definition of that which is eternal.
-    - Existence of this kind is conceived as an eternal truth, like the essence of a thing.
-    - Therefore, it cannot be explained through continuance or time, though continuance may be conceived without a beginning or end.
+- Existence of this kind is conceived as an eternal truth, like the essence of a thing.
+- Therefore, it cannot be explained through continuance or time, though continuance may be conceived without a beginning or end.
 
 
-### Axioms
+## Axioms
 
 1. Everything which exists, exists either in itself or in something else.
 

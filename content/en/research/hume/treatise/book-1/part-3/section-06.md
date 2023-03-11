@@ -2,7 +2,7 @@
 title: "The Inference from the Impression to the Idea"
 heading: Section 6
 description: "The Impressions of the Senses and Memory Simplified"
-image: /covers/treatise.jpg
+image: /covers/treatise.png
 weight: 12
 author: David Hume
 icon: /avatars/hume.png

@@ -2,7 +2,7 @@
 title: "The Reason of Animals"
 heading: Section 16
 description: "Education is disclaimed by philosophy as a fallacious assent to any opinion"
-image: /covers/treatise.jpg
+image: /covers/treatise.png
 weight: 32
 author: David Hume
 icon: /avatars/hume.png

@@ -2,7 +2,7 @@
 title: "Physical Beauty"
 heading: "Section 6b"
 description: "One considerable source of BEAUTY in all animals is the advantage which they reap from the particular structure of their limbs and body parts"
-image: /covers/morals.jpg
+image: /covers/morals.png
 author: David Hume
 icon: /avatars/hume.png
 weight: 20

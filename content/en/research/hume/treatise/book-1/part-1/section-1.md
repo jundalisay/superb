@@ -2,7 +2,7 @@
 heading: "Section 1"
 title: "The Origin of Our Ideas"
 weight: 2
-image: /covers/treatise.jpg
+image: /covers/treatise.png
 description: "All Simple Ideas Initially Come from Simple Impressions as Sensory Perceptions and Feelings"
 author: David Hume
 icon: /icons/hume.png

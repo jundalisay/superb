@@ -2,7 +2,7 @@
 title: "Knowledge and Probability"
 heading: Part 3
 description: "Knowledge and Probability"
-image: /covers/treatise.jpg
+image: /covers/treatise.png
 weight: 6
 author: David Hume
 icon: /avatars/hume.png

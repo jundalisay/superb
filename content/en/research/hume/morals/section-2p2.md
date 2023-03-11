@@ -2,7 +2,7 @@
 heading: "Section 2b "
 title: "Justice"
 description: "The good of mankind is the only object of all the laws of justice. Men's possessions should be separated for the peace and interest of society"
-image: /covers/morals.jpg
+image: /covers/morals.png
 author: David Hume
 icon: /avatars/hume.png
 weight: 8

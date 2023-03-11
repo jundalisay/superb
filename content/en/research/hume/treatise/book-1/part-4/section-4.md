@@ -2,8 +2,8 @@
 title: "The Philosophy of Descartes -- Imagination"
 heading: Section 4
 description: "The fundamental principle of Descartes' philosophy is its opinion that colours, sounds, tastes, smells, and temperature are nothing but impressions in the mind"
-image: /covers/treatise.jpg
-weight: 8
+image: /covers/treatise.png
+weight: 10
 author: David Hume
 icon: /avatars/hume.png
 ---

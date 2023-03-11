@@ -1,5 +1,16 @@
-Section 6: Modes and Substances
-Modes and Substances are Just Simple Ideas Connected Together by the Mind
+---
+heading: "Section 6"
+title: "Modes and Substances"
+weight: 12
+image: /covers/treatise.png
+description: "Complex Ideas are Connected by Seven Kinds of Philosophical Relations"
+author: David Hume
+icon: /icons/hume.png
+---
+
+
+## Modes and Substances are Just Simple Ideas Connected Together by the Mind
+
 Some philosophers:
 
 founded so much of their reasonings on the distinction of substance and accident, and
@@ -7,11 +18,14 @@ imagined we have clear ideas of substance and accident.
 Is the idea of substance derived from the impressions of sensation or of reflection?
 
 If it is conveyed to us by our senses, which of them and how?
+
 If it is perceived by:
-the eyes, it must be a colour,
-the ears, a sound,
-the palate, a taste, and so of the other senses.
-Impressions of reflection
+- the eyes, it must be a colour,
+- the ears, a sound,
+- the palate, a taste, and so of the other senses.
+
+
+## Impressions of reflection
 
 No one will assert that substance is a colour, sound, or a taste.
 

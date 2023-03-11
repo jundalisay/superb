@@ -2,7 +2,7 @@
 title: "The Components of Our Reasonings on Cause and Effect"
 heading: Section 4
 description: "The Components of Our Reasonings on Cause and Effect Simplified"
-image: /covers/treatise.jpg
+image: /covers/treatise.png
 weight: 8
 author: David Hume
 icon: /avatars/hume.png

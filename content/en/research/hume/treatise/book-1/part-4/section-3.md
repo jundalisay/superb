@@ -2,7 +2,7 @@
 title: "The Philosophy of Aristotle -- Matter"
 heading: Section 3
 description: "Aristotle's Original Substance as a Universal Identity"
-image: /covers/treatise.jpg
+image: /covers/treatise.png
 weight: 8
 author: David Hume
 icon: /avatars/hume.png

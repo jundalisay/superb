@@ -2,7 +2,7 @@
 heading: "Section 2"
 title: "Probability and the Idea of Cause and Effect"
 weight: 4
-image: /covers/treatise.jpg
+image: /covers/treatise.png
 description: "The Limitation of the Mind Limits our Cognition of the Existence of Objects"
 author: David Hume
 icon: /icons/hume.png

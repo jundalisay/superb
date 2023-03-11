@@ -2,7 +2,7 @@
 title: "Qualities Useful To Ourselves"
 heading: "Section 6"
 description: "No quality is absolutely either blameable or praiseworthy. It is all according to its degree"
-image: /covers/morals.jpg
+image: /covers/morals.png
 author: David Hume
 icon: /avatars/hume.png
 weight: 18

@@ -1,13 +1,13 @@
-+++
-title=  "Definitions"
-description=  "Bondage is the human infirmity in moderating and checking the emotions."
-date=  2015-09-09
-image=  "/covers/ethics.jpg"
-linkb=  "/research/spinoza/simple-ethics/part-3"
-linkbtext=  "Part 3"
-linkf=  "/research/spinoza/simple-ethics/part-4/propositions-1-13"
-linkftext=  "props 1-13"
-+++
+---
+title: "Definitions"
+image: "/covers/ethics.jpg"
+description: "Bondage is the human infirmity in moderating and checking the emotions"
+author: Spinoza
+weight: 4
+---
+
+
+<!-- date=  2015-09-09 -->
 
 
 ## Preface

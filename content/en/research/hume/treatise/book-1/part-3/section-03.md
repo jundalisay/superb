@@ -2,7 +2,7 @@
 title: "Causes Always Arise from Consequence"
 heading: Section 3
 description: "Causes Always Arise from Consequence Simplified"
-image: /covers/treatise.jpg
+image: /covers/treatise.png
 weight: 6
 author: David Hume
 icon: /avatars/hume.png

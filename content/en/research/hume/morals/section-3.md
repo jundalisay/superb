@@ -2,7 +2,7 @@
 title: "Justice"
 heading: "Section 3 "
 description: "Is public utility the SOLE origin of justice? Are the benefits of justice the SOLE foundation of its merit?"
-image: /covers/morals.jpg
+image: /covers/morals.png
 author: David Hume
 icon: /avatars/hume.png
 weight: 12

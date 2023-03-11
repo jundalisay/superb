@@ -2,7 +2,7 @@
 heading: "Section 4"
 title: "Objections"
 weight: 8
-image: /covers/treatise.jpg
+image: /covers/treatise.png
 description: "Impressions always precede ideas. Every idea first appears as a correspondent impression"
 author: David Hume
 icon: /icons/hume.png
@@ -26,9 +26,11 @@ The ideas of space and time finally resolve themselves into indivisible parts, w
 They are inconceivable when not filled with something real and existent.
 The ideas of space and time are therefore not separate nor distinct ideas.
 They are merely ideas of the manner or order, in which objects exist.
+
 In other words, it is impossible to conceive:
-a vacuum and space without matter, or
-a time when there was no succession or change in any real existence.
+- a vacuum and space without matter, or
+- a time when there was no succession or change in any real existence.
+
 The intimate connection between these parts of our system is why we shall examine the objections against them.
 
 First are the objections against the finite divisibility of space.
@@ -37,21 +39,27 @@ Objection 1: It is more proper to prove this connection and dependence of the on
 According to schools, space is divisible to infinity because the system of mathematical points is absurd.
 The system of mathematical points is absurd because a mathematical point is a non-entity.
 Consequently, it can never create a real existence.
+
 This would be true if there were no medium between:
+- the infinite divisibility of matter, and
+- the non-entity of mathematical points.
 
-the infinite divisibility of matter, and
-the non-entity of mathematical points.
 But there are obviously media:
+- the colour or solidity on these points, and
+  - Colour and solidity cannot be extended infinitely, and this is why this medium proves the finite divisibility of space.
+- the system of physical points.
 
-the colour or solidity on these points, and
-Colour and solidity cannot be extended infinitely, and this is why this medium proves the finite divisibility of space.
-the system of physical points.
 A physical point is real space.
+
 A real space can never exist without parts different from each other.
+
 Wherever objects are different, they are distinguishable and separable by the imagination.
-Objection 2: This is derived from the need for penetration.
+
+
+## Objection 2: This is derived from the need for penetration.
 
 If space consisted of mathematical points, then a simple and indivisible atom that touches another, must necessarily penetrate it.
+
 It is impossible it can touch it by its external parts, from the very supposition of its perfect simplicity that excludes all parts.
 
 It must therefore touch it:

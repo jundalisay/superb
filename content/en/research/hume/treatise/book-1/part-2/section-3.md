@@ -2,7 +2,7 @@
 heading: "Section 3"
 title: "The Other Qualities of our Idea of Space and Time"
 weight: 6
-image: /covers/treatise.jpg
+image: /covers/treatise.png
 description: "Impressions always precede ideas. Every idea first appears as a correspondent impression"
 author: David Hume
 icon: /icons/hume.png

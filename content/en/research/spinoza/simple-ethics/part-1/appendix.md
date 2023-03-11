@@ -1,16 +1,14 @@
-+++
-title=  "Appendix"
-
-image=  "/covers/ethics.jpg"
-description=  "All things are predetermined by God, from his infinite power and not from his free will"
-linkf=  "/research/spinoza/simple-ethics/part-1/propositions-22-29"
-linkftext=  "Propositions 21"
-linkb=  "/research/spinoza/simple-ethics"
-linkbtext=  "The Ethics"
-+++
+---
+title: "Appendix"
+image: "/covers/ethics.jpg"
+description: "All things are predetermined by God, from his infinite power and not from his free will"
+author: Spinoza
+weight: 110
+---
 
 
-I have explained God's nature and properties, showing that he= 
+
+I have explained God's nature and properties, showing that he:
 - necessarily exists
 - is one
 - is and acts solely by the necessity of his own nature
@@ -23,39 +21,53 @@ All things are predetermined by God, from his infinite power and not from his fr
 
 Our misconceptions of God arise from us thinking that God acts as men act, with an end in view. They say that God made all things for man so that we might worship Him. This is false. This has caused prejudices about good and bad, right and wrong, beauty and ugliness, etc.
 
-We universally admit that everyone= 
+We universally admit that everyone:
 - is born ignorant of the causes of things,
 - has the desire to seek for what is useful to them, and
 - is conscious of such desire.
 
-It follows= 
-That people think themselves free inasmuch as they are conscious of their volitions and desires, and never even dream, in their ignorance, of the causes which have disposed them so to wish and desire.
-That people do all things for an end, namely, for that which is useful to them, and which they seek.
+It follows:
+- That people think themselves free inasmuch as they are conscious of their volitions and desires, and never even dream, in their ignorance, of the causes which have disposed them so to wish and desire.
+- That people do all things for an end, namely, for that which is useful to them, and which they seek.
+
 Thus it comes to pass that people only look for a knowledge of the final causes of events.
+
 When these are learned, they are content, as having no cause for further doubt.
+
 If they cannot learn such causes from external sources, they are compelled to turn to considering themselves, and reflecting what end would have induced them personally to bring about the given event.
+
 Thus they, necessarily judge other natures by their own.
+
 Further, as they find in themselves and outside themselves many means which assist them not a little in the search for what is useful, for instance, eyes for seeing, teeth for chewing, herbs and animals for yielding food, the sun for giving light, the sea for breeding fish, etc., they come to look on the whole of nature as a means for obtaining such conveniences.
+
 As they are aware that they found these conveniences and did not make them, they think they have cause for believing, that some other being has made them for their use.
+
 As they look upon things as means, they cannot believe them to be self—created;
 But, judging from the means which they are accustomed to prepare for themselves, they are bound to believe in some ruler or rulers of the universe endowed with human freedom, who have arranged and adapted everything for human use.
+
 They are bound to estimate the nature of such rulers (having no information on the subject) in accordance with their own nature.
-Therefore, they assert that the gods ordained everything for the use of man, in order to= 
-bind man to themselves and
-obtain from him the highest honor.
-Hence it also follows that everyone thought out for himself, according to his abilities, a different way of worshipping God, so that God might= 
-love him more than his fellows, and
-direct the whole course of nature for the satisfaction of his blind cupidity and insatiable avarice.
+
+Therefore, they assert that the gods ordained everything for the use of man, in order to:
+- bind man to themselves and
+- obtain from him the highest honor.
+
+Hence it also follows that everyone thought out for himself, according to his abilities, a different way of worshipping God, so that God might:
+- love him more than his fellows, and
+- direct the whole course of nature for the satisfaction of his blind cupidity and insatiable avarice.
+
 Thus, the prejudice developed into superstition, and took deep root in the human mind.
 For this reason, everyone strove most zealously to understand and explain the final causes of things.
 But in their endeavor to show that nature does nothing in vain, i.e. nothing which is useless to man, they only seem to have demonstrated that nature, the gods, and men are all mad together.
 Consider, I pray you.
+
 The result=  among the many helps of nature they were bound to find some hindrances, such as storms, earthquakes, diseases, etc.
+
 So they declared that such things happen, because the gods are angry at some wrong done to them by men, or at some fault committed in their worship.
 Experience day by day protested and showed by infinite examples, that good and evil fortunes fall to the lot of pious and impious alike.
 Still they would not abandon their inveterate prejudice.
 For it was easier for them to class such contradictions among other unknown things of whose use they were ignorant.
 and thus to retain their actual and innate condition of ignorance, than to destroy the whole fabric of their reasoning and start afresh.
+
 They therefore laid down as an axiom, that God's judgments far transcend human understanding.
 Such a doctrine might have been enough to conceal the truth from the human race for all eternity, if mathematics had not furnished another standard of verity in considering solely the essence and properties of figures without regard to their final causes.
 There are other reasons besides math, which might have caused men's minds to be directed to these general prejudices, and have led them to the knowledge of the truth.
@@ -68,12 +80,17 @@ It makes that which is by nature first to be last, and that which is highest and
 Passing over the questions of cause and priority as self—evident, it is plain from Props. 21, 22, 23 that the effect is most perfect which is produced immediately by God;
 The effect which requires for its production several intermediate causes is, in that respect, more imperfect.
 But if those things which were made immediately by God were made to enable him to attain his end, then the things which come after, for the sake of which the first were made, are necessarily the most excellent of all.
+
 Further, this doctrine does away with God's perfection.
 For, if God acts for an object, he necessarily desires something which he lacks.
+
 Certainly, theologians and metaphysicians draw a distinction between the object of want and the object of assimilation.
 Still they confess that God made all things for the sake of himself, not for the sake of creation.
+
 They are unable to point to anything prior to creation, except God himself, as an object for which God should act, and are therefore driven to admit (as they clearly must), that God lacked those things for whose attainment he created means, and further that he desired them.
+
 We must not omit to notice that the followers of this doctrine, anxious to display their talent in assigning final causes, have imported a new method of argument in proof of their theory—namely, a reduction, not to the impossible, but to ignorance.
+
 Thus, showing that they have no other method of exhibiting their doctrine.
 For example, if a stone falls from a roof on to someone's head and kills him, they will demonstrate by their new method, that the stone fell in order to kill the man.
 For, if it had not by God's will fallen with that object, how could so many circumstances (and there are often many concurrent circumstances) have all happened together by chance?
@@ -82,10 +99,13 @@ They will insist=  "But why was the wind blowing, and why was the man at that ve
 If you again answer, that= 
 the wind had then sprung up because the sea had begun to be agitated the day before the weather being previously calm, and
 the man had been invited by a friend,
-They will again insist= 
+
+They will again insist:
 "But why was the sea agitated, and why was the man invited at that time?"
 They will pursue their questions from cause to cause, until finally you take refuge in the will of God—in other words, the sanctuary of ignorance.
+
 So, again, when they survey the frame of the human body, they are amazed.
+
 Being ignorant of the causes of so great a work of art, conclude that it= 
 has been fashioned, not mechanically, but by divine and supernatural skill, and
 has been so put together that one part shall not hurt another.
@@ -112,14 +132,17 @@ The other abstract notions are nothing but modes of imagining, in which the imag
 Though they are considered by the ignorant as the chief attributes of things, inasmuch as they believe that everything was created for the sake of themselves;
 According as they are affected by it, style it good or bad, healthy or rotten and corrupt.
 For instance, if the motion which objects we see communicate to our nerves were conducive to health, the objects causing it are styled beautiful.
+
 If a contrary motion were excited, they are styled ugly.
 Things which are perceived through our sense of smell are styled fragrant or fetid.
 If through our taste, sweet or bitter, full-flavored or insipid.
 If through our touch, hard or soft, rough or smooth, etc.
 Whatsoever affects our ears is said to give rise to noise, sound, or harmony.
+
 In this last case, there are men lunatic enough to believe, that even God himself takes pleasure in harmony;
 Philosophers have persuaded themselves that the motion of the heavenly bodies gives rise to harmony.
 All of these show that everyone judges things according to the state of his brain, or rather mistakes for things the forms of his imagination.
+
 We need no longer wonder that there have arisen all the controversies we have witnessed, and finally skepticism.
 Human bodies agree in many respects.
 But they differ in very many others.

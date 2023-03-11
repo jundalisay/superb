@@ -2,7 +2,7 @@
 heading: "Section 5"
 title: "More Objections"
 weight: 10
-image: /covers/treatise.jpg
+image: /covers/treatise.png
 description: "The Idea of Space is Just Made Up of Points"
 author: David Hume
 icon: /icons/hume.png

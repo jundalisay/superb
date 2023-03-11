@@ -2,7 +2,7 @@
 title: "The Nature of Idea or Belief"
 heading: Section 7
 description: "The Impressions of the Senses and Memory Simplified"
-image: /covers/treatise.jpg
+image: /covers/treatise.png
 weight: 14
 author: David Hume
 icon: /avatars/hume.png

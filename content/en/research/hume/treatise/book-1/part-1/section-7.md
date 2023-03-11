@@ -1,21 +1,38 @@
-Section 7: Abstract Ideas
-Abstract or General Ideas are Specific Ideas Which are Given a Name
-A very material question has been asked whether abstract or general ideas are conceived by the mind in a general or particular way.
+---
+heading: "Section 7"
+title: "Abstract Ideas"
+weight: 12
+image: /covers/treatise.png
+description: "Are abstract or general ideas conceived by the mind in a general or particular way?"
+author: David Hume
+icon: /icons/hume.png
+---
 
-Identity
 
-George Berkeley, a great philosopher, has asserted that all general ideas are merely specific ideas annexed to a certain term, which:
-gives them a more extensive meaning, and
-makes them recall other individuals similar to them.
+
+## Abstract or General Ideas are Specific Ideas Which are Given a Name
+
+Are abstract or general ideas conceived by the mind in a general or particular way?
+
+<!-- Identity -->
+
+George Berkeley was a great philosopher. He has asserted that all general ideas are merely specific ideas annexed to a certain term, which:
+- gives them a more extensive meaning, and
+- makes them recall other individuals similar to them.
+
 For me, this is one of the greatest and most valuable discoveries recently made in the republic of letters.
+
 I shall confirm it by some arguments to put it beyond all doubt.
+
 When we create most of our general ideas, we abstract away from it every quantity and quality.
 
 An object continues to be regarded as part of its kind despite small changes in its space, time, and other properties.
 This is a dilemma that answers the nature of those abstract ideas.
 The abstract idea of a man represents men of all sizes and all qualities.
+
 This can only be done by representing:
 All possible sizes and all possible qualities at once, or
+
 This is absurd as it would imply an infinite capacity in the mind.
 No particular one at all.
 This is the common representation for our abstract ideas.

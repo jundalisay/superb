@@ -2,7 +2,7 @@
 title: "The Skeptical and Other Systems of Philosophy"
 heading: Part 4
 description: "The Skeptical and Other Systems of Philosophy Simplified"
-image: /covers/treatise.jpg
+image: /covers/treatise.png
 weight: 8
 author: David Hume
 icon: /avatars/hume.png

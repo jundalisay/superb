@@ -2,7 +2,7 @@
 title: "Qualities Immediately Agreeable To Others"
 heading: "Section 8"
 description: "The mutual shocks in SOCIETY and the oppositions of interest and ego have constrained mankind to establish the laws of JUSTICE, in order to preserve the advantages of mutual assistance and protection"
-image: /covers/morals.jpg
+image: /covers/morals.png
 author: David Hume
 icon: /avatars/hume.png
 weight: 24
@@ -10,7 +10,7 @@ weight: 24
 
 
 
-[Footnote=  The natural definition of virtue is **a quality of the mind agreeable to or approved of by every one who considers or contemplates it**. Some qualities produce pleasure because they are useful to society or to the person himself, Other qualities produce pleasure more immediately. This is the case with the class of virtues here.]
+[Hume Footnote: The natural definition of virtue is **a quality of the mind agreeable to or approved of by every one who considers or contemplates it**. Some qualities produce pleasure because they are useful to society or to the person himself, Other qualities produce pleasure more immediately. This is the case with the class of virtues here.]
 
 The mutual shocks in SOCIETY and the oppositions of interest and ego have constrained mankind to establish the laws of JUSTICE, in order to preserve the advantages of mutual assistance and protection.
 
@@ -59,17 +59,35 @@ He must be a very superficial thinker, who imagines that all instances of mutual
 
 Iphicrates, the Athenian, being accused of betraying the interests of his country, asked his accuser, WOULD YOU, says he, HAVE, ON A LIKE OCCASION, BEEN GUILTY OF THAT CRIME? BY NO MEANS, replied the other. AND CAN YOU THEN IMAGINE, cried the hero, that Iphicrates WOULD BE GUILTY? [Footnote=  Quinctil. lib. v. cap. 12.]—In short, a generous spirit and self-value, well founded, decently disguised, and courageously supported under distress and calumny, is a great excellency, and seems to derive its merit from the noble elevation of its sentiment, or its immediate agreeableness to its possessor. In ordinary characters, we approve of a bias towards modesty, which is a quality immediately agreeable to others=  the vicious excess of the former virtue, namely, insolence or haughtiness, is immediately disagreeable to others; the excess of the latter is so to the possessor. Thus are the boundaries of these duties adjusted.
 
-A desire of fame, reputation, or a character with others, is so far from being blameable, that it seems inseparable from virtue, genius, capacity, and a generous or noble disposition. An attention even to trivial matters, in order to please, is also expected and demanded by society; and no one is surprised, if he find a man in company to observe a greater elegance of dress and more pleasant flow of conversation, than when he passes his time at home, and with his own family. Wherein, then, consists Vanity, which is so justly regarded as a fault or imperfection. 
+A desire of fame, reputation, or a character with others, is so far from being blameable, that it seems inseparable from virtue, genius, capacity, and a generous or noble disposition.
 
-It seems to consist chiefly in such an intemperate display of our advantages, honours, and accomplishments; in such an importunate and open demand of praise and admiration, as is offensive to others, and encroaches too far on their secret vanity and ambition. It is besides a sure symptom of the want of true dignity and elevation of mind, which is so great an ornament in any character. For why that impatient desire of applause; as if you were not justly entitled to it, and might not reasonably expect that it would for ever at tend you? Why so anxious to inform us of the great company which you have kept; the obliging things which were said to you; the honours, the distinctions which you met with; as if these were not things of course, and what we could readily, of ourselves, have imagined, without being told of them?
+An attention even to trivial matters, in order to please, is also expected and demanded by society; and no one is surprised, if he find a man in company to observe a greater elegance of dress and more pleasant flow of conversation, than when he passes his time at home, and with his own family. Wherein, then, consists Vanity, which is so justly regarded as a fault or imperfection. 
 
-Decency, or a proper regard to age, sex, character, and station in the world, may be ranked among the qualities which are immediately agreeable to others, and which, by that means, acquire praise and approbation. An effeminate behaviour in a man, a rough manner in a woman; these are ugly because unsuitable to each character, and different from the qualities which we expect in the sexes. It is as if a tragedy abounded in comic beauties, or a comedy in tragic. The disproportions hurt the eye, and convey a disagreeable sentiment to the spectators, the source of blame and disapprobation. This is that INDECORUM, which is explained so much at large by Cicero in his Offices.
+It seems to consist chiefly in such an intemperate display of our advantages, honours, and accomplishments; in such an importunate and open demand of praise and admiration, as is offensive to others, and encroaches too far on their secret vanity and ambition.
 
-Among the other virtues, we may also give Cleanliness a place; since it naturally renders us agreeable to others, and is no inconsiderable source of love and affection. No one will deny, that a negligence in this particular is a fault; and as faults are nothing but smaller vices, and this fault can have no other origin than the uneasy sensation which it excites in others; we may, in this instance, seemingly so trivial, clearly discover the origin of moral distinctions, about which the learned have involved themselves in such mazes of perplexity and error.
+It is besides a sure symptom of the want of true dignity and elevation of mind, which is so great an ornament in any character. For why that impatient desire of applause; as if you were not justly entitled to it, and might not reasonably expect that it would for ever at tend you? Why so anxious to inform us of the great company which you have kept. 
+
+The obliging things which were said to you; the honours, the distinctions which you met with; as if these were not things of course, and what we could readily, of ourselves, have imagined, without being told of them?
+
+Decency, or a proper regard to age, sex, character, and station in the world, may be ranked among the qualities which are immediately agreeable to others, and which, by that means, acquire praise and approbation. An effeminate behaviour in a man, a rough manner in a woman.
+
+These are ugly because unsuitable to each character, and different from the qualities which we expect in the sexes. It is as if a tragedy abounded in comic beauties, or a comedy in tragic. The disproportions hurt the eye, and convey a disagreeable sentiment to the spectators, the source of blame and disapprobation. This is that INDECORUM, which is explained so much at large by Cicero in his Offices.
+
+Cleanliness is also a virtue since it:
+- naturally renders us agreeable to others, and
+- is a considerable source of love and affection.
+
+Not being clean is a fault.
+
+Faults are just smaller vices. This fault can have no other origin than the uneasy sensation which it excites in others. 
+
+Here in this trivial instance, we clearly discover the origin of moral distinctions, about which the learned have involved themselves in such mazes of perplexity and error.
 
 But besides all the AGREEABLE qualities, the origin of whose beauty we can, in some degree, explain and account for, there still remains something mysterious and inexplicable, which conveys an immediate satisfaction to the spectator, but how, or why, or for what reason, he cannot pretend to determine. There is a manner, a grace, an ease, a genteelness, an I-know-not-what, which some men possess above others, which is very different from external beauty and comeliness, and which, however, catches our affection almost as suddenly and powerfully. 
 
-And though this MANNER be chiefly talked of in the passion between the sexes, where the concealed magic is easily explained, yet surely much of it prevails in all our estimation of characters, and forms no inconsiderable part of personal merit. This class of accomplishments, therefore, must be trusted entirely to the blind, but sure testimony of taste and sentiment; and must be considered as a part of ethics, left by nature to baffle all the pride of philosophy, and make her sensible of her narrow boundaries and slender acquisitions.
+And though this MANNER be chiefly talked of in the passion between the sexes, where the concealed magic is easily explained, yet surely much of it prevails in all our estimation of characters, and forms no inconsiderable part of personal merit.
+
+This class of accomplishments, therefore, must be trusted entirely to the blind, but sure testimony of taste and sentiment; and must be considered as a part of ethics, left by nature to baffle all the pride of philosophy, and make her sensible of her narrow boundaries and slender acquisitions.
 
 We approve of another person because of his wit, politeness, modesty, decency, or any agreeable quality which he possesses. 
 

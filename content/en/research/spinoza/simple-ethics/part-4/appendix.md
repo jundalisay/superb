@@ -1,15 +1,11 @@
-+++
-title=  "Appendix"
-heading=  "Part 4"
-date=  2015-09-09
-image=  "/covers/ethics.jpg"
-description=  "All our endeavours or desires so follow from the necessity of our nature, that they can be understood either through it alone"
-linkb=  "/research/spinoza/simple-ethics"
-linkbtext=  "The Ethics"
-linkf=  "/research/spinoza/simple-ethics/part-5"
-linkftext=  "Part 5"
-# btext=  Appendix
-+++
+---
+title: "Appendix"
+image: "/covers/ethics.jpg"
+description: "All our endeavours or desires so follow from the necessity of our nature, that they can be understood either through it alone"
+author: Spinoza
+weight: 104
+---
+
 
 I arrange the right way of life piece—meal.
 

@@ -53,6 +53,8 @@ In France, Montesquieu called these estates: Farmers, Church and Nobility, Merch
 Russia is composed only of slaves employed in agriculture [first estate] and slaves called ecclesiastics or the gentlemen lords of those slaves [second estate]. There is then nobody left for the third estate of mechanics and merchants.
 </div>
 
+
+
 After the French revolution, this became known as the <i>Left Wing and Right Wing</i>, with the peasants and merchants going to the Left and the nobility and the church going to the right. We match modern terminology with that of Socrates so that:
 - Socratic Liberal = Democrat (Peasants, Farmers, Employees)
 - Socratic Neocon = Tyrant (Imperialists, Dictators, Military)

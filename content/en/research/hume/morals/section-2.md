@@ -2,7 +2,7 @@
 title: "Benevolence"
 heading: "Section 2"
 description: "In men of more ordinary talents and capacity, the social virtues become more needed."
-image: /covers/morals.jpg
+image: /covers/morals.png
 author: David Hume
 icon: /avatars/hume.png
 weight: 6

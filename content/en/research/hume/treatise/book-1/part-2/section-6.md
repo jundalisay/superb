@@ -2,7 +2,7 @@
 heading: "Section 6"
 title: "The Idea of Existence and External Existence"
 weight: 12
-image: /covers/treatise.jpg
+image: /covers/treatise.png
 description: "The Idea of Space is Just Made Up of Points"
 author: David Hume
 icon: /icons/hume.png

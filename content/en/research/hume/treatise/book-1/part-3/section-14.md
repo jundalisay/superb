@@ -2,7 +2,7 @@
 title: "Cause and Effect Need to be Tied to Each Other"
 heading: Section 14
 description: "Education is disclaimed by philosophy as a fallacious assent to any opinion"
-image: /covers/treatise.jpg
+image: /covers/treatise.png
 weight: 28
 author: David Hume
 icon: /avatars/hume.png

@@ -1,15 +1,14 @@
 ---
 heading: "Section 5"
-title: "Spinoza's Philosophy -- The Soul's Immateriality"
-weight: 1
-image: /covers/treatise.jpg
-description: ""
+title: "A Feeling or Perception Cannot Be Bound By Dimensions"
+weight: 30
+image: /covers/treatise.png
+description: "Philosophers say that the soul is immaterial because it exists in divisible physical space"
 author: David Hume
 icon: /icons/hume.png
 ---
 
 
-## A Feeling or Perception Cannot Be Bound By Dimensions
 
 Philosophers say that the soul is immaterial because it exists in divisible physical space. 
 
@@ -35,6 +34,7 @@ These are all absurd and contradictory.* No one can think of a feeling that has:
 - a thickness of 1 centimeter.
 
 > *Superphysics Note: Hume's error is in not knowing the those philosophers were referring to metaphysical space which is also indivisible as one metaphysical idea. His error is in comparing a metaphysical feeling in physical kilometers or meters. In other words, the indivisible metaphysical feeling is the same as, and of the same material as, the indivisible metaphysical space.  
+
 
 Thought and space are totally incompatible.
 - They can never be put together in one subject.

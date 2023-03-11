@@ -2,7 +2,7 @@
 title: "Qualities Immediately Agreeable To Ourselves"
 heading: "Section 7"
 description: "A sad group of people sometimes has a lively member who suddenly animates their conversation. Such a cheerfulness carries great merit with it and most more readily communicates itself all around"
-image: /covers/morals.jpg
+image: /covers/morals.png
 author: David Hume
 icon: /avatars/hume.png
 weight: 22
