@@ -4,11 +4,11 @@ heading: "Fiscal and Monetary Reform (Industry and Trade Factors)"
 date: 2015-04-15
 image: "/flags/gr.png"
 description: "We suggest fixing Greece through Fiscal and Trade Systems Reform"
-# author: Juan
 icon: "/flags/gr.png"
 aliases:
   /social/cycles/how-to-fix-greece
 ---
+
 
 
 We can use our [DCTI tool](/social/economics/principles/dcti) to analyze the Greek crisis to prove that the current solutions of austerity and high taxes are not the best ones. Such solutions are are a relic of the mercantile way of thinking of an economy as a business, instead of, naturally, as a society, family, or group of friends. The proper solution will involve the whole EU and will help the union stay together*.
@@ -72,7 +72,7 @@ Small republics sometimes derived a big revenue from the profit of mercantile pr
 
 Smith explained that debt is good for the merchant class, but bad for the ruling and working classes because it does not always increase the society’s productive capital and frequently drains it away through unproductive uses:
 
-{{< quote ava="smith" >}}
+{{< q a="smith" >}}
 In return for the capital they advanced, the creditors obtained an annuity in the public funds of more than equal value. This annuity replaced their capital and carry on their trade and business to a greater extent than before. 
 <br><br>
 However, this new capital which they bought or borrowed from other people must have existed in the country before. It must have been employed in maintaining productive labour. 
@@ -81,7 +81,8 @@ When it came into the hands of those who had advanced their money to government,
 <br><br>
 It was just a capital withdrawn from certain employments to be turned towards others. It replaced to them what they had advanced to government, but it did not replace it to the country.
 <cite>The Wealth of Nations Simplified, Book 5, Chapter 3</cite>
-{{< /quote >}}
+{{< /q >}}
+
 
 In the Greek case, the merchant class as the German and French banks had an interest in lending unnatural amounts to Greece for self-profit. On the other hand, the corrupt Greek government, as the ruling class, had an interest in borrowing unnaturally also for self-profit. 
 
@@ -106,11 +107,12 @@ Such regulations may be considered a violation of natural liberty. But those exe
 
 Based on the chart below, Greece’s government spending, as a percentage of GDP, has been high since 2004 and highest in 2009, higher than Spain or Ireland (except for 2010).
 
-![GDP of Greece](https://sorasystem.sirv.com/charts/go/gr.png)
+<!-- ![GDP of Greece](https://sorasystem.sirv.com/charts/go/gr.png)
 
 ![GDP of Spain](https://sorasystem.sirv.com/charts/go/es.png)
 
-![GDP of Ireland](https://sorasystem.sirv.com/charts/go/ie.png)
+![GDP of Ireland](https://sorasystem.sirv.com/charts/go/ie.png) -->
+
 
 In short, Greece’s monetary problem, sparked by the 2008 Credit Crunch, exposed its fiscal problem: that **its government was spending non-productively and unsustainably while banks kept on feeding it**. This in turn is likely due to Greece seeing EU membership as its ticket to riches:
 

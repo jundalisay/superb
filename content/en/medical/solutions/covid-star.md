@@ -55,7 +55,7 @@ From here, we can suggest the following policies:
 3. Tap the long experience of China-Taiwan on flu prevention and treatment*
 4. By extending Kepler's Harmonic Ratios, we hypothesize that the Spanish Flu ended with the end of WWI which cut the harmonic link between the Flu star and Earth. So we likewise suggest to end the War against the Amazon rainforest to cut the link between the Covid star and Earth to make Covid harmless like the flu
 
-> *China treats 85% of the COVID-19 patients using [traditional medicines](https://link.springer.com/article/10.1007/s15010-021-01734-2) such as root extract of Isatis indigotica and extract of Houttuynia cordata
+> *China treats 85% of the COVID-19 patients using [traditional medicines](https://www.frontiersin.org/articles/10.3389/fphar.2022.928106/full) such as root extract of Isatis indigotica and extract of Houttuynia cordata
 
 
 

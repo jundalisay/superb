@@ -53,8 +53,6 @@ Proof of the lack of natural morality in business transactions is the prevalence
 {{< img alt="Fraud Banking" src="https://sorasystem.sirv.com/charts/fraudbanking.jpg" cap="Morality advancement does not correlate with Material advancement" >}}
 
 
-![Fraud in the US](https://sorasystem.sirv.com/charts/fraudus.jpg)
-
 
 ## Solution: Economic Social Contracts as a Tool of Trade
 
@@ -62,7 +60,7 @@ Morality might not enter money and numbers, but it surely enters agreements, as 
 
 {{< q a="hume" >}}
 To distinguish the interested commerce* from the disinterested one, the interested commerce is called a promise. A promise is the sanction of the interested commerce of mankind. When a man promises anything, he expresses a resolution to perform it. By using the word ‘promise’, he subjects himself to the penalty of never being trusted again in case of failure.. Interest is the first obligation to the performance of promises. Afterwards, a sentiment of morals concurs with interest, and becomes a new obligation on mankind..This sentiment of morality in the performance of promises, arises from the same principles as the sentiment in the abstinence from the property of others..The obligation of promises is an invention for the interest of society. 
-<cite>Simple Treatise of Human Nature</cite>
+<cite>A Treatise of Human Nature Simplified</cite>
 {{< /q >}}
 
 
@@ -75,7 +73,7 @@ In contrast, a money-based system only requires physical money for a successful 
 
 {{< q a="soc" >}}
 The men of business stoop as they walk. They pretend not to see those whom they have already ruined. They insert their sting—their money—into someone else who is not on his guard against them. They recover the parent sum many times over multiplied into a family of children sums. And so they make drone and pauper to abound in the State. The evil blazes up like a fire. They will not extinguish it.. by letting every one enter into voluntary contracts at his own risk. This will compel the citizens to look to their characters and reduce this scandalous money-making. 
-<cite>The Simple Republic by Plato</cite>
+<cite>The Republic by Plato Simplified</cite>
 {{< /q >}}
 
 

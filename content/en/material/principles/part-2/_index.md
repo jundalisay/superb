@@ -1,4 +1,5 @@
 ---
+heading: Part 2
 title: "The Spatial Layer (Spacetime)"
 linkTitle: Spatial
 description: "We introduce the principles of Superphysics"

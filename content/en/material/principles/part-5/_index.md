@@ -1,4 +1,5 @@
 ---
+heading: Part 5
 title: "The Material Layer (Strong Force)"
 linkTitle: Material
 description: "The Material Layer is the crudest layer in Existence and manifests as solid objects"

@@ -3,7 +3,7 @@ title: "War on Adobo"
 date: 2022-03-28
 heading: The Promotion of Sinigang
 description: "Sinigang is the best example of Maharlikan food and should be promoted over the unhealthy Filipino food called adobo"
-image: "/food/sinig.jpg"
+image: "/photos/food/sinig.jpg"
 author: Juan
 icon: /icons/sun.png
 ---
@@ -26,7 +26,7 @@ From Spain:
 - Beef Tapa
 - Sisig (from American pork excess)
 
-{{< img src="/food/adobopork.jpg" alt="Adobo" cap="Philippine Adobo is full of cholesterol and oils, keeping heart disease and high healthcare costs near" >}}
+{{< img src="/photos/food/adobopork.jpg" alt="Adobo" cap="Philippine Adobo is full of cholesterol and oils, keeping heart disease and high healthcare costs near" >}}
 
 From China:
 - Soy sauce

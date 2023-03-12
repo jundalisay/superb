@@ -20,7 +20,8 @@ Have you wondered why negative ions make us feel positive, and positive ions mak
 
 That's because electrons are really positively charged! [Benjamin Franklin](https://whyy.org/articles/does-our-confusing-electrical-nomenclature-start-with-ben-franklins-theory) made a mistake when he called electrons as negative. Rather than confuse everyone by calling the negative as positive, we'd rather call the negative as 'feminine charge', the positive as a 'masculine charge', and neutral as a 'bisexual charge'. 
 
-![Electrons](https://sorasystem.sirv.com/screens/electron.png)
+
+{{< img src="/graphics/physics/elec.jpg" alt="Superphysics Electron" cap="In Superphysics, electrons have a masculine charge" >}}
 
 
 {{< q >}}

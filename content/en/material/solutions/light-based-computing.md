@@ -25,8 +25,10 @@ This tapping onto the dynamic wave-nature of light is a marked advancement over 
 
 Examples or precusors of dynamic wavelength technologies are: 
 
-- [the use of short bursts of light to store more data](https://www.tue.nl/en/news/news-overview/10-01-2019-next-generation-photonic-memory-devices-are-light-written-ultrafast-and-energy-efficient/)
+- [the use of short bursts of light to store more data](https://phys.org/news/2019-01-photonic-memory-devices-light-written-ultrafast.html)
 - [the use of light-based in-memory processors by IBM](https://www.zdnet.com/article/ibm-is-using-light-instead-of-electricity-to-create-ultra-fast-computing/) using different optical wavelengths for each calculation
+
+<!-- https://www.ibm.com/blogs/research/2019/02/photonic-memory-devices/ -->
 
 
 ## Why Light-based Computing is Important to Superphysics
