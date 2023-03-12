@@ -4,7 +4,7 @@ title: "How the English Government became Absolute"
 # date: 2015-09-14
 weight: 22
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The great wealth of English kings relative to their feudal lords allowed them to become absolute"
 ---

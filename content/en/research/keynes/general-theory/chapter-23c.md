@@ -4,7 +4,7 @@ description: "Silvio Gesell (1862-1930) is an unduly neglected prophet. His work
 image: "/covers/general.jpg"
 # date: 2019-12-10
 weight: 108
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 

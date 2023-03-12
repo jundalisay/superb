@@ -5,7 +5,7 @@ description: "Humanity is a gentle virtue, self-command is an austere virtue."
 date: 2015-09-10
 image: "/covers/tms.jpg"
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

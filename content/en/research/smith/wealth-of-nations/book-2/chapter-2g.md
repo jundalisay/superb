@@ -5,7 +5,7 @@ weight: 22
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Prudent banks were able to reduce their expenses, judge their debtors' situation, and avoid financial crises"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

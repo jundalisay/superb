@@ -1,14 +1,15 @@
-+++
-title= "Part 14= Society"
-heading= "Chapters 29, 17-20"
-description= "A society is a spirit-like thing"
-date= 2021-09-15
-image= "/covers/tao.jpg"
-linkb= "/research/laotzu/tao-te-ching/part-13-wealth"
-linkbtext= "Wealth"
-linkf= "/research/laotzu/tao-te-ching/part-15-state"
-linkftext= "State"
-+++
+---
+heading: "Part 14: Chapters 29, 17-20"
+title: "Society"
+description: "A society is a spirit-like thing"
+image: "/covers/tao.jpg"
+# date: 2020-01-29
+weight: 28
+icon: "/avatars/lao.png"
+author: Lao Tzu
+---
+
+
 
 ## Chapter 29: Society
 

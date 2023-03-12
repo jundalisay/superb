@@ -3,7 +3,7 @@ heading: Chapter 8
 title: "Exclusive Privileges"
 date: 2015-09-16
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Exclusive privileges raise prices and reduce quality of goods and services"
 ---

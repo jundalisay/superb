@@ -6,7 +6,7 @@ description: "The Multiplier in our theory of employment is a definite ratio bet
 # date: 2020-11-18
 weight: 44
 author: John Maynard Keynes
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 

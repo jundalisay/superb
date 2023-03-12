@@ -5,7 +5,7 @@ description: "The impartial spectator does not always need to be far to pervert 
 date: 2015-09-08
 image: "/covers/tms.jpg"
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

@@ -3,7 +3,7 @@ heading: Chapter 1
 title: "First way of acquiring Property: Occupation"
 date: 2015-09-30
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The first way of acquiring Property is Occupation"
 ---

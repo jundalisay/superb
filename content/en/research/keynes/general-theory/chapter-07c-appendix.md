@@ -5,7 +5,7 @@ description: "The Classical theory of value has an important concept called the 
 image: "/covers/general.jpg"
 # date: 2020-11-30
 weight: 32
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 

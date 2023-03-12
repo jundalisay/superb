@@ -6,7 +6,7 @@ description: "Keynes counters the classical interest rate"
 # date: 2020-11-05
 weight: 58
 author: John Maynard Keynes
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 

@@ -5,7 +5,7 @@ description: "Misfortunes make our feelings extreme"
 date: 2015-09-16
 image: "/covers/tms.jpg"
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

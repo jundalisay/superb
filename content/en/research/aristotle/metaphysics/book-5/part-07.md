@@ -5,7 +5,7 @@ weight: 8
 image: "/covers/meta.jpg"
 author: Aristotle
 description: "Aristotle defines being"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 "Things are said to 'be':

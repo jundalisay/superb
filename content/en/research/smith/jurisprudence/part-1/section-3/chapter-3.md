@@ -3,7 +3,7 @@ heading: Chapter 3
 title: "Third way of acquiring Property: Prescription"
 date: 2015-09-26
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Prescription is founded on the supposed attachment of the possessor to what he has possessed for a long time, and the supposed detachment of the old possessor to what he no longer has possessed for a long time"
 ---

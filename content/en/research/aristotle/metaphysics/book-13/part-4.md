@@ -5,7 +5,7 @@ weight: 6
 image: "/covers/meta.jpg"
 description: "I am not convinced of the existence of Forms. From some, no inference necessarily follows. From some, arise Forms even of things of which they think there are no Forms"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

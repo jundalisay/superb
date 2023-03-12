@@ -5,7 +5,7 @@ description: "A line commensurable with a Medial line is a Medial by 24 of the s
 image: /covers/harmony.jpg
 weight: 9
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

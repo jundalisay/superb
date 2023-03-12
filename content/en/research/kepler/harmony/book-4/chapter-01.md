@@ -5,7 +5,7 @@ description: "Being on the point of examining the essence of the harmonies, I fi
 image: /covers/harmony.jpg
 weight: 6
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

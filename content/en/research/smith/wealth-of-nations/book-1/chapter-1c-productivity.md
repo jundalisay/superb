@@ -5,7 +5,7 @@ weight: 10
 author: Adam Smith"
 image: "/covers/wn.jpg"
 description: "The division of labour greatly increases productivity"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

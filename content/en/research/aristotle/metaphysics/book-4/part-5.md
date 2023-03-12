@@ -5,7 +5,7 @@ weight: 8
 author: Aristotle
 image: "/covers/meta.jpg"
 description: "Those who really feel the difficulties have been led to this opinion by observation of the sensible world."
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

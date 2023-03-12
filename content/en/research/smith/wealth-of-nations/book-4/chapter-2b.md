@@ -5,7 +5,7 @@ description: "Merchants and manufacturers derive the greatest advantage from thi
 image: /covers/wn.jpg
 weight: 20
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 --- 
 
 

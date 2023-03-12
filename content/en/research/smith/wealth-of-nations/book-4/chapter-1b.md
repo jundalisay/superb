@@ -5,7 +5,7 @@ description: "The effective demand is the demand of the people who are willing t
 image: /covers/wn.jpg
 weight: 12
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 --- 
 
 

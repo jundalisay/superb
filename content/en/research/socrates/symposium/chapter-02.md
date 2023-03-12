@@ -5,7 +5,7 @@ weight: 4
 author: Plato
 image: "/covers/sym.png"
 description: "Socrates tells Crito of his vision"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

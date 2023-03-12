@@ -4,7 +4,7 @@ description: "When once the Epicureans were thus come to explain the matter so n
 image: "/covers/lesage.jpg"
 # date: 2023-02-15
 weight: 8
-# icon: "/icons/laotzu.png"
+icon: /avatars/lesage.png
 author: Le Sage
 ---
 

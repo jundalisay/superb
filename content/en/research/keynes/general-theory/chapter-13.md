@@ -6,7 +6,7 @@ description: "According to Keynes, the interest rate is based on the love for ca
 # date: 2020-11-09
 weight: 54
 author: John Maynard Keynes
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 

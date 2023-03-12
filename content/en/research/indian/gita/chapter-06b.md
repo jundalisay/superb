@@ -5,7 +5,7 @@ weight: 13
 author: "Vyasa"
 description: "The region of high rest which Sankhyans reach Yogins attain"
 image: "/covers/gita.jpg"
-icon: "/icons/krishna.png"
+icon: "/avatars/krishna.png"
 ---
 
 

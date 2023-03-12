@@ -5,7 +5,7 @@ weight: 104
 image: "/covers/wn.jpg"
 description: "The living instrument, the artificer, was also not allowed to go free as proven by the 5th George 1st chapter 27"
 author: Adam Smith
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

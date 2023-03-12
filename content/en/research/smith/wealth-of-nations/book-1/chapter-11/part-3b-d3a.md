@@ -5,7 +5,7 @@ weight: 30
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Rude produce may be divided into three"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

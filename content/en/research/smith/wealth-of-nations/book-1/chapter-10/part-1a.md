@@ -5,7 +5,7 @@ weight: 56
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "There are five factors affecting the differences in profits and wages"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

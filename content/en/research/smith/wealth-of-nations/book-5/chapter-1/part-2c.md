@@ -5,7 +5,7 @@ weight: 18
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The necessity of civil government gradually grows up with the acquisition of valuable property"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

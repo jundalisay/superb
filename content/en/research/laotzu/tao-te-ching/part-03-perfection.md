@@ -1,13 +1,12 @@
 ---
-heading: "Chapters 7-9"
-title: "Part 3: Perfection"
+heading: "Part 3: Chapters 7-9"
+title: "Perfection"
 description: "The Knowers of the Tao or True Nature have minds that are active and expanded"
 image: "/covers/tao.jpg"
 # date: 2020-01-29
 weight: 8
-icon: "/icons/laotzu.png"
+icon: "/avatars/lao.png"
 author: Lao Tzu
-# date= 2021-09-28
 ---
 
 

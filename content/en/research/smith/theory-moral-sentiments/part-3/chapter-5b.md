@@ -5,7 +5,7 @@ description: "The general rules which distribute prosperity and adversity are pe
 date: 2015-09-04
 image: "/covers/tms.jpg"
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

@@ -5,7 +5,7 @@ description: "Prudence Justice Beneficence"
 weight: 44
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

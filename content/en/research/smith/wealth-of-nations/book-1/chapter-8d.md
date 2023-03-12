@@ -5,7 +5,7 @@ weight: 44
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Wages in Great Britain"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

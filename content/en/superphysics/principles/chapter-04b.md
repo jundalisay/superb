@@ -19,37 +19,82 @@ comments:
 ---
 
 
-The previous chapter explained that reality is made up of long chains of cause and effects, as karma-samskara-karma. A long series of chains gains the dynamics of a wave. 
+Reality is made up of long perception-chains of cause and effects, called by the Hindus as ''karma-samskara-karma'. A long series of chains gains the dynamics of a wave. This wave we can split into 3 states:
 
-Superphysics is based on waves which need linear algebra to notate and compute. Moverover, no wave exists alone - all waves and even parts of the same wave are analogous or relative to another. This is different from particles which are discrete and can exist all alone. 
+1. Karma-Action State 1
+2. Samskara-Pending State 2
+3. Karma-Reaction State 3 
 
+We can extend this wave to have more states.
 
-## Particle-based Math
+{{< img src="/graphics/physics/wave.jpg" alt="Wave" cap="A wave is made up of many different states which reveal a hidden focus or dharma which we call a 'gravitational signature' to make it sound scientific" >}}
 
-An example of a 'particle-based' equation is Newton's second law:
+We can know why State 7 is the way it is if we look at all its states from 1 to 6. We can then use this knowledge to predict its future states. We can write this as:
 
-
-``` elixir
-F = ma
+```elixir
+State 1 : State 3 : State 5 :: State 7
 ```
 
-An example of a 'wave-based' equation is that of Maxwell:
+We do not notate States `2`, `4`, and `6` since they are pending reactions to States `1`, `3`, and `5`, respectively and have no objective manifestation in reality.  
 
-``` elixir
-∮B→⋅dℓ→=μ0(I+ddt(ε0∫E→⋅dA→))
+---
+
+
+The colon means 'relative to' or 'compared to', and is a fundamental part of our proposed 'Qualimath'. 
+
+This is different from normal math which uses 'deltas' which compares the object with itself at different states. This is because math focuses on the object itself and not on the totality of the reality where that object is in.
+
+For example, a basic math equation is `1 + 1 = 2`. This can be visualized by:
+
+{{< img src="/graphics/physics/line.jpg" alt="Line" cap="Addition of distance leads to a new location" >}} 
+
+Notice how this is overly simplistic and does not expand on cause and effect. We turn this into qualimath by adding the necessary parts:
+
+{{< img src="/graphics/physics/linequali.jpg" alt="Line" cap="We qualimath a line" >}}
+
+Here, we expose that the focus of the equation or line is itself. The qualimath equation is `State 1 :: State 2` which we deconstruct as:
+
+```elixir
+(1 + 1) :: 2
 ```
 
-Such equations are common in linear algebra which might be too complicated for most people. <!-- For example, it wouldn't be so easy for most people to understand the video below: {{< youtube >}} --> The problem is that pure math is quantitative in nature and not qualitative. Because of this, everything has to be defined beforehand. <!-- For example, in the video, Maxwell’s equation is given as: --> It's easy to know what is meant by `F` `m` `a`, but it's harder to know what `dℓ ∮B μ0 I ddt ε0∫E dA` mean.
+This leads to the same output as the `1 + 1 = 2` of normal math, while imposing the following mental changes:
 
-The problem is that the processes such as `dℓ` must accommodate numerical variables* such as `dA` in order to come up with a result, as a number. This requires all of the processes to be known. If one is wrong, then the answer is automatically wrong. 
-
-> *The variables represent shortcuts which then come from a quality of convenience which come from the laziness or staticity of mind. 
-
-
-It would be like requiring a house-builder to know a house’s entire blueprint before the house is built. This limits the number of house-builders to a few, reducing the number of new houses. Now think that those people are spaceship-builders and navigators instead of house-builders, and you will see an extreme shortage that will increase the cost of space-travel accordingly.
+- `1 + 1` is a rigid ratio of `2`, not an equality. This makes it flexible and anti-dogma. This is useful when it comes to constants
+- Both sides have the same importance
+- A straight-line equation would imly that the focus is on the line itself. The concept of a *focus* is super important as it is the basis of gravitational signatures, the hierarchy of the universe, and Descartes' [First and Third Rules of Movement](/material/principles/intro/chapter-03) 
 
 
-{{< img src="https://sorasystem.sirv.com/graphics/equation.jpg" alt="Equation" >}}
+## A More Complex Example
+
+Let's say we want to convert `17 * 19 = 323` to Qualimath. This will create 3 states in our sandbox:
+
+- State 1 for `17`
+- State 2 for `19`
+- State 3 for the `answer`
+
+We notate this as `State 1 :: State 3`, deconstructed as `(17 * 19) :: answer` 
+
+We use Egyptian Math, as Al-Khwarizmis algorithms, to deconstruct `17` (State 1) into its doubles as a ratio of the doubles of `19` (State 2).
+
+{{< youtube wciL_yCmZe8 >}}
+
+
+State 1: 17 | State 2: 19 
+--- | ---
+**1** | **19**
+2 | 38
+4 | 76
+8 | 152
+**16** | **304**
+
+
+We use State 1 as the focus and add the corresponding values in State 2 to get State 3 as `323`. 
+
+<!-- We can add to this equation such as multiplying `323` by `2` to get `646`. -->
+
+
+This use of states and foci greatly simplifies math instead of making it boring and burdensome.  
 
 
 {{< q a="descartes" >}}
@@ -58,18 +103,21 @@ Modern algebra has so many certain rules and formulas that it is full of confusi
 {{< /q >}}
 
 
-## Wave-Based Math
 
 ### Decon Notation: Solving the Measurement Problem
 
-To get around this shortage, we will use *the qualitative aspects of waves* that combines its qualities such as amplitude, oscillation, vector, wavelength, etc. For example, in `Wave 1 + Wave 2 = Wave 3`, we assign qualities instead of numbers and processes so we can arrive at the general outcome faster. 
+We can further simplify math by assigning qualities to our deconstructed equations since waves are more qualitative than quantitative in nature.   
 
-The `+` and `=` represent the natural operations of the human mind. The minds of less advanced species, such as penguins, might be capable of `+` and `-`, but are not capable of `*` or `/`. Likewise, human minds are limited to `=` and do not dwell so much on `:` or on its variations. 
+<!-- To get around this shortage, we will use *the qualitative aspects of waves* that combines its qualities such as amplitude, oscillation, vector, wavelength, etc.  -->
 
-Since it deals with qualities instead of quantities, we can call it **Decon Notation** and its underlying system as **Quali-math**. This also solves measurement problems by allowing anyone to create a *subjective* measure. 
+For example, in `Wave 1 + Wave 2 = Wave 3`, we assign qualities instead of numbers and processes so we can arrive at the general outcome faster. 
 
+The `+` and `=` represent the natural operations of the human mind. The minds of less advanced species, such as penguins, might be capable of `+` and `-`, but are not capable of `*` or `/`. Likewise, human minds are limited to `=` and do not dwell so much on `:` which reqresents the hidden connection between things. 
 
-Assuming a predefined intuitive range of qualitative* values:
+<!-- Since it deals with qualities instead of quantities, we can call it **Decon Notation** and its underlying system as **Quali-math**.  -->
+
+This solves measurement problems by allowing anyone to create a *subjective* measure. For example, assuming a predefined intuitive range of qualitative* values which *focus* on looks:
+
 
 ``` elixir
 abominable, hideous, very ugly, ugly, unattractive, soso, pretty, beautiful, very beautiful, gorgeous, drop-dead gorgeous
@@ -97,12 +145,12 @@ dep + dep = rat dep
 ```
 
 
-> *This is important because Superphysics uses many non-English words like aether, monad, jiva, atman, bhuta, guna, chi, wu-xing, etc. In fact, we propose an overhaul of English, as Lish, to make it more intuitive. For example, add 's' to pluralize nouns so that oxs, datas, childs would be correct.
+> *This is important because Superphysics uses many non-English words like aether, monad, jiva, atman, bhuta, guna, chi, wu-xing, etc. In fact, we propose an overhaul of English, as Lish, to make it more intuitive. For example, add 's' to pluralize nouns so that oxs, datas, childs would be correct. But that is a totally different topic.
 
 
 <!-- In a future post, we will expand this into chemical compounds computation, and in linear algebra to produce general qualitative outcomes instead of exact quantitative answers.  -->
 
-A sample implementation is our use of ["male and female" charges](/material/electrons-are-positive) for particles instead of the "positive and negative" used by Benjamin Franklin. In theory, this would lead to new chemical compounds that are unthinkable in Physics. 
+A sample implementation is our use of ["male and female" charges](/material/electrons-are-positive) for particles instead of the "positive and negative" used by Benjamin Franklin. In theory, this would lead to new chemical compounds that are unthinkable in Physics, since it is more intuitive to combine different kinds of males with different kinds of females. 
 
 This quali-math will make the most sense when you think of a spaceship using quantum teleportation that not only will use 2D space as in a car on Earth or a 3D space like an aircraft, but a space with four or five dimensions as time-multiverses and alternative universes, where normal math breaks down.
 
@@ -111,7 +159,7 @@ For example, `1 + 1 = 2` might be true for this universe, but it might not be tr
 
 ## The Double Colon 
 
-To account for this mind-splitting behavior, <!--  make ratios and relativity permanent, --> we propose a new notation using flexible colons instead of the rigid equals sign. The former represents the flexible nature of the universe as opposed to its strict rigidity as the latter. 
+To account for this mind-splitting behavior, <!--  make ratios and relativity permanent, --> we propose a new notation using flexible colons instead of the rigid equals sign. The former represents the flexible nature of the universe as opposed to its strict rigidity as the latter.
 
 {{< img src="/graphics/physics/math.jpg" alt="Mathematics" >}}
 
@@ -131,7 +179,10 @@ In this universe, such a softening can be encouraged by emphasizing the abstract
 {{< /me >}}
 
 
-In `1 + 1 = 2`, the mind sweeps from the left to the right. But in `(1 + 1) :: 2`, the mind splits itself into the left and the right. It becomes an impartial spectator* of both sides.
+
+## The State Limiter
+
+In `1 + 1 = 2`, the mind sweeps from the left to the right. But in `(1 + 1) :: 2`, the mind splits itself into the left and the right. It becomes an impartial spectator* of both sides or states.
 
 > *This idea was developed by Adam Smith who criticized the sophistical math of the mercantile system. Such sophistry now manifests as the strict demand for GDP growth by Economics which is currently causing mass exctinction and conflicts.
 

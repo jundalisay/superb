@@ -4,7 +4,7 @@ image: "/covers/wn.jpg"
 weight: 24
 author: Adam Smith
 description: "At distant times, equal amounts of labour will be bought more nearly with equal amounts of wheat, the worker's subsistence, than with perhaps any other commodity"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

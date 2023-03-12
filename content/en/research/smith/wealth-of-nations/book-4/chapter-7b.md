@@ -5,7 +5,7 @@ description: "In his letters to Ferdinand and Isabella, Columbus called the coun
 image: /covers/wn.jpg
 weight: 64
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

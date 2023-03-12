@@ -5,7 +5,7 @@ weight: 8
 author: Plato
 image: "/covers/sym.png"
 description: "Love is the love of beauty and not of deformity"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

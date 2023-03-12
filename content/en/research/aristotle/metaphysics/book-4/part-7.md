@@ -5,7 +5,7 @@ weight: 12
 image: "/covers/meta.jpg"
 description: "One subject must either affirm or deny any one predicate."
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

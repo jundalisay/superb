@@ -5,7 +5,7 @@ weight: 26
 author: "Vyasa"
 description: "Arjuna asks: What is life, the soul, and knowledge?"
 image: "/covers/gita.jpg"
-icon: "/icons/krishna.png"
+icon: "/avatars/krishna.png"
 ---
 
 

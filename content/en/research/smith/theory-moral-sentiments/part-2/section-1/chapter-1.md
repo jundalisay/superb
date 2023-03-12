@@ -3,7 +3,7 @@ heading: Chapter 1
 title: "Objects of Gratitude Deserve Reward and Objects of Resentment Deserve Punishment"
 weight: 4
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "Merit and Demerit are another set of qualities ascribed to mankind's actions and conduct, distinct from propriety or decency"
 ---

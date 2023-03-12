@@ -5,7 +5,7 @@ weight: 108
 image: "/covers/wn.jpg"
 description: "To the Physiocrats, the unproductive class is composed of merchants, artificers, and manufacturers"
 author: Adam Smith
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

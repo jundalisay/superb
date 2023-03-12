@@ -5,7 +5,7 @@ description: "Bodily Sensations are indecent to express because the bodies of ot
 weight: 4
 author: Adam Smith
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

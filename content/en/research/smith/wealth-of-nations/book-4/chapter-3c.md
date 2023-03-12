@@ -5,7 +5,7 @@ description: "Nothing, however, can be more absurd than this whole doctrine of t
 image: /covers/wn.jpg
 weight: 30
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 --- 
 
 

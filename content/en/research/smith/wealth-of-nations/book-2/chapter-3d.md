@@ -6,7 +6,7 @@ weight: 46
 image: "/covers/wn.jpg"
 description: "England's Economic Development was Due to Guarantee of Liberty"
 author: Adam Smith
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

@@ -4,7 +4,7 @@ title: "The English Parliament"
 # date: 2015-09-16
 weight: 20
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Henry 3rd enacted that the smaller barons, who could not afford to attend in parliament, should send a representative"
 ---

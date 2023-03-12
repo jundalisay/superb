@@ -4,7 +4,7 @@ description: "Following Ramus, Lazarus Schoner in his Geometry confessed that he
 image: /covers/harmony.jpg
 weight: 2
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

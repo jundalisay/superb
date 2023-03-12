@@ -5,7 +5,7 @@ weight: 2
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Adam Smith introduces the concept of Rent"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

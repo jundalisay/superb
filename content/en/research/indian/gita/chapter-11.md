@@ -5,7 +5,7 @@ weight: 22
 author: "Vyasa"
 description: "The unfolding of the Mystery Supreme called Adhyatman"
 image: "/covers/gita.jpg"
-icon: "/icons/krishna.png"
+icon: "/avatars/krishna.png"
 ---
 
 
@@ -28,8 +28,8 @@ Show me Thy very self, the Eternal God!
 {{< /r >}}
 
 
-Krishna.
 
+{{< l a="Krishna" >}}
 I manifest for you those hundred thousand thousand shapes that clothe my Mystery. 
 
 I show thee all my semblances, infinite, rich, divine,
@@ -42,6 +42,8 @@ On GOD ETERNAL, VERY GOD! See Me! see what thou prayest!
 Thou canst not!--nor, with human eyes, Arjuna! ever mayest!
 Therefore I give thee sense divine. Have other eyes, new light!
 And, look! This is My glory, unveiled to mortal sight!
+{{< /l >}}
+
 
 Sanjaya.
 

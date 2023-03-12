@@ -5,7 +5,7 @@ description: "In taxation by requisition, the British parliament would determine
 image: /covers/wn.jpg
 weight: 90
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

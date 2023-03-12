@@ -1,15 +1,15 @@
 ---
 title: "Constitutional Virtues"
 description: "Constitutional Virtues are a list of democratically chosen virtues that a nation lives by as the foundation of its constitution and laws. It will help unify the interpretation of the law and prevent ambiguity. This then will lead to a better justice system"
-# date: 2021-10-17
 date: 2019-02-20
 image: "/photos/objects/king.jpg"
 author: Juan
-icon: /icons/ss.png
+icon: /icons/spss.png
 aliases:
   /supersociology/constitutional-virtues
   /solutions/supersociology/constitutional-virtues  
 ---
+
 
 ## The Origin of Laws
 

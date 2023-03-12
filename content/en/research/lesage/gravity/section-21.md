@@ -4,10 +4,11 @@ title: "The Epicurean System"
 description: "When once the Epicureans were thus come to explain the matter so neatly, the most thoughtful and curious among them would certainly have followed out the consequences"
 image: "/covers/lesage.jpg"
 # date: 2023-02-15
+icon: /avatars/lesage.png
 weight: 6
-# icon: "/icons/laotzu.png"
 author: Le Sage
 ---
+
 
 
 ## Section 21

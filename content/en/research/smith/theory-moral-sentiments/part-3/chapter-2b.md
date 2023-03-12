@@ -5,7 +5,7 @@ description: "Our natural love for some characters dispose us to wish to be love
 date: 2015-09-28
 image: "/covers/tms.jpg"
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

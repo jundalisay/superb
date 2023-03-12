@@ -4,7 +4,7 @@ title: "The Rights of Sovereigns"
 # date: 2015-09-06
 weight: 30
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Assassination is thought just and equitable in a republic but not in a monarchy"
 ---

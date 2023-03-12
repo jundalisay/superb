@@ -5,7 +5,7 @@ description: "It is proved from the circumstances of the sublunary Soul and also
 image: /covers/harmony.jpg
 weight: 24
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

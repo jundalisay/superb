@@ -4,7 +4,7 @@ title: "Parent and Child"
 # date: 2015-09-24
 weight: 12
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "What is the history of parentage? It is the second relation in which we were to consider man as a member of a family"
 ---

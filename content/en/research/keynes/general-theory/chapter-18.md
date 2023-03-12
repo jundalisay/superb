@@ -4,7 +4,7 @@ description: "The division of the determinants of the economic system into the t
 image: "/covers/general.jpg"
 # date: 2020-10-14
 weight: 80
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 author: John Maynard Keynes
 ---
 

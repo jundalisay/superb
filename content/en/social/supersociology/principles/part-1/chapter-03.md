@@ -6,7 +6,7 @@ weight: 12
 image: "/photos/meta/buddhism.jpg"
 description: "The Common Interest is the conscience of society and is part of bhagavad dharma (human dharma)"
 author: Juan
-icon: /icons/ss.png
+icon: /icons/spss.png
 aliases:
   /posts/social/what-is-common-interest
   /articles/supersociology/what-is-common-interest

@@ -3,7 +3,7 @@ heading: Chapter 1
 title: "The Cause of the influence of outcome"
 weight: 8
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "The action and its consequences cannot be the foundation of morality. The resulting action is often the same in the most innocent or blamable intention"
 ---

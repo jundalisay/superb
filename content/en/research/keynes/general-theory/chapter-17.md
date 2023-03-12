@@ -6,7 +6,7 @@ image: "/covers/general.jpg"
 # date: 2020-10-20
 weight: 74
 author: John Maynard Keynes
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 

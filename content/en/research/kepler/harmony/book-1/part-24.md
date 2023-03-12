@@ -5,7 +5,7 @@ description: "These lines are those described in Part 17 as fifth degree knowabl
 image: /covers/harmony.jpg
 weight: 10
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

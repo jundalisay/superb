@@ -6,7 +6,7 @@ description: "The Basis of Benevolent Systems is the Supreme Entity"
 weight: 14
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

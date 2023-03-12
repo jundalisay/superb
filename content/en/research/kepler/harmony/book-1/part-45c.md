@@ -5,7 +5,7 @@ description: "All shapes the number of whose sides are Primes, and their stars, 
 image: /covers/harmony.jpg
 weight: 26
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

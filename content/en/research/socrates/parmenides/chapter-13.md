@@ -4,7 +4,7 @@ heading: "Chapter 13"
 weight: 26
 image: "/covers/parm.png"
 description: "Parmenides goes back to talk about the Absolute One"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

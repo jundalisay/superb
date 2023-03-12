@@ -3,7 +3,7 @@ heading: Chapter 3b
 title: "Notes"
 weight: 14
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "Most people prefer that our sense of the merit of good actions is based on a sympathy with the gratitude of the beneficiaries"
 ---

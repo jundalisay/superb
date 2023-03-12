@@ -5,7 +5,7 @@ weight: 1
 image: "/covers/meta.jpg"
 description: "Aristotle asks whether science should focus on the elemental or the universal"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

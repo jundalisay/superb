@@ -4,7 +4,7 @@ heading: "Chapter 1"
 description: "Utility is one of the principal sources of beauty"
 image: "/covers/tms.jpg"
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 weight: 10
 ---
 

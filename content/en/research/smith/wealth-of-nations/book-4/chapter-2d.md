@@ -5,7 +5,7 @@ description: "All those manufactured exports, without a bounty, to other Europea
 image: /covers/wn.jpg
 weight: 24
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 --- 
 
 

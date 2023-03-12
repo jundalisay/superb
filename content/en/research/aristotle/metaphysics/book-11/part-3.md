@@ -5,7 +5,7 @@ weight: 6
 image: "/covers/meta.jpg"
 description: "Philosophy treats of being qua being universally and not in respect of a part of it, and 'being' has many senses and is not used in one only"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

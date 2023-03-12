@@ -5,7 +5,7 @@ weight: 84
 image: "/covers/wn.jpg"
 description: "The monopoly of the colony trade forced some British capital from all foreign trade of consumption to a carrying trade."
 author: Adam Smith
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

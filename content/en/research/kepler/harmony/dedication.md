@@ -5,7 +5,7 @@ description: "Here are the reasons why I transferred these books on Harmony away
 image: /covers/harmony.jpg
 weight: 2
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

@@ -5,7 +5,7 @@ description: "The similarity between the respect for greatness and respect for v
 # date: 2022-01-27
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 weight: 10
 ---
 

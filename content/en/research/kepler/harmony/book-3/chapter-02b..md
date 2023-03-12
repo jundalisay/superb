@@ -5,7 +5,7 @@ description: "My Mysterium Cosmographicum explained the order of the 5 solids in
 image: /covers/harmony.jpg
 weight: 14
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

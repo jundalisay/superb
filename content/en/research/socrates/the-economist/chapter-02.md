@@ -5,7 +5,7 @@ weight: 12
 author: Xenophon
 image: "/covers/economist.jpg"
 description: "Wealth is anything that provides utilitiy and benefit for living"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

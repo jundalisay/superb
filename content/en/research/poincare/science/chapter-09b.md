@@ -5,7 +5,7 @@ weight: 48
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
-icon: /icons/poincare.jpg
+icon: /avatars/poincare.png
 ---
 
 

@@ -5,7 +5,7 @@ weight: 66
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "University Apprenticeships reduce competition and create Inequality"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

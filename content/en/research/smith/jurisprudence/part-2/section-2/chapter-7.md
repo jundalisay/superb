@@ -3,7 +3,7 @@ heading: Chapter 7
 title: "What Regulates the Price of Commodities?"
 weight: 18
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The Market Price of Commodities is regulated by the demand, the supply, and the purchasing power of the demand"
 ---

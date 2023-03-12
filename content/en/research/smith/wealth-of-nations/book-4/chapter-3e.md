@@ -5,7 +5,7 @@ description: "Because of these maxims, the commerce between France and England h
 image: /covers/wn.jpg
 weight: 34
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 --- 
 
 

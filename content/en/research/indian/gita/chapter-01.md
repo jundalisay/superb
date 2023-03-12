@@ -5,7 +5,7 @@ weight: 2
 author: "Vyasa"
 description: "We are here for battle on the sacred plain on Kurukshetra. Sanjaya, what happened between my people and the Pandavas?"
 image: "/covers/gita.jpg"
-icon: "/icons/krishna.png"
+icon: "/avatars/krishna.png"
 ---
 
 

@@ -5,7 +5,7 @@ weight: 24
 image: "/covers/wn.jpg"
 description: "Very old families are very rare in commercial countries. Such are families which have possessed some large estate from father to son for many generations"
 author: Adam Smith
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

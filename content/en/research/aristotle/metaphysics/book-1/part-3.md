@@ -4,7 +4,7 @@ heading: "Part 3"
 weight: 6
 image: "/covers/meta.jpg"
 description: "Aristotle enumerates the principles of the early philosophers"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 author: Aristotle
 ---
 

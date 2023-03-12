@@ -5,7 +5,7 @@ description: "Keynes overturns Classical Economics and imposes 2 measures: hourl
 image: "/covers/general.jpg"
 # date: 2020-12-17
 weight: 16
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 > Superphysics note: In Economic Superphysics, units are under the 1st Law of Value as Energy Manifestation

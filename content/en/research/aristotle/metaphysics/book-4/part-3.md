@@ -5,7 +5,7 @@ weight: 4
 image: "/covers/meta.jpg"
 description: "Should the sciences inquire into the truths which are in mathematics called axioms, and into substance?"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

@@ -8,7 +8,7 @@ linkb=  "/research/smith/jurisprudence/part-1/section-3/chapter-11"
 linkbtext=  "Chapter 11"
 linkf=  "/research/smith/jurisprudence/part-2/section-1"
 linkftext=  "Section 1"
-icon=  "/icons/smith.png"
+icon=  "/avatars/smith.png"
 +++
 
 A man may be injured in his moveables three ways, by= 

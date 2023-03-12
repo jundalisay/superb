@@ -4,7 +4,7 @@ heading: "Chapter 5"
 weight: 10
 image: "/covers/parm.png"
 description: "The One is at rest as the Whole, and in motion as the dualistic Others"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

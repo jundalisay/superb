@@ -5,7 +5,7 @@ weight: 1
 image: "/covers/republic.jpg"
 description: "Oligarchy turns to democracy after the people taste the pleasures of wealth"
 author: "Socrates"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

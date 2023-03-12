@@ -5,7 +5,7 @@ author: Adam Smith
 weight: 24
 image: "/covers/wn.jpg"
 description: "The end of this chapter has the prices of wheat from 1741-1750 and 1731-1740"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

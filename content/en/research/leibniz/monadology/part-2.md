@@ -5,7 +5,7 @@ description: "With this, we consider that no fact could be found to be genuine o
 image: "/covers/monad.png"
 # date: 2023-02-15
 weight: 10
-# icon: "/icons/laotzu.png"
+icon: /icons/lei.png
 author: Leibniz
 ---
 

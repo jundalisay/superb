@@ -5,7 +5,7 @@ weight: 16
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Prices were unstable from 1262 to 1570"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

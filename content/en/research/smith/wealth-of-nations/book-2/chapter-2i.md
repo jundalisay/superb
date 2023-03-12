@@ -5,7 +5,7 @@ weight: 26
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The Ayr Bank failed because it was too big to fail"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

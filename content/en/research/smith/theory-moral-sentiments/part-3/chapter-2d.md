@@ -5,7 +5,7 @@ description: "Praise and blame actually express praiseworthiness and blameworthi
 date: 2015-09-22
 image: "/covers/tms.jpg"
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

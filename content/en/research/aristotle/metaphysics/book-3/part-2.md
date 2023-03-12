@@ -5,7 +5,7 @@ weight: 4
 image: "/covers/meta.jpg"
 description: "Should the sciences investigate all the kinds of causes?"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

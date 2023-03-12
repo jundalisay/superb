@@ -5,7 +5,7 @@ description: "Hatred, Anger, and Resentment are the Unsocial feelings"
 weight: 8
 author: Adam Smith
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

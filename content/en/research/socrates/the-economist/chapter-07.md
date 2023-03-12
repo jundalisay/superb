@@ -5,7 +5,7 @@ weight: 22
 author: Xenophon
 image: "/covers/economist.jpg"
 description: "I do not spend my days indoors because my wife is capable of managing our domestic affairs without my aid."
-icons: "/icons/soc.png"
+icons: "/avatars/socrates.png"
 ---
 
 {{< l a="Socrates" >}}

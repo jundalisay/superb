@@ -5,7 +5,7 @@ description: "A plane figure is regular if it has all its sides and all its outw
 image: /covers/harmony.jpg
 weight: 4
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

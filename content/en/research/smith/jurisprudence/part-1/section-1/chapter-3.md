@@ -4,7 +4,7 @@ title: "How Republican Governments were introduced"
 # date: 2015-09-26
 weight: 8
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "A country's location and its improvement in agriculture and trade make it favourable to the introduction of a republican government"
 ---

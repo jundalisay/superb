@@ -5,7 +5,7 @@ weight: 52
 description: The ephemeral nature of scientific theories takes by surprise the man of the world
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
-icon: /icons/poincare.jpg
+icon: /avatars/poincare.png
 ---
 
 

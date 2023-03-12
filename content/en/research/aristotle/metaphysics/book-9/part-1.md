@@ -5,7 +5,7 @@ weight: 1
 image: "/covers/meta.jpg"
 description: "'Being' is in one way divided into individual thing, quality, and quantity, and is in another way distinguished in respect of potency and complete reality, and of function"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

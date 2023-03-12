@@ -5,7 +5,7 @@ weight: 1
 image: "/covers/meta.jpg"
 description: "Some substances are recognized by everyone. But some have been advocated by particular schools"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

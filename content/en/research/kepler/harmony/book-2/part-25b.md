@@ -5,7 +5,7 @@ description: "These are the 5 bodies which the Pythagoreans, Plato, and Proclus 
 image: /covers/harmony.jpg
 weight: 12
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

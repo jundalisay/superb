@@ -5,7 +5,7 @@ description: "Adam Smith describes the egotistic man, the proud man, and the vai
 weight: 52
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

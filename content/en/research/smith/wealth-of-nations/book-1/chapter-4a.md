@@ -5,7 +5,7 @@ weight: 16
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Money was invented to facilitate trade"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

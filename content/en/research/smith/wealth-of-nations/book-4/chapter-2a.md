@@ -5,7 +5,7 @@ description: "The monopoly of domestic industry is secured through high duties o
 image: /covers/wn.jpg
 weight: 18
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 --- 
 
 

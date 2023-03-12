@@ -5,7 +5,7 @@ weight: 1
 image: "/covers/meta.jpg"
 description: "The substance of sensible things is matter"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

@@ -3,7 +3,7 @@ heading: Chapter 1
 title: "Comparison of Justice and Beneficence"
 weight: 6
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "Beneficence, Resentment, Justice, Revenge"
 ---

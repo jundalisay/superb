@@ -4,7 +4,7 @@ heading: "Part 11"
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "What sort of parts belong to the Form and what sort not to the form, but to the concrete thing?"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

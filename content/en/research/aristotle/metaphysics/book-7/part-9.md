@@ -5,7 +5,7 @@ weight: 14
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "Why are some things are produced spontaneously as well as by art?"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

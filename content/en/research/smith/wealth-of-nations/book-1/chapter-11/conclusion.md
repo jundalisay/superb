@@ -6,7 +6,7 @@ weight: 42
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

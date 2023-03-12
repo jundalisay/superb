@@ -4,7 +4,7 @@ description: "For 200 years, people saw a national advantage in a favourable bal
 image: "/covers/general.jpg"
 # date: 2019-12-15
 weight: 106
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 

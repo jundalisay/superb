@@ -1,15 +1,16 @@
-+++
-title= "Part 13= Wealth"
-heading= "Chapters 53-55, 57, 81"
-description= "Excess Wealth is Contrary to the Tao or True Nature"
-date= 2021-09-16
-image= "/covers/tao.jpg"
-linkb= "/research/laotzu/tao-te-ching/part-12-with-the-tao"
-linkbtext= "Being with the Tao"
-linkf= "/research/laotzu/tao-te-ching/part-14-society"
-linkftext= "Society"
-icon = "/icons/laotzu.png"
-+++
+---
+heading: "Part 13: Chapters 53-55, 57, 81"
+title: "Wealth"
+description: "Excess Wealth is Contrary to the Tao or True Nature"
+image: "/covers/tao.jpg"
+# date: 2020-01-29
+weight: 26
+icon: "/avatars/lao.png"
+author: Lao Tzu
+---
+
+
+
 
 
 ## Chapter 53: Excess Wealth is Contrary to the Tao or True Nature

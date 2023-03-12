@@ -5,7 +5,7 @@ weight: 8
 image: "/covers/meta.jpg"
 description: "How do the Forms contribute to sensible things, either eternal or non-eternal?"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

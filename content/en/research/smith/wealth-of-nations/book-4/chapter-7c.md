@@ -5,7 +5,7 @@ description: "The colony of a civilised nation which acquires a waste country or
 image: /covers/wn.jpg
 weight: 66
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

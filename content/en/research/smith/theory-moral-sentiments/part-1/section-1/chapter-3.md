@@ -5,7 +5,7 @@ description: "Our own feelings is the measure or decider of our sympathy or non-
 weight: 8
 image: "/covers/tms.jpg"
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

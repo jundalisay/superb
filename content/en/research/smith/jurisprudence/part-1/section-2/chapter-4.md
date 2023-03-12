@@ -4,7 +4,7 @@ title: "Guardian and Ward, Domestic Punishments"
 # date: 2015-09-20
 weight: 18
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Polygamy vs Monogamy, Domestic Offences and their Punishments"
 ---

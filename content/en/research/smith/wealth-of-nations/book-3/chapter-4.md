@@ -5,7 +5,7 @@ weight: 20
 image: "/covers/wn.jpg"
 description: "How the Commerce gave employment for the rural areas"
 author: Adam Smith
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

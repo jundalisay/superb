@@ -6,7 +6,7 @@ description: "Dr. Mandeville's system also totally removes the distinction betwe
 weight: 16
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

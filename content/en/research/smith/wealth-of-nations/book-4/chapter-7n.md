@@ -5,7 +5,7 @@ description: "The colonies may be taxed by their own assemblies or by the Britis
 image: /covers/wn.jpg
 weight: 88
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

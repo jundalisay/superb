@@ -5,7 +5,7 @@ weight: 44
 description: The principles of mechanics are therefore presented to us under 2 different aspects
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
-icon: /icons/poincare.jpg
+icon: /avatars/poincare.png
 ---
 
 

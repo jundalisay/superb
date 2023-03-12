@@ -5,7 +5,7 @@ description: "If the disciples of Epicurus had been as fully persuaded of the sp
 image: "/covers/lesage.jpg"
 # date: 2023-02-15
 weight: 2
-# icon: "/icons/laotzu.png"
+icon: /avatars/lesage.png
 author: Le Sage
 ---
 

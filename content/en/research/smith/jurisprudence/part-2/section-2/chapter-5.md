@@ -3,7 +3,7 @@ heading: Chapter 5
 title: "What Causes the Division of Labour"
 weight: 14
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The Division of Labour flows from a direct propensity in human nature for one man to barter with another"
 ---

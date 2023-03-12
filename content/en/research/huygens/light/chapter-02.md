@@ -5,7 +5,7 @@ description: Dr. Tillotson argues against the real presence of miracles. His arg
 image: /covers/light.jpg
 weight: 6
 author: Christiaan Huygens
-icon: /avatars/huygens.jpg
+icon: /avatars/huygens.png
 ---
 
 

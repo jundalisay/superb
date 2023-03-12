@@ -4,7 +4,7 @@ heading: "Part 3b of Digression 2b"
 weight: 28
 image: "/covers/wn.jpg"
 description: "The consumption of those metals in manufactures is much more rapid and sensible though it may be less than this gradual consumption in coin and plate"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

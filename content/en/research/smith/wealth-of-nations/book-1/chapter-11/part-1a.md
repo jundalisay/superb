@@ -5,7 +5,7 @@ weight: 4
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Food is always in demand because men, like animals, naturally multiply in proportion to their subsistence"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

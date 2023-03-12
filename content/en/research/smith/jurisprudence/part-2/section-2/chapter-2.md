@@ -4,7 +4,7 @@ title: "All the Arts are subservient to the Natural Wants of Mankind"
 # date: 2015-09-10
 weight: 8
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Those qualities, which are the ground of preference, and which give occasion to pleasure and pain, are the cause of many insignificant demands, which we by no means stand in need of"
 ---

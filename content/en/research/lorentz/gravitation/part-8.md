@@ -4,6 +4,7 @@ author: Lorentz
 heading: Part 5
 description: Every theory of gravitation has to deal with the problem of the influence, exerted on this force by the motion of the heavenly bodies.
 image: "/covers/grav.jpg"
+icon: /icons/lor.png
 # date2021-09-28"
 weight: 8
 ---

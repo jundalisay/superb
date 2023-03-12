@@ -4,7 +4,7 @@ heading: "Chapter 2 Part 2c"
 weight: 14
 image: "/covers/wn.jpg"
 description: "The cost of levying a variable land-tax would be greater than levying a fixed land-tax"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 

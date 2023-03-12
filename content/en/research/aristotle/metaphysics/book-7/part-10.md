@@ -4,7 +4,7 @@ heading: "Part 10 "
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "Must the formula of the parts be present in the formula of the whole or not?"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

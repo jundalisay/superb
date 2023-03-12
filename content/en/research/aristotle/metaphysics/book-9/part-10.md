@@ -5,7 +5,7 @@ weight: 24
 image: "/covers/meta.jpg"
 description: "The terms 'being' and 'non-being' are used in 3 ways"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

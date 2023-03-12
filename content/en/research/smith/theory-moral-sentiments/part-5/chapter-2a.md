@@ -5,7 +5,7 @@ description: "Our feelings on beauty are so much influenced by custom and fashio
 weight: 24
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

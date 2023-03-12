@@ -5,7 +5,7 @@ weight: 68
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "All corporations and most of corporation laws have been established to prevent this reduction of price by restraining that free competition which would most certainly occasion it"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

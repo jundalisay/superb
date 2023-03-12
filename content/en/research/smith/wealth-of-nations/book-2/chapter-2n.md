@@ -5,7 +5,7 @@ weight: 36
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The Increase in Bank Notes does not increase inflation"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

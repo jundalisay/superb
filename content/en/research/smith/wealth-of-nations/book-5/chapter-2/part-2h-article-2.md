@@ -4,7 +4,7 @@ heading: "Chapter 2h of Part 1b"
 weight: 24
 image: "/covers/wn.jpg"
 description: "In some countries, extraordinary taxes are imposed on profits when employed in particular trades, and in agriculture"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 

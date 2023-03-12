@@ -5,16 +5,16 @@ weight: 24
 author: "Vyasa"
 description: "Whoever serve Me--as I show Myself-- Constantly true, in full devotion fixed"
 image: "/covers/gita.jpg"
-icon: "/icons/krishna.png"
+icon: "/avatars/krishna.png"
 ---
 
 
-Arjuna.
-
+{{< r a="Arjuna" >}}
 <!-- Lord! of the men who serve Thee--true in heart--
 As God revealed; and of the men who serve,
 Worshipping Thee Unrevealed, Unbodied, Far, -->
 Which take the better way of faith and life?
+{{< /r >}}
 
 Krishna.
 

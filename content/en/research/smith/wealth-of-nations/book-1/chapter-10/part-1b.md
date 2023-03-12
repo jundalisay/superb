@@ -5,7 +5,7 @@ weight: 58
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Wages vary with the constancy or inconstancy of employment"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

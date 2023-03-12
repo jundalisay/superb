@@ -3,7 +3,7 @@ heading: Chapter 3
 title: "How Catholicism Changed the Rules of War"
 weight: 14
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The Holy War was then undertaken by most of the European princes. It made them turn their arms against people of a different religion. They thought those people deserved to be treated most cruelly"
 ---

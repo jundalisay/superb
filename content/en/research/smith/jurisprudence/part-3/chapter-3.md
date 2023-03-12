@@ -4,7 +4,7 @@ title: "Stocks"
 # date: 2015-09-10
 weight: 10
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Taxes on possessions are naturally equal. But taxes on consumptions are naturally unequal"
 ---

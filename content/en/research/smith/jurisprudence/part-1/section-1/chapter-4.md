@@ -4,7 +4,7 @@ title: "How Liberty was lost"
 # date: 2015-09-26
 weight: 10
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "When a country arrives at a certain degree of refinement, it becomes less fit for war"
 ---

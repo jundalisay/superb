@@ -5,7 +5,7 @@ weight: 18
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Cash Accounts and Discounted Bills of Exchange adds to the circulation of value"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

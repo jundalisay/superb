@@ -5,7 +5,7 @@ weight: 10
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "Natural comings to be are the comings to be of those things which come to be by nature"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

@@ -3,7 +3,7 @@ heading: Chapter 4
 title: "Recap of the foregoing chapters"
 weight: 10
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "We only thoroughly sympathize with Person A's gratitude to Person B if we totally go along with the motives of Person B. We must go along with Person B's feelings, before we can entirely sympathize with Person A's gratitude"
 ---

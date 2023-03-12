@@ -1,15 +1,14 @@
-+++
-title= "Achieving the Tao"
-heading= "Chapter 62-63"
-description= "The reward of the Tao is more valuable than any that can be purchased"
-date= 2021-09-17
-image= "/covers/tao.jpg"
-linkb= "/research/laotzu/tao-te-ching/part-11-realization"
-linkbtext= "Realization"
-linkf= "/research/laotzu/tao-te-ching/part-13-wealth"
-linkftext= "Wealth"
-icon = "/icons/tao.png"
-+++
+---
+heading: "Part 12: Chapter 62-63"
+title: "Achieving the Tao"
+description: "The reward of the Tao is more valuable than any that can be purchased"
+image: "/covers/tao.jpg"
+# date: 2020-01-29
+weight: 24
+icon: "/avatars/lao.png"
+author: Lao Tzu
+---
+
 
 
 ## Chapter 62: The Reward of the Tao or True Nature

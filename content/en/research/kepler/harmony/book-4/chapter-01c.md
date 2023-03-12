@@ -5,7 +5,7 @@ description: "To establish them outside the soul is self-contradictory"
 image: /covers/harmony.jpg
 weight: 10
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

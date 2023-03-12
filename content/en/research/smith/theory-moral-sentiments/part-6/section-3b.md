@@ -5,7 +5,7 @@ description: "The point of propriety is the degree of any passion which the impa
 weight: 48
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

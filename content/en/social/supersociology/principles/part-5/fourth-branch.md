@@ -6,7 +6,7 @@ weight: 12
 image: "/photos/objects/gavel.jpg"
 description: "We propose a Fourth Branch of Government called the Resources branch to make procurement and audit more systematic"
 author: Juan
-icon: /icons/ss.png
+icon: /icons/spss.png
 aliases:
   /solutions/supersociology/fourth-branch-of-government
   /supersociology/fourth-branch-of-government/
@@ -14,6 +14,7 @@ aliases:
   /articles/governance/fourth-branch-government/
   /social/supersociology/principles/fourth-branch
 ---
+
 
 
 Ever since the French Revolution, there have been three branches of government:

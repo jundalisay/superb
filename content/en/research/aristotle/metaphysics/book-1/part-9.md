@@ -5,7 +5,7 @@ weight: 18
 image: "/covers/meta.jpg"
 description: "Aristotle denounces Plato's Forms"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

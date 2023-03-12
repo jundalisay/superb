@@ -5,7 +5,7 @@ description: "This beauty of characters from their usefulness strikes those who 
 weight: 14
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

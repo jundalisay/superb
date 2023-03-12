@@ -5,7 +5,7 @@ description: "Melodic intervals are defined as being all the differences between
 image: /covers/harmony.jpg
 weight: 18
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

@@ -5,7 +5,7 @@ description: "The proper form of bisection is used in the first class of figures
 image: /covers/harmony.jpg
 weight: 32
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

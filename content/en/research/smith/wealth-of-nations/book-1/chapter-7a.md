@@ -5,7 +5,7 @@ weight: 32
 author: Adam Smith21
 image: "/covers/wn.jpg"
 description: "In the rude state, price has one component--wages"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

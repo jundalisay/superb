@@ -5,7 +5,7 @@ description: "The English colonies are not superior in land to some French colon
 image: /covers/wn.jpg
 weight: 70
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

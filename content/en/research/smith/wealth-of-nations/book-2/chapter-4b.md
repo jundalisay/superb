@@ -6,7 +6,7 @@ weight: 52
 image: "/covers/wn.jpg"
 description: "Should interest rates be regulated?"
 author: Adam Smith
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

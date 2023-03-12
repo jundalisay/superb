@@ -5,7 +5,7 @@ weight: 48
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Interest is the Best Indicator of Profits"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

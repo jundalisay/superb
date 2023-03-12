@@ -5,7 +5,7 @@ weight: 1
 image: "/covers/republic.jpg"
 description: "Shallow Pleasures are only a shadow compared to the real pleasures of philosophy and realization"
 author: "Socrates"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

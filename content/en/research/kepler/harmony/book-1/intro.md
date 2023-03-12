@@ -4,7 +4,7 @@ description: "We must seek the causes of the harmonic proportions in the divisio
 image: /covers/harmony.jpg
 weight: 2
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

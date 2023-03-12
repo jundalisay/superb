@@ -5,7 +5,7 @@ weight: 100
 image: "/covers/wn.jpg"
 description: "The exportation of raw materials is sometimes discouraged by absolute prohibitions and sometimes by high duties"
 author: Adam Smith
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

@@ -5,7 +5,7 @@ weight: 34
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Money Supply has two great divisions as wholesale and retail"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

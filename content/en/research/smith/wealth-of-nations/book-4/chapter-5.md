@@ -5,7 +5,7 @@ description: "Bounties should only be given to trades which cannot be carried on
 image: /covers/wn.jpg
 weight: 38
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 --- 
 
 

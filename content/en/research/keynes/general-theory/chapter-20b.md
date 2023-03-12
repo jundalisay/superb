@@ -5,7 +5,7 @@ description: "Strict equilibrium requires wages, prices, and consequently profit
 image: "/covers/general.jpg"
 # date: 2020-10-02
 weight: 92
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 author: John Maynard Keynes
 ---
 

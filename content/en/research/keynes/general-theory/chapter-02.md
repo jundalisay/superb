@@ -6,7 +6,7 @@ image: "/covers/general.jpg"
 # date: 2020-12-31
 weight: 2
 author: John Maynard Keynes
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 

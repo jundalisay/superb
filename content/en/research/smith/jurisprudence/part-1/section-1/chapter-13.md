@@ -4,7 +4,7 @@ title: "The Little Republics in Europe"
 # date: 2015-09-08
 weight: 28
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Small countries became republics because of the short distance between people"
 ---

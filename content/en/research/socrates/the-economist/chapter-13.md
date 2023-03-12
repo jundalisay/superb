@@ -5,7 +5,7 @@ weight: 32
 image: "/covers/economist.jpg"
 description: "He must learn at any rate, I think, to rule his fellow-workmen"
 author: Xenophon
-icons: "/icons/soc.png"
+icons: "/avatars/socrates.png"
 ---
 
 

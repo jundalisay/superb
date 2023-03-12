@@ -5,7 +5,7 @@ weight: 8
 author: Plato
 image: "/covers/crito.png"
 description: "Socrates Says It is Wrong to Flee"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

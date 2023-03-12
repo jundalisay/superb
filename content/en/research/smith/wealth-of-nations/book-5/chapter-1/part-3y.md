@@ -4,7 +4,7 @@ heading: "Part 3y"
 weight: 70
 image: "/covers/wn.jpg"
 description: "In every civilized society which has the distinction of ranks, there were always two systems of morality"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 

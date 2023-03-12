@@ -5,7 +5,7 @@ description: "These could not be interchanged without the greatest impropriety. 
 weight: 22
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

@@ -5,7 +5,7 @@ weight: 52
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "A country at maximum population would have so much competition for employment. Wages would be reduced to bare sufficiency, preventing the population from increasing."
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

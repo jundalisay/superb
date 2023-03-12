@@ -5,7 +5,7 @@ weight: 4
 author: Plato
 image: "/covers/prot.jpg"
 description: "By the gods, I said, and are you not ashamed at having to appear before the Hellenes in the character of a Sophist?"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

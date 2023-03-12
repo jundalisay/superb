@@ -5,7 +5,7 @@ author: "Aristotle"
 weight: 20
 image: "/covers/meta.jpg"
 description: "Aristotle defines Complete, Limit, Disposition"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

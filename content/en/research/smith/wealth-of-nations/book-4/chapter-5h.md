@@ -5,7 +5,7 @@ description: "The merchant importer of foreign wheat for home consumption contri
 image: /covers/wn.jpg
 weight: 52
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 --- 
 
 

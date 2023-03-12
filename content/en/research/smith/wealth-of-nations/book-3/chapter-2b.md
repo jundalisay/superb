@@ -5,7 +5,7 @@ weight: 12
 image: "/covers/wn.jpg"
 description: "Metayers could never be interested to use any of their little stock to improve the land because the lord, who spent nothing, would get half of whatever it produced."
 author: Adam Smith
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

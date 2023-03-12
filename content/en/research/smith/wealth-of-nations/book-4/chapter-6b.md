@@ -5,7 +5,7 @@ description: "Nobody imagines that the annual gold coinage of more than £800,00
 image: /covers/wn.jpg
 weight: 60
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

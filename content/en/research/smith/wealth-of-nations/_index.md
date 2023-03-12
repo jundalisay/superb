@@ -5,7 +5,7 @@ linkTitle: "Wealth of Nations"
 weight: 14
 image: "/covers/wn.jpg"
 description: "We simplify The Wealth of Nations by removing redundant statements and by organizing Smith's ideas into bullet points. We retain the paragraph numbers so you can check the original. Pounds and shillings are converted to their pence equivalent for easier comparison and computation"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 

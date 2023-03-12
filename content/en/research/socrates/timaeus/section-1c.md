@@ -7,7 +7,7 @@ linkb= "/research/socrates/timaeus/section-1"
 linkbtext= "section-1"
 linkf= "/research/socrates/timaeus/section-1b"
 linkftext= "Section 1b"
-icon= "/icons/soc.png"
+icon= "/avatars/socrates.png"
 # linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
 # linkbooktext= Support Superphysics by buying The Simple Republic
 draft= true

@@ -8,5 +8,5 @@ date: 2019-12-17
 weight: 6
 image: "/photos/marcos2.jpg"
 author: Juan
-icon: /icons/ss.png
+icon: /icons/spss.png
 ---

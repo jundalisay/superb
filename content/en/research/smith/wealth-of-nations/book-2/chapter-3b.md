@@ -5,7 +5,7 @@ weight: 42
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The proportion between industry and idleness is regulated by the proportion between capital and revenue"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

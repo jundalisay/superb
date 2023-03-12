@@ -5,7 +5,7 @@ weight: 14
 image: "/covers/meta.jpg"
 author: Aristotle
 description: "Are numbers, bodies, planes, and points substances?"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

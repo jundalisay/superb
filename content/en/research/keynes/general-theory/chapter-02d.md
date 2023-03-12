@@ -5,7 +5,7 @@ description: "The struggle over money-wages is often believed to determine the g
 image: "/covers/general.jpg"
 weight: 8
 # date: 2020-12-25
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 

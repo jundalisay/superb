@@ -5,7 +5,7 @@ description: "Monads are simple substances which make up compounds. By ‘simple
 image: "/covers/monad.png"
 # date: 2023-02-15
 weight: 8
-# icon: "/icons/laotzu.png"
+icon: /icons/lei.png
 author: Leibniz
 ---
 

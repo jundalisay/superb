@@ -5,7 +5,7 @@ weight: 4
 image: "/covers/meta.jpg"
 description: "There is a first principle. The causes of things are neither an infinite series nor infinitely various in kind."
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

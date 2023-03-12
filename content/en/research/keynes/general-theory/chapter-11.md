@@ -6,7 +6,7 @@ description: "The prospective yield of the investment"
 # date: 2020-11-14
 weight: 50
 author: John Maynard Keynes
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 

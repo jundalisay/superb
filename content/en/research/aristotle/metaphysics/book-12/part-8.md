@@ -5,7 +5,7 @@ weight: 10
 image: "/covers/meta.jpg"
 description: "Eudoxus supposed that the motion of the sun or the moon involves 3 spheres"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

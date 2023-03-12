@@ -4,7 +4,7 @@ heading: "Part 2r, Article 4"
 weight: 44
 image: "/covers/wn.jpg"
 description: "High taxes frequently afford a smaller revenue to government than moderate taxes"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 

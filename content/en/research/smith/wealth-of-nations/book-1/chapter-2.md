@@ -5,7 +5,7 @@ weight: 12
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The Propensity to Trade, Arising from Reason and Speech, Creates the Division of Labour"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

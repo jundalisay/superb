@@ -6,7 +6,7 @@ weight: 22
 image: "/covers/phaedo.png"
 description: "Such was the end of our friend Socrates. Of all the men of his time whom I have known, he was the wisest and justest and best."
 author: Plato
-icon: /icons/soc.png
+icon: "/icons/socrates.png"
 ---
 
 

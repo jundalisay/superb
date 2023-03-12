@@ -3,15 +3,13 @@ title: "The Banyan Tree"
 heading: "Chapter 15 "
 weight: 30
 author: "Vyasa"
-description: ""
+description: "The Aswattha (Banyan-tree) has its boughs beneath, its roots above"
 image: "/covers/gita.jpg"
-icon: "/icons/krishna.png"
+icon: "/avatars/krishna.png"
 ---
 
 
-
-Krishna.
-
+{{< l a="Krishna" >}}
 The Aswattha (Banyan-tree) has its boughs beneath, its roots above.
 
 It is an ever-holy tree. Its leaves are green and waving hymns which whisper Truth!
@@ -28,6 +26,9 @@ Of wooing sense: its hanging rootlets seek
 The soil beneath, helping to hold it there,
 As actions wrought amid this world of men
 Bind them by ever-tightening bonds again.
+{{< /l >}}
+
+{{< l a="Krishna" >}}
 If ye knew well the teaching of the Tree,
 What its shape saith; and whence it springs; and, then
 How it must end, and all the ills of it,
@@ -70,7 +71,10 @@ Which strive thereto. Enlightened, they perceive
 That Spirit in themselves; but foolish ones,
 Even though they strive, discern not, having hearts
 Unkindled, ill-informed!
+{{< /l >}}
 
+
+{{< l a="Krishna" >}}
 Know, too, from Me
 Shineth the gathered glory of the suns
 Which lighten all the world: from Me the moons
@@ -100,3 +104,4 @@ And with his whole soul ever worshippeth Me.
 Now is the sacred, secret Mystery
 Declared to thee! Who comprehendeth this
 Hath wisdom! He is quit of works in bliss!
+{{< /l >}}

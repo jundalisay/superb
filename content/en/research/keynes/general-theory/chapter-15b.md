@@ -6,7 +6,7 @@ image: "/covers/general.jpg"
 # date: 2020-10-28
 weight: 66
 author: John Maynard Keynes
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 # linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
 # linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
 ---

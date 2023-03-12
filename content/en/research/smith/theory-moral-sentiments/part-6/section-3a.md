@@ -5,7 +5,7 @@ description: "A man is said to be perfectly virtuous if he acts according to the
 weight: 46
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

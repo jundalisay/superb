@@ -5,7 +5,7 @@ weight: 10
 image: "/covers/meta.jpg"
 description: "Ideas are not numbers. The units are different, if there are to be Ideas. This is because the Form is unique"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

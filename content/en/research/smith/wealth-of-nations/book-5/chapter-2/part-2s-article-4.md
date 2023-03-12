@@ -4,7 +4,7 @@ heading: "Part 2s, Article 4 Simplified"
 weight: 46
 image: "/covers/wn.jpg"
 description: "In Great Britain, liquors for private use are not liable to any excise duties"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 
@@ -163,11 +163,14 @@ When it has been proposed to lay any new tax on sugar, our sugar planters have f
 
 Our sugar planters said they could not raise the price of their sugar after the tax than it was before.
 Before the tax, the sugar price was a monopoly price.
+
 The sugar planters' argument tried to show that sugar was an improper subject of taxation.
 But in reality, it demonstrated that it was a proper one, since the gains of monopolists are the most proper subject of taxation.
+
 But the ordinary price of barley was never a monopoly price.
 
 The rent and profit of barley land have never been above their natural proportion to those of other equally fertile and equally well-cultivated land.
+
 The different taxes imposed on malt, beer, and ale never lowered the price of barley.
 They never reduced the rent and profit of barley land.
 The price of malt to the brewer has constantly risen in proportion to the taxes imposed on it.

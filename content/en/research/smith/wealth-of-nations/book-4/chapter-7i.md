@@ -5,7 +5,7 @@ description: "The English Puritans were restrained at home. They fled for freedo
 image: /covers/wn.jpg
 weight: 78
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

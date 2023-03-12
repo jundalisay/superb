@@ -5,7 +5,7 @@ weight: 8
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "It is impossible for one man to be constantly employed in any agricultural work because they are seasonal"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

@@ -4,7 +4,7 @@ title: "Military Monarchy"
 # date: 2015-09-24
 weight: 12
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Citizens and aliens have rights in a state"
 ---

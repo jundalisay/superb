@@ -5,7 +5,7 @@ description: "The monopoly of the colony trade forced some British capital from 
 image: /covers/wn.jpg
 weight: 86
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

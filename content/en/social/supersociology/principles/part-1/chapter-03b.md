@@ -7,7 +7,7 @@ image: /photos/objects/king.jpg
 description: "The Self-Regulation espoused by Adam Smith and David Hume requires fellow-feeling"
 youtube: "J6F2_PF2wbo"
 author: Juan
-icon: /icons/ss.png
+icon: /icons/spss.png
 aliases:
   /articles/supersociology/self-regulation-adam-smith
 ---

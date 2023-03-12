@@ -2,7 +2,6 @@
 title: "The Matrix of Existence"
 # title: "We're in a Matrix!"
 heading: "Chapter 1"
-
 date: 2019-01-01
 weight: 4
 image: /photos/tech/mac.jpg
@@ -122,7 +121,7 @@ These causes generate an inequality which is always maintained, and is continual
 
 These 3 regions of metaphysical domain, physical domain, and current perception (as a merger of both) are expressed in our Superphysics icon.
 
-{{< img src="/icons/sp100.png" size="is-48x48" alt="Superphysics icon">}}
+{{< img src="/icons/sp.png" size="is-48x48" alt="Superphysics icon">}}
 
 - The blue upward triangle reprsents the metaphysical domain going upwards
 - The green downward triangle represents the physical domain going 'down to earth'

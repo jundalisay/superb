@@ -8,7 +8,7 @@ image: /photos/medieval/spartan.jpg
 description: "Feudalism is a delegated system of political and economic control"
 youtube: "J6F2_PF2wbo"
 author: Juan
-icon: /icons/ss.png
+icon: /icons/spss.png
 ---
 
 

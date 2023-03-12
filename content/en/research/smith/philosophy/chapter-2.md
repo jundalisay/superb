@@ -4,7 +4,7 @@ heading: "Chapter 2"
 # date: 2020-01-31
 image: "/covers/philo.jpg"
 description: "Adam Smith explains the philosophies of Plato and Aristotle"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 weight: 12
 ---

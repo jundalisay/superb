@@ -4,7 +4,7 @@ heading: "Part 2w, Article 4"
 weight: 54
 image: "/covers/wn.jpg"
 description: "In France, most of the crown's actual revenue is derived from 8 sources"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 
@@ -21,7 +21,9 @@ author: Adam Smith
 7. Domaine
 8. The farm of tobacco
 
-The last five are under farm in most of the provinces. The first three are administered everywhere directly by the government. They bring more into the treasury than the last five sources. Those five are much more wasteful and expensive to administer.
+The last 5 are under farm in most of the provinces. 
+
+The first 3 are administered everywhere directly by the government. They bring more into the treasury than the last five sources. Those five are much more wasteful and expensive to administer.
 
 
 {{< s v="222">}} France's present finances need three very obvious reforms.
@@ -38,15 +40,18 @@ The taille's burden falls finally on the proprietors of land.
 
 Most of the capitation is assessed on people who are subject to the taille at so much a pound of that other tax.
 Most of its final payment must likewise fall on the same order of people.
+
 The number of the vingtiemes was increased to produce an additional revenue equal to the amount of the taille and capitation.
 
 But the upper class might not be more burdened than at present.
 Many individuals would be burdened, because of the great inequalities from the taille.
+
 The interest and opposition of such favoured subjects are the obstacles most likely to prevent this kind of reform.
 The gabelle, aides, traites, tobacco taxes, and all the different customs and excise taxes can be levied at much less cost if they were uniform throughout France.
 
 Frances interior commerce might become as free as that of England.
 By subjecting all those taxes to be directly administered by the government, the exorbitant profits of the farmers-general can be added to the state's revenue.
+
 The opposition from the private interests will be very effective for preventing the last two reforms as the first reform.
 
 
@@ -77,6 +82,7 @@ After Great Britain, France has the mildest and most indulgent government.
 Those taxes are likely to discourage even their fisheries and shipbuilding.
 Taxes on necessities are small in Great Britain.
 No manufacture has been ruined by such taxes.
+
 Its duties on raw material imports, particularly on raw silk imports, are the British taxes which hurt manufacturing the most.
 
 The revenue of the states-general and the different cities is more than £5,250,000.

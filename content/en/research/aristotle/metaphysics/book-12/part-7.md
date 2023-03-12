@@ -5,7 +5,7 @@ weight: 8
 image: "/covers/meta.jpg"
 description: "Desire depends on opinion. Opinion does not depend on desire. This is thinking is the starting-point"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

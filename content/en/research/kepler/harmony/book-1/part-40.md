@@ -5,7 +5,7 @@ description: "The Regular shape with 24 sides, and all figures obtainable from i
 image: /covers/harmony.jpg
 weight: 20
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

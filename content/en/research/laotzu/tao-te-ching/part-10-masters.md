@@ -1,14 +1,16 @@
-+++
-title= "Part 10= The Masters of the Tao"
-heading= "Chapters 15, 23, 27, 50"
-date= 2021-09-19
-image= "/covers/tao.jpg"
-description= "The Metaphysics of the Tao or True Nature include Pranah, Aether, and the Five elements"
-linkb= "/research/laotzu/tao-te-ching/part-09-types"
-linkbtext= "Types of People"
-linkf= "/research/laotzu/tao-te-ching/part-11-realization"
-linkftext= "Part 11"
-+++
+---
+heading: "Part 10: Chapters 15, 23, 27, 50"
+title: "The Masters of the Tao"
+description: "The Metaphysics of the Tao or True Nature include Pranah, Aether, and the Five elements"
+image: "/covers/tao.jpg"
+# date: 2020-01-29
+weight: 22
+icon: "/avatars/lao.png"
+author: Lao Tzu
+---
+
+
+
 
 ## Chapter 15: The Masters of the Tao
 

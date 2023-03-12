@@ -5,7 +5,7 @@ weight: 6
 image: "/covers/meta.jpg"
 description: "Some philosophers assert that it is possible for the same thing to be and not to be"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

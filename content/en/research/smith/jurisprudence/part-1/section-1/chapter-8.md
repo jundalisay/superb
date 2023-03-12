@@ -4,7 +4,7 @@ title: "The Feudal System"
 # date: 2015-09-18
 weight: 18
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The feudal system arose from the king's strength and collapsed when the lords leased out their lands longer and the kings gave freedom to the cities against the lords"
 ---

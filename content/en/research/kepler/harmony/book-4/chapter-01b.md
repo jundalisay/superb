@@ -5,7 +5,7 @@ description: "A harmony is a single thing"
 image: /covers/harmony.jpg
 weight: 8
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

@@ -5,7 +5,7 @@ author: "Aristotle"
 weight: 4
 image: "/covers/meta.jpg"
 description: "The unqualified term 'being' has many meanings"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

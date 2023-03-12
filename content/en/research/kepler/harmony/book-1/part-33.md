@@ -5,7 +5,7 @@ description: "If from twice the number of angles of the figure you subtract 4, y
 image: /covers/harmony.jpg
 weight: 16
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

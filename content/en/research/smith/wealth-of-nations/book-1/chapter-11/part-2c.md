@@ -5,7 +5,7 @@ weight: 12
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The demand for Precious Metals and Stones arises partly from their utility and partly from their beauty"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

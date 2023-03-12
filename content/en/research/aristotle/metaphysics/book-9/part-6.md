@@ -5,7 +5,7 @@ weight: 10
 image: "/covers/meta.jpg"
 description: "Actuality, then, is the existence of a thing not in the way which we express by 'potentially'"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

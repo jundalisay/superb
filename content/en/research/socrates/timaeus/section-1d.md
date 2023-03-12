@@ -1,15 +1,14 @@
-+++
-title= "Motion according to Timaeus"
-date= 2020-01-01
-image= "/avatars/socrates.jpg"
-description= "The Simplified Timaeus by Plato"
-linkb= "/research/socrates/timaeus/section-1c"
-linkbtext= "section-1c"
-linkf= "/research/socrates/timaeus/section-1d"
-linkftext= "Section 1d"
-icon= "/icons/soc.png"
-draft= true
-+++
+---
+title: "Motion according to Timaeus"
+heading: "Book 2, Chapter 1b"
+weight: 6
+image: "/avatars/socrates.jpg"
+description: "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
+icon: "/avatars/smith.png"
+author: Socrates
+draft: true
+---
+
 
 Until the start of time, the universe was made in the likeness of the original. 
 

@@ -5,7 +5,7 @@ weight: 18
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The difficulty of weighing metals led to coinage"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

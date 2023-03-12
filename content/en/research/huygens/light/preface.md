@@ -4,7 +4,7 @@ description: Dr. Tillotson argues against the real presence of miracles. His arg
 image: /covers/light.jpg
 weight: 4
 author: Christiaan Huygens
-icon: /avatars/huygens.jpg
+icon: /avatars/huygens.png
 ---
 
 <!-- Rendered into English
@@ -39,7 +39,13 @@ To wit, when things which have been demonstrated by the Principles that have bee
 
 But if all these proofs of probability are met with in that which I propose to discuss, as it seems to me they are, this ought to be a very strong confirmation of the success of my inquiry; and it must be ill if the facts are not pretty much as I represent them. I would believe then that those who love to know the Causes of things and who are able to admire the marvels of Light, will find some satisfaction in these various speculations regarding it, and in the new explanation of its famous property which is the main foundation of the construction of our eyes and of those great inventions which extend so vastly the use of them.
 
-I hope also that there will be some who by following these beginnings will penetrate much further into this question than I have been able to do, since the subject must be far from being exhausted. This appears from the passages which I have indicated where I leave certain difficulties without having resolved them, and still more from matters which I have not touched at all, such as Luminous Bodies of several sorts, and all that concerns Colours; in which no one until now can boast of having succeeded. Finally, there remains much more to be investigated touching the nature of Light which I do not pretend to have disclosed, and I shall owe much in return to him who shall be able to supplement that which is here lacking to me in knowledge. The Hague. The 8 January 1690.
+I hope also that there will be some who by following these beginnings will penetrate much further into this question than I have been able to do, since the subject must be far from being exhausted. 
+
+This appears from the passages which I have indicated where I leave certain difficulties without having resolved them, and still more from matters which I have not touched at all, such as Luminous Bodies of several sorts, and all that concerns Colours; in which no one until now can boast of having succeeded.
+
+Finally, there remains much more to be investigated touching the nature of Light which I do not pretend to have disclosed, and I shall owe much in return to him who shall be able to supplement that which is here lacking to me in knowledge.
+
+<!-- The Hague. The 8 January 1690. -->
 
 
 ## NOTE BY THE TRANSLATOR
@@ -50,6 +56,6 @@ If Huygens had no conception of transverse vibrations, of the principle of inter
 
 It has been needful in preparing this translation to exercise care lest one should import into the author's text ideas of subsequent date, by using words that have come to imply modern conceptions. Hence the adoption of as literal a rendering as possible. A few of the author's terms need explanation. He uses the word "refraction," for example, both for the phenomenon or process usually so denoted, and for the result of that process: thus the refracted ray he habitually terms "the refraction" of the incident ray. When a wave-front, or, as he terms it, a "wave," has passed from some initial position to a subsequent one, he terms the wave-front in its subsequent position "the continuation" of the wave. He also speaks of the envelope of a set of elementary waves, formed by coalescence of those elementary wave-fronts, as "the termination" of the wave; and the elementary wave-fronts he terms "particular" waves. Owing to the circumstance that the French word rayon possesses the double signification of ray of light and radius of a circle, he avoids its use in the latter sense and speaks always of the semi-diameter, not of the radius. His speculations as to the ether, his suggestive views of the structure of crystalline bodies, and his explanation of opacity, slight as they are, will possibly surprise the reader by their seeming modernness. And none can read his investigation of the phenomena found in Iceland spar without marvelling at his insight and sagacity.
 
-S.P.T.
+<!-- S.P.T.
 
-June, 1912.
+June, 1912. -->

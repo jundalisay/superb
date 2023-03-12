@@ -5,7 +5,7 @@ weight: 14
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Market Size is the Most Important Factor that Leads to the Division of Labour in Society"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

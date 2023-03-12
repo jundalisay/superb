@@ -3,7 +3,7 @@ heading: Chapter 8
 title: "Money as the Measure of Value and Medium of Exchange"
 weight: 20
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "To facilitate exchange, people needed some expedient to ascertain the accuracy of weight and fineness. Coinage secures these"
 ---

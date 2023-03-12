@@ -4,7 +4,7 @@ heading: "Chapter 2f"
 weight: 20
 image: "/covers/wn.jpg"
 description: "A bank also spends to keep a large amount at all times in its coffers for answering the occasional demands of the holders of its notes"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 

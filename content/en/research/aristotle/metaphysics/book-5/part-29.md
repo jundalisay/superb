@@ -5,7 +5,7 @@ author: "Aristotle"
 weight: 26
 image: "/covers/meta.jpg"
 description: "Aristotle defines False and Accident"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

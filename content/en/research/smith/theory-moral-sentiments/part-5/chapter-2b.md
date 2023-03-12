@@ -5,7 +5,7 @@ description: "The politeness highly esteemed in Russia would be seen as rudeness
 weight: 26
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

@@ -6748,7 +6748,7 @@ body {
 
 .poincare {
   background-color: darkslateblue;
-  background-image: url(/icons/poincare.jpg) !important; }
+  background-image: url(/avatars/poincare.png) !important; }
 
 .conf, .Confucius {
   background-image: url(/icons/conf.png); }
@@ -6800,7 +6800,7 @@ body {
 
 .lor {
   background-color: darkslateblue;
-  background-image: url(/icons/lor.jpg); }
+  background-image: url(/avatars/lor.png); }
 
 .mac {
   background-color: black !important;
@@ -6853,13 +6853,13 @@ body {
 
 .smith, .Smith {
   background-color: #055 !important;
-  background-image: url(/icons/smith.png) !important; }
+  background-image: url(/avatars/smith.png) !important; }
 
 .soc, .Socrates, .socrates {
-  background-image: url(/icons/soc.png); }
+  background-image: url(/avatars/socrates.png); }
 
 .spmed, .Medical-Superphysics {
-  background-image: url(/icons/msp50.png) !important; }
+  background-image: url(/icons/spmed50.png) !important; }
 
 .pantry, .tao {
   background-color: darkcyan;
@@ -6883,11 +6883,11 @@ body {
 
 .Pythagoras {
   background-color: #3a000e;
-  background-image: url(/avatars/pyth.jpg); }
+  background-image: url(/avatars/py.png); }
 
 .Jesus {
   background-color: #ccd6fc;
-  background-image: url(/icons/jesus.png); }
+  background-image: url(/avatars/jesus.png); }
 
 .Someone, .Mohammad {
   background-color: lightgray;
@@ -6899,15 +6899,15 @@ body {
 
 .ade, .Adeimantus, .Tsz-Hi {
   background-color: #d9fefd;
-  background-image: url(/icons/g01.png); }
+  background-image: url(/avatars/g01.png); }
 
 .asker, .Asker {
   background-color: gainsboro;
-  background-image: url(/icons/g01.png) !important; }
+  background-image: url(/avatars/g01.png) !important; }
 
 .Wang-Sun-Ki, .Tsz-Lu {
   background-color: gainsboro;
-  background-image: url(/icons/g02.png) !important; }
+  background-image: url(/avatars/g02.png) !important; }
 
 .cle, .Cleitophon, .Simmias, .Duke-Ngai, .Abraham {
   background-color: #ffd3ac;
@@ -6915,7 +6915,7 @@ body {
 
 .thra, .Thrasymachus, .angry, .Boomer, .Duke-Ting, .Father-of-Abraham {
   background-color: #ffc8d5;
-  background-image: url(/icons/g04.png); }
+  background-image: url(/icons/g10.png); }
 
 .Allah {
   background-color: white;
@@ -6923,7 +6923,7 @@ body {
 
 .zeno, .Tsai-Wo {
   background-color: darkgray;
-  background-image: url(/icons/g04.png); }
+  background-image: url(/icons/g10.png); }
 
 .pole, .Polemarchus, .Cebes, .Critias, .Judge, .Man {
   background-color: #dec7ff;
@@ -6945,7 +6945,7 @@ body {
 
 .Tsz-Lu, .Yuen-Sz, .Chung-Kung {
   background-color: powderblue;
-  background-image: url(/icons/g09.png); }
+  background-image: url(/avatars/g09.png); }
 
 .Mary {
   background-color: mistyrose;

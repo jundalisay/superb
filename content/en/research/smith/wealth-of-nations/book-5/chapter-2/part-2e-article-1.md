@@ -4,7 +4,7 @@ heading: "Chapter 2e of Part 1b"
 weight: 18
 image: "/covers/wn.jpg"
 description: "House rents are made up of the Building-rent and The Ground-rent"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 

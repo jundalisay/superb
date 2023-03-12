@@ -4,7 +4,7 @@ description: "For 200 years, people saw a national advantage in a favourable bal
 image: "/covers/general.jpg"
 # date: 2019-09-20
 weight: 104
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 author: John Maynard Keynes
 ---
 

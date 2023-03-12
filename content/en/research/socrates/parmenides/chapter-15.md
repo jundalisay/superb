@@ -5,7 +5,7 @@ weight: 30
 image: "/covers/parm.png"
 description: "The Others become other than each Other, for the only remaining alternative is that they are other than nothing."
 author: Plato
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

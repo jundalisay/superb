@@ -5,7 +5,7 @@ weight: 6
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Division of Labor raises productivity by increasing skill, time savings, and by the invention of technology"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

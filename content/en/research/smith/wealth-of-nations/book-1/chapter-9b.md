@@ -5,7 +5,7 @@ weight: 50
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "In our North American and West Indian colonies, both wages and interest, and consequently profits, are higher than in England."
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

@@ -5,7 +5,7 @@ description: "The division of any arc of a circle into 3, 5, 7, and so on, equal
 image: /covers/harmony.jpg
 weight: 28
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

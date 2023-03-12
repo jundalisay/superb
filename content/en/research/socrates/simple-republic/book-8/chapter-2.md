@@ -5,7 +5,7 @@ weight: 1
 image: "/covers/republic.jpg"
 description: "Oligarchy emerges from Timocracy which is after the aristocracy of philosophers"
 author: "Socrates"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

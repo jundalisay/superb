@@ -4,7 +4,7 @@ heading: "Part 2u, Article 4"
 weight: 50
 image: "/covers/wn.jpg"
 description: "Taxes on luxuries generally are paid piecemeal. In the time and mode of payment they are the most convenient of all taxes"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 
@@ -12,7 +12,7 @@ author: Adam Smith
 
 {{< s v="205" >}} Taxes on luxuries generally are paid piecemeal. In the time and mode of payment they are the most convenient of all taxes. On the whole, such taxes are against the fourth maxim, but agree with the other three.
 
-{{< s v="206" >}} Such taxes always take out or keep out from the people's pockets more than almost any other taxes in four different ways= 
+{{< s v="206" >}} Such taxes always take out or keep out from the people's pockets more than almost any other taxes in four different ways:
 
 
 > {{< s v="207" >}} 1. Their levying requires many custom-house and excise officers.
@@ -45,7 +45,7 @@ A much bigger savings can be made by=
 
 The net produce of that year, after deducting all expences, was £4,975,652l. 19s. 6d.
 
-> 208 2. Taxes on luxury commodities discourage certain industries because they discourage consumption.
+> {{< s v="208" >}} 2. Taxes on luxury commodities discourage certain industries because they discourage consumption.
 
 - If it is a locally-made commodity, less labour is employed in making it.
 - If it is a foreign commodity, the same commodities made at home might gain some advantage in the home market.
@@ -61,23 +61,28 @@ Such taxes always alter the natural direction of national industry.
 They always turn it into a channel less advantageous than natural.
 
 
-> 209 3. Smuggling frequently causes forfeitures and other penalties which entirely ruin the smuggler.
+> {{< s v="209" >}} 3. Smuggling frequently causes forfeitures and other penalties which entirely ruin the smuggler.
 
 A smuggler would have been an excellent citizen if his country's laws did not turn trade into a crime.
 In corrupt governments where there is much unnecessary expence and misapplication of the public revenue, the laws which guard taxes are little respected.
+
 Few are scrupulous about smuggling when they can find any easy and safe opportunity to smuggle.
 In most countries, it is a hypocrisy to pretend to have any scruple about buying smuggled goods.
+
 Instead of gaining credit with anybody, it only exposes such persons to the suspicion of being more dishonest than others.
+
 Thus, the smuggler is often encouraged to continue a trade which he is taught to consider as somewhat innocent.
+
 When the severe revenue laws catch him, he is frequently disposed to violently defend what he regards as his just property.
+
 From being at imprudent at first, he finally often becomes one of the hardiest and most determined lawbreakers.
+
 By the smuggler's ruin, his capital, which previously employed productive labourers, is absorbed in the state's revenue or in that of the revenue officer.
+- It is employed in maintaining unproductive labourers.
+- It reduces the society's general capital and useful industry.
 
-It is employed in maintaining unproductive labourers.
-It reduces the society's general capital and useful industry.
 
-
-> 210 4. Such taxes expose dealers to oppression, trouble, and vexation through the odious examination of the tax-gatherers.
+> {{< s v="210" >}} 4. Such taxes expose dealers to oppression, trouble, and vexation through the odious examination of the tax-gatherers.
 
 We all want to be free of such vexation. Excise laws are more effective for taxation than customs, but causes more vexations.
 

@@ -6,7 +6,7 @@ weight: 82
 image: "/covers/wn.jpg"
 description: "The monopoly of the colony trade drew British capital from other trades"
 author: Adam Smith
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

@@ -5,7 +5,7 @@ description: "The quantity of a line is knowable if it is either itself immediat
 image: /covers/harmony.jpg
 weight: 8
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

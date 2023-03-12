@@ -5,7 +5,7 @@ description: "Praise is different from Praisworthiness, Blame is different from 
 date: 2015-09-28
 image: "/covers/tms.jpg"
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

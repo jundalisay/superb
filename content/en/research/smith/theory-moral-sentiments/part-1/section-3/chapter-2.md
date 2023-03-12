@@ -6,7 +6,7 @@ description: "Our sympathy with the false idea of the happiness of the rich and 
 author: "Adam Smith"
 image: "/covers/tms.jpg"
 weight: 8
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

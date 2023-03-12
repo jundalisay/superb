@@ -5,7 +5,7 @@ weight: 1
 image: "/covers/meta.jpg"
 description: "One is not a number; for the measure is not measures, but both the measure and the one are starting-points"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

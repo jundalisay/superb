@@ -5,7 +5,7 @@ weight: 34
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "In every farm, the offals of the barn and stables will maintain Poultry, Pork, and Dairy"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

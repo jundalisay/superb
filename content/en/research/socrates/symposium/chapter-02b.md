@@ -5,7 +5,7 @@ weight: 6
 author: Plato
 image: "/covers/sym.png"
 description: "There is an absurdity saying that harmony is discord or is composed of elements which are still in a state of discord"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

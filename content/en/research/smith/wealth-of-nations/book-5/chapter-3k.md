@@ -4,7 +4,7 @@ heading: "Chapter 3k"
 weight: 26
 image: "/covers/wn.jpg"
 description: "Ireland and America should help reduce Great Britain's public debt"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 

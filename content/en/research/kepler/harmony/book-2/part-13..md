@@ -5,7 +5,7 @@ description: "Congruent Plane Shapes is when they either enclose a solid figure 
 image: /covers/harmony.jpg
 weight: 8
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

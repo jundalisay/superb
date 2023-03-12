@@ -1,15 +1,13 @@
-
-+++
-title= "Part 16= Taonomics"
-heading= "Chapters 75-77"
-description= "Economics with the Tao is Taonomics"
-date= 2021-09-13
-image= "/covers/tao.jpg"
-linkb= "/research/laotzu/tao-te-ching/part-15-state"
-linkbtext= "The State"
-linkf= "/research/laotzu/tao-te-ching/part-17-reqs"
-linkftext= "Requirements"
-+++
+---
+heading: "Part 16: Chapters 75-77"
+title: "Taonomics"
+description: "Economics with the Tao is Taonomics"
+image: "/covers/tao.jpg"
+# date: 2020-01-29
+weight: 32
+icon: "/avatars/lao.png"
+author: Lao Tzu
+---
 
 
 ## Chapter 75: Economic Policy

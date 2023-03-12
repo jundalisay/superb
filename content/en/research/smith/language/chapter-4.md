@@ -3,7 +3,7 @@ heading: Chapter 4
 title: "The English Language versus the French and Italian"
 weight: 14
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/formation.jpg"
 description: "As long as any language was spoken by those only who learned it in their infancy, the intricacy of its declensions and conjugations could occasion no great embarrassment"
 ---

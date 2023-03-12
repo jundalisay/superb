@@ -5,7 +5,7 @@ weight: 18
 image: "/covers/wn.jpg"
 description: "The manufactures fit for export were introduced in 2 ways"
 author: Adam Smith
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

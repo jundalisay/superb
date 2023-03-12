@@ -5,7 +5,7 @@ description: "The country's mercantile stock naturally courts the near employmen
 image: /covers/wn.jpg
 weight: 94
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

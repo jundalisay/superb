@@ -4,7 +4,7 @@ title: "The Ban on Coin Exportation"
 # date: 2015-09-10
 weight: 24
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "This ban has been extremely hurtful to the country's commerce. Because whatever amount of money there is in any country above what is needed for circulation is merely a dead stock"
 ---

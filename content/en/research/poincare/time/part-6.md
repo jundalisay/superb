@@ -5,7 +5,7 @@ weight: 5
 description: Two psychological phenomena happen simultaneously in two different consciousnesses. What does simultaneous mean?
 image: "/covers/time.jpg"
 author: "H. Poincare"
-icon: /icons/poincare.jpg
+icon: /avatars/poincare.png
 ---
 
 

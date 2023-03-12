@@ -5,7 +5,7 @@ weight: 6
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
-icon: /icons/poincare.jpg
+icon: /avatars/poincare.png
 ---
 
 > Superphysics Note: Proof by Recurrence is numerical perception

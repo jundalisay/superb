@@ -5,7 +5,7 @@ weight: 2
 author: Plato
 image: "/covers/sym.png"
 description: "I wanted to ask you about the speeches in praise of love, which were delivered by Socrates, Alcibiades, and others, at Agathon's supper"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

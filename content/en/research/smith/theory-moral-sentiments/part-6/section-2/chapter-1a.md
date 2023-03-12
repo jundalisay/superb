@@ -5,7 +5,7 @@ description: "Nature first recommends the body's preservation and healthful stat
 weight: 36
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

@@ -5,7 +5,7 @@ weight: 14
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The value of non-food produce should constantly rise relative to food produce"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

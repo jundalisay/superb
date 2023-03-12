@@ -4,7 +4,7 @@ heading: "Chapter 2 Part 2b, Article 1--Taxes on Land Rent"
 weight: 12
 image: "/covers/wn.jpg"
 description: "A tax on land rent may be based on a valuation which is fixed and does not change with the actual rent which can fluctuate with the land's improvement or decline"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 
@@ -123,7 +123,7 @@ This hurtful practice can be discouraged by rendering the tax on such fees much 
 
 
 
-42 Some leases prescribe to the tenant:
+{{< s v="42" >}} Some leases prescribe to the tenant:
 - a certain method of cultivation, and
 - a certain crop succession during the lease.
 
@@ -133,23 +133,26 @@ It should always be considered as an additional rent in service instead of a ren
 - valued high, and
 - taxed higher than common money rents.
 
-43 Some landlords, instead of a rent in money, require a rent in kind, in corn, cattle, poultry, wine, oil, etc.
+
+{{< s v="43" >}} Some landlords, instead of a rent in money, require a rent in kind, in corn, cattle, poultry, wine, oil, etc.
 
 Others require a rent in service.
 Such rents are always more hurtful to the tenant than beneficial to the landlord.
 They take more or keep more money out of the tenant than they put into the landlord.
 In countries where such rents take place, the tenants are poor according to the degree such rents are enforced.
 
-This hurtful practice can be discouraged by= 
+This hurtful practice can be discouraged by:
 - valuing such rents higher and
 - taxing such rents higher than common money rents.
 
-44 When the landlord chose to occupy his own lands, the rent might be valued according to an equitable arbitration of the farmers and landlords in the neighbourhood.
+
+{{< s v="44" >}} When the landlord chose to occupy his own lands, the rent might be valued according to an equitable arbitration of the farmers and landlords in the neighbourhood.
 
 A moderate abatement of the tax might be granted to him, in the same way as in Venice, provided the rent of the lands he occupied did not exceed a certain sum.
 The landlord should be encouraged to cultivate a part of his own land.
 He has more capital than the tenant.
 With less skill, he can raise more produce.
+
 He can afford to try experiments.
     His unsuccessful experiments create only a moderate loss to himself.
     His successful experiments contribute to land improvement.
@@ -160,6 +163,7 @@ If most landlords were tempted to farm all their own lands, the countryside woul
 Those tenants are bound by their own interest to cultivate as best as they can.
 The landlords' abusive management would soon degrade the cultivation and reduce the land's produce.
 
-45 Such a system of administration might free this kind of tax from any uncertainty which could oppress or inconvenience the taxpayer.
+
+{{< s v="45" >}} Such a system of administration might free this kind of tax from any uncertainty which could oppress or inconvenience the taxpayer.
 
 It might introduce into the common management of land such a policy which could greatly improve and cultivate the countryside.

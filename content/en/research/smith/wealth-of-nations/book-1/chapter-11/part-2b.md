@@ -5,7 +5,7 @@ author: Adam Smith
 weight: 10
 image: "/covers/wn.jpg"
 description: "The value of Coal Mines is relative to the value of other fuel sources"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

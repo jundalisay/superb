@@ -5,7 +5,7 @@ description: "Foreign trade gives a value to their nations' superfluities by exc
 image: /covers/wn.jpg
 weight: 16
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 --- 
 
 

@@ -5,7 +5,7 @@ description: "Humanity, justice, generosity, and public spirit, are the qualitie
 weight: 16
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

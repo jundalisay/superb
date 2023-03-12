@@ -3,7 +3,7 @@ heading: Chapter 3
 title: "Standing Armies"
 weight: 12
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "In the beginning of society, the state's defence required no police, nor particular provision for it"
 ---

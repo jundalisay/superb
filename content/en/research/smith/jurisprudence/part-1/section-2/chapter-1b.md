@@ -4,7 +4,7 @@ title: "Polygamy"
 weight: 8
 # date: 2015-09-28
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Voluntary divorce has inconveniences. Yet it is still within justice that a man should divorce his wife and take another for less reasons than adultery"
 ---

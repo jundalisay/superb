@@ -4,7 +4,7 @@ heading: "Chapter 1"
 description: "The Source of our Compassion is our conception of the pain of others"
 weight: 4
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

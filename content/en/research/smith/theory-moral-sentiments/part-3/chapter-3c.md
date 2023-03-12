@@ -5,7 +5,7 @@ description: "The Stoics said that there is no essential difference in the happi
 date: 2015-09-14
 image: "/covers/tms.jpg"
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

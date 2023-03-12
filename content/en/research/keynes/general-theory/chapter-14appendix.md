@@ -6,7 +6,7 @@ description: "Keynes compares the different notions of interest by Marshall, Ric
 # date: 2020-11-03
 weight: 60
 author: John Maynard Keynes
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 

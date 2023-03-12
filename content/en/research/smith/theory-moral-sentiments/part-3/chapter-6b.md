@@ -5,7 +5,7 @@ description: "The general rules of the virtue called justice require the greates
 date: 2015-09-01
 image: "/covers/tms.jpg"
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

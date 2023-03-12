@@ -5,7 +5,7 @@ description: "The Theory of Value has traditionally been based on supply and dem
 image: "/covers/general.jpg"
 # date: 2020-09-30
 weight: 94
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 author: John Maynard Keynes
 ---
 

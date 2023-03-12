@@ -4,7 +4,7 @@ heading: "Part 4"
 weight: 8
 image: "/covers/meta.jpg"
 description: "Aristotle explains the basic ideas of Hesiod and Parmenides"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 author: Aristotle
 ---
 

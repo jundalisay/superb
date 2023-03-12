@@ -4,7 +4,7 @@ title: "Aristotle explains Whether and Plurality"
 weight: 10
 image: "/covers/meta.jpg"
 description: "Aristotle gives maximum importance to the sight over the other senses"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 author: Aristotle
 ---
 

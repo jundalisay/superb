@@ -5,7 +5,7 @@ weight: 1
 image: "/covers/meta.jpg"
 author: Aristotle
 description: "Aristotle defines Beginning as that part of a thing from which one would start first"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

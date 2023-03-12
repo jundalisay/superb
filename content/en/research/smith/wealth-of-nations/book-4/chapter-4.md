@@ -5,7 +5,7 @@ description: "Drawbacks seem the most reasonable of these encouragements"
 image: /covers/wn.jpg
 weight: 36
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 --- 
 
 

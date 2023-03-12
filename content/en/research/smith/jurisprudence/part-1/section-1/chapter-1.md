@@ -4,7 +4,7 @@ title: "The Original Principles of Government"
 weight: 4
 # date: 2015-09-30
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Governments are based on Utility and Authority. The social contract theory is a fallacy invented in Britain"
 ---

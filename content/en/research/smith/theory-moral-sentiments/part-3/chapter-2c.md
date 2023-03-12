@@ -5,7 +5,7 @@ description: "In all cases, the agreement or disagreement of the feelings and ju
 date: 2015-09-24
 image: "/covers/tms.jpg"
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

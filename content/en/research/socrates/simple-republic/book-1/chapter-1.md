@@ -3,7 +3,7 @@ title: "What is Justice?"
 weight: 4
 image: "/covers/republic.jpg"
 description: "Justice is not merely doing good to our friends and doing harm to our enemies. Nor is it just the repayment of debts."
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 
@@ -11,14 +11,14 @@ icon: "/icons/soc.png"
 
 Persons in the dialogue:
 
-Socrates, the narrator | ![Socrates avatar](/icons/soc.png)
+Socrates, the narrator | ![Socrates avatar](/icons/socrates.png)
 --- | ---
-Glaucon | ![Glaucon avatar](/icons/g07.png)
-Adeimantus | ![Adeimmantus avatar](/icons/g01.png)
-Polemarchus | ![Polemarchus avatar](/icons/g05.png)
+Glaucon | ![Glaucon avatar](/icons/g01.png)
+Adeimantus | ![Adeimmantus avatar](/icons/g02.png)
+Polemarchus | ![Polemarchus avatar](/icons/g04.png)
 Cephalus | ![Cephalus avatar](/icons/g08.png) 
-Thrasymachus | ![Thrasymachus avatar](/icons/g04.png) 
-Cleitophon | ![Cleitophon avatar](/icons/g03.png) 
+Thrasymachus | ![Thrasymachus avatar](/icons/g10.png) 
+Cleitophon | ![Cleitophon avatar](/icons/g09.png) 
 
 
 The scene is in Cephalus' house at the Piraeus. Socrates narrates the dialogue to Timaeus, Hermocrates, Critias, and a nameless person, who are introduced in the Timaeus, the day after it happened.

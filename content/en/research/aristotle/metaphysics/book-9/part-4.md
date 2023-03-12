@@ -5,7 +5,7 @@ weight: 8
 image: "/covers/meta.jpg"
 description: "If, when A is real, B must be real, then, when A is possible, B also must be possible"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

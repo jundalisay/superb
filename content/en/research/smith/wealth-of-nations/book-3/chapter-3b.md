@@ -5,7 +5,7 @@ weight: 16
 image: "/covers/wn.jpg"
 description: "This is how the republic of Berne and other Swiss cities came to be. Except for Venice, this is also how all the considerable Italian republics were formed"
 author: Adam Smith
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

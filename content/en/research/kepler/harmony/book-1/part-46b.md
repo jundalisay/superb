@@ -5,7 +5,7 @@ description: "To make this clear I shall first explain Pappus’ mechanical proc
 image: /covers/harmony.jpg
 weight: 28
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

@@ -5,7 +5,7 @@ weight: 10
 image: "/covers/meta.jpg"
 author: Aristotle
 description: "Aristotle defines Substance, same, opposite"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

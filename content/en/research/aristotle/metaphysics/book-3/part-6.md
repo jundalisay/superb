@@ -5,7 +5,7 @@ weight: 16
 image: "/covers/meta.jpg"
 author: Aristotle
 description: "Besides perceptible things and the intermediates, we have to look for another class of things -- the Forms which we posit. "
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

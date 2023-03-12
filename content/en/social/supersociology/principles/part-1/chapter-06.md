@@ -6,7 +6,7 @@ weight: 24
 image: "/photos/objects/egypt.jpg"
 description: "The general behavior of a people that arises from the topography of their homeland"
 author: Juan
-icon: /icons/ss.png
+icon: /icons/spss.png
 ---
 
 

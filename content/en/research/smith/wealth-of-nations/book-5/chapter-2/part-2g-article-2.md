@@ -4,7 +4,7 @@ heading: "Chapter 2g of Part 1b"
 weight: 22
 image: "/covers/wn.jpg"
 description: "Profits on stock naturally divides itself into two"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 

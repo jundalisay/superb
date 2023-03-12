@@ -5,7 +5,7 @@ weight: 36
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Produce that can or cannot be multiplied according to demand. Examples are wool or raw hides, fish, precious metals"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

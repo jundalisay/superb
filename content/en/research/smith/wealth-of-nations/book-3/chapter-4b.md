@@ -5,7 +5,7 @@ weight: 22
 image: "/covers/wn.jpg"
 description: "Feudalism came from the strength of the king over the feudal lords"
 author: Adam Smith
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

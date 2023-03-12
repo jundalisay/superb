@@ -5,7 +5,7 @@ description: "Notes on the Trade Cycle"
 image: "/covers/general.jpg"
 # date: 2020-09-24
 weight: 100
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 author: "John Maynard Keynes"
 ---
 

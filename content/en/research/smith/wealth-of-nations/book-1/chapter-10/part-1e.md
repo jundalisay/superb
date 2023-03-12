@@ -5,7 +5,7 @@ weight: 64
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The chance of loss is frequently under-valued and rarely valued more than it is worth"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

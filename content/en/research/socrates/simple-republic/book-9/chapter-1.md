@@ -5,7 +5,7 @@ weight: 1
 image: "/covers/republic.jpg"
 description: "The Tyrannical Man emerges from the Democratic man"
 author: "Socrates"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

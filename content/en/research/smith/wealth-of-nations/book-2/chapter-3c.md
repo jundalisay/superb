@@ -6,7 +6,7 @@ weight: 44
 image: "/covers/wn.jpg"
 description: "The 1772 credit crunch was resolved naturally because it did not have profit maximization "
 author: Adam Smith
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

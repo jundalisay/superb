@@ -4,7 +4,7 @@ title: "The Nature Of Government And Its Progress In The First Ages Of Society"
 # date: 2015-09-28
 weight: 6
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Aristocratical and democratical governments may be called republican"
 ---

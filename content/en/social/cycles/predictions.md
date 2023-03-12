@@ -4,7 +4,7 @@ heading: "So far so good"
 date: 2021-07-27
 image: "/photos/objects/king.jpg"
 description: "We list the Successes and Failures of our social cycles predictions, derived from Socrates"
-icon: /icons/ss.png
+icon: /icons/spss.png
 aliases:
   /social/cycles/predictions
 ---

@@ -5,7 +5,7 @@ weight: 34
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-icon: "/icons/krishna.png"
+icon: "/avatars/krishna.png"
 ---
 
 
@@ -16,11 +16,13 @@ If men forsake the holy ordinance, heedless of Shastras, yet keep faith at heart
 
 
 {{< l a="Krishna" >}}
-Threefold the faith is of mankind and springs
-From those three qualities,--becoming "true,"
+Threefold the faith is of mankind and springs from those 3 qualities,--becoming "true,"
 Or "passion-stained," or "dark," as thou shalt hear!
+
 The faith of each believer, Indian Prince!
+
 Conforms itself to what he truly is.
+
 Where thou shalt see a worshipper, that one
 To what he worships lives assimilate,
 [Such as the shrine, so is the votary,]

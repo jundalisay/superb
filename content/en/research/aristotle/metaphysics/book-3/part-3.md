@@ -5,7 +5,7 @@ weight: 8
 image: "/covers/meta.jpg"
 description: "Is it the genera that should be taken as elements and principles, or rather the primary constituents of a thing?"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

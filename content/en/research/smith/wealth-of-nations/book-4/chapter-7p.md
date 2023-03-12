@@ -5,7 +5,7 @@ description: "Even the regulations which secure to each nation the exclusive tra
 image: /covers/wn.jpg
 weight: 92
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

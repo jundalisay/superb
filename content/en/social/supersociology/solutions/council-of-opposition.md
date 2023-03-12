@@ -3,13 +3,14 @@ title: "Council of Opposition to Preserve the Balance of Power"
 heading: "David Hume's Court of Competitors or Opposition Bloc"
 date: 2021-09-07
 image: "/photos/objects/regicide.jpg"
-# image: "https://sorasystem.sirv.com/photos/pawns.jpg"
 description: "The Council of Opposition is David Hume's solution to prevent tyranny in a democratic government"
 author: Juan
-icon: /icons/ss.png
+icon: /icons/spss.png
 aliases:
   /solutions/social/the-council-of-opposition
 ---
+
+
 
 In Hume's [essay of the ideal commonwealth](/research/hume/essays/part-2/16-the-ideal-system-of-government), he writes his plan for the ideal government: 
 

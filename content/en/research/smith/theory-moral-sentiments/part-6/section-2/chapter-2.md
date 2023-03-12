@@ -5,7 +5,7 @@ description: "The principles that direct the order of how individuals are recomm
 weight: 42
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

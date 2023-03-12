@@ -5,7 +5,7 @@ weight: 22
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "From 1570 to 1640, the proportion of silver and wheat values were opposite. Silver sunk in its real value. Wheat rose in its nominal price"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

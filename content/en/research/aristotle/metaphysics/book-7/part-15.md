@@ -4,7 +4,7 @@ heading: "Part 15"
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "Substance is of two kinds the concrete thing, the formula"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

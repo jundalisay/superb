@@ -5,7 +5,7 @@ description: "There are 13 solid congruences which are perfect in an inferior de
 image: /covers/harmony.jpg
 weight: 18
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

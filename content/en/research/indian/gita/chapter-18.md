@@ -5,7 +5,7 @@ weight: 36
 author: "Vyasa"
 description: "The very truth is abstention or Sannyas, and renunciation or Tyaga. What is the difference between the two?"
 image: "/covers/gita.jpg"
-icon: "/icons/krishna.png"
+icon: "/avatars/krishna.png"
 ---
 
 

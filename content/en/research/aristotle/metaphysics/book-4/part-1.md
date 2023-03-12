@@ -5,7 +5,7 @@ weight: 1
 image: "/covers/meta.jpg"
 description: "To investigate the essence of these is the work of a science which is generically one"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

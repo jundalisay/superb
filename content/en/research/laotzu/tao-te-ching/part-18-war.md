@@ -1,14 +1,15 @@
-+++
-title= "Part 18= Virtues in Adversity= Patience, Frugality, Humility"
-heading= "Chapters 67-69, 30-31 of the Simplified Tao Te Ching by Lao Tzu"
-description= "Restraint of the ego is important to win in adversity"
-date= 2021-09-11
-image= "/covers/tao.jpg"
-linkb= "/research/laotzu/tao-te-ching/part-17-reqs"
-linkbtext= "Requirements"
-linkf= "/research/laotzu/tao-te-ching/part-19-justice"
-linkftext= "Justice"
-+++
+---
+heading: "Part 18: Chapters 67-69, 30-31"
+title: "Virtues in Adversity: Patience, Frugality, Humility"
+description: "Restraint of the ego is important to win in adversity"
+image: "/covers/tao.jpg"
+# date: 2020-01-29
+weight: 34
+icon: "/avatars/lao.png"
+author: Lao Tzu
+---
+
+
 
 ## Chapter 67: Patience, Frugality, Humility
 

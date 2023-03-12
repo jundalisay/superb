@@ -5,7 +5,7 @@ weight: 24
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "Aristotle defines Part and Whole"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

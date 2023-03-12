@@ -4,7 +4,7 @@ description: "The outstanding faults of the economy are its failure to provide f
 image: "/covers/general.jpg"
 # date: 2019-12-05
 weight: 112
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 

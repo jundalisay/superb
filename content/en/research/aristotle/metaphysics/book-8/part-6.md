@@ -5,7 +5,7 @@ weight: 10
 image: "/covers/meta.jpg"
 description: "What is the cause of the unity of definitions and numbers?"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

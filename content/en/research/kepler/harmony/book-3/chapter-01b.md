@@ -5,7 +5,7 @@ description: "When 2 strings emit identical sounds, a third note which is conson
 image: /covers/harmony.jpg
 weight: 6
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

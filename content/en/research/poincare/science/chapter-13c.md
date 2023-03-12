@@ -5,7 +5,7 @@ weight: 76
 description: There are 2 kinds of open conduction currents. There are first the currents of discharge of a condenser, or of any conductor whatever
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
-icon: /icons/poincare.jpg
+icon: /avatars/poincare.png
 ---
 
 

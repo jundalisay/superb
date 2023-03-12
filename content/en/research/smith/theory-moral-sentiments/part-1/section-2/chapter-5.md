@@ -6,7 +6,7 @@ description: "The Selfish feelings are in between the Social and Unsocial feelin
 weight: 12
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

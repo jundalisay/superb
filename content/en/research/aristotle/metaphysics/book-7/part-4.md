@@ -5,7 +5,7 @@ weight: 6
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "The essence of each thing is what is to be propter se"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

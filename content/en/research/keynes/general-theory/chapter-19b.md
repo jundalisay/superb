@@ -4,7 +4,7 @@ description: "The Economy is Not Self-Adjusting"
 image: "/covers/general.jpg"
 # date: 2020-10-08
 weight: 86
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 author: John Maynard Keynes
 ---
 

@@ -5,6 +5,7 @@ title: "SUMMARY OF THE CONTROVERSY REDUCED TO FORMAL ARGUMENTS"
 description: Some persons of discernment have wished me to make this addition. I have the more readily deferred to their opinion
 author: Leibniz
 image: "/covers/theodicy.png"
+icon: /icons/lei.png
 weight: 4
 ---
 

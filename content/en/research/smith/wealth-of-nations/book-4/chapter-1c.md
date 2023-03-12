@@ -5,7 +5,7 @@ description: "Not much can be spared from the circulating money of the country b
 image: /covers/wn.jpg
 weight: 14
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 --- 
 
 

@@ -4,7 +4,7 @@ title: "The Allodial Government"
 # date: 2015-09-20
 weight: 16
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The government which succeeded the fall of the Roman Empire was similar to Mongols"
 ---

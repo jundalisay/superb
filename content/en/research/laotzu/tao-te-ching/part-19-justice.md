@@ -1,11 +1,14 @@
-+++
-title= "Part 19= Knowledge, Laws, and Justice"
-heading= "Chapters 70-74"
-description= "Karma will eventually catch the unjust"
-date= 2021-09-10
-image= "/covers/tao.jpg"
-icon = "/icons/tao.png"
-+++
+---
+heading: "Part 19: Chapters 70-74"
+title: "Knowledge, Laws, and Justice"
+description: "Karma will eventually catch the unjust"
+image: "/covers/tao.jpg"
+# date: 2020-01-29
+weight: 34
+icon: "/avatars/lao.png"
+author: Lao Tzu
+---
+
 
 
 ## Chapter 70: Laws Should be Understandable

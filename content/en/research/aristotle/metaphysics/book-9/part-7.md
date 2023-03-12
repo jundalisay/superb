@@ -5,7 +5,7 @@ weight: 12
 image: "/covers/meta.jpg"
 description: "We must distinguish when a thing exists potentially and when it does not. For it is not at any and every time"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

@@ -5,7 +5,7 @@ description: "The principle of self-estimation may be too high or too low"
 weight: 50
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

@@ -5,7 +5,7 @@ image: "/covers/general.jpg"
 description: "Liquidity preference is divided into the need for cash, the need to be secure with cash, and the speculation for more cash"
 weight: 56
 author: John Maynard Keynes
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 

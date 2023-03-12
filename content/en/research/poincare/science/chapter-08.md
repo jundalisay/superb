@@ -5,7 +5,7 @@ weight: 42
 description: The difficulties raised by the classical mechanics have led certain minds to prefer a new system called Energetics
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
-icon: /icons/poincare.jpg
+icon: /avatars/poincare.png
 ---
 
 

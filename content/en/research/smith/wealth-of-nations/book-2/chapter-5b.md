@@ -6,7 +6,7 @@ weight: 56
 image: "/covers/wn.jpg"
 description: "Three types of trade are the Home Trade, Foreign Trade, Carrying Trade"
 author: Adam Smith
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

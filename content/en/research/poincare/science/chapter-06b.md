@@ -5,7 +5,7 @@ weight: 36
 description: The acceleration of a body is equal to the force which acts on it divided by its mass
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
-icon: /icons/poincare.jpg
+icon: /avatars/poincare.png
 ---
 
 

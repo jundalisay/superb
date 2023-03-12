@@ -5,7 +5,7 @@ description: "Among well-disposed people, the necessity or convenience of mutual
 weight: 40
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

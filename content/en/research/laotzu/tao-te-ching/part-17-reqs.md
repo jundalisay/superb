@@ -1,14 +1,15 @@
-+++
-title= "Part 17= Requirements for Philosophers and Philosopher-Kings"
-heading= "Chapter 49, 64-66"
-description= "Philosopher-Kings should have Equipoise, Good Intentions, "
-date= 2021-09-12
-image= "/covers/tao.jpg"
-linkb= "/research/laotzu/tao-te-ching/part-16-economics"
-linkbtext= "Economics"
-linkf= "/research/laotzu/tao-te-ching/part-18-war"
-linkftext= "War"
-+++
+---
+heading: "Part 17: Chapter 49, 64-66"
+title: "Requirements for Philosophers and Philosopher-Kings"
+description: "Philosopher-Kings should have Equipoise, Good Intentions"
+image: "/covers/tao.jpg"
+# date: 2020-01-29
+weight: 32
+icon: "/avatars/lao.png"
+author: Lao Tzu
+---
+
+
 
 ## Chapter 49: Equipoise
 

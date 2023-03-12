@@ -4,7 +4,7 @@ heading: "Part 2a of Chapter 11 of Book 1"
 weight: 8
 image: "/covers/wn.jpg"
 description: "Animal Skin and Timber"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

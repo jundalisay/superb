@@ -5,7 +5,7 @@ weight: 11
 image: "/covers/meta.jpg"
 description: "Why do women and men have the same species, while female and male are contrary?"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

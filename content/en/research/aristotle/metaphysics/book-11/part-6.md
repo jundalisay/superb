@@ -5,7 +5,7 @@ weight: 10
 image: "/covers/meta.jpg"
 description: "Protagoras said that man is the measure of all things. It means that that which seems to each man also assuredly is."
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

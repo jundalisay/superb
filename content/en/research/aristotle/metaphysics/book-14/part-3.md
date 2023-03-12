@@ -5,7 +5,7 @@ weight: 6
 image: "/covers/meta.jpg"
 description: "The Pythagoreans saw many attributes of numbers belonging to sensible bodies. They supposed real things to be numbers themselves"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

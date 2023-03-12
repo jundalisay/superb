@@ -6,11 +6,10 @@ image: /photos/idea.jpg
 # image: "https://sorasystem.sirv.com/photos/team.jpg"
 description: "Learning points allow modular learning to make education faster and more efficient. It works with ISAIAH Match"
 author: Juan
-icon: /icons/ss.png
+icon: /icons/spss.png
 draft: true
-aliases:
-  /solutions/social/what-are-confirmation-elections
 ---
+
 
 In Book 5 of the Wealth of Nations, Adam Smith describes a proper educational system that is based on actual learning, instead of what the professors impose on the students. 
 

@@ -5,7 +5,7 @@ description: "After the Spanish settlements, those of the Portuguese in Brazil a
 image: /covers/wn.jpg
 weight: 68
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

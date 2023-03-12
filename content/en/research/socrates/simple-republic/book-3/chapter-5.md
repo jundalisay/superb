@@ -4,7 +4,7 @@ heading: Chapter 4b
 weight: 16
 description: "The guardians should have common children, and not have private property nor riches"
 image: "/covers/republic.jpg"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

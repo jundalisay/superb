@@ -5,7 +5,7 @@ weight: 3
 description: As long as we do not go outside the domain of consciousness, the notion of time is relatively clear
 image: "/covers/time.jpg"
 author: "H. Poincare"
-icon: /icons/poincare.jpg
+icon: /avatars/poincare.png
 aliases:
   /research/poincare/part-1
 ---

@@ -5,7 +5,7 @@ weight: 8
 image: "/covers/wn.jpg"
 description: "The Rise of Cities After the Fall of Rome The Freedom in European Towns"
 author: Adam Smith
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

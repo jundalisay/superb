@@ -5,7 +5,7 @@ description: "The 2 following Accounts are joined to illustrate Chapter 5 on the
 image: /covers/wn.jpg
 weight: 56
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 --- 
 
 

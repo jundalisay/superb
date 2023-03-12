@@ -3,9 +3,9 @@ title: "What is Brahma and Karma?"
 heading: "Chapter 9 "
 weight: 16
 author: "Vyasa"
-description: ""
+description: "Who is that Brahma?"
 image: "/covers/gita.jpg"
-icon: "/icons/krishna.png"
+icon: "/avatars/krishna.png"
 ---
 
 
@@ -26,8 +26,8 @@ How can good men find you in the hour of death?
 {{< /r >}}
 
 
-Krishna.
 
+{{< l a="Krishna" >}}
 I am BRAHMA, the One Eternal GOD.
 
 ADHYATMAN is My Being's name, the Soul of Souls.
@@ -48,7 +48,12 @@ But, if he meditated otherwise at hour of death, in putting off the flesh, he go
 This is because the Soul is fashioned to its like.
 
 So have Me in your heart always, and fight!
+{{< /l >}}
 
+
+
+
+{{< l a="Krishna" >}}
 Thou too, when heart and mind are fixed on Me,
 Shalt surely come to Me! All come who cleave
 With never-wavering will of firmest faith,
@@ -110,14 +115,13 @@ Thither. I, the PURUSHA, I Who spread
 The Universe around me--in Whom dwell
 All living Things--may so be reached and seen!
 . . . . . . . . . . . . . . [FN#14]
-Richer than holy fruit on Vedas growing,
-Greater than gifts, better than prayer or fast,
-Such wisdom is! The Yogi, this way knowing,
-Comes to the Utmost Perfect Peace at last.
-HERE ENDETH CHAPTER VIII. OF THE BHAGAVAD-GITA,
+
+Richer than holy fruit on Vedas growing, Greater than gifts, better than prayer or fast,
+Such wisdom is! The Yogi, this way knowing, Comes to the Utmost Perfect Peace at last.
+
+{{< /l >}}
+
+<!-- HERE ENDETH CHAPTER VIII. OF THE BHAGAVAD-GITA, 
 Entitled "Aksharaparabrahmayog,"
-Or "The book of Religion by Devotion to the One Supreme God."
-
-
-
+Or "The book of Religion by Devotion to the One Supreme God." -->
 

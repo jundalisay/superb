@@ -1,8 +1,8 @@
 ---
 title: The Relative Motion of the Earth and the Aether
-heading: Semi-Enlightened
 description: To explain the aberration of light, Fresnel assumed that the aether does not share the annual motion of earth. This requires the Earth to be completely permeable to the aether
 image: "/covers/aether.jpg"
+icon: /icons/lor.png
 # date2021-09-28"
 author: Lorentz
 weight: 2

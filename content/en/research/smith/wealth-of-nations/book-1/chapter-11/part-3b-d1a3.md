@@ -5,7 +5,7 @@ weight: 20
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Historians made mistakes in Judging Wheat and Silver Prices because they were lazy and because rents were paid in kind"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

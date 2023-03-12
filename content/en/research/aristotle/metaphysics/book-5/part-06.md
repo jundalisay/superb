@@ -5,7 +5,7 @@ weight: 6
 image: "/covers/meta.jpg"
 description: "Aristotle defines one and many"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

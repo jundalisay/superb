@@ -5,7 +5,7 @@ weight: 26
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Since the discovery of America, the market for its silver mines has been growing more extensive for three reasons"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

@@ -4,7 +4,7 @@ heading: "Chapter 1"
 # date: 2020-01-31
 image: "/covers/philo.jpg"
 description: "Smith explains the different philosophies"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 weight: 10
 ---

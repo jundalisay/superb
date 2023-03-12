@@ -5,7 +5,7 @@ weight: 6
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The art of war is certainly the noblest of all arts"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

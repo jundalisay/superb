@@ -5,11 +5,13 @@ date: 2021-08-18
 image: "/photos/handshake.jpg"
 description: "Confirmation Elections are Adam Smith's solution to votes being split in countries that have no primaries"
 author: Juan
-icon: /icons/ss.png
+icon: /icons/spss.png
 aliases:
   /solutions/social/what-are-confirmation-elections
   /solutions/supersociology/confirmation-elections/
 ---
+
+
 
 David Hume's Ideal Commonwealth shows a federalized plan of government unified under an executive senate and a representative legislature. It includes an election system that is based on votes from the representatives instead of popular votes. 
 

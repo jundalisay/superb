@@ -5,7 +5,7 @@ weight: 12
 author: Plato
 image: "/covers/prot.jpg"
 description: "Once upon a time there were gods only, and no mortal creatures"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

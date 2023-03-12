@@ -5,7 +5,7 @@ weight: 1
 image: "/covers/meta.jpg"
 description: "Substance is the principle and cause and first part of the universe, if the universe is a whole"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

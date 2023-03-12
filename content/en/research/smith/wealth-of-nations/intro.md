@@ -5,7 +5,7 @@ title: "Introduction and Plan of the Work"
 weight: 1
 image: "/covers/wn.jpg"
 description: "The work of every nation is the fund which originally supplies it with all the necessaries and conveniencies of life"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 

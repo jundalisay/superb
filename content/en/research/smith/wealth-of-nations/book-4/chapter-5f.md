@@ -5,7 +5,7 @@ description: "Europe's ancient policy tried to regulate agriculture by maxims di
 image: /covers/wn.jpg
 weight: 48
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 --- 
 
 

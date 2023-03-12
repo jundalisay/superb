@@ -5,7 +5,7 @@ weight: 34
 description: The English teach mechanics as an experimental science. Here on the Continent, it is taught always as a deductive and à priori science
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
-icon: /icons/poincare.jpg
+icon: /avatars/poincare.png
 ---
 
 

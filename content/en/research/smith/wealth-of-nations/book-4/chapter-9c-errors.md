@@ -4,7 +4,7 @@ heading: "Chapter 9c"
 weight: 110
 image: "/covers/wn.jpg"
 description: "The main error of the Physiocrats system was in representing the artificers, manufacturers, and merchants as unproductive"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 

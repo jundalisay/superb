@@ -4,7 +4,7 @@ heading: "Chapter 3h"
 weight: 20
 image: "/covers/wn.jpg"
 description: "The revenue might be very much increased without increasing the burden on the people"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 

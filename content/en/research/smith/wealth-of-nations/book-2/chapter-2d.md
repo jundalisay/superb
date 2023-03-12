@@ -5,7 +5,7 @@ weight: 16
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

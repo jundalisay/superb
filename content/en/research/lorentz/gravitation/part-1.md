@@ -5,6 +5,7 @@ heading: Part 1
 description: Can we ascribe gravity to a certain state of the aether?
 image: "/covers/grav.jpg"
 # date2021-09-28"
+icon: /icons/lor.png
 weight: 4
 ---
 

@@ -5,7 +5,7 @@ description: "The affinity between the rays and a circle and its arcs is greater
 image: /covers/harmony.jpg
 weight: 22
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

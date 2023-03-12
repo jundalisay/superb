@@ -1,14 +1,15 @@
-+++
-title= "Part 11: Self-Realization"
-heading= "Chapters 16, 44-47, 56"
-description= "Self-Realization can be attained by meditation and fellow-feeling"
-date= 2021-09-18
-image= "/covers/tao.jpg"
-linkb= "/research/laotzu/tao-te-ching/part-10-masters"
-linkbtext= "Masters"
-linkf= "/research/laotzu/tao-te-ching/part-12-with-the-tao"
-linkftext= "With the Tao"
-+++
+---
+heading: "Part 11: Chapters 16, 44-47, 56"
+title: "Self-Realization"
+description: "Self-Realization can be attained by meditation and fellow-feeling"
+image: "/covers/tao.jpg"
+# date: 2020-01-29
+weight: 24
+icon: "/avatars/lao.png"
+author: Lao Tzu
+---
+
+
 
 
 ## Chapter 16: Meditation and Fellow-feeling with Everything leads to the Tao

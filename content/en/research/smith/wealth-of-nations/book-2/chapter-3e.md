@@ -6,7 +6,7 @@ weight: 48
 image: "/covers/wn.jpg"
 description: "Austerity Versus Public Spending"
 author: Adam Smith
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

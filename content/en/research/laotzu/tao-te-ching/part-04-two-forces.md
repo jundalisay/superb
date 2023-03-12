@@ -1,11 +1,11 @@
 ---
-heading: "Chapters 32, 6-9"
-title: "Part 4: Creation and the Two Forces"
+heading: "Part 4: Chapters 32, 6-9"
+title: "Creation and the Two Forces"
 description: "The Process of Creation"
 image: "/covers/tao.jpg"
 # date: 2020-01-29
 weight: 10
-icon: "/icons/laotzu.png"
+icon: "/avatars/lao.png"
 author: Lao Tzu
 ---
 

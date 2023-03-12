@@ -5,7 +5,7 @@ weight: 4
 image: "/covers/meta.jpg"
 author: Aristotle
 description: "Aristotle explains element and nature"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

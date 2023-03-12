@@ -5,7 +5,7 @@ description: "The English and Dutch companies only established 2 considerable co
 image: /covers/wn.jpg
 weight: 96
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

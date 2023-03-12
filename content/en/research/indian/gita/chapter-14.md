@@ -5,13 +5,12 @@ weight: 28
 author: "Vyasa"
 description: "Yet farther will I open unto thee"
 image: "/covers/gita.jpg"
-icon: "/icons/krishna.png"
+icon: "/avatars/krishna.png"
 ---
 
 
 
-Krishna.
-
+{{< l a="Krishna" >}}
 Yet farther will I open unto thee
 
 This wisdom of all wisdoms, uttermost,
@@ -85,6 +84,8 @@ Thus passing forth from the Three Qualities--
 Whereby arise all bodies--overcomes
 Birth, Death, Sorrow, and Age; and drinketh deep
 The undying wine of Amrit.
+{{< /l >}}
+
 
 Arjuna.
 

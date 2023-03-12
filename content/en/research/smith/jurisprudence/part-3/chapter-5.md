@@ -4,7 +4,7 @@ title: "The Influence of Commerce on Manners"
 # date: 2015-09-10
 weight: 14
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Whenever commerce is introduced into any country, probity and punctuality always accompany it. These virtues are almost unknown in a rude and barbarous country"
 ---

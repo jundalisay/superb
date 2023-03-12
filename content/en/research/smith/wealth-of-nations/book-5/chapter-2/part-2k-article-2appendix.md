@@ -4,7 +4,7 @@ heading: "Part 2k, Article 2"
 weight: 30
 image: "/covers/wn.jpg"
 description: "Taxation by stamp-duties and registration duties are a very modern invention"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 

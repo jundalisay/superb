@@ -5,7 +5,7 @@ weight: 38
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The multiplication fish is both limited and uncertain"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

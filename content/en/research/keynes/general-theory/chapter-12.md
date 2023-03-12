@@ -6,7 +6,7 @@ description: "Keynes talks about Expectations"
 # date: 2020-11-12
 weight: 52
 author: John Maynard Keynes
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 

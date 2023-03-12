@@ -5,7 +5,7 @@ weight: 4
 image: "/covers/meta.jpg"
 description: "Arts are potentialities. They are originative sources of change in another thing or in the artist himself considered as other"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

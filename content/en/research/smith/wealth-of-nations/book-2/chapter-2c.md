@@ -5,7 +5,7 @@ weight: 14
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Bank notes and cash accounts are the two kinds of paper money"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

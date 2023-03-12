@@ -5,7 +5,7 @@ weight: 50
 description: Every generalisation is a hypothesis. Hypothesis therefore plays a necessary rôle, which no one has ever contested
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
-icon: /icons/poincare.jpg
+icon: /avatars/poincare.png
 ---
 
 

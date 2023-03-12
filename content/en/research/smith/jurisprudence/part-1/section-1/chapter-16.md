@@ -4,7 +4,7 @@ title: "The Rights of Subjects"
 # date: 2015-09-04
 weight: 34
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Citizens and aliens have rights in a state"
 ---

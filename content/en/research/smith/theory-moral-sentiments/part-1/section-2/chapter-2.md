@@ -5,7 +5,7 @@ description: "Romantic love is natural but is not commonly expressed because it 
 weight: 6
 author: Adam Smith
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

@@ -3,7 +3,7 @@ heading: Chapter 3
 title: "The Rights of Neutral Nations"
 weight: 16
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The rule of justice with respect to neutral nations is, that they should suffer no injury as they have offended no party"
 ---

@@ -5,7 +5,7 @@ weight: 12
 author: "Vyasa"
 description: "A Yogi and Sanyasi does rightful work, not seeking gain from it"
 image: "/covers/gita.jpg"
-icon: "/icons/krishna.png"
+icon: "/avatars/krishna.png"
 ---
 
 

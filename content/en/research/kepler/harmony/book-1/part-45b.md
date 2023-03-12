@@ -5,7 +5,7 @@ description: "So no Regular Heptagon (Septangulum) has ever been constructed by 
 image: /covers/harmony.jpg
 weight: 26
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

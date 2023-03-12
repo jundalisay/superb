@@ -5,7 +5,7 @@ weight: 18
 image: "/covers/meta.jpg"
 description: "The infinite is either that which is incapable of being traversed because it is not its nature to be traversed"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

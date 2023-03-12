@@ -5,7 +5,7 @@ description: "There are 4 ways in which the plane can be filled by the congruenc
 image: /covers/harmony.jpg
 weight: 11
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

@@ -5,7 +5,7 @@ weight: 14
 image: "/covers/meta.jpg"
 description: "Luck is an accidental cause at work in such events adapted to an end as are usually effected in accordance with purpose"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

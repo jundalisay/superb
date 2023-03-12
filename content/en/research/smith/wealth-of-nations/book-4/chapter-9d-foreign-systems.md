@@ -4,7 +4,7 @@ heading: "Chapter 9d"
 weight: 112
 image: "/covers/wn.jpg"
 description: "The economic policy of China favours agriculture more than all other employments"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 

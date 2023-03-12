@@ -1,11 +1,11 @@
 ---
-heading: "Chapters 11-12"
-title: "Part 7: The Parts of the Brahma"
+heading: "Part 7: Chapters 11-12"
+title: "The Parts of the Brahma"
 description: "The Metaphysics of the Tao or True Nature include Pranah, Aether, and the Five elements"
 image: "/covers/tao.jpg"
 # date: 2020-01-29
 weight: 16
-icon: "/icons/laotzu.png"
+icon: "/avatars/lao.png"
 author: Lao Tzu
 ---
 

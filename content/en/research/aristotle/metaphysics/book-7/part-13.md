@@ -4,7 +4,7 @@ heading: "Part 13"
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "The substratum and the essence and the compound of these are called substance, so also is the universal"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

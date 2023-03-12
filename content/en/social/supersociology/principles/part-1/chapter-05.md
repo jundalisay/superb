@@ -7,7 +7,7 @@ weight: 22
 image: "/graphics/social/cycles.png"
 description: "The four laws of value of Superphysics leads to the four classes of Workers, Warriors, Thinkers, and Traders"
 author: Juan
-icon: /icons/ss.png
+icon: /icons/spss.png
 aliases:
   /social/law-social-cycles/
   /social/supersociology/principles/law-social-cycles/

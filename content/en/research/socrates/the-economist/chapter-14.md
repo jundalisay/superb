@@ -5,7 +5,7 @@ weight: 34
 image: "/covers/economist.jpg"
 description: "I take a leaf now out of the laws of Draco and again another out of the laws of Solon and so essay to start my household on the path of uprightness"
 author: Xenophon
-icons: "/icons/soc.png"
+icons: "/avatars/socrates.png"
 ---
 
 

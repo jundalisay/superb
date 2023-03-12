@@ -3,7 +3,7 @@ heading: Chapter 9
 title: "National Opulence Does Not Consist In Money"
 weight: 22
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "If we could find any way to save the ground taken up by highways, we would considerably increase the quantity of commodities, and have more to carry to the market"
 ---

@@ -5,7 +5,7 @@ weight: 8
 image: "/covers/meta.jpg"
 description: "One thing has one contrary. How is one opposed to the many? How is equal opposed to the big and the small?"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

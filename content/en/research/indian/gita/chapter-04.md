@@ -5,7 +5,7 @@ weight: 8
 author: "Vyasa"
 description: "This deathless Yoga, this deep union, I taught Vivaswata,[FN#6] the Lord of Light"
 image: "/covers/gita.jpg"
-icon: "/icons/krishna.png"
+icon: "/avatars/krishna.png"
 ---
 
 

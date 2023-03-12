@@ -6,7 +6,7 @@ weight: 58
 image: "/covers/wn.jpg"
 description: "The Carrying Trade can be as important as the foreign trade of consumption"
 author: Adam Smith
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

@@ -4,7 +4,7 @@ description: ""
 image: "/covers/general.jpg"
 # date: 2020-01-31
 weight: 116
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 

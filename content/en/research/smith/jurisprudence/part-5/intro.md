@@ -2,7 +2,7 @@
 title: "Introduction"
 weight: 9
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The rules which nations should observe, or do observe with one another, cannot be treated so accurately as private or public law"
 ---

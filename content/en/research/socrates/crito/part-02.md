@@ -5,7 +5,7 @@ weight: 4
 author: Plato
 image: "/covers/crito.png"
 description: "Socrates Refuses to Flee Death"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

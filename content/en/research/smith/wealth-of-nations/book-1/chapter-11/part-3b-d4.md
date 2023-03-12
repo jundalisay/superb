@@ -5,7 +5,7 @@ weight: 40
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Most of the writers who collected the money prices in ancient times, considered the low money price of wheat and other goods as a proof of the scarcity of those metals"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

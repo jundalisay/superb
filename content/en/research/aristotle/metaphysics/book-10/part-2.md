@@ -5,7 +5,7 @@ weight: 4
 image: "/covers/meta.jpg"
 description: "'Unity' has many meanings just as 'being' has"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

@@ -5,7 +5,7 @@ description: "Private Morals are based on the sympathy of the Deity on us, throu
 date: 2015-09-30
 image: "/covers/tms.jpg"
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

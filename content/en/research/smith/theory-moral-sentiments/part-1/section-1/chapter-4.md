@@ -5,7 +5,7 @@ description: "We can we make moral judgements on others when the cause of such f
 weight: 10
 image: "/covers/tms.jpg"
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

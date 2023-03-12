@@ -5,7 +5,7 @@ description: "Christianity has no rule saying that our sense of duty should be o
 date: 2015-09-01
 image: "/covers/tms.jpg"
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

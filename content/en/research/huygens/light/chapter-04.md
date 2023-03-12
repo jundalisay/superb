@@ -5,7 +5,7 @@ description: We have shown how the movement which constitutes light spreads by s
 image: /covers/light.jpg
 weight: 10
 author: Christiaan Huygens
-icon: /avatars/huygens.jpg
+icon: /avatars/huygens.png
 ---
 
 

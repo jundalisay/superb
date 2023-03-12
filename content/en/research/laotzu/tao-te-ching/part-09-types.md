@@ -1,11 +1,11 @@
 ---
-heading: "Chapters 38, 41"
-title: "Part 9: Types of People"
+heading: "Part 9: Chapters 38, 41"
+title: "Types of People"
 description: "The knowers of the Tao have three levels"
 image: "/covers/tao.jpg"
 # date: 2020-01-29
-weight: 18
-icon: "/icons/laotzu.png"
+weight: 20
+icon: "/avatars/lao.png"
 author: Lao Tzu
 ---
 

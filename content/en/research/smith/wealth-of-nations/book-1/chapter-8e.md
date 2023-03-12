@@ -5,7 +5,7 @@ weight: 46
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "High prices are caused by monopolies"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

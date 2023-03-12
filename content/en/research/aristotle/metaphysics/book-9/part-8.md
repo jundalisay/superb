@@ -5,7 +5,7 @@ weight: 14
 image: "/covers/meta.jpg"
 description: "Potentiality is that definite kind which is a principle of change in another thing or in the thing itself regarded as other. It is every principle of movement or rest"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

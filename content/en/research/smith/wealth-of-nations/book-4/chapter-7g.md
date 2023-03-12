@@ -5,7 +5,7 @@ description: "The pig and bar iron were listed as enumerated commodities. But th
 image: /covers/wn.jpg
 weight: 74
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

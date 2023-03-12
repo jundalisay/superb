@@ -5,7 +5,7 @@ weight: 16
 image: "/covers/meta.jpg"
 author: Aristotle
 description: "Aristotle defines Quantum and Quality"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

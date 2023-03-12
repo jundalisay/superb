@@ -5,7 +5,7 @@ weight: 18
 image: "/covers/meta.jpg"
 author: Aristotle
 description: "Aristotle defines Relative"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

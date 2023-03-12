@@ -5,7 +5,7 @@ date: 2021-09-12
 image: "/countries/af/taliban.jpg"
 description: "We propose dogmism to break the Cycle of Extremism"
 author: Juan
-icon: /icons/ss.png
+icon: /icons/spss.png
 aliases:
   /solutions/social/dogmism-breaking-extremism-cycle
   /solutions/supersociology/dogmism/
@@ -20,7 +20,7 @@ This connection is easily brought back up to mind and conversation whenever a te
 
 This in turn causes the public to be anti-Islamic which then creates more disgruntled Muslims who can get easily radicalized, creating more terrorists. The cycle is created and strengthened. We can call this 'the cycle of extremism'.
 
-<br>
+
 
 ## The Cause: Connecting ideas to other ideas, which are just remotely connected
 
@@ -32,19 +32,19 @@ In the end, Bin Laden’s belief left everyone — himself, his friends and foes
 
 David Hume knew that most humans have a weak ability to connect effect with ultimate causes and causes with their long-term effects.
 
-{{< quote ava="hume" >}}
+{{< q a="hume" >}}
 Shallow thinkers tend to decry even those of solid understanding, abstruse thinkers, metaphysicians, and refiners. They call anything that is beyond their own weak conceptions as unjust.
 <cite>Essay 2: Commerce, Simplified Essays by David Hume</cite>
-{{< /quote >}}
+{{< /q >}}
 
 
 **Thus, those who blame terrorism on Islam is suffering from the same weakness that caused the terrorist to do his attack in the first place.** They do not see that jihad was meant to keep Muslims within Islam and never to terrorize others:
 
 
-{{< quote >}}
+{{< q >}}
 Jihad is ordained for you though you dislike it. They will turn you back from [Islam]. Whoever turns back from [Islam] will [go to hell]
 <cite>The Prophet Mohammad</cite>
-{{< /quote >}}
+{{< /q >}}
 
 
 This is a self-defense measure to keep Islam intact amidst all the rival philosophies going around. The best solution is not to attack Islam and to let Muslims get the good and bad consequences of their beliefs. 

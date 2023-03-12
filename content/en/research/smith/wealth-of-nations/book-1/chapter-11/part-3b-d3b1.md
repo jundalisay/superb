@@ -5,7 +5,7 @@ author: Adam Smith
 weight: 32
 image: "/covers/wn.jpg"
 description: "The second kind is the rude produce which human industry can multiply in proportion to the demand--Beef, Deer Meat"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

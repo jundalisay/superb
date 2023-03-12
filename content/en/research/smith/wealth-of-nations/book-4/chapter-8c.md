@@ -5,7 +5,7 @@ weight: 102
 image: "/covers/wn.jpg"
 description: "The exportation of raw materials is subjected to high duties, wherever they are not banned"
 author: Adam Smith
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

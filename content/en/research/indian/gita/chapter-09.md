@@ -3,9 +3,9 @@ title: "Cosmology"
 heading: "Chapter 9 "
 weight: 18
 author: "Vyasa"
-description: ""
+description: "Such light as purges the soul from every sin; a light of holiness With inmost splendour shining; plain to see"
 image: "/covers/gita.jpg"
-icon: "/icons/krishna.png"
+icon: "/avatars/krishna.png"
 ---
 
 

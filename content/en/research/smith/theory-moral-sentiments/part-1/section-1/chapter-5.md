@@ -5,7 +5,7 @@ description: "Amiable Virtues are based on the ability of a person to make his f
 weight: 12
 image: "/covers/tms.jpg"
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

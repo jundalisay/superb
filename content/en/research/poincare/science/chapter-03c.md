@@ -5,7 +5,7 @@ weight: 22
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
-icon: /icons/poincare.jpg
+icon: /avatars/poincare.png
 ---
 
 
@@ -17,49 +17,37 @@ a straight line AC movable about the point A, and initially identical with the f
 
 Thus we assume two propositions—first, that such a rotation is possible, and then that it may continuenon-euclidean geometries.
 
-until the two lines lie the one in the other produced. If
-the first point is conceded and the second rejected, we
-are led to a series of theorems even stranger than those
-of Lobatschewsky and Riemann, but equally free from
-contradiction. I shall give only one of these theorems,
-and I shall not choose the least remarkable of them. A
+until the two lines lie the one in the other produced. If the first point is conceded and the second rejected, we
+are led to a series of theorems even stranger than those of Lobatschewsky and Riemann, but equally free from
+contradiction. I shall give only one of these theorems, and I shall not choose the least remarkable of them. A
 real straight line may be perpendicular to itself.
+
 
 ## Lie’s Theorem
 
-The number of axioms implicitly introduced into classical proofs is greater than necessary,
-and it would be interesting to reduce them to a mini-
-mum. It may be asked, in the first place, if this reduction
-is possible—if the number of necessary axioms and that
-of imaginable geometries is not infinite? 
+The number of axioms implicitly introduced into classical proofs is greater than necessary, and it would be interesting to reduce them to a minimum. 
 
-A theorem due to Sophus Lie is of weighty importance in this discussion.
-It may be enunciated in the following manner:—Suppose
-the following premisses are admitted: (1) space has n di-
-mensions; (2) the movement of an invariable figure is
-possible; (3) p conditions are necessary to determine the
-position of this figure in space.
-The number of geometries compatible with these pre-
-misses will be limited. I may even add that if n is given, a
-superior limit can be assigned to p. If, therefore, the pos-
-sibility of the movement is granted, we can only invent
-a finite and even a rather restricted number of three-science and hypothesis
+If this reduction is possible—if the number of necessary axioms and that of imaginable geometries is not infinite? 
 
-dimensional geometries.
+This is answered by a theorem from Sophus Lie. Suppose the following premisses are admitted: 
+
+1. space has n dimensions
+2. the movement of an invariable figure is possible
+3. p conditions are necessary to determine the position of this figure in space.
+
+The number of geometries compatible with these premisses will be limited. I may even add that if n is given, a superior limit can be assigned to p. 
+
+If, therefore, the possibility of the movement is granted, we can only invent a finite and even a rather restricted number of three-science and hypothesis dimensional geometries.
+
 
 ## Riemann’s Geometrie
 
-—However, this result seems
-contradicted by Riemann, for that scientist constructs
-an infinite number of geometries, and that to which his
-name is usually attached is only a particular case of them.
-All depends, he says, on the manner in which the length
-of a curve is defined. Now, there is an infinite number of
-ways of defining this length, and each of them may be the
-starting-point of a new geometry. 
+However, this result seems contradicted by Riemann, for that scientist constructs an infinite number of geometries, and that to which his name is usually attached is only a particular case of them.
 
-That is perfectly true. But most of these definitions are incompatible with the movement of a variable figure <!-- such as we assume to be possible --> in Lie’s theorem. These geometries of Riemann, can never be purely analytical. They would not lend themselves to
-proofs analogous to those of Euclid.
+All depends, he says, on the manner in which the length of a curve is defined. Now, there is an infinite number of
+ways of defining this length, and each of them may be the starting-point of a new geometry. 
+
+That is perfectly true. But most of these definitions are incompatible with the movement of a variable figure <!-- such as we assume to be possible --> in Lie’s theorem. These geometries of Riemann, can never be purely analytical. They would not lend themselves to proofs analogous to those of Euclid.
 
 On the Nature of Axioms
 
@@ -99,8 +87,7 @@ figures behaved like solids.
 
 What geometry would borrow from experiment would be therefore the properties of these bodies. 
 
-The properties of light and its propagation in a straight line have also given rise to some of
-the propositions of geometry, and in particular to those of projective geometry, so that from that point of view one would be tempted to say that metrical geometry is the study of solids, and projective geometry that of light. 
+The properties of light and its propagation in a straight line have also given rise to some of the propositions of geometry, and in particular to those of projective geometry, so that from that point of view one would be tempted to say that metrical geometry is the study of solids, and projective geometry that of light.
 
 But a difficulty remains, and is unsurmountable.
 
@@ -110,24 +97,18 @@ Nay, it would from that day forth be proved to be erroneous, for we know that no
 
 The geometrical axioms are therefore neither synthetic à priori intuitions nor experimental facts. They are conventions. Our choice among all possible conventions is guided by experimental facts; but it remains free,non-euclidean geometries.
 
-and is only limited by the necessity of avoiding every
-contradiction, and thus it is that postulates may remain
-rigorously true even when the experimental laws which
-have determined their adoption are only approximate.
-In other words, the axioms of geometry (I do not speak
-of those of arithmetic) are only definitions in disguise.
-What, then, are we to think of the question: Is Euclidean
-geometry true? It has no meaning. We might as well ask
-if the metric system is true, and if the old weights and
-measures are false; if Cartesian co-ordinates are true and
-polar co-ordinates false. One geometry cannot be more
-true than another; it can only be more convenient. Now,
-Euclidean geometry is, and will remain, the most con-
-venient: 1st, because it is the simplest, and it is not so
-only because of our mental habits or because of the kind
-of direct intuition that we have of Euclidean space; it is
-the simplest in itself, just as a polynomial of the first de-
-gree is simpler than a polynomial of the second degree;
-2nd, because it sufficiently agrees with the properties of
-natural solids, those bodies which we can compare and
+and is only limited by the necessity of avoiding every contradiction, and thus it is that postulates may remain
+rigorously true even when the experimental laws which have determined their adoption are only approximate.
+
+In other words, the axioms of geometry (I do not speak of those of arithmetic) are only definitions in disguise.
+What, then, are we to think of the question: Is Euclidean geometry true?
+
+It has no meaning. We might as well ask if the metric system is true, and if the old weights and measures are false; if Cartesian co-ordinates are true and polar co-ordinates false. 
+
+One geometry cannot be more true than another; it can only be more convenient. Now, Euclidean geometry is, and will remain, the most convenient: 
+
+1st, because it is the simplest, and it is not so only because of our mental habits or because of the kind
+of direct intuition that we have of Euclidean space; it is the simplest in itself, just as a polynomial of the first degree is simpler than a polynomial of the second degree; 
+
+2nd, because it sufficiently agrees with the properties of natural solids, those bodies which we can compare and
 measure by means of our senses.

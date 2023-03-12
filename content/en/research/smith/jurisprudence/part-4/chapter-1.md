@@ -3,7 +3,7 @@ heading: Chapter 1
 title: "The Development of Militias"
 weight: 8
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "In the beginning of society, the state's defence required no police, nor particular provision for it"
 ---

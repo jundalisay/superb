@@ -5,7 +5,7 @@ weight: 4
 image: "/covers/meta.jpg"
 description: "The universal propositions of mathematics do not deal with objects which exist separately, apart from extended magnitudes and from numbers"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

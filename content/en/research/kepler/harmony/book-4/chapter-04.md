@@ -5,7 +5,7 @@ description: "There is a fivefold distinction between the harmonies studied in B
 image: /covers/harmony.jpg
 weight: 18
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 <!-- Considered in Book 4 and 3. -->

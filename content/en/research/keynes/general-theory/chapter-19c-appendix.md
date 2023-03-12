@@ -4,7 +4,7 @@ description: "Pigou makes the volume of employment to depend on two factors--rea
 image: "/covers/general.jpg"
 # date: 2020-10-06
 weight: 88
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 author: John Maynard Keynes
 ---
 

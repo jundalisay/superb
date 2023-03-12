@@ -4,7 +4,7 @@ title: "Divorce"
 weight: 10
 # date: 2015-09-26
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Each person is a member of a family which is made up of 3 kinds of relations"
 ---

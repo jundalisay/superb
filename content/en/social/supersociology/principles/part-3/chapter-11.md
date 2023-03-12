@@ -8,7 +8,7 @@ image: /photos/medieval/arab.jpg
 description: "Jesus was Defeated by the Pharisees because of their connection to the Emperor"
 youtube: "J6F2_PF2wbo"
 author: Juan
-icon: /icons/ss.png
+icon: /icons/spss.png
 ---
 
 

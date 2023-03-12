@@ -5,7 +5,7 @@ author: "Aristotle"
 weight: 22
 image: "/covers/meta.jpg"
 description: "Aristotle defines Having, Affection, Privation"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

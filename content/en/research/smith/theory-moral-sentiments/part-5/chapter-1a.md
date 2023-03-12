@@ -5,7 +5,7 @@ description: "The custom and fashion also have a big influence on our moral sent
 weight: 20
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

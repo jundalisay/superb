@@ -6,7 +6,7 @@ image: "/covers/general.jpg"
 # date: 2020-11-28
 weight: 34
 author: John Maynard Keynes
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 > Superphysics Note: We replace "wage-unit" with "hourly-common-wage"

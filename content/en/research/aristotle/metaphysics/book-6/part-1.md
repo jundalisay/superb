@@ -5,7 +5,7 @@ author: "Aristotle"
 weight: 1
 image: "/covers/meta.jpg"
 description: "Aristotle defines The Causes of Being"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

@@ -4,7 +4,7 @@ heading: "Part 2b, Article 4 Simplified"
 weight: 52
 image: "/covers/wn.jpg"
 description: "In France, the laws require many revenue officers to prevent the importation of certain goods, or subject imported goods to certain duties"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 
@@ -48,7 +48,7 @@ There are many duties confined to a particular town of the provinces of=
 - the five great farms, and
 - those reckoned foreign.
 
-Some of such duties are even in foreign-treated provinces, particularly in Marseilles. It is obvious how France's tax system= 
+Some of such duties are even in foreign-treated provinces, particularly in Marseilles. It is obvious how France's tax system:
 - restraints its own interior commerce. and
 - requires many revenue officers to guard the frontiers.
 
@@ -59,9 +59,10 @@ In most provinces, wine is subject to particular restraints, over and above the 
 These particular restraints arise from the favour shown to the vineyards of particular provinces over those of others.
 The fewest particular restraints are given to the provinces most famous for their wines.
 
-The extensive market which such provinces enjoy, encourages good management in= 
+The extensive market which such provinces enjoy, encourages good management in:
 - vineyard cultivation, and
 - wine preparation
+
 
 {{< s v="217" >}} Such various and complicated revenue laws are not peculiar to France.
 
@@ -101,6 +102,7 @@ Their wealth alone would excite public indignation.
 Vanity almost always accompanies such upstart fortunes.
 Their foolish ostentation excites that indignation more.
 
+
 {{< s v="219" >}} The farmers of the public revenue never find the laws against tax evasion too severe.
 
 They do not care for the taxpayers because:
@@ -127,7 +129,7 @@ Their grandeur may frequently be caused by the ruin of the people, not their pro
 
 {{< s v="220" >}} The farmer sometimes has the monopoly of the taxed commodity.
 
-In France, tobacco and salt duties are levied in this way. In such cases, the farmer levies two exorbitant profits on the people= 
+In France, tobacco and salt duties are levied in this way. In such cases, the farmer levies two exorbitant profits on the people:
 - the farmer's profit, and
 - the exorbitant profit of the monopolist.
 
@@ -138,7 +140,7 @@ But salt is a necessity. Every man is obliged to buy a certain amount of it from
 
 The taxes on luxury and necessary commodities are exorbitant.
 
-The temptation to smuggle is consequently irresistible. This temptation is made ruinous by= 
+The temptation to smuggle is consequently irresistible. This temptation is made ruinous by:
 - the rigour of the law, and
 - the vigilance of the farmer's officers.
 
@@ -152,4 +154,5 @@ The farm of salt, for 36,494,404 livres.
 The farm in both cases was to start in 1768 and last for six years.
 
 Those who consider the people's blood as nothing compared to the prince's revenue may perhaps approve of this taxation method.
+
 Similar taxes and monopolies of salt and tobacco were established in other countries, particularly in Austria, Prussia, and most of the Italian states.

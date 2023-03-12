@@ -5,7 +5,7 @@ weight: 24
 image: "/covers/economist.jpg"
 description: "How different is an army well organised in battle order: a splendid sight for friendly eyes to gaze at, albeit an eyesore to the enemy"
 author: Xenophon
-icons: "/icons/soc.png"
+icons: "/avatars/socrates.png"
 ---
 
 

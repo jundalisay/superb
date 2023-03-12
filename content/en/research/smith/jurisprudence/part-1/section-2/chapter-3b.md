@@ -4,7 +4,7 @@ title: "Five ways to become a slave"
 # date: 2015-09-22
 weight: 16
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "By being captives, criminals, indebted, selling oneself, and being children of slaves"
 ---

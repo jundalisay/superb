@@ -5,7 +5,7 @@ description: "The merchant carrier imports foreign wheat and re-exports it"
 image: /covers/wn.jpg
 weight: 54
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 --- 
 
 

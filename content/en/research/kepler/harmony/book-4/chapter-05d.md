@@ -5,7 +5,7 @@ description: "The arcs of a circle, of which the figures are powerful in more, a
 image: /covers/harmony.jpg
 weight: 26
 author: Johannes Kepler
-icon: /icons/kepler.png
+icon: /avatars/kepler.png
 ---
 
 

@@ -5,5 +5,5 @@ description: "Section 2 of Part 6 of the Simplified Theory of Moral Sentiments b
 weight: 34
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---

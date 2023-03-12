@@ -5,7 +5,7 @@ weight: 12
 image: "/covers/meta.jpg"
 description: "What is the differentia of a number and of a unit if it has a differentia?"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

@@ -5,7 +5,7 @@ description: "Output minus factor cost equals profit or entrepreneur's income"
 image: "/covers/general.jpg"
 # date: 2020-12-23
 weight: 10
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 ---
 
 > Superphysics note: In Economic Superphysics, demand is under the 1st Law of Value as Energy Movement

@@ -1,11 +1,11 @@
 ---
-heading: "Chapters 14, 39"
-title: "Part 5: The Supreme Tao or the One"
+heading: "Part 5: Chapters 14, 39"
+title: "The Supreme Tao or the One"
 description: "The Metaphysics of the Tao or True Nature include Pranah, Aether, and the Five elements"
 image: "/covers/tao.jpg"
 # date: 2020-01-29
 weight: 12
-icon: "/icons/laotzu.png"
+icon: "/avatars/lao.png"
 author: Lao Tzu
 ---
 

@@ -4,7 +4,7 @@ heading: "Chapter 2o"
 weight: 38
 image: "/covers/wn.jpg"
 description: "In Yorkshire’s paper currencies, the payment of so small a sum as a sixpence required the note’s holder to bring the change of a guinea to the issuer"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

@@ -5,7 +5,7 @@ weight: 12
 image: "/covers/meta.jpg"
 description: "Aristotle defines prior and posterior"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

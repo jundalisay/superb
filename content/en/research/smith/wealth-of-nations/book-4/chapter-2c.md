@@ -5,7 +5,7 @@ description: "There are two cases when it will be advantageous to lay some burde
 image: /covers/wn.jpg
 weight: 22
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 --- 
 
 

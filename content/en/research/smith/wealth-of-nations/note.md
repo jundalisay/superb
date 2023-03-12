@@ -4,7 +4,7 @@ author: Adam Smith
 weight: 100
 image: "/covers/wn.jpg"
 description: ""
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 draft: true
 ---
 

@@ -5,7 +5,7 @@ description: "He courts the company of his superiors as much as the proud man sh
 weight: 54
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

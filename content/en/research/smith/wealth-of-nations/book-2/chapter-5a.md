@@ -6,7 +6,7 @@ weight: 54
 image: "/covers/wn.jpg"
 description: "The destiny of all capitals is to maintain productive labour"
 author: Adam Smith
-icon: /icons/smith.png
+icon: /avatars/smith.png
 ---
 
 

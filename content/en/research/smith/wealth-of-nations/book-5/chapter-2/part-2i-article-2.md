@@ -4,7 +4,7 @@ heading: "Part 2, Article 2"
 weight: 26
 image: "/covers/wn.jpg"
 description: "If the collector becomes bankrupt, the parish which elects him must answer for his conduct to the receiver-general of the election"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 

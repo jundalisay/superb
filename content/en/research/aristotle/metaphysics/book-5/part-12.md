@@ -5,7 +5,7 @@ weight: 14
 image: "/covers/meta.jpg"
 author: Aristotle
 description: "Aristotle defines potency and incapacity"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

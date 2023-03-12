@@ -5,7 +5,7 @@ weight: 8
 author: Plato
 image: "/covers/prot.jpg"
 description: "When we entered, we found Protagoras taking a walk in the cloister"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

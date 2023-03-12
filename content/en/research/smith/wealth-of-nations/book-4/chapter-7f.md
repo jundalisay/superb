@@ -5,7 +5,7 @@ description: "The enumerated commodities are of 2 sorts: The peculiar produce of
 image: /covers/wn.jpg
 weight: 72
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

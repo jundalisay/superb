@@ -5,7 +5,7 @@ weight: 28
 image: "/covers/timaeus.jpg"
 description: "The Simplified Timaeus by Plato"
 author: Plato
-icon: /icons/soc.png
+icon: "/icons/socrates.png"
 ---
 
 

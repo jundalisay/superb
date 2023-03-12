@@ -5,6 +5,7 @@ heading: Part 5
 description: I use Mossotti's idea which has been afterwards accepted by Wilhelm Weber and Zöllner.
 image: "/covers/grav.jpg"
 # date2021-09-28"
+icon: /icons/lor.png
 weight: 6
 ---
 

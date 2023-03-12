@@ -1,15 +1,14 @@
-+++
-title= "Part 15= Federal States"
-heading= "Chapters 57-61"
-description= "The State Should Have Concise but Efficient Laws"
-date= 2021-09-14
-image= "/covers/tao.jpg"
-linkb= "/research/laotzu/tao-te-ching/part-14-society"
-linkbtext= "Society"
-linkf= "/research/laotzu/tao-te-ching/part-16-economics"
-linkftext= "Economics"
-icon = "/icons/laotzu.png"
-+++
+---
+title: "Federal States"
+heading: "Part 15: Chapters 57-61"
+description: "The State Should Have Concise but Efficient Laws"
+image: "/covers/tao.jpg"
+# date: 2020-12-31
+weight: 30
+author: Lao Tzu
+icon: "/avatars/lao.png"
+---
+
 
 
 ## Chapter 57: The State Should Have Concise but Efficient Laws

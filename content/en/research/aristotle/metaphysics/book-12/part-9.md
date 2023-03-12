@@ -5,7 +5,7 @@ weight: 12
 image: "/covers/meta.jpg"
 description: "Is the object of divine thought composite? If it were, then thought would change in passing from part to part of the whole"
 author: Aristotle
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

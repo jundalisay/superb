@@ -6,7 +6,7 @@ weight: 10
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Money has wholesale and retail"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

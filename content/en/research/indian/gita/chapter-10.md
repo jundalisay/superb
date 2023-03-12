@@ -5,7 +5,7 @@ weight: 20
 author: "Vyasa"
 description: "I say these words to bring you bliss and peace, who lovest Me always"
 image: "/covers/gita.jpg"
-icon: "/icons/krishna.png"
+icon: "/avatars/krishna.png"
 ---
 
 Krishna.[FN#l6]
@@ -38,13 +38,13 @@ I give a mind of perfect mood, whereby they draw to Me;
 And, all for love of them, within their darkened souls I dwell,
 And, with bright rays of wisdom's lamp, their ignorance dispel.
 
-Arjuna.
 
-<!-- You art God Eternal, All-creating, Holy, First,
-Without beginning! Lord of Lords and Gods! -->
 
-Declared by all the Saints--by Narada,
-Vyasa Asita, and Devalas;
+{{< r a="Arjuna" >}}
+
+You art God Eternal, All-creating, Holy, First, Without beginning! Lord of Lords and Gods!
+
+Declared by all the Saints--by Narada, Vyasa Asita, and Devalas;
 And here Thyself declaring unto me!
 
 What you have said now I know to be truth. 
@@ -61,10 +61,15 @@ How shall I learn, Supremest Mystery! -->
 
 To know You, must I muse continually?
 
-Under what form of Thine unnumbered forms can You be grasped? Ah! yet again recount, Clear and complete, Thy great appearances,
+Under what form of Thine unnumbered forms can You be grasped? 
+
+<!-- Ah! yet again recount, Clear and complete, Thy great appearances,
 The secrets of Thy Majesty and Might,
-Thou High Delight of Men! Never enough
-Can mine ears drink the Amrit[FN#18] of such words!
+Thou High Delight of Men! Never enough -->
+
+Can my ears drink the Amrit[FN#18] of such words?
+{{< /r >}}
+
 
 
 Krishna.

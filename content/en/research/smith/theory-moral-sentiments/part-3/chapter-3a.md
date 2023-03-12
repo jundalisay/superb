@@ -5,7 +5,7 @@ description: "The Eye of the Impartial Spectator"
 date: 2015-09-18
 image: "/covers/tms.jpg"
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

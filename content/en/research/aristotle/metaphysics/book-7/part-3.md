@@ -5,7 +5,7 @@ weight: 4
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "The word 'substance' is applied in 4 ways"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

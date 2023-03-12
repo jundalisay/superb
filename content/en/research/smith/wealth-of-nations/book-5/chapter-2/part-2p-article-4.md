@@ -4,7 +4,7 @@ heading: "Part 2p, Article 2 Simplified"
 weight: 40
 image: "/covers/wn.jpg"
 description: "They were called 'customs' to denote customary payments which used from time immemorial"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 

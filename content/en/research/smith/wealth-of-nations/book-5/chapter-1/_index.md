@@ -4,6 +4,6 @@ heading: "Chapter 1"
 weight: 1
 image: "/covers/wn.jpg"
 description: "We simplify The Wealth of Nations Chapter 1 Book 5 about Government Expenses"
-# icon: "/icons/smith.png"
+# icon: "/avatars/smith.png"
 author: Adam Smith
 ---

@@ -4,7 +4,7 @@ title: "Master and Servant"
 weight: 14
 # date: 2015-09-24
 author: "Adam Smith"
-icon: /icons/smith.png
+icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The power over the servants was arbitrary. A slave could have no property because the master had the disposal of his liberty"
 ---

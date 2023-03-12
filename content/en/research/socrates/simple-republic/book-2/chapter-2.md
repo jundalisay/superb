@@ -5,7 +5,7 @@ weight: 8
 image: "/covers/republic.jpg"
 description: "To understand justice, we must look at the big picture first, then from there, proceed to the details. People gather in societies to address their basic needs. This leads to division of labour, economic growth, and eventually, wars for resources. Such dangers lead to the need for guardians who are skilled both in philosophy and war [jihad in Islam]"
 author: Plato
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

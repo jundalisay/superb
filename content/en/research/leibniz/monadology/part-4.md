@@ -5,7 +5,7 @@ description: Scientists have had great difficulties over the origin of forms, en
 image: "/covers/monad.png"
 # date: 2023-02-15
 weight: 28
-# icon: "/icons/laotzu.png"
+icon: /icons/lei.png
 author: Leibniz
 ---
 

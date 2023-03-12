@@ -5,7 +5,7 @@ weight: 26
 image: /covers/timaeus.jpg
 description: "Timaeus explains the 5 elements"
 author: Plato
-icon: /icons/soc.png
+icon: "/icons/socrates.png"
 ---
 
 

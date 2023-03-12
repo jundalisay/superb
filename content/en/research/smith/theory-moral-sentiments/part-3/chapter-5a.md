@@ -5,7 +5,7 @@ description: "The foundation of our moral faculties were given to us to direct o
 date: 2015-09-06
 image: "/covers/tms.jpg"
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 ---
 
 

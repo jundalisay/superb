@@ -5,7 +5,7 @@ weight: 10
 author: Aristotle
 image: "/covers/meta.jpg"
 description: "Those who seek merely compulsion in argument seek what is impossible"
-icon: "/icons/aris.jpg"
+icon: "/icons/aris.png"
 ---
 
 

@@ -4,7 +4,7 @@ heading: "Chapter 3f"
 weight: 16
 image: "/covers/wn.jpg"
 description: "The practice of perpetual funding has gradually enfeebled every state which has adopted it. The Italian republics started it"
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 author: Adam Smith
 ---
 

@@ -5,7 +5,7 @@ weight: 44
 description: The role of the 2 fundamental principles of thermo-dynamics becomes daily more important in all branches of natural philosophy
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
-icon: /icons/poincare.jpg
+icon: /avatars/poincare.png
 ---
 
 

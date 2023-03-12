@@ -5,7 +5,7 @@ weight: 12
 author: Plato
 image: "/covers/timaeus.jpg"
 description: "Socrates reviews Timaeus on the key ideas of the Republic"
-icon: "/icons/soc.png"
+icon: "/icons/socrates.png"
 ---
 
 

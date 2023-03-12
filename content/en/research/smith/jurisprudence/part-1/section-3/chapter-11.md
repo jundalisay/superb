@@ -8,7 +8,7 @@ linkb=  "/research/smith/jurisprudence/part-1/section-3/chapter-10"
 linkbtext=  "Chapter 10"
 linkf=  "/research/smith/jurisprudence/part-1/section-3/chapter-11b"
 linkftext=  "Chapter 11b"
-icon=  "/icons/smith.png"
+icon=  "/avatars/smith.png"
 +++
 
 

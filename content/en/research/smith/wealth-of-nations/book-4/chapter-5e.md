@@ -5,7 +5,7 @@ description: "The wheat merchant's trade is composed of 4 separate branches whic
 image: /covers/wn.jpg
 weight: 46
 author: Adam Smith
-icons: /icons/smith.png
+icons: /avatars/smith.png
 --- 
 
 

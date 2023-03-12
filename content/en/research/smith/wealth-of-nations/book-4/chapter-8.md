@@ -6,7 +6,7 @@ weight: 98
 image: "/covers/wn.jpg"
 description: "The mercantile system proposes to enrich every country through two great engines"
 author: Adam Smith
-icon: "/icons/smith.png"
+icon: "/avatars/smith.png"
 ---
 
 

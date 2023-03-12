@@ -4,7 +4,7 @@ description: "The actual economic system are also coloured by certain special ch
 image: "/covers/general.jpg"
 # date: 2020-10-12
 weight: 82
-icon: "/icons/keynes.png"
+icon: "/avatars/keynes.png"
 author: John Maynard Keynes
 ---
 
