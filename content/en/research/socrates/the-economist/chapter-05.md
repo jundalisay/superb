@@ -18,7 +18,11 @@ Agriculture combines a certain sense of luxury with the satisfaction of an impro
 
 The Earth freely offers to those that labour all things necessary to live. If that were not enough, it further contributes luxuries.
 <!-- - It supplies with sweetest scent and fairest show all things wherewith to adorn the altars and statues of the gods, or deck man's person. -->
+{{< /l >}}
 
+
+
+{{< l a="Socrates" >}}
 We owe to the Earth our many delicacies of meat and vegetables. Agriculture is closely linked the art of breeding sheep and cattle. <!-- , whereby we mortals may offer sacrifices well pleasing to the gods, and satisfy our personal needs withal. -->
 
 She pours out her blessings upon us in abundance, yet she suffers not her gifts to be received effeminately, but inures her pensioners to suffer glady summer's heat and winter's cold. 
@@ -54,7 +58,10 @@ Earth, too, adds stimulus in war-time to earth's tillers. She pricks them on to 
 For this also is the art athletic, this of husbandry; as thereby men are fitted to run, and hurl the spear, and leap with the best.
 
 This, too, is that kindliest of arts which makes requital tenfold in kind for every work of the labourer. 
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 Husbandry is the sweet mistress who, with smile of welcome and outstretched hand, greets the approach of her devoted one, seeming to say, Take from me all thy heart's desire. She is the generous hostess; she keeps open house for the stranger. 
 
 For where else, save in some happy rural seat of her devising, shall a man more cheerily cherish content in winter, with bubbling bath and blazing fire? or where, save afield, in summer rest more sweetly, lulled by babbling streams, soft airs, and tender shades? 
@@ -70,7 +77,10 @@ I marvel greatly if it has ever fallen to the lot of freeborn man to own a choic
 One day, these pupils of hers, whose conversation in past times was in husbandry, shall, by reason of the multitude of invading armies, be ousted from their labours. 
 
 The work of their hands may indeed be snatched from them, but they were brought up in stout and manly fashion. They stand, each one of them, in body and soul equipped; and, save God himself shall hinder them, they will march into the territory of those their human hinderers, and take from them the wherewithal to support their lives. Since often enough in war it is surer and safer to quest for food with sword and buckler than with all the instruments of husbandry.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 But there is yet another lesson to be learnt in the public shool of husbandry (18)—the lesson of mutual assistance. "Shoulder to shoulder" must we march to meet the invader; (19) "shoulder to shoulder" stand to compass the tillage of the soil. 
 
 Therefore it is that the husbandman, who means to win in his avocation, must see that he creates enthusiasm in his workpeople and a spirit of ready obedience; which is just what a general attacking an enemy will scheme to bring about, when he deals out gifts to the brave and castigation (20) to those who are disorderly. 
@@ -95,4 +105,3 @@ I am sure you will have noted the behaviour of men engaged in war; how on the ve
 
 Be well assured (he added) the wise and prudent will pay service to the gods on behalf of moist fruits and dry, (25) on behalf of cattle and horses, sheep and goats; nay, on behalf of all their possessions, great and small, without exception. (25) "Every kind of produce, succulent (like the grape and olive) or dry (like wheat and barley, etc.)" 
 {{< /l >}}
-

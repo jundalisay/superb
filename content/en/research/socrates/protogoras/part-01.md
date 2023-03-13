@@ -11,59 +11,44 @@ icon: "/icons/socrates.png"
 <!-- Translated by Benjamin Jowett -->
 
 
-PERSONS OF THE DIALOGUE: Socrates, who is the narrator of the Dialogue to his Companion. Hippocrates, Alcibiades and Critias. Protagoras, Hippias and Prodicus (Sophists). Callias, a wealthy Athenian.
+PERSONS OF THE DIALOGUE
+- Socrates, the narrator of the Dialogue to his Companion
+- Hippocrates
+- Alcibiades
+- Critias
+- Protagoras (Sophist)
+- Hippias (Sophist)
+- Prodicus (Sophist)
+- Callias, a wealthy Athenian.
+
 
 SCENE: The House of Callias.
 
-COMPANION: Where do you come from, Socrates? 
+{{< r a="Companion" >}}
+Where did you come from, Socrates? 
+{{< /r >}}
 
-And yet I need hardly ask the question, for I know that you have been in chase of the fair Alcibiades. I saw him the day before yesterday; and he had got a beard like a man,—and he is a man, as I may tell you in your ear. But I thought that he was still very charming.
+<!-- And yet I need hardly ask the question, for I know that you have been in chase of the fair Alcibiades. I saw him the day before yesterday; and he had got a beard like a man,—and he is a man, as I may tell you in your ear. But I thought that he was still very charming. -->
 
-SOCRATES: What of his beard? Are you not of Homer's opinion, who says
+<!-- COMPANION: Well, and how do matters proceed? Have you been visiting him, and was he gracious to you? -->
 
-'Youth is most charming when the beard first appears'?
 
-And that is now the charm of Alcibiades.
+{{< l a="Socrates" >}}
+I visited Alcibiades. He was very gracious even if I paid no attention to him. Several times, I even forgot that he was present.
+{{< /l >}}
+<!-- ; and especially to-day, for I have just come from him, and he has been helping me in an argument. But shall I tell you a strange thing?  -->
 
-COMPANION: Well, and how do matters proceed? Have you been visiting him, and was he gracious to you?
 
-SOCRATES: Yes, I thought that he was very gracious; and especially to-day, for I have just come from him, and he has been helping me in an argument. But shall I tell you a strange thing? I paid no attention to him, and several times I quite forgot that he was present.
+{{< r a="Companion" >}}
+Has anything happened between you and him? He is the most just man in Athens. 
+{{< /r >}}
 
-COMPANION: What is the meaning of this? Has anything happened between you and him? For surely you cannot have discovered a fairer love than he is; certainly not in this city of Athens.
+{{< l a="Socrates" >}}
+I know of a juster and wiser foreigner from Abdera -- Protogoras. He has been here in Athens for 2 days now. 
 
-SOCRATES: Yes, much fairer.
+I have heard him say many things
+{{< /l >}}
 
-COMPANION: What do you mean—a citizen or a foreigner?
-
-SOCRATES: A foreigner.
-
-COMPANION: Of what country?
-
-SOCRATES: Of Abdera.
-
-COMPANION: And is this stranger really in your opinion a fairer love than the son of Cleinias?
-
-SOCRATES: And is not the wiser always the fairer, sweet friend?
-
-COMPANION: But have you really met, Socrates, with some wise one?
-
-SOCRATES: Say rather, with the wisest of all living men, if you are willing to accord that title to Protagoras.
-
-COMPANION: What! Is Protagoras in Athens?
-
-SOCRATES: Yes; he has been here two days.
-
-COMPANION: And do you just come from an interview with him?
-
-SOCRATES: Yes; and I have heard and said many things.
-
-COMPANION: Then, if you have no engagement, suppose that you sit down and tell me what passed, and my attendant here shall give up his place to you.
-
-SOCRATES: To be sure; and I shall be grateful to you for listening.
-
-COMPANION: Thank you, too, for telling us.
-
-SOCRATES: That is thank you twice over. Listen then:—
 
 Last night, or rather very early this morning, Hippocrates, the son of Apollodorus and the brother of Phason, gave a tremendous thump with his staff at my door; some one opened to him, and he came rushing in and bawled out: Socrates, are you awake or asleep?
 

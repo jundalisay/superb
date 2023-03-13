@@ -50,7 +50,7 @@ What! Do you really believe that the king of Persia pays a personal regard to hu
 
 
 {{< l a="Socrates" >}}
-Soc. He takes strong interest in military matters. since, however numerous the tributary nations, there is a governor to each, and every governor has orders from the king how many cavalry, archers, slingers and targeteers he must support to:
+He takes strong interest in military matters. since, however numerous the tributary nations, there is a governor to each, and every governor has orders from the king how many cavalry, archers, slingers and targeteers he must support to:
 - control the subject population, or
 - to defend the country in case of hostile attack
 
@@ -59,7 +59,10 @@ Apart from these the king, keeps garrisons in all the citadels.
 The actual support of these devolves upon the governor, to whom the duty is assigned. The king himself meanwhile conducts the annual inspection and review of troops, both mercenary and other, that have orders to be under arms. 
 
 These all are simultaneously assembled (with the exception of the garrisons of citadels) at the mustering ground. 
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 The king personally reviews the portion of the army within access of the royal residence. The remainder, living in remoter districts of the empire, he inspects by proxy, sending certain trusty representatives.
 
 Wherever the commandants of garrisons, the captains of thousands, and the satraps (6) are seen to have their appointed members complete, and at the same time shall present their troops equipped with horse and arms in thorough efficiency, these officers the king delights to honour, and showers gifts upon them largely. 
@@ -70,8 +73,11 @@ Such conduct, I think we may say, indisputably proves the interest which he take
 
 By means of a royal progress through the country, he can personally inspect some portion of his territory, and again of visiting the remainder in proxy as above by trusty representatives; 
 
-In this way, he sees governors that show him districts thickly populated, with soil in active cultivation, full of trees and fruits. He rewards such officers with more territory, adorning them with gifts and distinguishing them by seats of honour. 
+In this way, he sees governors that show him districts thickly populated, with soil in active cultivation, full of trees and fruits. He rewards such officers with more territory, adorning them with gifts and distinguishing them by seats of honour.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 He also sees lands lying idle and with but few inhabitants, owing either to the harshness of their government or the insolence of its officers. He punishes such governors and appoints other rulers in their place. 
 
 This creates a great an anxiety to promote the active cultivation of the land by its inhabitants, just as it promotes the defence by its military. 
@@ -79,7 +85,10 @@ This creates a great an anxiety to promote the active cultivation of the land by
 The governors appointed in these two departments are different. 
 - One class governs the inhabitants, including the workers of the soil. It collects the tribute from them
 - Another is in command of the armed garrisons. 
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 If the commander protects the country insufficiently, the civil governor of the population, who is in charge also of the productive works, lodges accusation against the commander to the effect that the inhabitants are prevented working through deficiency of protection. 
 
 Or if again, in spite of peace being secured to the works of the land by the military governor, the civil authority still presents a territory sparse in population and untilled, it is the commander's turn to accuse the civil ruler. 
@@ -118,12 +127,15 @@ This would be a great testimony to a ruler's worth, that his followers follow hi
 The friends of Cyrus not only fought their battles side by side with him while he lived, but when he died they too died battling around his dead body, except only Ariaeus, who was absent at his post on the left wing of the army.
 
 But there is another tale of this same Cyrus in connection with Lysander, who himself narrated it on one occasion to a friend of his in Megara.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 Lysander had gone with presents sent by the Allies to Cyrus, who entertained him, and amongst other marks of courtesy showed him his "paradise" at Sardis. 
 
 Lysander was astonished at the beauty of the trees within, all planted (17) at equal intervals, the long straight rows of waving branches, the perfect regularity, the rectangular (18) symmetry of the whole, and the many sweet scents which hung about them as they paced the park. 
 
-In admiration he exclaimed to Cyrus= "All this beauty is marvellous enough, but what astonishes me still more is the talent of the artificer who mapped out and arranged for you the several parts of this fair scene." 
+In admiration he exclaimed to Cyrus: "All this beauty is marvellous enough, but what astonishes me still more is the talent of the artificer who mapped out and arranged for you the several parts of this fair scene." 
 
 Cyrus was pleased by the remark, and said= "Know then, Lysander, it is I who measured and arranged it all. Some of the trees," he added, "I planted with my own hands." 
 

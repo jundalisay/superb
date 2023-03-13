@@ -12,7 +12,7 @@ icon: "/icons/socrates.png"
 ## Wealth is anything that is Useful and Beneficial
 
 {{< l a="Socrates" >}}
-Socrates= "Economy" is the name of a particular kind of knowledge or science, just like the words "medicine," "carpentry," "building," "smithying," "metal-working," etc.
+"Economy" is the name of a particular kind of knowledge or science, just like the words "medicine," "carpentry," "building," "smithying," "metal-working," etc.
 
 In the case of the arts just named, we can state the proper work or function of each, can we (similarly) state the proper work and function of economy?
 {{< /l >}}
@@ -24,7 +24,7 @@ A good economist at any rate must be able to manage his own house or estate well
 
 
 {{< l a="Socrates" >}}
-Socrates= If another man's house is entrusted to him, he would be able to manage it as skilfully as his own. A skilled carpenter can work as well for another as for himself. So should a good economist.
+If another man's house is entrusted to him, he would be able to manage it as skilfully as his own. A skilled carpenter can work as well for another as for himself. So should a good economist.
 
 Then an economist, even if he does not possess wealth of his own, should be paid a salary for managing a house just as he might be paid for building one.
 {{< /l >}}

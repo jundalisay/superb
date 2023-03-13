@@ -222,7 +222,7 @@ body {
   background-image: url(/avatars/aris.jpg) !important;
 }
 
-.Aristoteles {
+.Aristoteles, .Companion {
   background-color: azure !important;
   background-image: url(/icons/g09.png) !important;
 }
@@ -475,10 +475,12 @@ body {
 }
 
 
-.Parmenides {
+.Parmenides, .Ischomachus {
   background-color: lightsteelblue;
   background-image: url(/icons/g04.png);  
 }
+
+
 
 .pole, .Polemarchus, .Cebes, .Critias, .Judge, .Man {
   background-color: #dec7ff;
@@ -492,7 +494,8 @@ body {
 /*  background-image: url(/avatars/g9.jpg);*/
 }
 
-.g, .Glaucon, .Crito, .Tsz-Chang {
+
+.g, .Glaucon, .Crito, .Critobulus, .Tsz-Chang {
   background-color: #ccd6fc;
   background-image: url(/icons/g01.png);    
 }
@@ -507,7 +510,7 @@ body {
   background-image: url(/icons/g09.png);  
 }
 
-.Mary {
+.Mary, .Wife {
   background-color: mistyrose;  
   background-image: url(/icons/veil.png);  
 }

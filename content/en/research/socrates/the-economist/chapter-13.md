@@ -81,7 +81,10 @@ Only gratify their bellies in the matter of appetite, and you will succeed in wi
 But ambitious, emulous natures feel the spur of praise, <!-- (12) --> since some natures hunger after praise no less than others crave for meats and drinks. 
 
 My practice is to instruct those whom I desire to appoint as my bailiffs in the various methods which I have found myself to be successful in gaining the obedience of my fellows. 
+{{< /r >}}
 
+
+{{< r a="Ischomachus" >}}
 For example, I have to provide clothes, entertainment, etc to my workers. <!-- (13) --> 
 
 I see to it that these are not all alike in make. Some <!-- ; (14) but some --> will be of better, some of less good quality. 

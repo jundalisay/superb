@@ -18,11 +18,15 @@ aliases:
  -->
 
 
-A bond is a loan to government, giving them private capital to spend for public uses. However, unlike a normal loan which is paid back in full and can be ended, *a bond is a perpetual debt.*
+A bond is a loan to government, giving them private capital to spend for public uses. However, unlike a normal loan which is paid back in full and can be ended, *a bond is a perpetual debt* organized in terms such as short term or long term. 
 
-The investor enters this perpetual lending scheme by buying the bond and then exits at maturity by selling his bond back to the market. The returns are called *yields*, and not interest payments of non-perpetual loans.
+The investor enters this perpetual lending scheme by buying the bond and then exits in 2 ways:
+- getting his money back at the end of the term, or
+- by selling his bond to other people.
 
-The return on this perpetual loan is naturally the lowest since governments are not supposed to profit from their people just as parents are not supposed to profit from their own children. 
+In return for lending money to government, the investor gets an annual interest revenue called a *coupon*.
+
+The annual returns for this perpetual loan is naturally the lowest since governments are not supposed to profit from their people just as parents are not supposed to profit from their own children. 
 
 Nevertheless, investors invest in them because they are **guaranteed** and can be paid back as long as its society exists. 
 - International investors invest in US bonds because the US is secure as a superpower. 
@@ -30,9 +34,9 @@ Nevertheless, investors invest in them because they are **guaranteed** and can b
 
 According to Adam Smith, bonds in England started in 1697 under King William 3rd as a natural result of the invention of paper financial instruments such as bank notes and stocks. It was an alternative to non-perpetual loans which were called 'anticipations':
 
-{{< quote ava="smith" >}}
+{{< q a="smith" >}}
 Such improvident anticipations gave birth to the more ruinous practice of perpetual funding. This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come.<br><br> However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
-{{< /quote >}}
+{{< /q >}}
 
 Governments like it a lot because it lets them borrow tons of money which they will never pay in full. 
 
@@ -41,21 +45,33 @@ In theory, a government can borrow 1 gazillion dollars and just pay back $1 a ye
 
 ## What are bond yields?
 
-Governments split up the loan into two groups:
+Governments split up the loan into 2 groups:
 
 - short term bonds
-- long term bonds: these offer higher return or 'yield' than short term bonds in exchange for being locked with government longer, similar to a time deposit
+- long term bonds: these offer higher annual returns than short term bonds in exchange for being locked with government longer, similar to a time deposit.
 
-These then have two components:
+These then have 2 components:
 
-- A bond's yield is the revenue from entering the perpetual lending scheme divided by the bond's price
+- A bond's yield is the annual interest revenue from entering the perpetual lending scheme, divided by the bond's price
+
+```elixir
+yield = interest / price
+```
+A $100 bond that earns $10 per year has a yield of 10%. 
+
+
 - A bond's price is the cost of entering that scheme. Like with anything bought and sold freely, this price changes with demand. If many people want to enter the scheme, then that cost (divisor) rises, lowering the yield. If many people don't want it, then the cost lowers, increasing the yield.
+
+If the $100 bond that earns $10 per year rises in price to $120, then its yield is reduced to 8.3%. [10/120]
+
+Therefore, **yield is inversely proportional to price because the interest amount is fixed.**
+
 
 If you bunch them up as one bond, then you get an upward sloping curve that has higher yield the longer the term:
 
 ![Yield curve](https://sorasystem.sirv.com/charts/yield.jpg)
 
-So an inverted yield curve means that people are flocking to buy long term bonds over short term bonds. This makes the yield of the long term bonds lower and that of the short term bonds higher. This is a sign that they can't see any other productive uses for their money in the short term. 
+So an inverted yield curve means that people are flocking to buy long term bonds over short term bonds. This makes the yield of the long term bonds lower and that of the short term bonds higher. **This is a sign that they can't see any other productive uses for their money in the short term.** 
 
 But that's normal: the yield on US long term bonds have been on the downward trend since the 80s. <!-- so its low yield is nothing new. --> 
 
@@ -63,7 +79,12 @@ The new thing is the rise of the [3-month yield](https://www.cnbc.com/quotes/?sy
 
 The problem is that people think that an inverted yield curve is the sole indicator. In reality there are many. 
 
-Superphysics proposes [clearing funds](/research/schumacher/pool-clearing/part-1) as an alternative to bonds. These funnel money into to financing exports and imports as the main enabler of Adam Smith's proposed free trade system. In this way, foreign commerce will no longer need letters of credit nor trade financing because all purchases are paid cash in advance. 
+
+## Our Alternative to Bonds
+
+The problem with bonds is that they lock in money for too long for use by the government. But governments are usually value-maintaining, and rarely value-creating.  
+
+Superphysics proposes [clearing funds](/research/schumacher/pool-clearing/part-1) as an alternative to bonds. These funnel money into to financing exports and imports as the main enabler of Adam Smith's proposed free trade system. In this way, value-creation is emphasized. Moreover, foreign commerce will no longer need letters of credit nor trade financing because all purchases are paid cash in advance. 
 
 People can have money to pay in cash because their local purchases can be transacted by points (as [basic universal revenue](/social/economics/solutions/bur)) or barter.
 
