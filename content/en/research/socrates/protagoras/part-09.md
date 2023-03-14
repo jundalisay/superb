@@ -1,7 +1,7 @@
 ---
 title: "Alcibiades, Callias, Critias, Hippias, Prodicus,"
-heading: "Part 8"
-weight: 14
+heading: "Part 9"
+weight: 20
 author: Plato
 image: "/covers/prot.jpg"
 description: "'As I was rising from my seat, Callias seized me by the right hand. In his left hand caught hold of this old cloak of mine'"

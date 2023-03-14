@@ -1,7 +1,7 @@
 ---
 title: "The Debate Between Socrates and Protagoras"
-heading: "Part 10"
-weight: 14
+heading: "Part 12"
+weight: 26
 author: Plato
 image: "/covers/prot.jpg"
 description: "'I think, Socrates, that skill in poetry is the principal part of education'"

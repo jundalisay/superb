@@ -1,7 +1,7 @@
 ---
 title: "The Debate Between Socrates and Protagoras"
-heading: "Part 13"
-weight: 14
+heading: "Part 14"
+weight: 30
 author: Plato
 image: "/covers/prot.jpg"
 description: "'What account do you give of that which, in our way of speaking, is termed being overcome by pleasure?'"
@@ -9,13 +9,56 @@ icon: "/icons/socrates.png"
 ---
 
 
-The nature of that art or science will be a matter of future consideration; but the existence of such a science furnishes a demonstrative answer to the question which you asked of me and Protagoras. 
 
-At the time when you asked the question, if you remember, both of us were agreeing that there was nothing mightier than knowledge, and that knowledge, in whatever existing, must have the advantage over pleasure and all other things; and then you said that pleasure often got the advantage even over a man who has knowledge; and we refused to allow this, and you rejoined: O Protagoras and Socrates, what is the meaning of being overcome by pleasure if not this?—tell us what you call such a state:—if we had immediately and at the time answered 'Ignorance,' you would have laughed at us. But now, in laughing at us, you will be laughing at yourselves: for you also admitted that men err in their choice of pleasures and pains; that is, in their choice of good and evil, from defect of knowledge; and you admitted further, that they err, not only from defect of knowledge in general, but of that particular knowledge which is called measuring. And you are also aware that the erring act which is done without knowledge is done in ignorance.
+{{< l a="Socrates" >}}
+The salvation of human life has been found to consist in the right choice of pleasures and pains,—in the choice of the more and the fewer, and the greater and the less, and the nearer and remoter. 
 
-This, therefore, is the meaning of being overcome by pleasure;—ignorance, and that the greatest. And our friends Protagoras and Prodicus and Hippias declare that they are the physicians of ignorance; but you, who are under the mistaken impression that ignorance is not the cause, and that the art of which I am speaking cannot be taught, neither go yourselves, nor send your children, to the Sophists, who are the teachers of these things—you take care of your money and give them none; and the result is, that you are the worse off both in public and private life:—Let us suppose this to be our answer to the world in general: And now I should like to ask you, Hippias, and you, Prodicus, as well as Protagoras (for the argument is to be yours as well as ours), whether you think that I am speaking the truth or not?
+This measuring is a consideration of their excess and defect and equality in relation to each other.
+
+This, as possessing measure, is undeniably also an art and science.
+
+The nature of that art or science will be a matter of future consideration. But the existence of such a science furnishes a demonstrative answer to the question which you asked of me and Protagoras. 
+{{< /l >}}
+
+
+{{< l a="Socrates" >}}
+At the time when you asked the question, both of us agreed that:
+- there was nothing mightier than knowledge, and
+- knowledge has the advantage over pleasure and all other things
+
+Then you said that pleasure often got the advantage even over a man who has knowledge. 
+
+We refused to allow this, and you rejoined: 
+
+O Protagoras and Socrates, what is the meaning of being overcome by pleasure if not this?—tell us what you call such a state:
+
+if we had immediately and at the time answered 'Ignorance,' you would have laughed at us. But now, in laughing at us, you will be laughing at yourselves: 
+
+for you also admitted that men err in their choice of pleasures and pains; that is, in their choice of good and evil, from defect of knowledge; and you admitted further, that they err, not only from defect of knowledge in general, but of that particular knowledge which is called measuring. And you are also aware that the erring act which is done without knowledge is done in ignorance.
+{{< /l >}}
+
+
+
+{{< l a="Socrates" >}}
+This, therefore, is the meaning of being overcome by pleasure. 
+
+Ignorance, and that the greatest.
+
+Protagoras, Prodicus, and Hippias declare that they are the physicians of ignorance. 
+
+But you, who are under the mistaken impression that ignorance is not the cause, and that the art of which I am speaking cannot be taught, neither go yourselves, nor send your children, to the Sophists, who are the teachers of these things—you take care of your money and give them none. 
+
+The result is, that you are the worse off both in public and private life.
+
+<!-- Let us suppose this to be our answer to the world in general: And now I should like to ask you,  -->
+
+Hippias, Prodicus, Protagoras, am I speaking the truth or not?
+{{< /l >}}
+
+
 
 They all thought that what I said was entirely true.
+
 
 {{< l a="Socrates" >}}
 Then you agree that the pleasant is the good, and the painful evil. 
@@ -71,6 +114,7 @@ My proof is that some of the most impious, and unrighteous, and intemperate, and
 
 I was surprised at his saying this at the time, and I am still more surprised now that I have discussed the matter with you. 
 
+
 {{< l a="Socrates" >}}
 Do you mean 'brave' to be 'confident'?
 {{< /l >}}
@@ -83,7 +127,9 @@ Yes, and the impetuous or goers.
  <!-- (You may remember, Protagoras, that this was your answer.) -->
 
 
-Well then, I said, tell us against what are the courageous ready to go—against the same dangers as the cowards?
+{{< l a="Socrates" >}}
+Against what are the courageous ready to go—against the same dangers as the cowards?
+{{< /l >}}
 
 No, he answered.
 
@@ -189,9 +235,13 @@ I only want to ask one more question, I said. I want to know whether you still t
 
 You seem to have a great ambition to make me answer, Socrates, and therefore I will gratify you, and say, that this appears to me to be impossible consistently with the argument.
 
-My only object, I said, in continuing the discussion, has been the desire to ascertain the nature and relations of virtue; for if this were clear, I am very sure that the other controversy which has been carried on at great length by both of us—you affirming and I denying that virtue can be taught—would also become clear. The result of our discussion appears to me to be singular. 
+
+{{< l a="Socrates" >}}
+My only object in continuing the discussion has been the desire to ascertain the nature and relations of virtue; for if this were clear, I am very sure that the other controversy which has been carried on at great length by both of us—you affirming and I denying that virtue can be taught—would also become clear. The result of our discussion appears to me to be singular. 
+
 
 For if the argument had a human voice, that voice would be heard laughing at us and saying: 'Protagoras and Socrates, you are strange beings; there are you, Socrates, who were saying that virtue cannot be taught, contradicting yourself now by your attempt to prove that all things are knowledge, including justice, and temperance, and courage,—which tends to show that virtue can certainly be taught; for if virtue were other than knowledge, as Protagoras attempted to prove, then clearly virtue cannot be taught; but if virtue is entirely knowledge, as you are seeking to show, then I cannot but suppose that virtue is capable of being taught. 
+{{< /l >}}
 
 Protagoras, on the other hand, who started by saying that it might be taught, is now eager to prove it to be anything rather than knowledge; and if this is true, it must be quite incapable of being taught.' 
 

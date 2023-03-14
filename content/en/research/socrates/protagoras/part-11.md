@@ -1,7 +1,7 @@
 ---
 title: "Simonides' Poem"
-heading: "Part 10"
-weight: 14
+heading: "Part 11"
+weight: 24
 author: Plato
 image: "/covers/prot.jpg"
 description: "'I think, Socrates, that skill in poetry is the principal part of education'"
@@ -60,11 +60,25 @@ He composed the entire poem with the secret intention of damaging Pittacus and h
 
 Let us all unite in examining his words, and see whether I am speaking the truth. 
 
-Simonides must have been a lunatic, if, in the very first words of the poem, wanting to say only that to become good is hard, he inserted (Greek) 'on the one hand' ('on the one hand to become good is hard'); there would be no reason for the introduction of (Greek), unless you suppose him to speak with a hostile reference to the words of Pittacus. Pittacus is saying 'Hard is it to be good,' and he, in refutation of this thesis, rejoins that the truly hard thing, Pittacus, is to become good, not joining 'truly' with 'good,' but with 'hard.'
+Simonides must have been a lunatic, if, in the very first words of the poem, wanting to say only that to become good is hard, he inserted (Greek) 'on the one hand' ('on the one hand to become good is hard').
+
+There would be no reason for the introduction of (Greek), unless you suppose him to speak with a hostile reference to the words of Pittacus. Pittacus is saying 'Hard is it to be good,' and he, in refutation of this thesis, rejoins that the truly hard thing, Pittacus, is to become good, not joining 'truly' with 'good,' but with 'hard.'
 
 Not, that the hard thing is to be truly good, as though there were some truly good men, and there were others who were good but not truly good (this would be a very simple observation, and quite unworthy of Simonides); but you must suppose him to make a trajection of the word 'truly' (Greek), construing the saying of Pittacus thus (and let us imagine Pittacus to be speaking and Simonides answering him): 
 
-'O my friends,' says Pittacus, 'hard is it to be good,' and Simonides answers, 'In that, Pittacus, you are mistaken; the difficulty is not to be good, but on the one hand, to become good, four-square in hands and feet and mind, without a flaw—that is hard truly.' This way of reading the passage accounts for the insertion of (Greek) 'on the one hand,' and for the position at the end of the clause of the word 'truly,' and all that follows shows this to be the meaning. A great deal might be said in praise of the details of the poem, which is a charming piece of workmanship, and very finished, but such minutiae would be tedious. I should like, however, to point out the general intention of the poem, which is certainly designed in every part to be a refutation of the saying of Pittacus. For he speaks in what follows a little further on as if he meant to argue that although there is a difficulty in becoming good, yet this is possible for a time, and only for a time. But having become good, to remain in a good state and be good, as you, Pittacus, affirm, is not possible, and is not granted to man; God only has this blessing; 'but man cannot help being bad when the force of circumstances overpowers him.' Now whom does the force of circumstance overpower in the command of a vessel?—not the private individual, for he is always overpowered; and as one who is already prostrate cannot be overthrown, and only he who is standing upright but not he who is prostrate can be laid prostrate, so the force of circumstances can only overpower him who, at some time or other, has resources, and not him who is at all times helpless. The descent of a great storm may make the pilot helpless, or the severity of the season the husbandman or the physician; for the good may become bad, as another poet witnesses:—
+'O my friends,' says Pittacus, 'hard is it to be good,' and Simonides answers, 'In that, Pittacus, you are mistaken; the difficulty is not to be good, but on the one hand, to become good, four-square in hands and feet and mind, without a flaw—that is hard truly.' 
+
+This way of reading the passage accounts for the insertion of (Greek) 'on the one hand,' and for the position at the end of the clause of the word 'truly,' and all that follows shows this to be the meaning. A great deal might be said in praise of the details of the poem, which is a charming piece of workmanship, and very finished, but such minutiae would be tedious. 
+
+The general intention of the poem, which is certainly designed in every part to be a refutation of the saying of Pittacus. 
+
+For he speaks in what follows a little further on as if he meant to argue that although there is a difficulty in becoming good, yet this is possible for a time, and only for a time. But having become good, to remain in a good state and be good, as you, Pittacus, affirm, is not possible, and is not granted to man; God only has this blessing; 'but man cannot help being bad when the force of circumstances overpowers him.' 
+
+Now whom does the force of circumstance overpower in the command of a vessel?—not the private individual, for he is always overpowered; 
+
+As one who is already prostrate cannot be overthrown, and only he who is standing upright but not he who is prostrate can be laid prostrate, so the force of circumstances can only overpower him who, at some time or other, has resources, and not him who is at all times helpless.
+
+The descent of a great storm may make the pilot helpless, or the severity of the season the husbandman or the physician; for the good may become bad, as another poet witnesses:—
 
 'The good are sometimes good and sometimes bad.'
 
@@ -72,11 +86,21 @@ But the bad does not become bad; he is always bad. So that when the force of cir
 
 'For he who does well is the good man, and he who does ill is the bad.'
 
-But what sort of doing is good in letters? and what sort of doing makes a man good in letters? Clearly the knowing of them. And what sort of well-doing makes a man a good physician? Clearly the knowledge of the art of healing the sick. 'But he who does ill is the bad.' Now who becomes a bad physician? Clearly he who is in the first place a physician, and in the second place a good physician; for he may become a bad one also: but none of us unskilled individuals can by any amount of doing ill become physicians, any more than we can become carpenters or anything of that sort; and he who by doing ill cannot become a physician at all, clearly cannot become a bad physician. In like manner the good may become deteriorated by time, or toil, or disease, or other accident (the only real doing ill is to be deprived of knowledge), but the bad man will never become bad, for he is always bad; and if he were to become bad, he must previously have been good. Thus the words of the poem tend to show that on the one hand a man cannot be continuously good, but that he may become good and may also become bad; and again that
+But what sort of doing is good in letters? and what sort of doing makes a man good in letters? Clearly the knowing of them. And what sort of well-doing makes a man a good physician? Clearly the knowledge of the art of healing the sick. 'But he who does ill is the bad.'
+
+Who becomes a bad physician?
+
+Clearly he who is in the first place a physician, and in the second place a good physician. 
+
+He may become a bad one also: but none of us unskilled individuals can by any amount of doing ill become physicians, any more than we can become carpenters or anything of that sort; and he who by doing ill cannot become a physician at all, clearly cannot become a bad physician. 
+
+In like manner, the good may become deteriorated by time, or toil, or disease, or other accident (the only real doing ill is to be deprived of knowledge), but the bad man will never become bad, for he is always bad.
+
+If he were to become bad, he must previously have been good. Thus the words of the poem tend to show that on the one hand a man cannot be continuously good, but that he may become good and may also become bad; and again that
 
 'They are the best for the longest time whom the gods love.'
 
-All this relates to Pittacus, as is further proved by the sequel. For he adds:—
+All this relates to Pittacus, as is further proved by the sequel. He adds:
 
 'Therefore I will not throw away my span of life to no purpose in searching after the impossible, hoping in vain to find a perfectly faultless man among those who partake of the fruit of the broad-bosomed earth: if I find him, I will send you word.'
 
@@ -84,7 +108,21 @@ All this relates to Pittacus, as is further proved by the sequel. For he adds:�
 
 'But him who does no evil, voluntarily I praise and love;—not even the gods war against necessity.'
 
-All this has a similar drift, for Simonides was not so ignorant as to say that he praised those who did no evil voluntarily, as though there were some who did evil voluntarily. For no wise man, as I believe, will allow that any human being errs voluntarily, or voluntarily does evil and dishonourable actions; but they are very well aware that all who do evil and dishonourable things do them against their will. And Simonides never says that he praises him who does no evil voluntarily; the word 'voluntarily' applies to himself. For he was under the impression that a good man might often compel himself to love and praise another, and to be the friend and approver of another; and that there might be an involuntary love, such as a man might feel to an unnatural father or mother, or country, or the like. Now bad men, when their parents or country have any defects, look on them with malignant joy, and find fault with them and expose and denounce them to others, under the idea that the rest of mankind will be less likely to take themselves to task and accuse them of neglect; and they blame their defects far more than they deserve, in order that the odium which is necessarily incurred by them may be increased: but the good man dissembles his feelings, and constrains himself to praise them; and if they have wronged him and he is angry, he pacifies his anger and is reconciled, and compels himself to love and praise his own flesh and blood. And Simonides, as is probable, considered that he himself had often had to praise and magnify a tyrant or the like, much against his will, and he also wishes to imply to Pittacus that he does not censure him because he is censorious.
+All this has a similar drift, for Simonides was not so ignorant as to say that he praised those who did no evil voluntarily, as though there were some who did evil voluntarily. 
+
+No wise man, as I believe, will allow that any human being errs voluntarily, or voluntarily does evil and dishonourable actions. 
+
+ut they are very well aware that all who do evil and dishonourable things do them against their will. And Simonides never says that he praises him who does no evil voluntarily; 
+
+The word 'voluntarily' applies to himself. For he was under the impression that a good man might often compel himself to love and praise another, and to be the friend and approver of another; and that there might be an involuntary love, such as a man might feel to an unnatural father or mother, or country, or the like. 
+
+Bad men, when their parents or country have any defects, look on them with malignant joy, and find fault with them and expose and denounce them to others, under the idea that the rest of mankind will be less likely to take themselves to task and accuse them of neglect; 
+
+They blame their defects far more than they deserve, in order that the odium which is necessarily incurred by them may be increased: 
+
+But the good man dissembles his feelings, and constrains himself to praise them; and if they have wronged him and he is angry, he pacifies his anger and is reconciled, and compels himself to love and praise his own flesh and blood. 
+
+Simonides, as is probable, considered that he himself had often had to praise and magnify a tyrant or the like, much against his will, and he also wishes to imply to Pittacus that he does not censure him because he is censorious.
 
 'For I am satisfied' he says, 'when a man is neither bad nor very stupid; and when he knows justice (which is the health of states), and is of sound mind, I will find no fault with him, for I am not given to finding fault, and there are innumerable fools'
 
@@ -101,6 +139,6 @@ In these latter words he does not mean to say that all things are good which hav
    'Who love and APPROVE every one VOLUNTARILY, who does no evil:'
 and that the stop should be put after 'voluntarily'); 'but there are some whom I involuntarily praise and love. 
 
-You, Pittacus, I would never have blamed, if you had spoken what was moderately good and true; but I do blame you because, putting on the appearance of truth, you are speaking falsely about the highest matters.'—And this, I said, Prodicus and Protagoras, I take to be the meaning of Simonides in this poem.
+You, Pittacus, I would never have blamed, if you had spoken what was moderately good and true.
 
-
+But I do blame you because, putting on the appearance of truth, you are speaking falsely about the highest matters.'—And this, I said, Prodicus and Protagoras, I take to be the meaning of Simonides in this poem.

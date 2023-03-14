@@ -2,6 +2,6 @@
 title: "Xenophon"
 heading: Enlightened
 description: ""
-image: "/covers/xemophon.jpg"
+image: "/covers/xenophon.jpg"
 weight: 200
 ---
