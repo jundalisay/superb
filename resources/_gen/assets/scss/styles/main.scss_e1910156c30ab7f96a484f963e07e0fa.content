@@ -6929,7 +6929,7 @@ body {
   background-color: #ffd3ac;
   background-image: url(/icons/g09.png); }
 
-.thra, .Thrasymachus, .angry, .Boomer, .Duke-Ting, .Father-of-Abraham {
+.Protogoras, .angry, .Boomer, .Duke-Ting, .Father-of-Abraham {
   background-color: #ffc8d5;
   background-image: url(/icons/g10.png); }
 
@@ -6950,7 +6950,7 @@ body {
   background-image: url(/icons/g04.png);
   /*  background-image: url(/avatars/g9.jpg);*/ }
 
-.Tsz-Yu, .Min-Tsz-Kienm, .Moses {
+.Tsz-Yu, .Min-Tsz-Kienm, .Moses, .thra, .Thrasymachus {
   background-color: #dec7ff;
   background-image: url(/icons/moses.png);
   /*  background-image: url(/avatars/g9.jpg);*/ }

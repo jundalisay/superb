@@ -1,5 +1,5 @@
 ---
-title: "The Foreigner"
+title: "Socrates and Hippocrates Venture to Meet Protagoras"
 heading: "Part 1"
 weight: 2
 author: Plato
@@ -44,7 +44,7 @@ Has anything happened between you and him? He is the most just man in Athens.
 {{< /r >}}
 
 {{< l a="Socrates" >}}
-I know of a juster and wiser foreigner from Abdera -- Protogoras. He has been here in Athens for 2 days now. 
+I know of a juster and wiser foreigner from Abdera -- Protagoras. He has been here in Athens for 2 days now. 
 
 I have heard him say many things
 {{< /l >}}
@@ -76,21 +76,41 @@ Would to heaven, he replied, that this were the case! He might take all that I h
 
 I replied: Not yet, my good friend; the hour is too early. But let us rise and take a turn in the court and wait about there until day-break; when the day breaks, then we will go. For Protagoras is generally at home, and we shall be sure to find him; never fear.
 
-Upon this we got up and walked about in the court, and I thought that I would make trial of the strength of his resolution. So I examined him and put questions to him. Tell me, Hippocrates, I said, as you are going to Protagoras, and will be paying your money to him, what is he to whom you are going? and what will he make of you? If, for example, you had thought of going to Hippocrates of Cos, the Asclepiad, and were about to give him your money, and some one had said to you: You are paying money to your namesake Hippocrates, O Hippocrates; tell me, what is he that you give him money? how would you have answered?
 
-I should say, he replied, that I gave money to him as a physician.
 
-And what will he make of you?
+We got up and walked about in the court. I thought of testing the strength of his resolution.
 
-A physician, he said.
+{{< l a="Socrates" >}}
+Hippocrates, you are going to Protagoras and will be paying your money to him. Who is he and what does he think of you?
+{{< /l >}}
 
-And if you were resolved to go to Polycleitus the Argive, or Pheidias the Athenian, and were intending to give them money, and some one had asked you: What are Polycleitus and Pheidias? and why do you give them this money?—how would you have answered?
 
-I should have answered, that they were statuaries.
+<!-- If, for example, you had thought of going to Hippocrates of Cos, the Asclepiad, and were about to give him your money, and some one had said to you: You are paying money to your namesake Hippocrates, O Hippocrates; tell me, what is he that you give him money? how would you have answered? -->
 
-And what will they make of you?
 
-A statuary, of course.
+{{< r a="Hippocrates" >}}
+I gave money to him as a physician.
+{{< /r >}}
 
-Well now, I said, you and I are going to Protagoras, and we are ready to pay him money on your behalf. If our own means are sufficient, and we can gain him with these, we shall be only too glad; but if not, then we are to spend the money of your friends as well. Now suppose, that while we are thus enthusiastically pursuing our object some one were to say to us: Tell me, Socrates, and you Hippocrates, what is Protagoras, and why are you going to pay him money,—how should we answer? I know that Pheidias is a sculptor, and that Homer is a poet; but what appellation is given to Protagoras? how is he designated?
 
+{{< l a="Socrates" >}}
+If you went to Polycleitus the Argive, or Pheidias the Athenian, and were intending to give them money, and someone had asked you: What are Polycleitus and Pheidias? Why do you give them this money?
+{{< /l >}}
+
+
+{{< r a="Hippocrates" >}}
+They were statuaries.
+{{< /r >}}
+
+
+{{< l a="Socrates" >}}
+We are going to Protagoras, and we are ready to pay him money on your behalf.
+
+If someone asks us what is Protagoras'' job, and why are you going to pay him money?
+{{< /l >}}
+
+
+<!-- If our own means are sufficient, and we can gain him with these, we shall be only too glad; but if not, then we are to spend the money of your friends as well.
+
+Now suppose, that while we are thus enthusiastically pursuing our object some one were to say to us: Tell me, Socrates, and you Hippocrates, ,—how should we answer? I know that Pheidias is a sculptor, and that Homer is a poet; but what appellation is given to Protagoras? how is he designated?
+ -->

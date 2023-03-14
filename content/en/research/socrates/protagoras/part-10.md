@@ -1,4 +1,18 @@
-I think, Socrates, that skill in poetry is the principal part of education; and this I conceive to be the power of knowing what compositions of the poets are correct, and what are not, and how they are to be distinguished, and of explaining when asked the reason of the difference. And I propose to transfer the question which you and I have been discussing to the domain of poetry; we will speak as before of virtue, but in reference to a passage of a poet. Now Simonides says to Scopas the son of Creon the Thessalian:
+---
+title: "The Ideas of Protagoras"
+heading: "Part 10"
+weight: 14
+author: Plato
+image: "/covers/prot.jpg"
+description: "'I think, Socrates, that skill in poetry is the principal part of education'"
+icon: "/icons/socrates.png"
+---
+
+
+
+I think, Socrates, that skill in poetry is the principal part of education; 
+
+This I conceive to be the power of knowing what compositions of the poets are correct, and what are not, and how they are to be distinguished, and of explaining when asked the reason of the difference. And I propose to transfer the question which you and I have been discussing to the domain of poetry; we will speak as before of virtue, but in reference to a passage of a poet. Now Simonides says to Scopas the son of Creon the Thessalian:
 
 'Hardly on the one hand can a man become truly good, built four-square in hands and feet and mind, a work without a flaw.'
 
