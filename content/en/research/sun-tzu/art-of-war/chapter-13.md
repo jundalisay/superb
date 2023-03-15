@@ -4,6 +4,7 @@ image: "/covers/war.png"
 description: "The Ground Book"
 heading: "Chapter 3"
 weight: 26
+icon: "/icons/suntzu.png"
 ---
 
 

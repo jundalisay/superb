@@ -3,8 +3,7 @@ title: "Attack by Fire"
 image: "/covers/war.png"
 description: "Attack by Strategem"
 heading: "Chapter 12"
-
-
+icon: "/icons/suntzu.png"
 ---
 
 

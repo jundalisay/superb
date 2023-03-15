@@ -60,7 +60,7 @@ Is a naturalness problem, like the Hierarchy problem, and not a problem of incon
 ![Aether](/graphics/physics/aethertech.png)
 
 
-**6.5 Strong CP Problem
+**6.5 Strong CP Problem**
 
 
 - Cause of Problem: Material Influence

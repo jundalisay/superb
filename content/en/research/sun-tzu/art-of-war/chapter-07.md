@@ -4,6 +4,7 @@ image: "/covers/war.png"
 description: "Having collected an army and concentrated his forces, he must blend and harmonize the different elements thereof before pitching his camp"
 heading: "Chapter 7"
 weight: 14
+icon: "/icons/suntzu.png"
 ---
 
 
@@ -11,11 +12,11 @@ In war, the general receives his commands from the sovereign.
 
 Having collected an army and concentrated his forces, he must blend and harmonize the different elements thereof before pitching his camp.
 
-3. After that, comes tactical maneuvering, than which there is nothing more difficult. The difficulty of tactical maneuvering consists in turning the devious into the direct, and misfortune into gain.
+{{< s v="3" >}} After that, comes tactical maneuvering, than which there is nothing more difficult. The difficulty of tactical maneuvering consists in turning the devious into the direct, and misfortune into gain.
 
-4. Thus, to take a long and circuitous route, after enticing the enemy out of the way, and though starting after him, to contrive to reach the goal before him, shows knowledge of the artifice of deviation.
+{{< s v="4" >}} Thus, to take a long and circuitous route, after enticing the enemy out of the way, and though starting after him, to contrive to reach the goal before him, shows knowledge of the artifice of deviation.
 
-5. Maneuvering with an army is advantageous; with an undisciplined multitude, most dangerous.
+{{< s v="5" >}} Maneuvering with an army is advantageous; with an undisciplined multitude, most dangerous.
 
 6. If you set a fully equipped army in march in order to snatch an advantage, the chances are that you will be too late. On the other hand, to detach a flying column for the purpose involves the sacrifice of its baggage and stores.
 

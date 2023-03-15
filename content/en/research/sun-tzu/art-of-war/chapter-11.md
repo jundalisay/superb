@@ -4,6 +4,7 @@ image: "/covers/war.png"
 description: "The art of war recognizes nine kinds of ground"
 heading: "Chapter 11"
 weight: 22
+icon: "/icons/suntzu.png"
 ---
 
 
