@@ -16,13 +16,18 @@ Both are however, articles of no great consumption, for, being bulky and possess
 
 ## Timber
 
-I deem it superfluous to dwell on a multitude of other good and even precious woods in timber, with which the Philippine Islands are gifted, because this is a subject already sufficiently well understood, and a complete collection of specimens, as well as some large blocks, were besides transmitted some years ago to the king’s dockyard. 
+The Philippine Islands are gifted with a multitude of precious timber. These have been transmitted some years ago to the king’s dockyard as a collection of specimens, as well as some large blocks. 
 
-It may, however, be proper to remark, that the establishment near the capital for shipbuilding and masts, are much more expensive than is generally supposed, as well on account of the difficulties experienced in dragging the trees from the interior of the mountains to the water’s edge, as the want of regularity and foresight with which these operations have been usually conducted. Besides these reasons, as it is necessary that the other materials requisite for the construction and complete armament of vessels of a certain force, should come from Europe, it is neither easy, nor indeed, would it be economical, as was erroneously asserted, to carry into effect the government project of annually building, in the colony, a ship of the line and a frigate. 
+However, the establishment near Manila for shipbuilding and masts are much more expensive than is generally supposed. This is because of the difficulties in dragging the trees from the interior of the mountains to the water’s edge due to the lack  of regularity and foresight in its operations. 
 
-It ought further to be observed, that no stock of timber, cut at a proper season and well cured, has been lain in, and although the wages of the native carpenters and caulkers are moderate, no comparison whatever can be made between the daily work they perform, and that which is done in the same space of time in our dock-yards of Spain.
+The materials for the construction and armament of vessels come from Europe. It is not easy nor economical for the government to create an annual shipbuilding project for frigates. 
 
-Ship building advantages.Notwithstanding, however, the impediments above stated, as it is undeniable that abundance of suitable timber is to be obtained, and as the conveyance of the remainder of the necessary naval stores to the Philippine Islands is shorter and more economical than to the coast of California, it possibly might answer, at least, many mariners are of this opinion, in case it is deemed expedient to continue building at San Blas the brigs and corvettes necessary [368]for the protection of the military posts and missions, situated along the above coasts, to order them preferably to be built in Cavite giving timely advice, and previously taking care to make the necessary arrangements.
+<!-- It ought further to be observed, that no stock of timber, cut at a proper season and well cured, has been lain in, and although  -->
+
+The wages of the native carpenters and caulkers are moderate. But they do not compare to the daily productivity of the dockyards in Spain.
+
+The abundance of suitable timber is to be obtained, and as the conveyance of the remainder of the necessary naval stores to the Philippine Islands is shorter and more economical than to the coast of California, it possibly might answer, at least, many mariners are of this opinion, in case it is deemed expedient to continue building at San Blas the brigs and corvettes necessary [368]for the protection of the military posts and missions, situated along the above coasts, to order them preferably to be built in Cavite giving timely advice, and previously taking care to make the necessary arrangements.
+
 
 
 ## Gold
@@ -36,12 +41,23 @@ A considerable waste consequently takes place, and although the metal obtained i
 
 ## Copper
 
-Well-founded reasons exist for presuming that, in the Province of Ilocos, mines of virgin copper exist, a singular production of nature, or at least, not very common, if the generality of combinations under which this metal presents itself in the rest of the globe, are duly considered. This is partly inferred from the circumstance of its having been noticed that the Igorots, who occasionally come down from the mountains to barter with the Christians, use certain coarse jars or vessels of copper, evidently made by themselves with the use of a hammer, without any art or regularity; and as the ignorance of these demi-savages is too great for them to possess the notions necessary for the separation of the component parts which enter into the combination of minerals, and much less for the construction [369]of furnaces suitable to the smelting and formation of the moulds, it is concluded they must have found some vein of copper entirely pure, which, without the necessity of any other preparation, they have been able to flatten with the hammer and rendered maleable, so as to convert it into the rough vessels above spoken of.
+Well-founded reasons exist for presuming that, in the Province of Ilocos, mines of virgin copper exist, a singular production of nature, or at least, not very common, if the generality of combinations under which this metal presents itself in the rest of the globe, are duly considered. 
+
+This is partly inferred from the circumstance of its having been noticed that the Igorots, who occasionally come down from the mountains to barter with the Christians, use certain coarse jars or vessels of copper, evidently made by themselves with the use of a hammer, without any art or regularity. 
+
+The ignorance of these demi-savages is too great for them to know:
+- how to separate the component parts which enter into the combination of minerals
+- the construction of furnaces for smelting and forming the moulds
+
+It means that they found a some vein of copper entirely pure, which, without the necessity of any other preparation.
+- They have been able to flatten with the hammer and rendered maleable, so as to convert it into the rough vessels above spoken of.
 
 
 ## Cinnabar
 
-The district-magistrate of Caraga, Don Augustin de Ioldi, received a special commission from the government to explore and obtain information respecting a mine of cinnabar, which was said to be situated under his jurisdiction; and I have been informed of another of the same species in the Island of Samar, the working of which has ceased for a considerable time, not because the prospect was unfavorable, but for the want of an intelligent person to superintend and carry on the operations.
+The district-magistrate of Caraga, Don Augustin de Ioldi, received a special commission from the government to explore and obtain information respecting a mine of cinnabar, which was said to be situated under his jurisdiction.
+
+I have been informed of another of the same species in the Island of Samar, the working of which has ceased for a considerable time, not because the prospect was unfavorable, but for the want of an intelligent person to superintend and carry on the operations.
 
 The utility of such a discovery is too obvious not to deserve, on the part of government, the most serious attention and every encouragement to render it available; and it is to be hoped that, as the first steps have already been taken in this important disclosure, the enterprise will not be abandoned, but, on the contrary, that exertions will be made to obtain aid and advice from the Miners’ College of Mexico, as the best means of removing doubt, and acting with judgment in the affair.
 
@@ -59,36 +75,54 @@ Without the aid of rolling or slitting mills, indeed unprovided with the most es
 
 ## Sulphur
 
-In the Island of Leyte, abundance of sulphur is met with, and from thence the gunpowder works of Manila are supplied at very reasonable prices. Jaspers, cornelians and agates, are also found in profusion in many of these provinces; everything, indeed, promises varied mineral wealth worthy of exciting the curiosity and useful researches of mineralogists, who, unfortunately, have not hitherto extended their labors to these remote parts of the globe.
+Leyte has abundant sulphur which is supplied to the gunpowder works of Manila at very reasonable prices.
 
-Pearls.
-
-Pearl fisheries are, from time to time, undertaken off the coast of the Island of Mindanao, and also near smaller islands not far from Cebu, but with little success and less constancy, not because there is a scarcity of fine pearls of a bright color and considerable size, but on account of the divers’ want of skill and their just dread of the sharks, which, in great numbers infest these seas. Amber is frequently gathered in considerable lumps in the vicinity of Samar and the other Visayan Islands as well as mother-of-pearl, tortoise-shell, and red and black coral, of the latter kind of which, I have seen shafts as thick as my finger and six or eight feet long.
+Jaspers, cornelians and agates, are also found in profusion in many of these provinces; everything, indeed, promises varied mineral wealth worthy of exciting the curiosity and useful researches of mineralogists, who, unfortunately, have not hitherto extended their labors to these remote parts of the globe.
 
 
-Estates.
+## Pearls
+
+Pearl fisheries are, from time to time, undertaken off the coast of the Island of Mindanao, and also near smaller islands not far from Cebu, but with little success and less constancy, not because there is a scarcity of fine pearls of a bright color and considerable size, but on account of the divers’ want of skill and their just dread of the sharks, which, in great numbers infest these seas. 
+
+Amber is frequently gathered in considerable lumps in the vicinity of Samar and the other Visayan Islands as well as mother-of-pearl, tortoise-shell, and red and black coral, of the latter kind of which, I have seen shafts as thick as my finger and six or eight feet long.
+
+
+## Estates
 
 The proprietors of estates in the Philippines are of four classes. The most considerable is that of the religious orders, Augustinians and Dominicans, who cultivate their respective lands on joint account, or let them out at a moderate ground-rent, which the planters pay in kind; but far from living in opulence, and accumulating the immense revenues some of the religious communities enjoy in America, they stand in need of all they earn and possess for their maintenance, and in order to be enabled to discharge the various duties and obligations annexed to the missions with which they are entrusted.
 
-Spanish planters.
+
+
+## Spanish planters
 
 The second class comprehends the Spanish proprietors, whose number possibly does not exceed a dozen of persons, and even they labor under such disadvantages, and have to contend with so many obstacles, under the existing order of things, that, compelled to divide their lands into rice plantations, in consequence of this being the species of culture to which the natives are most inclined, and to devote a considerable portion of them to the grazing of horned [371]cattle, no one of them is in a situation to give to agriculture the variety and extent desired, or to attain any progress in a pursuit which in other colonies rapidly leads to riches.
 
-Filipino farmers.
+
+## Filipino farmers
 
 The third consists of the principal mestizos and natives, and is in fact that which constitutes the real body of farming proprietors. In the fourth and last may be included all the other natives, who generally possess a small strip of land situated round their dwellings, or at the extremities of the various towns and settlements formed by the conquerors; besides what they may have obtained from their ancestors in the way of legal inheritance, which rights have been confirmed to them by the present sovereign of the colony.
 
-Aids to agriculture.
 
-It will beyond doubt, in some measure dissipate the distrust by which the Filipino is actuated, when the new and paternal exertions of the superior government, to ameliorate his present situation, are fully known, and when that valuable portion of our distant population is assured that their rights will henceforth be respected, and those exactions and compulsory levies which formerly so much disheartened them, are totally abolished. On the other hand, a new stimulus will be given by the living example and fresh impulse communicated to the provinces by other families emigrating and settling there, nurtured in the spirit and principles of those reforms in the ideas and maxims of government by which the present era is distinguished. A practical participation in these advantages will, most assuredly, awaken a spirit of enterprise and emulation that may be extremely beneficial to agriculture, and as the wants of the natives increase in proportion as they are enabled to know and compare the comforts arising out of the presence and extension of conveniences and luxuries in their own towns, they will naturally be led to possess and adopt them.
+## Aids to agriculture
 
-Plans for progress.
+It will beyond doubt, in some measure dissipate the distrust by which the Filipino is actuated, when the new and paternal exertions of the superior government, to ameliorate his present situation, are fully known, and when that valuable portion of our distant population is assured that their rights will henceforth be respected, and those exactions and compulsory levies which formerly so much disheartened them, are totally abolished. 
+
+On the other hand, a new stimulus will be given by the living example and fresh impulse communicated to the provinces by other families emigrating and settling there, nurtured in the spirit and principles of those reforms in the ideas and maxims of government by which the present era is distinguished. A practical participation in these advantages will, most assuredly, awaken a spirit of enterprise and emulation that may be extremely beneficial to agriculture, and as the wants of the natives increase in proportion as they are enabled to know and compare the comforts arising out of the presence and extension of conveniences and luxuries in their own towns, they will naturally be led to possess and adopt them.
+
+
+
+## Plans for progress
 
 So salutary a change, however, can only be the work of time, and as long as the government confines itself to a system merely protecting, the effects must consequently be slow. As it is therefore necessary to put in action more powerful springs than the ordinary ones, it will be found expedient partly to relax from some of those general principles which apply to societies, differently constituted, or rather formed of other perfectly distinct elements. As relating to the subject under discussion, I fortunately discover two means, pointed out in the laws themselves, essentially just, and at the same time capable of producing in this populous colony, more than in any other, the desired results. The legislator, founding himself on the common obligation of the subject to contribute something in return [372]for the protection he receives, and to co-operate in the increase of the power and opulence of the State, proscribes idleness as a crime, and points out labor as a duty; and although the regulations touching the natives breathe the spirit of humanity, and exhibit the wisdom with which they were originally formed, they nevertheless concur and are directed to this primary object. In them the distribution of vacant lands, as well as of the natives at fair daily wages to clear them, is universally allowed, and these it seems to me, are the means from an equitable and intelligent application of which the most beneficial consequences may be expected.
 
-Confiscating unused lands.
+
+## Confiscating unused lands
 
 The first cannot be attended with any great difficulty, because all the provinces abound in waste and vacant lands, and scarcely is there a district in which some are not to be found of private property completely uncultivated and neglected, and consequently susceptible, as above stated, of being legally transferred, for this reason alone, to the possession of an active owner. Let their nature however, be what it may, in their adjudication, it is of the greatest importance to proceed with uniformity, by consecrating, in a most irrevocable manner, the solemnity of all similar grants. 
 
-Public interest and reason, in the Philippine Islands, require that in all such cases deference only should be paid to demands justly interposed, and formally established within a due and fixed period; but after full and public notice has been given by the respective judicial authorities, of the titles about to be granted, the counter claims the natives may seek to put in after the lapse of the period prefixed, should be peremptorily disregarded. Although at first sight this appears a direct infringement on the imprescriptible rights of property, it must be considered that in some cases individual interests ought to be sacrificed to the general good, and that the balance used, when treating of the affairs of State, is never of that rigid kind as if applied to those of minor consideration. The fact is, that by this means many would be induced to form estates, who have hitherto been withheld by the dread of involving themselves, and spending their money in law suits; at the same time the natives, gradually accustoming themselves to this new order of things, would lay aside that disposition to strife and contention, which forms so peculiar a trait in their character, and that antipathy and odium would also disappear with which they have usually viewed the agricultural undertakings of Spaniards.
+Public interest and reason, in the Philippine Islands, require that in all such cases deference only should be paid to demands justly interposed, and formally established within a due and fixed period; but after full and public notice has been given by the respective judicial authorities, of the titles about to be granted, the counter claims the natives may seek to put in after the lapse of the period prefixed, should be peremptorily disregarded.
+
+Although at first sight this appears a direct infringement on the imprescriptible rights of property, it must be considered that in some cases individual interests ought to be sacrificed to the general good, and that the balance used, when treating of the affairs of State, is never of that rigid kind as if applied to those of minor consideration.
+
+The fact is, that by this means many would be induced to form estates, who have hitherto been withheld by the dread of involving themselves, and spending their money in law suits; at the same time the natives, gradually accustoming themselves to this new order of things, would lay aside that disposition to strife and contention, which forms so peculiar a trait in their character, and that antipathy and odium would also disappear with which they have usually viewed the agricultural undertakings of Spaniards.
 

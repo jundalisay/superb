@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Cabin&display=swap");
 [data-sal] {
   transition-duration: .2s;
   transition-duration: var(--sal-duration, 0.2s);
@@ -6671,6 +6672,7 @@ small {
   margin-bottom: 1em; }
 
 body {
+  font-family: 'Cabin', sans-serif;
   letter-spacing: 0.2px;
   line-height: 1.6em;
   color: black;
@@ -6742,9 +6744,19 @@ body {
   background-color: #3a0000;
   background-image: url(/avatars/aris.jpg) !important; }
 
+.Aristoteles, .Companion {
+  background-color: azure !important;
+  background-image: url(/icons/g09.png) !important; }
+
+.Arjuna {
+  background-image: url(/icons/arjuna.png); }
+
 .Bacon {
   background-color: black;
   background-image: url(/icons/bacon.png) !important; }
+
+.Krishna {
+  background-image: url(/avatars/krishna.png); }
 
 .poincare {
   background-color: darkslateblue;
@@ -6798,7 +6810,7 @@ body {
   background-color: black;
   background-image: url(/avatars/laotzu.png); }
 
-.lor {
+.lor, .lorentz {
   background-color: darkslateblue;
   background-image: url(/avatars/lor.png); }
 
@@ -6821,6 +6833,10 @@ body {
 .quesnay {
   background-color: #000f3a;
   background-image: url(/avatars/quesnay.png); }
+
+.Ramus {
+  background-color: darkred !important;
+  background-image: url(/icons/ramus.png) !important; }
 
 .ric {
   background-color: #3a0000;
@@ -6856,7 +6872,7 @@ body {
   background-image: url(/avatars/smith.png) !important; }
 
 .soc, .Socrates, .socrates {
-  background-image: url(/avatars/socrates.png); }
+  background-image: url(/icons/socrates.png); }
 
 .spmed, .Medical-Superphysics {
   background-image: url(/icons/spmed50.png) !important; }
@@ -6899,7 +6915,7 @@ body {
 
 .ade, .Adeimantus, .Tsz-Hi {
   background-color: #d9fefd;
-  background-image: url(/avatars/g01.png); }
+  background-image: url(/icons/g02.png); }
 
 .asker, .Asker {
   background-color: gainsboro;
@@ -6911,9 +6927,9 @@ body {
 
 .cle, .Cleitophon, .Simmias, .Duke-Ngai, .Abraham {
   background-color: #ffd3ac;
-  background-image: url(/icons/g03.png); }
+  background-image: url(/icons/g09.png); }
 
-.thra, .Thrasymachus, .angry, .Boomer, .Duke-Ting, .Father-of-Abraham {
+.Protagoras, .angry, .Boomer, .Duke-Ting, .Father-of-Abraham {
   background-color: #ffc8d5;
   background-image: url(/icons/g10.png); }
 
@@ -6925,31 +6941,35 @@ body {
   background-color: darkgray;
   background-image: url(/icons/g10.png); }
 
+.Parmenides, .Ischomachus {
+  background-color: lightsteelblue;
+  background-image: url(/icons/g04.png); }
+
 .pole, .Polemarchus, .Cebes, .Critias, .Judge, .Man {
   background-color: #dec7ff;
-  background-image: url(/icons/g05.png);
+  background-image: url(/icons/g04.png);
   /*  background-image: url(/avatars/g9.jpg);*/ }
 
-.Tsz-Yu, .Min-Tsz-Kienm, .Moses {
+.Tsz-Yu, .Min-Tsz-Kienm, .Moses, .thra, .Thrasymachus {
   background-color: #dec7ff;
-  background-image: url(/icons/g06.png);
+  background-image: url(/icons/moses.png);
   /*  background-image: url(/avatars/g9.jpg);*/ }
 
-.g, .Glaucon, .Crito, .Tsz-Chang {
+.g, .Glaucon, .Crito, .Critobulus, .Tsz-Chang, .Callias {
   background-color: #ccd6fc;
-  background-image: url(/icons/g07.png); }
+  background-image: url(/icons/g01.png); }
 
-.ceph, .Cephalus, .Tsz-Kung, .Zechariah {
+.ceph, .Cephalus, .Tsz-Kung, .Zechariah, .Hippias-the-Sage {
   background-color: #b7ffc9;
   background-image: url(/icons/g08.png); }
 
 .Tsz-Lu, .Yuen-Sz, .Chung-Kung {
   background-color: powderblue;
-  background-image: url(/avatars/g09.png); }
+  background-image: url(/icons/g09.png); }
 
-.Mary {
+.Mary, .Wife {
   background-color: mistyrose;
-  background-image: url(/icons/g10.png); }
+  background-image: url(/icons/veil.png); }
 
 .tsang, .Tsang-Sin, .Szma-Niu {
   background-color: powderblue;
@@ -6966,6 +6986,10 @@ body {
 .mang, .Mang-i, .Mang-Wu, .Yen-Yung {
   background-color: mistyrose;
   background-image: url(/avatars/ava2.jpg); }
+
+.Zeno {
+  background-color: bisque;
+  background-image: url(/icons/g02.png); }
 
 .right {
   background-position: 1% 5%;
