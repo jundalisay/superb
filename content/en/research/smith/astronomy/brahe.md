@@ -1,6 +1,5 @@
 ---
 title: "Tycho Brahe' System of Astronomy"
-
 description: "Tycho Brahe introduced a new hypothesis that connected the irregularities in the motions of the Planets"
 image: /covers/astronomy.jpg
 weight: 4

@@ -9,17 +9,20 @@ icon: "/icons/socrates.png"
 ---
 
 
-
-FOREIGNER: We said that being was an active or passive energy, arising out of a certain power which proceeds from elements meeting with one another. Perhaps your ears, Theaetetus, may fail to catch their answer, which I recognize because I have been accustomed to hear it.
+{{< q a="Foreigner" >}}
+We said that being was an active or passive energy, arising out of a certain power which proceeds from elements meeting with one another. Perhaps your ears, Theaetetus, may fail to catch their answer, which I recognize because I have been accustomed to hear it.
 
 They deny the truth of what we were just now saying to the aborigines about existence.
 
 Any power of doing or suffering in a degree however slight was held by us to be a sufficient definition of being?
 
 They deny this, and say that the power of doing or suffering is confined to becoming, and that neither power is applicable to being.
+{{< /q >}}
 
+{{< q a="Theaetetus" >}}
+is there not some truth in what they say?
+{{< /q >}}
 
-THEAETETUS: And is there not some truth in what they say?
 
 FOREIGNER: Yes; but our reply will be, that we want to ascertain from them more distinctly, whether they further admit that the soul knows, and that being or essence is known.
 

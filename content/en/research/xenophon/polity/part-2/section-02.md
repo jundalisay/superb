@@ -3,11 +3,10 @@ title: "Lycurgus' Constitution"
 description: "The Polity Of The Athenians And The Spartans"
 image: "/covers/polity.jpg"
 author: Xenophon
+icon: /icons/xeno.png
 weight: 3
 ---
 
-
-II
 
 With this exposition of the customs in connection with the birth of children, I wish now to explain the systems of education in fashion here and elsewhere. Throughout the rest of Hellas the custom on the part of those who claim to educate their sons in the best way is as follows.
 

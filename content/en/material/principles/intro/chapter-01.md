@@ -88,7 +88,7 @@ Rank | Name | Greek-Hindu | Chinese | Physics Force | Superphysics Force | Force
 0 | Metaphysical | Metaphysics | ? | Pseudo-science | Yang Yin | Soul | The One, Brahma, Tao | Octave
 1 | Aethereal | Aether, Akasha | 水 (still water) | Pseudo-science | Creative force | Thought (effective qoa or idea) | qoa or quantum of aether | La 
 2 | Spatial | Air, Vayu | 木 (moving wood) | Gravity | Gravity | Schwarzchild Radius (qost or graviton) | qost or quantum of spacetime | Sol
-3 | Radiant | Fire, Tejas | 水 (expanding fire) | Electromagnetism | Male-Female force | Photon (qol) | qoe, qol | Mi
+3 | Radiant | Fire, Tejas | 火 (expanding fire) | Electromagnetism | Male-Female force | Photon (qol) | qoe, qol | Mi
 4 | Radioactive | Water, Jala | 土 (changing earth) | Weak | Radioactive force | W Z Bosons (qor) | qor or quantum of radioactivity | Re
 5 | Material | Earth, Pritvi | 金 (solid metal) | Strong | Nuclear force | Gluons (effective qom) | qom (quarks) | Do
 

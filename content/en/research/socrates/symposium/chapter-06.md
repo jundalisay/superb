@@ -1,7 +1,7 @@
 ---
 title: "Alcibiades Interrupts"
 heading: "Chapter 6"
-weight: 2
+weight: 18
 author: Plato
 image: "/covers/sym.png"
 description: "I wanted to ask you about the speeches in praise of love, which were delivered by Socrates, Alcibiades, and others, at Agathon's supper"

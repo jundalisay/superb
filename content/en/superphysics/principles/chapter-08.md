@@ -11,6 +11,7 @@ author: Juan
 icon: /icons/sp.png
 ---
 
+
 Chapter 2 explained that we are inside the Mind of the Supreme Entity, as its thoughts in Existence. 
 
 Therefore, our Universe which is a part of this Existence, is part of Its Mind.
@@ -23,7 +24,7 @@ Rank | Name | Greek-Hindu | Chinese | Physics Force
 0 | Metaphysical | Metaphysics | ? | Pseudo-science  
 1 | Aethereal | Aether, Akasha | 水 (still water) | Pseudo-science  
 2 | Spatial | Air, Vayu | 木 (moving wood) | Gravity  
-3 | Radiant | Fire, Tejas | 水 (expanding fire) | Electromagnetism  
+3 | Radiant | Fire, Tejas | 火 (expanding fire) | Electromagnetism  
 4 | Transformative | Water, Jala | 土 (changing earth) | Weak  
 5 | Material | Earth, Pritvi | 金 (solid metal) | Strong 
 
