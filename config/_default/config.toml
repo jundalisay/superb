@@ -20,6 +20,13 @@ paginate = 12
 # Listing summary length in words.
 summaryLength = 70
 
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+  
 [related]
     threshold = 80
     includeNewer = true
