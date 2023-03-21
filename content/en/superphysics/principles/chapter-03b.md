@@ -23,3 +23,6 @@ Here we explain 'The Elastic Theory' or the Theory of Elastic Gravitational Band
 
 
 {{< youtube IMOftV0yfso >}}
+
+
+This is further explained in [Material Superphysics](/material/principles/part-2/chapter-04).

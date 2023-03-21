@@ -1,6 +1,6 @@
 ---
 title: "Rodrigo Duterte: Benevolent Dictator"
-heading: "though his policies were hijacked by neoliberalism"
+# heading: "though his policies were hijacked by neoliberalism"
 description: "Duterte is a benevolent dictator who cares for the people. Unfortunately, he seems helpless against the neoliberals in government."
 date: 2021-09-30
 image: https://sorasystem.sirv.com/photos/duterte.jpg
@@ -26,7 +26,7 @@ Comon examples of adharma are:
 
 This dharmic-adharmic moral system prefers to prevent early adharma and mismatches from brewing into evil and conflict. This is follows the rule that 'prevention is better than cure' and is similar to a car's preventive maintenance to ensure good performance and long life. 
 
-![Tire checking](https://sorasystem.sirv.com/photos/tire.jpg)
+{{< img src="https://sorasystem.sirv.com/photos/tire.jpg" alt="Tire checking" >}}
 
 
 ## Matching the Social Cycles
@@ -41,17 +41,16 @@ According to Socrates, the True Nature of society is to have four cycles:
 > *This is to emphasize a new definition, separate from American Liberalism, but more in line with Classical Liberalism
 
 
-![Social Cycles](https://sorasystem.sirv.com/graphics/4cycles.png)
+
+{{< img src="/graphics/social/cycles.png" alt="Social Cycles" >}}
 
 
 {{< box >}}
-<h4>Extra Info</h4>
+### Extra Info
 In India, this was known as the four castes instead of cycles: Shudra, Ksattriya, Brahmin, Vaeshya
 In France, Montesquieu called these estates: Farmers, Church and Nobility, Merchants
 
-<div class="squote mont" data-sal="slide-right">
-Russia is composed only of slaves employed in agriculture [first estate] and slaves called ecclesiastics or the gentlemen lords of those slaves [second estate]. There is then nobody left for the third estate of mechanics and merchants.
-</div>
+*"Russia is composed only of slaves employed in agriculture [first estate] and slaves called ecclesiastics or the gentlemen lords of those slaves [second estate]. There is then nobody left for the third estate of mechanics and merchants." (Montesquieu)*
 
 
 
@@ -67,12 +66,19 @@ This classification is more systematic than the left, far-left, centrist, right,
 
 The leaders should match the cycle that their society is in, so that their policies would match and create happiness. Civil war and recessions occur when the leaders are out of sync with their society. 
 
-According to [our social cycles model](https://superphysics.org/social/supersociology/principles/law-social-cycles)*, the Philippines is currently in a tyranny cycle, to which a dictatorship is the best kind of leader. This explains why Duterte won by landslide in 2016 since the country transitioned into a tyranny cycle in 2014. This also explains:
-- why the Liberal Party was so popular in the past
-- why the liberal Otso Diretso lost so miserably in the last election
-- why it's easy to predict that a pro-Duterte candidate will win in 2022, unless the votes become split. 
+According to [our social cycles model](https://superphysics.org/social/supersociology/principles/law-social-cycles)*, the Philippines is currently in a tyranny cycle, to which a dictatorship is the best kind of leader. 
+
 
 > *The rough equivalent of Cambridge Analytica to this is its psychographics and OCEAN model, just as Myers-Briggs has its E N T J classification. Our Medical Superphysics uses a 10-aspect model which we still have to name
+
+
+
+This explains why Duterte won by landslide in 2016 since the country transitioned into a tyranny cycle in 2014. This also explains:
+- why the Liberal Party was so popular in the past
+- why the liberal Otso Diretso lost so miserably in the last election
+- why it's easy to predict that a pro-Duterte candidate will win in 2022*, unless the votes become split. 
+
+> *Update May 2022: This actually came true with the landslide victory of BBM. This proves the solidity of our Social Superphysics
 
 
 
@@ -90,6 +96,6 @@ Unlike the other dictator called Marcos, Duterte did not impose martial law arbi
 
 While his political policies are dharmic, his economic policies are quite adharmic <!--  and are somewhat troubling -->.
 
-In another post, we will explain Dutertenomics
+In another post, we will explain [Dutertenomics](/maharlika/economics/dutertenomics)
 <!-- The True Nature  of everyone and everything is different.  -->
 
