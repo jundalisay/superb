@@ -47,6 +47,20 @@ Under this system, a genocide or the use of nukes is not a goal because it fails
 
 SMART also does not allow tweaking of the goal itself to match the changing reality. Instead, goals are discarded and new ones are created.  SMART is built for a static universe. DSCFD is built for a dynamic, ever-changing one. 
 
-DSCFD uses general defintions instead of specifics. For example, true love can be a goal if you can generally define what true love is, and this generality is in line with flexibility. Under SMART, the goal must be very specific, making the goal fail immediately. 
+DSCFD uses general defintions instead of specifics. For example, true love can be a goal if you can generally define what true love is, and this generality is in line with flexibility. 
 
-DSCFD is an example of using the knowledge of the 5 Elements of Reality to achieve success within that Reality. After completing the bucket list of things to achieve in Existence, then the person doesn't have to go back to Reality after death (i.e. one no longer has any leftover desires or unfinished business).
+Under SMART, the goal must be very specific, making the goal fail immediately. For example, a woman might have a goal to find prince charming which she defines specifically under SMART as:
+
+1. Rich
+2. Handsome
+3. Tall
+4. Caring
+5. Loyal
+
+But under DSCFD, this manifests as 5 different persons and so looking for these in 1 person might be useless!
+
+DSCFD is an example of using the knowledge of the 5 Elements of Reality to achieve success within that Reality.
+
+After completing the bucket list of things to achieve in Existence, then the person doesn't have to go back to Reality after death (i.e. a soul no longer has any leftover desires or unfinished business, and so can literally and really Rest In Peace RIP).
+
+In this sense, life itself is one big project with a start and end to achieve the purpose or dharma of each living entity. If you fail your purpose, then you go simply back and reincarnate into the Matrix of Existence until you succeed.

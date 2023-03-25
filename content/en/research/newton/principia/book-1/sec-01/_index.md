@@ -1,6 +1,6 @@
-+++
-title= "Section 1"
+---
+title: "Section 1"
+description: "We simplify Section 1 of  Principia Mathematica by Isaac Newton"
+image: "/covers/principia.jpg"
+---
 
-description= "We simplify Section 1 of  Principia Mathematica by Isaac Newton."
-image= "/covers/principia.jpg"
-+++

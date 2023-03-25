@@ -1,14 +1,14 @@
-+++
-title= "2= Phenomena"
-image= "/covers/principia.jpg"
-description= "All astronomers agree that their periodic times are in the sesquiplicate proportion of the semi-diameters of their orbits"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Book 3
+title: "2: Phenomena"
+description: "All astronomers agree that their periodic times are in the sesquiplicate proportion of the semi-diameters of their orbits"
+image: "/covers/principia.jpg"
+icon: "/icons/newton.png"
+weight: 6
+draft: true
+---
+
+
 
 The circumjovial planets, by radii drawn to Jupiter s centre, describe areas proportional to the times of description.  
 

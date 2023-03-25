@@ -1,6 +1,5 @@
-+++
-title= "The Motion of Bodies"
-
-image= "/covers/principia.jpg"
-description= "We simplify Book 1 of  Principia Mathematica by Isaac Newton."
-+++
+---
+title: "The Motion of Bodies"
+description: "We simplify Book 1 of  Principia Mathematica by Isaac Newton"
+image: "/covers/principia.jpg"
+---

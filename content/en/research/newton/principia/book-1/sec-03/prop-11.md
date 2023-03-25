@@ -1,14 +1,12 @@
-+++
-title= "Proposition 11"
-image= "/covers/principia.jpg"
-description= "Find the law of centripetal force tending to the focus of a body moving in an ellipsis"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+title: "Proposition 11"
+description: "Find the law of centripetal force tending to the focus of a body moving in an ellipsis"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
 
 
 ## Proposition 11 Problem 6

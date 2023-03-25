@@ -1,14 +1,12 @@
-+++
-title= "Proposition 12"
-image= "/covers/principia.jpg"
-description= "Suppose a body to move in an hyperbola. It is required to find the law of the centripetal force tending to the focus of that shape."
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+title: "Proposition 12"
+description: "Suppose a body to move in an hyperbola. It is required to find the law of the centripetal force tending to the focus of that shape"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
 
 
 ## PROPOSITION 12 Problem 12

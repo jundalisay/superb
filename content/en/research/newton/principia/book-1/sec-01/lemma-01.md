@@ -1,14 +1,11 @@
-+++
-title= "Lemma 1-6"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+title: "Lemma 1-6"
+description: "We simplify Section 1 of  Principia Mathematica by Isaac Newton"
+author: Newton
+image: "/covers/principia.jpg"
+---
+
+
 
 ## LEMMA 1
 

@@ -1,14 +1,13 @@
-+++
-title= "Proposition 10"
-image= "/covers/principia.jpg"
-description= "If a body revolves in an ellipsis. It is proposed to find the law of the centripetal force tending to the centre of the ellipsis."
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+title: "Proposition 10"
+description: "If a body revolves in an ellipsis. It is proposed to find the law of the centripetal force tending to the centre of the ellipsis"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
+
 
 ## Proposition 10 Problem 5
 

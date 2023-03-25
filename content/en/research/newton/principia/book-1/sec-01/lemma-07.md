@@ -1,14 +1,13 @@
-+++
-title= "Lemma 7-9"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+title: "Lemma 7-9"
+description: "We simplify Lemma 7-9 of Principia Mathematica by Isaac Newton"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
+
 
 ## LEMMA 7
 
