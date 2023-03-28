@@ -27,9 +27,13 @@ To see where the contradiction occurs, let's dissect Dutertenomics. Its most pro
 
 These policies are consistent with the Keynesian doctrine, except for "Pantawid Pamilya" which is Conditional Cash Transfer (CCT), a modified version of Universal Basic Income (UBI) implemented by former President Noynoy Aquino.
 
-CCT is a neoliberal policy* that [helps development banks](/social/economics/solutions/how-to-solve-inequality) such as the World Bank by giving employment to the bank's consultants and its money. Likewise, tech startups lobby for UBI to give employment to themselves via blockchain and other fancy new technologies, even if there might be no added benefit for the poor.  
+CCT is a neoliberal policy* that [helps development banks](/social/economics/solutions/how-to-solve-inequality) such as the World Bank by giving employment to the bank's consultants and its money. 
 
 > *The non-neoliberal, non-liberal financial way of poverty alleviation is called microfinance. The conservative way is welfare either by the state via social security or by religion via thites or forced donations.
+
+
+Likewise, tech startups lobby for UBI to give employment to themselves via blockchain and other fancy new technologies, even if there might be no added benefit for the poor.  
+
 
 <!-- *. This is proven by his original 10-point plan, as Dutertenomics. 
 
@@ -72,13 +76,14 @@ It revealed that the uneducated wanted to study: <!-- An alarming trend is the n
 
 Unfortunately, these subjects also lead to low-value services and employment (in red). Few people want to study the difficult subjects that lead to high value employment (in green).
 
-![NEDA](https://sorasystem.sirv.com/graphics/neda2.jpg)
-<br>
+{{< img src="https://sorasystem.sirv.com/graphics/neda2.jpg" alt="NEDA" >}}
+
 
 Also alarming is the preference for cars over public transport such as buses and trains.
 
-![NEDA Train](https://sorasystem.sirv.com/graphics/nedatrain.jpg)
-<br>
+{{< img src="https://sorasystem.sirv.com/graphics/nedatrain.jpg" alt="NEDA Train" >}}
+
+
 
 NEDA then built policies around this data:
 
@@ -166,12 +171,13 @@ Ambisyon 2040 is still consistent with our earlier observation that [local polic
 
 The Rice Tariffication Law is the single biggest mistake of the Philippine Development Plan 2017-2022 of Ambisyon Natin. It began with the rice crisis of September 2018 as the rapid increase in the prices of rice. But this was a natural consequence of the increased taxes from the TRAIN tax reform which was supported by NEDA itself.
 
-![A farmer](https://sorasystem.sirv.com/photos/farmer.jpg)
+{{< img src="https://sorasystem.sirv.com/photos/farmer.jpg" alt="A farmer" >}}
+
 
 
 Instead of strengthening NFA* to deal with the crisis, the Senate and Lower House actually destroyed it through the Rice Tariffication Law (RTL) in order to allow rice importation. 
 
-![nfa wtf](https://sorasystem.sirv.com/icons/wtf.png)
+{{< img src="https://sorasystem.sirv.com/icons/wtf.png" alt="nfa wtf" >}}
 
 > *NFA is the National Food Authority which is the government agency that buys and stores rice 
 
@@ -244,7 +250,7 @@ Only the close coordination of various essential services can create a society s
 {{< /q >}}
 
 
-Our next post will explain how to implement this solution and overhaul Ambisyon 2040 into Ambisyon 2050.   
+Our next post will explain how to implement this solution and overhaul Ambisyon 2040 into Maharlika 2050.   
 
 <!-- Didn't they know that expensive infrastructure projects are only justified if  -->
 

@@ -1,11 +1,10 @@
-+++
-title=  "Ruling Class"
-description=  "Marx observes Capitalism and extracts principles from it based on his materialist template as Das Kapital (1867)"
-author= "Karl Marx"
-image=  "/covers/daskapital.jpg"
-draft= true
-heading=  "Selected Chapters"
-+++
+---
+title: "The Ruling Class"
+description:  "The ideas of the ruling class are in every epoch the ruling ideas, i.e. the class which is the ruling material force of society, is at the same time its ruling intellectual force"
+author:  "Karl Marx"
+icon: /icons/marx.png
+image: "/covers/german.jpg"
+---
 
 
 The ideas of the ruling class are in every epoch the ruling ideas, i.e. the class which is the ruling material force of society, is at the same time its ruling intellectual force. 

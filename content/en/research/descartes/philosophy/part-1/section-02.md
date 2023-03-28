@@ -41,33 +41,64 @@ Thus, if perhaps God reveal to us or others, matters concerning himself which su
 
 {{< s v="26" >}} It is not needful to enter into disputes [Footnote: "to essay to comprehend the infinite."—FRENCH.] regarding the infinite, but merely to hold all that in which we can find no limits as indefinite, such as the extension of the world, the divisibility of the parts of matter, the number of the stars, etc.
 
-We will thus never embarrass ourselves by disputes about the infinite, seeing it would be absurd for us who are finite to undertake to determine anything regarding it, and thus as it were to limit it by endeavouring to comprehend it. We will accordingly give ourselves no concern to reply to those who demand whether the half of an infinite line is also infinite, and whether an infinite number is even or odd, and the like, because it is only such as imagine their minds to be infinite who seem bound to entertain questions of this sort. And, for our part, looking to all those things in which in certain senses, we discover no limits, we will not, therefore, affirm that they are infinite, but will regard them simply as indefinite. Thus, because we cannot imagine extension so great that we cannot still conceive greater, we will say that the magnitude of possible things is indefinite, and because a body cannot be divided into parts so small that each of these may not be conceived as again divided into others still smaller, let us regard quantity as divisible into parts whose number is indefinite; and as we cannot imagine so many stars that it would seem impossible for God to create more, let us suppose that their number is indefinite, and so in other instances.
+We will thus never embarrass ourselves by disputes about the infinite, seeing it would be absurd for us who are finite to undertake to determine anything regarding it, and thus as it were to limit it by endeavouring to comprehend it. 
 
-XXVII. What difference there is between the indefinite and the infinite.
+We will accordingly not care to reply to those who demand whether:
+- the half of an infinite line is also infinite
+- an infinite number is even or odd, and the like
 
-And we will call those things indefinite rather than infinite, with the view of reserving to God alone the appellation of infinite; in the first place, because not only do we discover in him alone no limits on any side, but also because we positively conceive that he admits of none; and in the second place, because we do not in the same way positively conceive that other things are in every part unlimited, but merely negatively admit that their limits, if they have any, cannot be discovered by us.
+This is because it is only such as imagine their minds to be infinite who seem bound to entertain questions of this sort.
 
-XXVIII. That we must examine, not the final, but the efficient, causes of created things.
+For our part, looking to all those things in which in certain senses, we discover no limits, we will not, therefore, affirm that they are infinite, but will regard them simply as indefinite. 
 
-Likewise, finally, we will not seek reasons of natural things from the end which God or nature proposed to himself in their creation (i. e., final causes), [Footnote: "We will not stop to consider the ends which God proposed to himself in the creation of the world, and we will entirely reject from our philosophy the search of final causes!"—French.] for we ought not to presume so far as to think that we are sharers in the counsels of Deity, but, considering him as the efficient cause of all things, let us endeavour to discover by the natural light [Footnote: "Faculty of reasoning."—FRENCH.] which he has planted in us, applied to those of his attributes of which he has been willing we should have some knowledge, what must be concluded regarding those effects we perceive by our senses; bearing in mind, however, what has been already said, that we must only confide in this natural light so long as nothing contrary to its dictates is revealed by God himself. [Footnote: The last clause, beginning "bearing in mind." is omitted in the French.]
+Thus, because we cannot imagine extension so great that we cannot still conceive greater, we will say that the magnitude of possible things is indefinite, and because a body cannot be divided into parts so small that each of these may not be conceived as again divided into others still smaller, let us regard quantity as divisible into parts whose number is indefinite; and as we cannot imagine so many stars that it would seem impossible for God to create more, let us suppose that their number is indefinite, and so in other instances.
 
-XXIX. That God is not the cause of our errors.
+
+{{< s v="27" >}} What difference there is between the indefinite and the infinite.
+
+Instead of calling infinite things as 'infinite', we call them 'indefinite'. Only God can call things  infinite because:
+
+- we discover in him alone no limits on any side and we positively conceive that he admits of none
+- we do not in the same way positively conceive that other things are in every part unlimited, but merely negatively admit that their limits, if they have any, cannot be discovered by us.
+
+
+
+{{< s v="28" >}} That we must examine, not the final, but the efficient, causes of created things.
+
+Likewise, finally, we will not seek reasons of natural things from the end which God or nature proposed to himself in their creation (i. e., final causes), [Footnote: "We will not stop to consider the ends which God proposed to himself in the creation of the world, and we will entirely reject from our philosophy the search of final causes!"—French.] for we ought not to presume so far as to think that we are sharers in the counsels of Deity, but, considering him as the efficient cause of all things, let us endeavour to discover by the natural light 
+
+[Footnote: "Faculty of reasoning."—FRENCH.] which he has planted in us, applied to those of his attributes of which he has been willing we should have some knowledge, what must be concluded regarding those effects we perceive by our senses; bearing in mind, however, what has been already said, that we must only confide in this natural light so long as nothing contrary to its dictates is revealed by God himself. [Footnote: The last clause, beginning "bearing in mind." is omitted in the French.]
+
+
+{{< s v="29" >}}  God is not the cause of our errors.
 
 The first attribute of God which here falls to be considered, is that he is absolutely veracious and the source of all light, so that it is plainly repugnant for him to deceive us, or to be properly and positively the cause of the errors to which we are consciously subject; for although the address to deceive seems to be some mark of subtlety of mind among men, yet without doubt the will to deceive only proceeds from malice or from fear and weakness, and consequently cannot be attributed to God.
 
-XXX. That consequently all which we clearly perceive is true, and that we are thus delivered from the doubts above proposed.
 
-Whence it follows, that the light of nature, or faculty of knowledge given us by God, can never compass any object which is not true, in as far as it attains to a knowledge of it, that is, in as far as the object is clearly and distinctly apprehended. For God would have merited the appellation of a deceiver if he had given us this faculty perverted, and such as might lead us to take falsity for truth [when we used it aright]. Thus the highest doubt is removed, which arose from our ignorance on the point as to whether perhaps our nature was such that we might be deceived even in those things that appear to us the most evident. The same principle ought also to be of avail against all the other grounds of doubting that have been already enumerated. For mathematical truths ought now to be above suspicion, since these are of the clearest. And if we perceive anything by our senses, whether while awake or asleep, we will easily discover the truth provided we separate what there is of clear and distinct in the knowledge from what is obscure and confused. There is no need that I should here say more on this subject, since it has already received ample treatment in the metaphysical Meditations; and what follows will serve to explain it still more accurately.
+{{< s v="30" >}} Consequently all which we clearly perceive is true, and that we are thus delivered from the doubts above proposed.
 
-XXXI. That our errors are, in respect of God, merely negations, but, in respect of ourselves, privations.
+Whence it follows, that the light of nature, or faculty of knowledge given us by God, can never compass any object which is not true, in as far as it attains to a knowledge of it, that is, in as far as the object is clearly and distinctly apprehended. 
+
+For God would have merited the appellation of a deceiver if he had given us this faculty perverted, and such as might lead us to take falsity for truth [when we used it aright]. Thus the highest doubt is removed, which arose from our ignorance on the point as to whether perhaps our nature was such that we might be deceived even in those things that appear to us the most evident. 
+
+The same principle ought also to be of avail against all the other grounds of doubting that have been already enumerated. For mathematical truths ought now to be above suspicion, since these are of the clearest.
+
+If we perceive anything by our senses, whether while awake or asleep, we will easily discover the truth provided we separate what there is of clear and distinct in the knowledge from what is obscure and confused. There is no need that I should here say more on this subject, since it has already received ample treatment in the metaphysical Meditations; and what follows will serve to explain it still more accurately.
+
+
+{{< s v="31" >}} Our errors are, in respect of God, merely negations, but, in respect of ourselves, privations.
 
 But as it happens that we frequently fall into error, although God is no deceiver, if we desire to inquire into the origin and cause of our errors, with a view to guard against them, it is necessary to observe that they depend less on our understanding than on our will, and that they have no need of the actual concourse of God, in order to their production; so that, when considered in reference to God, they are merely negations, but in reference to ourselves, privations.
 
-XXXII. That there are only two modes of thinking in us, viz., the perception of the understanding and the action of the will.
 
-For all the modes of thinking of which we are conscious may be referred to two general classes, the one of which is the perception or operation of the understanding, and the other the volition or operation of the will. Thus, to perceive by the senses (SENTIRE), to imagine, and to conceive things purely intelligible, are only different modes of perceiving (PERCIP IENDI); but to desire, to be averse from, to affirm, to deny, to doubt, are different modes of willing.
+{{< s v="32" >}} There are only two modes of thinking in us, viz., the perception of the understanding and the action of the will.
 
-XXXIII. That we never err unless when we judge of something which we do not sufficiently apprehend.
+For all the modes of thinking of which we are conscious may be referred to two general classes, the one of which is the perception or operation of the understanding, and the other the volition or operation of the will. 
+
+Thus, to perceive by the senses (SENTIRE), to imagine, and to conceive things purely intelligible, are only different modes of perceiving (PERCIP IENDI); but to desire, to be averse from, to affirm, to deny, to doubt, are different modes of willing.
+
+
+{{< s v="33" >}}  We never err unless when we judge of something which we do not sufficiently apprehend.
 
 When we apprehend anything we are in no danger of error, if we refrain from judging of it in any way; and even when we have formed a judgment regarding it, we would never fall into error, provided we gave our assent only to what we clearly and distinctly perceived; but the reason why we are usually deceived, is that we judge without possessing an exact knowledge of that of which we judge.
 
