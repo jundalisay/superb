@@ -1,5 +1,5 @@
 ---
-title: "THE DESCRIPTION OF THE GLASSES"
+title: ""
 heading: "Part 9"
 weight: 6
 author: "Rene Descartes"

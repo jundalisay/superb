@@ -1,5 +1,5 @@
 ---
-title: "THE DESCRIPTION OF THE GLASSES"
+title: "The Description Of The Glasses"
 heading: "Part 9"
 weight: 20
 author: "Rene Descartes"
@@ -10,7 +10,18 @@ icon: "/icons/descartes.png"
 
 
 
-We should first choose a transparent material which, being easy enough to cut, and nevertheless hard enough to retain the shape that will be given to it, is also the least colored and which causes the least possible reflection. And no one has yet been found which has these qualities in greater perfection than glass, when it is very clear and very pure, and composed of very subtle ashes. For though mountain crystal seems cleaner and more transparent, yet because its surfaces cause more rays to be reflected than those of glass, as experience seems to teach us, it may not be so clean. to our purpose. Now, in order for you to know the cause of this reflection, and why it is done rather on the surfaces both of glass and of crystal than not in the thickness of their body, and why it is greater there in crystal that in glass, you must remember the way in which I made you conceive above of the nature of light; when I said that there was nothing else in transparent bodies than the action or inclination to move of a certain very subtle matter which filled their pores, and that you thought that the pores of each of these bodies transparencies are so smooth and so straight that the subtle matter that can enter them flows easily all along without finding anything to stop it; but that those of two transparent bodies of different nature, like those of air and those of glass or crystal, never relate so justly to each other that there are not always several of the parts of subtle matter which, for example, coming from the air towards the glass, are reflected there, because they encounter the solid parts of its surface: and all the same, coming from the glass towards the air, are reflected and return to the inside this glass, because they meet the solid parts of the surface of this air; for there are also many in the air which may be called solid in comparison with this subtle matter. Then, considering that the solid parts of the crystal are even larger than those of glass and its pores tighter, so that it is easy to judge that it is harder and heavier, we can well think that it must cause its reflections still stronger, and consequently give passage to less rays than does neither air nor glass, although nevertheless it gives it freer to those to whom it gives it, according to what has been said. above.
+We should first choose a transparent material which is:
+- easy enough to cut
+- hard enough to retain the shape given to it
+- the least colored and which causes the least possible reflection. 
+
+Glass has these perfectly and purely. It is composed of very subtle ashes.
+
+Mountain crystal seems cleaner and more transparent. But its surfaces cause more rays to be reflected than those of glass, and so it may not be so clean for our purpose.
+
+Now, in order for you to know the cause of this reflection, and why it is done rather on the surfaces both of glass and of crystal than not in the thickness of their body, and why it is greater there in crystal that in glass, you must remember the way in which I made you conceive above of the nature of light.
+
+When I said that there was nothing else in transparent bodies than the action or inclination to move of a certain very subtle matter which filled their pores, and that you thought that the pores of each of these bodies transparencies are so smooth and so straight that the subtle matter that can enter them flows easily all along without finding anything to stop it; but that those of two transparent bodies of different nature, like those of air and those of glass or crystal, never relate so justly to each other that there are not always several of the parts of subtle matter which, for example, coming from the air towards the glass, are reflected there, because they encounter the solid parts of its surface: and all the same, coming from the glass towards the air, are reflected and return to the inside this glass, because they meet the solid parts of the surface of this air; for there are also many in the air which may be called solid in comparison with this subtle matter. Then, considering that the solid parts of the crystal are even larger than those of glass and its pores tighter, so that it is easy to judge that it is harder and heavier, we can well think that it must cause its reflections still stronger, and consequently give passage to less rays than does neither air nor glass, although nevertheless it gives it freer to those to whom it gives it, according to what has been said. above.
 
 ---
 

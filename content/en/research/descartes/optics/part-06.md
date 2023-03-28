@@ -1,5 +1,5 @@
 ---
-title: "VISION."
+title: "Vision"
 heading: "Part 6"
 weight: 14
 author: "Rene Descartes"
