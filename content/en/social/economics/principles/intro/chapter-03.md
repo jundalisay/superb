@@ -31,8 +31,8 @@ aliases:
 
 <!-- I am always willing to run some hazard of being tedious in order to be sure that I am perspicuous; and after taking the utmost pains that I can to be perspicuous, some obscurity may still appear to remain upon a subject in its own nature extremely abstracted. -->
 
-Supereconomics falls under [Social Superphysics](/social).
 
+Supereconomics falls under [Social Superphysics](/social).
 
 Superphysics is a paradigm that sees reality as waves that manifest as particles. This is different from science which prefers particles over waves. The scientific paradigm seems to be changing as proven by electrons nowadays being regarded as a probability cloud instead of as a material point. 
 
