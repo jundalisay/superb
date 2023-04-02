@@ -34,15 +34,28 @@ This procedure has a corrupting influence on the process of instruction and is d
 
 The procedure also involves a lot of work for the student. 
 
-He must study carefully the words of the abridgment, which are complicated to understand because they are crowded with ideas, and 1147 try to find out from them what the problems of the given discipline are. 
+He must study carefully the words of the abridgment. These words are complicated to understand because they:
+- are crowded with ideas
+- try to find out from them what the problems of the given discipline are. 
 
-Thus, the texts of such brief handbooks are found to be difficult and complicated (to understand). A good deal of time must be spent on (the attempt to) understand them.
+Thus, the texts of such brief handbooks are difficult to understand. 
+<!-- A good deal of time must be spent on (the attempt to) understand them. -->
 
-Moreover, after all these (difficulties), the (scholarly) habit that results from receiving instruction from brief handbooks, (even) when (such instruction) is at its best and is not accompanied by any flaw, is inferior to the habits resulting from (the study of) more extensive and lengthy works. The latter contain a great amount of repetition and lengthiness, but both are useful for the acquisition of a perfect habit.
+Moreover, learning from brief handbooks <!-- , (even) when (such instruction) is at its best and is not accompanied by any flaw,  --> is inferior to learning more extensive and lengthy works.
+<!-- the habits resulting from (the study of)  
+after all these (difficulties), the (scholarly) habit that results from receiving instruction -->
+- The latter contains a great amount of repetition and lengthiness
+- But both are useful for the acquisition of a perfect habit.
 
-When there is little repetition, an inferior habit is the result. This is the case with the abridgments. The intention was to make it easy for students to acquire expert knowledge (of scholarly subjects), but the result is that it has become (more) difficult for them, because they are prevented from acquiring useful and firmly established habits.
 
-Those whom God guides, no one can lead astray, and "those whom God leads astray have no one to guide them." 114856. The right attitude in scientific instruction and toward the method of giving such instruction. 1149
+Little repetition leads to inferior habit.
+- This is the case with the abridgments.
+
+The intention was to make it easy for students to acquire expert knowledge (of scholarly subjects), but the result is that it has become (more) difficult for them, because they are prevented from acquiring useful and firmly established habits.
+
+Those whom God guides, no one can lead astray, and "those whom God leads astray have no one to guide them." 
+
+The right attitude in scientific instruction and toward the method of giving such instruction. 
 
 The teaching of scientific subjects to students is effective only when it proceeds gradually and little by little. 
 

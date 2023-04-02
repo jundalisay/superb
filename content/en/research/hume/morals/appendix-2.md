@@ -26,7 +26,11 @@ There is another principle, somewhat resembling the former; which has been much 
 
 By a turn of imagination, by a refinement of reflection, by an enthusiasm of passion, we seem to take part in the interests of others, and imagine ourselves divested of all selfish considerations=  but, at bottom, the most generous patriot and most niggardly miser, the bravest hero and most abject coward, have, in every action, an equal regard to their own happiness and welfare.
 
-Whoever concludes from the seeming tendency of this opinion, that those, who make profession of it, cannot possibly feel the true sentiments of benevolence, or have any regard for genuine virtue, will often find himself, in practice, very much mistaken. Probity and honour were no strangers to Epicurus and his sect. Atticus and Horace seem to have enjoyed from nature, and cultivated by reflection, as generous and friendly dispositions as any disciple of the austerer schools. And among the modern, Hobbes and Locke, who maintained the selfish system of morals, lived irreproachable lives; though the former lay not under any restraint of religion which might supply the defects of his philosophy.
+Whoever concludes from the seeming tendency of this opinion, that those, who make profession of it, cannot possibly feel the true sentiments of benevolence, or have any regard for genuine virtue, will often find himself, in practice, very much mistaken. Probity and honour were no strangers to Epicurus and his sect. 
+
+Atticus and Horace enjoyed from nature, and cultivated by reflection, as generous and friendly dispositions as any disciple of the austerer schools.
+
+ And among the modern, Hobbes and Locke, who maintained the selfish system of morals, lived irreproachable lives; though the former lay not under any restraint of religion which might supply the defects of his philosophy.
 
 An Epicurean or a Hobbist readily allows, that there is such a thing as a friendship in the world, without hypocrisy or disguise; though he may attempt, by a philosophical chymistry, to resolve the elements of this passion, if I may so speak, into those of another, and explain every affection to be self-love, twisted and moulded, by a particular turn of imagination, into a variety of appearances. 
 

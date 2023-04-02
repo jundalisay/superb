@@ -125,9 +125,10 @@ Smith called this the ‘balance of trade’ which is a sophistry because it cau
 
 Ricardo’s valuation favors workers, while current Economics favors the business owner (the person who sets the selling price). So we can say that Ricardo is still not capitalistic if we define capitalism as a system that favors the owners of capital a not the workers who use that capital to produce value.
 
-The start of the Capitalist idea begins with Mill, which Marx tries to destroy with ‘Das Kapital’. But that’s another story.
+The start of the Capitalist idea begins with Mill, which Marx tries to destroy with ‘Das Kapital’. But that’s another fallacy about profit maximization.
 
 
-## Defining Wages
+<!-- ## Defining Wages
 
 Ricardo's flaw is is defining wages as money-wages, different from Smith who defined it as psychological toil and trouble. This is explained in the next post. 
+ -->

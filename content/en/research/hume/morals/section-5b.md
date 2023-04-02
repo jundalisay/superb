@@ -1,6 +1,7 @@
 ---
 title: "Self-love"
-heading: "Section 5 Part 2"
+heading: "Section 5b"
+# Part 2
 description: "Self-love is a principle in human nature of such extensive energy. The interest of each individual is, in general, so closely connected with that of the community"
 image: /covers/morals.png
 author: David Hume
