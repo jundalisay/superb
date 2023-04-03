@@ -70,10 +70,9 @@ Thus, as a consequence of two different measurements performed on `I`, `II`may b
 
 On the other hand, since at the time of measurement, the two systems no longer interact, no real change can take place in `II` in consequence of anything done to `I`.
 
-But this is only because of the absence of interaction between the two systems. Thus, it is possible to assign two diﬂerent wave functions, Ψk and φr, to the same reality (`II` after the interaction with `I`). 
+But this is only because of the absence of interaction between the two systems. Thus, it is possible to assign two diﬂerent wave functions, `Ψk` and `φr`, to the same reality (`II` after the interaction with `I`). 
 
-These two wave functions, Ψk and φr might be eigenfunctions of two non-commuting operators corresponding to some
-physical quantities `P` and `Q` respectively. 
+These two wave functions, `Ψk` and `φr` might be eigenfunctions of two non-commuting operators corresponding to some physical quantities `P` and `Q` respectively. 
 
 This is shown by an example. 
 
@@ -91,7 +90,7 @@ Let `A` be the momentum of the Particle 1. As in Eq. (4), its eigenfunctions wil
 up(x1) = e(2πi/h)px1            (10)
 ```
 
-corresponding to the eigenvalue p. Since we have here the case of a continuous spectrum, Eq. (7) will now be written
+corresponding to the eigenvalue `p`. Since we have here the case of a continuous spectrum, Equation 7 will now be written:
 
 ```elixir  
 Ψ(x1, x2) = ∫ Ψp(x2)up (x1) dp  (11)    
@@ -142,12 +141,13 @@ corresponding to the eigenvalue `x+x0` of the coordinate of Particle 2. Since
 PQ — QP = h/2πi,               (18)    
 ```
 
-then it is possible for Ψk and φr to be eigenfunctions of two noncommuting operators, corresponding to physical quantities.                                              
-In Eqs. (7) and (8), we assume that `Ψk` and `φr` are eigenfunctions of some noncommuting operators `P` and `Q`, corresponding to the eigenvalues `pk` and `qr`, respectively. Thus, by measuring either `A` or `B` we can predict with certainty, without  disturbing Particle 2, either the value of= 
-- `P` (that is pk) or
-- Q (that is qr). 
+then it is possible for Ψk and φr to be eigenfunctions of two noncommuting operators, corresponding to physical quantities.
 
-Thus, `P` and `Q` are elements of reality. But both wave functions Ψk and φr belong to the same reality. 
+In Equations 7 and 8, we assume that `Ψk` and `φr` are eigenfunctions of some noncommuting operators `P` and `Q`, corresponding to the eigenvalues `pk` and `qr`, respectively. Thus, by measuring either `A` or `B` we can predict with certainty, without  disturbing Particle 2, either the value of= 
+- `P` (that is `pk`) or
+- `Q` (that is `qr`). 
+
+Thus, `P` and `Q` are elements of reality. But both wave functions `Ψk` and φr belong to the same reality. 
 
 
 Previously we proved that either:
@@ -164,7 +164,7 @@ Our conclusion could not be reached if physical quantities are regarded as simul
 
 This makes the reality of `P` and `Q` depend on the process of measurement done on Particle 1 which does not disturb Particle 2 in any way.
 
-{{< c c="red" >}}
+{{< c v="red" >}}
 We answer that this is not a reasonable deﬁnition of reality. Therefore, the wave function does not provide a complete description of physical reality. Yet such a theory is possible.
 {{< /c >}}
 

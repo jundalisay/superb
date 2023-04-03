@@ -27,7 +27,7 @@ Outside of physics, we know nothing of action at a distance*.
 
 <!-- When we try to connect cause and effect in the experiences which natural objects afford us, it seems at first as if -->
 
-It seems to us that there are only <!--  were no other mutual --> actions <!-- than those --> of immediate contact= 
+It seems to us that there are only <!--  were no other mutual --> actions <!-- than those --> of immediate contact:
 - collision
 - push and pull
 - heating or inducing combustion by means of a flame, etc. 
@@ -47,13 +47,15 @@ Newton's theory of gravitation first assigned a cause for gravity as <!-- f by i
 
 ### Contact Forces vs Action at a Distance 
 
-This means that either= 
+This means that either:
 - contact forces are really distant forces at small distances. This is what Netwonians favored. <!--  which admittedly are observable only at a very small distance and this was the road which Newton's followers, who were entirely under the spell of his doctrine, mostly preferred to take; or --> 
 - Newtonian action at a distance [gravity] is really contact from afar, merely conveyed by a medium permeating space<!-- , whether by movements or by elastic deformation of this medium. --> This led to the ether hypothesis. 
 
 <!-- Thus, the desire for a unified view of forces leads to the hypothesis of an ether.  -->
 
-The ether hypothesis did not at first bring with it any theory of gravitation*.  or in physics generally, so that it became customary to treat Newton's law of force as an axiom not further reducible. But the ether hypothesis was bound always to play some part in physical science, even if at first only a latent part.
+The ether hypothesis did not at first bring with it any theory of gravitation*.<!-- Or in physics generally, so that  --> It became customary to treat Newton's law of force as an axiom not further reducible. 
+
+But the ether hypothesis was bound always to play some part in physical science, even if at first only a latent part.
 
 
 > *Superphysics Note: Wrong. Descartes' aether, Kepler's aether, and even Timaeus aether all describe gravity. They merely don't call it as gravity, which is a word invented by Newton
@@ -65,7 +67,7 @@ The ether hypothesis found fresh support in the first half of the 19th century w
 
 Light became a vibratory process in an elastic, inert medium filling up universal space, capable of polarisation that this medium. It follows that the ether must be a solid body because transverse waves are not possible in a fluid, but only in a solid. 
 
-This led to the theory of the "quasi-rigid " luminiferous ether. Relatively to one another, it only carried the small movements of deformation which correspond to light-waves.
+This led to the theory of the "quasi-rigid" luminiferous ether. Relatively to one another, it only carried the small movements of deformation which correspond to light-waves.
 
 <!-- This theory — also called the theory of the stationary luminiferous ether — moreover found a strong support in an experiment which is also of fundamental importance in the special theory of relativity, the 
  -->
@@ -118,12 +120,15 @@ The Hertz theory was wrong in ascribing mechanical states and electrical states 
 
 Then, H. A. Lorentz entered the scene and simplified the theory. 
 
-He brought theory into harmony with experience by means of a wonderful simplification of theoretical principles. He achieved this, the most important advance in the theory of electricity since Maxwell, by taking from ether its mechanical, and from matter its electromagnetic qualities. 
+He harmonized the ether theory with experience through a wonderful simplification of theoretical principles. 
+- This was the most important advance in the theory of electricity since Maxwell.
+
+He achieved this by taking from ether its mechanical qualities, and from matter its electromagnetic qualities. 
 
 The ether in empty space and inside matter  <!-- As in empty space, so too in the interior of material bodies, , and not matter viewed atomistically, --> was exclusively the seat of electromagnetic fields. 
 
 According to Lorentz, only the elementary particles of matter can carry out movements. Their electromagnetic activity is entirely confined to the carrying of electric charges. Thus, Lorentz reduced all electromagnetic happenings to Maxwell's equations for free space.
 
-The only mechanical nature of the Lorentzian ether is its immobility. Special Relativity removed this immobility. 
+The only mechanical nature of the Lorentzian ether is its immobility. Special Relativity removed this immobility.
 
 <!--  , it may be said of it, in a somewhat playful spirit, that immobility is the only mechanical property of which it has not been deprived by H. A. Lorentz. It may be added that the whole change in the conception of the ether  brought about, consisted in taking away from the ether its last mechanical quality, namely, its . How this is to be understood will forthwith be expounded. -->

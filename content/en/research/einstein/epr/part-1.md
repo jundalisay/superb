@@ -44,7 +44,7 @@ These cannot be determined by a priori philosophical considerations. Instead, it
 
 <!-- We next ask It is the  second question that we wish to consider here, as  applied to quantum mechanics.  -->
 
-{{< c c="red" >}}
+{{< c v="red" >}}
 We do not need a comprehensive deﬁnition of reality. Our criterion for reality is simply if, without disturbing a system, we can predict with certainty (i.e., with probability equal to unity) a physical value, then that value has  physical reality.
 {{< /c >}}
 
@@ -69,7 +69,7 @@ where `a` is a number, then the physical value `A` has with certainty `a` whenev
 
 In accordance with our criterion of reality, for a particle in the state given by `Ψ` for which Eq. (1) holds, there is an element of physical reality corresponding to the physical value `A`. 
 
-For example= 
+For example:
 
 ```elixir
 Ψ = e^(2πi/h)p0x             (2)   
@@ -79,7 +79,7 @@ For example=
 - p0 is some constant number
 - x the independent variable
 
-Since the operator corresponding to the momentum of the particle is= 
+Since the operator corresponding to the momentum of the particle is:
 
 ```elixir
 p = (h/2πi)d/dx                (3)   
@@ -91,9 +91,9 @@ we obtain
 Ψ’= pΨ = (h/2πi)dΨ/dx = p0Ψ          (4)
 ```
 
-Thus, in Eq. 2's state, the momentum has certainly `p0`. The particle's momentum in the state given by Eq. (2) is real.   
+Thus, in Equation 2's state, the momentum has certainly `p0`. The particle's momentum in the state given by Eq. (2) is real.   
 
-On the other hand, if Eq. (1) does not hold, thn `A` no longer has a particular value. This is the case, for example, with the coordinate of the particle. 
+On the other hand, if Equation 1 does not hold, thn `A` no longer has a particular value. This is the case, for example, with the coordinate of the particle. 
 
 The operator corresponding to it, such as `q`, is the operator of multiplication by the independent variable. Thus, 
 
@@ -112,11 +112,13 @@ P (a, b) = ∫ab ΨΨdx = ∫ dx = b - a
 
 Since this probability is independent of `a`, but depends only on the difference `b—a`, we see that all values of the coordinate are equally probable.  
 
-A deﬁnite value of the coordinate, for a particle in the state given by Eq. (2), is thus not predictable. It may be obtained only by a direct measurement. Such a measurement however disturbs the particle and thus alters its state. After the coordinate is determined, the particle will no longer be in the state given by Eq. (2). 
+A deﬁnite value of the coordinate, for a particle in the state given by Equation 2, is thus not predictable. It may be obtained only by a direct measurement. 
+
+Such a measurement however disturbs the particle and thus alters its state. After the coordinate is determined, the particle will no longer be in the state given by Equation 2. 
 
 From this, quantum mechanics concludes that when **a particle's momentum is known, its coordinate has no physical reality**.
 
-Quantum mechanics shows that if the operators corresponding to two physical quantities, say `A` and `B`, do not commute AB=BA, then the precise knowledge of one of them precludes such a knowledge of the other. 
+Quantum mechanics shows that if the operators corresponding to two physical quantities, say `A` and `B`, do not commute `AB=BA`, then the precise knowledge of one of them precludes such a knowledge of the other. 
 
 Any attempt to determine the latter experimentally will alter the state of the system in such a way as to destroy the knowledge of the ﬁrst.
 
