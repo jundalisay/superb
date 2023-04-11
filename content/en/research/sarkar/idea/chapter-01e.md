@@ -55,6 +55,7 @@ When the dead body is burnt or gets totally decayed, dhanaiṋjaya leaves the bo
 - The physical cause of death is the passing away of the 9 vayus (10 minus dhanaiṋjaya) into eternal space. 
 - The psychic waves, finding no proper adjustment with the physical waves, also dissociate and pass into eternal space. 
 
+
 The universal law of of Activity mandates that <!--  (which it had to express according to the  Prakrti that --> every force must have its expression. 
 - The detached mental body possesses the unexpressed momentum of its previous lives.
 - **It is the duty of the Cosmic mutative force to provide it a proper physical parallelism for due expression by making the dissociated mind penetrate into a subtle physical structure.** 
@@ -69,12 +70,6 @@ The átman is the witnessing entity without which there is no meaning of the mi
 Without the átman, the mind cannot perceive or receive the incoming quantum-perceptionstanmátras . This is why the ultimate knowership or doership lies in the átman. 
 The átman witnesses the mind itself. The ultimate residence of the mind is the átman. --> 
 <!-- The physical cause of death has been discussed above. Let us now see the physical cause of life. -->
-
-
-
-
-
-
 
 
 

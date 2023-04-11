@@ -13,11 +13,33 @@ author: Nicholas Barbon
 
 ## The Quantity of all Wares are known by Weight or Measure. 
 
-The Reason of Gravity is not understood, neither is it Material to this Purpose; Whether is proceeds from the Elastisity of Air, or Weight of the utmost Spheer, or from what other Causes, its sufficient, that the ways of Trying the Weights of Bodies are perfectly discover'd by the Ballance. There are Two Sorts of Weights in Common Use, the Troy, and Averdupois.
+The cause of Gravity is not understood.
 
-The First are used to Weigh Goods of most Value, as Gold, Silver and Silk, etc. The Latter for Coarser, and more Bulky Goods, as Lead, Iron, etc.
+<!-- , neither is it Material to this Purpose; Whether -->
 
-There are Two Sorts of Measures, the one for Fluid Bodies, a the Bushel, Gallon and Quart, for Measuring Corn, Wine and Oyl; the other for the Measuring the Dimensions of Solid Bodies, as a Yard, Ell, etc. to Measure Cloth, Silk, etc.
+Does it come from the Elastisity of Air? Or the weight of the utmost Sphere or from other Causes? 
+
+Regardless, the ways of trying the Weights of Bodies are perfectly discovered by the balance. 
+
+There are 2 Sorts of Weights in Common Use:::
+- The Troy
+  - This is used to Weigh Goods of most Value, such as Gold, Silver and Silk, etc.
+- The Averdupois
+  - This is used for Coarser, and more Bulky Goods, as Lead, Iron, etc.
+
+There are 2 Sorts of Measures:
+
+1. One for Fluid Bodies
+
+Examples are:
+- Bushel for Measuring Corn
+- Gallon and Quart for Wine and Oil
+
+2. One for Measuring the Dimensions of Solid Bodies
+
+Examples are:
+- Yard, Ell, etc. to Measure Cloth, Silk, etc.
+
 
 The Weights and Measures of all Countries differs, but that is no Prejudice to Trade; they are all made certain by the Custom or Laws of the Place,and the Trader knows the Weight or Measure in Use, in the Place he Deals to. 
 
