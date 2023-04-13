@@ -31,10 +31,7 @@ The biggest fallacy of Economics is Market Equilibrium which is taught in basic 
 
 Adam Smith exposed this as mercantile sophistry in the 18th century, then called the 'balance of trade'. To prove that this idea of 'balance' is the same in essence with the 'equilibrium' of economics, let's compare the philosophy behind both ideas.
 
-![suppy demand fallacy](https://sorasystem.sirv.com/charts/equilibwrong.png)
-
-{{< youtube Y8gkzT8SF7Q >}}
-
+{{< img src="https://sorasystem.sirv.com/charts/equilibwrong.png" alt="Suppy and demand fallacy" >}}
 
 
 ## The Law of Demand
@@ -52,8 +49,7 @@ Modern Economics began with Paul Samuelson's neo-classical synthesis which descr
 > *Instead of a demand schedule, Supereconomics uses the modern economic table of the Physiocrats to determine the real price of everything in real-time. If everyone knows the real price of everything, then information asymmetry and profit maximization stop existing. Consequently, economic crises no longer have a chance to form. The maxim 'prevention is better than cure' applies to an economy just as it applies to health,
 
 
-
-![Downward Demand Curve](https://sorasystem.sirv.com/charts/demsup/eq1.png)
+{{< img src="https://sorasystem.sirv.com/charts/demsup/eq1.png" alt="Downward Demand Curve" cap="The Demand Curve of Samuelson and Smith Curve Downwards" >}}
 
 Samuelson then goes through a few more paragraphs to prove this. 
 
@@ -96,7 +92,8 @@ When our cloth is expensive, other nations sell more cloths. When our cloth is c
 
 Plotting this, we get the same downward sloping demand curve. We thus prove that Samuelson, Smith, and Mun agree on a downward sloping demand curve:
 
-![Downward Demand Curve](https://sorasystem.sirv.com/charts/demsup/mun.png)
+{{< img src="https://sorasystem.sirv.com/charts/demsup/mun.png" alt="The Mercantile Downward Demand Curve" cap="The Demand Curve of Mercantilism also Slopes Downwards" >}}
+
 
 {{< box >}}
 <h3>Digression on the 'Law' of Demand: Creating the non-problem 'paradox of value' to justify the fallacy called Profit Maximization</h3>
@@ -214,6 +211,7 @@ This is consistent with history:
 
 In reality, the natural supply and demand curves both slope downwards, representing a single human society as shown below. 
 
-![Supply Demand](/charts/econ/supplydemand.png)
+{{< img src="/charts/econ/supplydemand.png" cap="The Proper Supply and Demand Curves slope together" alt="The Proper Supply Demand" >}}
+
 
 The next post will explain the unified supply and demand curves. 

@@ -34,13 +34,13 @@ It has a granite lotus some 300 odd.
 
 The palace buildings are solidly built and richly ornamented.
 
-The king's throne is 
 
-pond of extraordinary beauty with golden bridges,
-feet long*.
+<!-- pond of extraordinary beauty with golden bridges, feet long*. -->
 
 
-The throne on which the king is made of gharu-wood and the seven precious substances. The dais is jewelled, with supports of veined wood (ebony?). The screen (behind the throne) is of ivory.
+The king's throne is made of gharu-wood and the 7 precious substances.
+- The dais is jewelled, with supports of veined wood (ebony?).
+- The screen (behind the throne) is of ivory.
 
 When all the ministers of state have audience, they make 3 full prostrations at the foot of the throne. They then kneel with hands crossed on their breasts, in a circle round the king, and discuss state affaris. 
 
@@ -53,7 +53,9 @@ There are some 200,000 war elephants and many small horses.
 The people are devout Buddhists. There are, some 300 foreign women, called a-nan or slave dancing-girls, who dance and offer food to the Buddha. 
 
 
-Lewdness is not considered criminal. Theft is punished by:
+Lewdness is not considered criminal. 
+
+Theft is punished by:
 - cutting off a hand and a foot and 
 - branding on the chest
 
@@ -64,7 +66,7 @@ The incantations of their Buddhist and Taoist priests have magical powers.
 The Taoists clothe themselves with leaves and have a deity called Potoli which they worship with great devotion.
 
 
-The people keep their;
+The people keep their:
 - right hand clean  
 - left hand unclean
 
