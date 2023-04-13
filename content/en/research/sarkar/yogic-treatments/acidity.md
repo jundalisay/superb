@@ -73,5 +73,5 @@ At the time of severe colic pain, the dominant flow of breath should be changed 
 1. Eat some shredded dry coconut along with a prepared betel (Piper betle Linn.) leaf, or some flesh of mature coconut along with aniseed.
 2. To get immediate relief from a distressing colic pain, equal quantities of chalk and átapa rice powder should be ground together, and 1/2 tola of the mixture should be taken.
 3. Take with cold water 1/16 tola of the white portion of the ashes of the tamarind (Tamarindus indica Linn) pod.
-4. Take 1/16 tola of the ashes of white ákanda leaf and rock salt after burning them together in equal quantities in an enclosed earthen pot.
+4. Take 1/16 tola of the ashes of white ákanda leaf and rock salt after burning them together in equal quantities in an enclosed earthen pot.  
 5. As with dyspepsia, it is desirable for acidity patients to observe fasting on Ekádashii days and regulation of diet on Púrńimá and Amávasyá.

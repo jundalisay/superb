@@ -46,7 +46,7 @@ We will use the name *Shiva-Shakti* since its principles are better known. In th
 
 ## Social Cycles
 
-David Hume explained that, among human organisms, the concept of the self arises from human experiences which come from human senses which are limited by nature. 
+David Hume explained that, among human creatures, the concept of the self arises from human experiences which come from human senses which are limited by nature. 
 
 For example, when you buy a stock, you won't know if its price will rise or fall. This is because you cannot sense all the thoughts and feelings of all the other buyers and sellers of that stock. So you buy it based on your own limited sensory experiences. 
 
@@ -110,7 +110,7 @@ But Adam Smith said that societies have a natural level of productivity*. If you
 > *This leads to our concept of economic balance, an idea that does not exist in Neoclassical Economics 
 
 {{< quote ava="smith" >}}
-<p>In businesses which can only be transacted with money, that money can always be found. If they do not find it, their failure is caused by their unnecessary and excessive enterprise, not of their poverty. It is not because they are poor that their payments are irregular and uncertain, but because they aretoo eager to become excessively rich.</p>
+<p>In businesses which can only be transacted with money, that money can always be found. If they do not find it, their failure is caused by their unnecessary and excessive enterprise, not of their poverty. It is not because they are poor that their payments are irregular and uncertain, but because they are too eager to become excessively rich.</p>
 <cite>The Wealth Of Nations Book 5</cite>
 {{< /quote >}}
 
@@ -133,6 +133,7 @@ Investment banks were already rich, but they wanted to be even richer so they in
 > *This is because Modern Economics has no concept of [Economic Balance](/social/economics/principles/part-4/chapter-01). The resulting crash or imbalance puts all profits to zero which then re-allows the possibility of high profits. When things are at the bottom, then there is no way but up. 
 
 
+
 ## Stagflation, Revolutions, and Conflict All Come From the Monkey Nature
 
 In the 1970's, those rich were:
@@ -150,9 +151,9 @@ The end effect depressions and stagflations are conflicts or wars, since they ar
 - The 1970's Stagflation was relieved by the Arab-Israeli conflict and by the global Communist insurgency.
 
 
-![Image](https://i.ytimg.com/vi/LZoxXoD-az4/hqdefault.jpg)
+{{< img src="https://i.ytimg.com/vi/LZoxXoD-az4/hqdefault.jpg" alt="Monkey Wars" >}}
 
-![Image](https://cdn.cnn.com/cnnnext/dam/assets/150417131549-18-vietnam-war-timeline-super-169.jpg)
+{{< img src="https://cdn.cnn.com/cnnnext/dam/assets/150417131549-18-vietnam-war-timeline-super-169.jpg" alt="Vietnam War" >}}
 
 
 {{< youtube -KSryJXDpZo >}}
@@ -163,18 +164,18 @@ The end effect depressions and stagflations are conflicts or wars, since they ar
 {{< img src="https://sorasystem.sirv.com/photos/mischief600.jpg" alt="Mischief Reef base" cap="The militarization of the Chinese and North Korean society-organisms (with their own ideas very different from the rest of the world) fits the model's prediction very well, as they are setting up for a future conflict" >}}
 
 
-{{< box >}}
+<!-- {{< box >}} -->
 <!-- ![](/countries/us/trump.jpg) -->
 
-### Update 2018: 2008-2018 as Iteration 1, 2019-2030 as Iteration 2</h3>
+<!-- ### Update 2018: 2008-2018 as Iteration 1, 2019-2030 as Iteration 2</h3>
 
 America is already great, but Trump wants to make it even greater through a trade war and this will actually make America worse off. 
 
 Trump is proof that the mentality that created the 1929 Crash and the 2008 Financial Crisis is still alive and kicking, due to the lack of an effective moral system to counter it.
 
-If the mentality still exists, then it means the crisis patterns must also follow, which our model predicts to be stagflation sparking in 2019, gathering steam towards 2030, climaxing as conflict.
+If the mentality still exists, then it means the crisis patterns must also follow, which our model predicts to be stagflation sparking in 2019, gathering steam towards 2030, climaxing as conflict. -->
 
-{{< /box >}}
+<!-- {{< /box >}} -->
 
 
 ## So what are the deeper implications of a Global Stagflation? A New Science!
@@ -217,5 +218,4 @@ For the coming crisis, Adam Smith clearly points to the invention of money and c
 
 The solution therefore is a system that allows both money and [points-based transactions](/social/economics/alternatives-to-money). In time, the system will gravitate towards points because of its lower cost. This is because the points-based system will piggyback on the existing telecoms system, allowing it to save on the overhead needed by banks.
 
-The points-based system is then based on the Four Laws of Value which will be explained next.  With all human problems solved, the only problems that remain will be the problems of physics, and that's where our [Superphysics](/) comes in.
-
+The points-based system is then based on [The Four Laws of Value](/social/economics/principles/intro/chapter-04).  With all human problems solved, the only problems that remain will be the problems of physics, and that's where our [Superphysics](/superphysics/principles/) comes in.

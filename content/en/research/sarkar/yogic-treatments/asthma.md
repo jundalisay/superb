@@ -15,7 +15,7 @@ icon: "/icons/sarkar.png"
 ![Woman holding her chest](/photos/med/asthma.jpg)
 
 
-## Causes= Primarily Weakness of the Heart Chakra
+## Causes: Primarily Weakness of the Heart Chakra
 
 The Weakness of the Heart Chakra causes certain glands to weaken. These leads to the weakening of the fine bronchial tubes in the lungs be full of phlegm or mucus. This then obstructs the air.
 
@@ -53,4 +53,6 @@ For a person who cannot avoid eating non-vegetarian food, a little soup of small
 1. Excellent results can be achieved if the patient takes one tola of the branch roots of white punarnavá ground together in river water with 2 1/2 pieces of black pepper. Do this on an empty stomach while sitting facing north, on any Monday, after bathing.
 2. Boil 5 tolas of cow’s ghee in a káṋsá pot. In another pot heat 2-1/2 tolas of ginger extract, and mix it into the boiled ghee and cover with a káṋsá plate. When the mixture has stopped simmering, take about 2 tolas and pour it into 1/8 seer of hot milk and give it to the asthma patient to drink when his/her suffering is acute. Plenty of mucus and phlegm will immediately be brought up, and the patient will feel relieved. If the mixture can be taken continuously for fifteen days, the disease will be completely cured.
 3. Catch a frog and take out its heart. Cut the heart into four parts. For four consecutive mornings, after having a bath, eat one piece together with a banana on a completely empty stomach. It will bring good results.
-4. Catch 6 or 7 cockroaches and boil them in half a seer of water. When the water has boiled down to 1/8 seer (10 tolas), strain it carefully and drink it hot twice a day, 5 tolas each time. This relieves asthma. 5. Burn a peacock feather to ashes and take 1/16 tola of the ashes by slowly licking with honey. This will relieve the suffering of asthma within a short time. 6. Aged raw cane sugar and pure mustard oil mixed in equal quantities (preferably one tola each), if taken by licking them each day early in the morning for twenty-one days continuously on an empty stomach, will give excellent results in asthma.
+4. Catch 6 or 7 cockroaches and boil them in half a seer of water. When the water has boiled down to 1/8 seer (10 tolas), strain it carefully and drink it hot twice a day, 5 tolas each time. This relieves asthma.
+5. Burn a peacock feather to ashes and take 1/16 tola of the ashes by slowly licking with honey. This will relieve the suffering of asthma within a short time. 
+6. Aged raw cane sugar and pure mustard oil mixed in equal quantities (preferably one tola each), if taken by licking them each day early in the morning for twenty-one days continuously on an empty stomach, will give excellent results in asthma.
