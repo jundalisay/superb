@@ -36,9 +36,6 @@ Before planting the paddy, during the last ploughing, neem oil cakes should be p
 In addition, neem paste pesticide with urea should be used whenever there is an attack of insects. Copper sulphate solution can also be mixed with urea.
 
 
-
-
-
 <!-- Some special medicines can be prepared for particular crops. For example,  -->
 
 

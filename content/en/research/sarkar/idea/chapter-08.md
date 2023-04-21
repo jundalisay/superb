@@ -111,7 +111,7 @@ The first curvature formed is called kalá (kriyá shakti). Prakrti is active 
 The conquest of the mutative over the sentient and the gradual movement towards domination (second occasion) by the static force results in curvatures following the preceding curvature. 
 
 
-## Stage 5: Sadrsha parińáma -- Creation
+## Stage 5: Sadrsha parinama -- Creation
 
 Kalá is followed by further formation of curvatures one after another, but each succeeding curve is not necessarily of the same wavelength as the preceding one. In fact, the difference goes on increasing as the wavelength continues to decrease. 
 
@@ -123,7 +123,7 @@ She is the energy of evolution. The metamorphosed Puruśabháva under the infl
 
 In Sanskrit, bhava means “to become”. 
 
-Here, Puruśa has become the universe of creation and therefore Puruśa is called Bhava. 
+Here, Puruśa has become the universe of creation and therefore Purusa is called Bhava. 
 
 The practical difference between Bhava and Bhavánii is the maximum, whereas the difference between Bhaerava and Bhaeravii was tending from the theoretical to the practical aspect.
 
@@ -135,7 +135,7 @@ In this path of evolutionary expression, the human physique gets its existence a
 
 The complexity of the physical curvature increases. Yet it is very near the point of its descent. The mental body is much more subtle and can by sádhaná, or spiritual practice, trespass and counteract the force of Avidyámáyá and proceed forth to come under the influence of Vidyámáyá, the force of Cosmic attraction. Mental liberation, or mukti, is possible this way.
 
-Mokśa is non-qualified liberation. It is only possible if the mental body, starting from the crudest mental subjectivity of the physical body, can, by any force, retrace against the singular positive force emanating due to the thought-projection of the Macrocosm. 
+Moksa is non-qualified liberation. It is only possible if the mental body, starting from the crudest mental subjectivity of the physical body, can, by any force, retrace against the singular positive force emanating due to the thought-projection of the Macrocosm. 
 
 This force against the singular positive force must be a negative one. 
 

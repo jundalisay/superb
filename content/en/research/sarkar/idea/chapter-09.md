@@ -14,7 +14,7 @@ The Cosmic Consciousness acts as the witnessing entity with the help of His Mind
 - The wavelength of this Mindpower is infinite.
 - So we say that it flows in a straight line. 
 
-The átman is the witnessing entity of the unit mind.
+The atman is the witnessing entity of the unit mind.
 - When the mind <!-- or manah --> takes the atman as its object, the mental waves will get straightened gradually.
   - This is done by complete surrender. 
   - There is no other way because the mind is the object of the átman. 

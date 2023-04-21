@@ -32,9 +32,14 @@ Abortions and miscarriages also make women anaemic and cause leucorrhoea.
 
 Similarly, too much administration of medicines and injections weakens the blood, and leucorrheoa is the result.
 
-Excessive sexual intercourse invites constipation, which pollutes the blood and brings on acidity, and this causes leucorrhoea. Virgins with the unnatural habit of masturbation invite a similar reaction, and leucorrhoea may occur.
+Excessive sexual intercourse invites constipation. This pollutes the blood and brings on acidity which causes leucorrhoea. 
 
-When both the liver and pancreas become weak, the blood will show an increase in acidity, and generally blood leucorrhoea occurs. In bloody leucorrhoea, unlike white leucorrhoea the patient may not be suffering from anaemia, but her blood will be more polluted.
+Virgins with the unnatural habit of masturbation invite a similar reaction. 
+<!-- , and leucorrhoea may occur. -->
+
+When both the liver and pancreas become weak, blood acidity  increases and generally blood leucorrhoea occurs. 
+
+In bloody leucorrhoea, unlike white leucorrhoea the patient may not be suffering from anaemia, but her blood will be more polluted.
 
 If due to ignorance adolescent girls and unmarried women leave the vagina unclean, they suffer from a certain type of discharge. This discharge is not actually leucorrhoea; it should be considered an ordinary discharge. However, if care is not taken in good time, it may turn into incurable leucorrhoea later on.
 
@@ -58,7 +63,14 @@ Same as for abnormal menstruation.
 
 Of the many causes of this disease, the main cause is unrestricted sexual activity. So for those who want to be cured, control over sexual activity – by both husband and wife – is necessary. Anaemia is the root cause of white leucorrhoea, so the patient should make a special point of taking easily-digestible and nutritious food. If the patient cannot tolerate milk, she should take curd-water or coconut milk, instead.
 
-For adolescent girls suffering from abnormal discharges, attention should be given to the maintenance of their personal hygiene, together with the practice of ásanas and mudrás. Leucorrhoea occurs if contaminated matter gets a chance to accumulate inside the genital organ. So both males and females should use water after urinating. Adolescent girls suffering from this disease should wash internally either with soap and water or with water which has been boiled with neem (Azadirachta indica A. Juss) leaves. The fingernails should be cut short, otherwise women may injure themselves internally.
+For adolescent girls suffering from abnormal discharges, attention should be given to the maintenance of their personal hygiene, together with the practice of ásanas and mudrás. Leucorrhoea occurs if contaminated matter gets a chance to accumulate inside the genital organ. So both males and females should use water after urinating. 
+
+Adolescent girls suffering from leucorrhea should wash internally either with:
+- soap and water or
+- water which has been boiled with neem (Azadirachta indica A. Juss) leaves
+
+The fingernails should be cut short, otherwise women may injure themselves internally.
+
 Unmarried women should strictly avoid the habit of masturbation.
 
 

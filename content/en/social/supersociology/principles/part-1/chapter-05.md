@@ -144,8 +144,6 @@ Economic Superphysics, the subset of Social Superphysics, explains that the cycl
 
 The thinking class is the closest to the metaphysical dimension while the worker class is the closest to physical dimenion. 
 
-![Social cycles](/graphics/social/4.png)
-
 
 ## So what's the purpose of Social Cycles?
 

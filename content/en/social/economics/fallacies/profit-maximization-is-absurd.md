@@ -72,7 +72,8 @@ It would be like a basketball team where all of the salary goes to the star play
 > *Update June 2021: We can thus make an analogy that utilitarianism is a kind of virus that infects the merchant class the most, allowing it to spread naturally around the planet. Neo-liberalism then is the resulting pandemic that has infested the earth, destroying societies and the environment along the way.
 
 
-![Orangutan](https://sorasystem.sirv.com/photos/orang.jpg)
+{{< img src="https://sorasystem.sirv.com/photos/orang.jpg" alt="Orangutan" >}}
+
 
 {{< quote ava="smith" >}}
 <p>There is a lot of bullion alternately imported and exported for foreign trade in all great commercial countries. This bullion circulates among commercial countries in the same way as the national coin circulates in every country.This bullion is the money of the great mercantile republic.The national coin receives its movement and direction from the commodities circulated within the country. The mercantile republic’s bullion gets its movement from the circulation between countries.</p>

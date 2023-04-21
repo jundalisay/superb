@@ -23,14 +23,13 @@ Whenever I called them to Your forgiveness, they thrust their fingers into their
 I called them openly. Then I appealed to them publicly. Then I spoke to them privately telling them to ask You for forgiveness for He will let loose torrents on you. 
 {{< /r >}}
 
-14. Allah created you in stages. He created 7 heavens in layers. 
+{{< s v="14" >}} Allah created you in stages. He created 7 heavens in layers. 
 
 {{< s v="16" >}} He set the moon in their midst for light, and He made the sun a lamp.
 
-17. Allah germinated you from the earth like plants.
+{{< s v="17" >}} Allah germinated you from the earth like plants.
 
-18. Then He will return you into it, and will
-bring you out again.
+{{< s v="18" >}} Then He will return you into it, and will bring you out again.
 
 
 12. And provide you with wealth and children,
@@ -51,9 +50,9 @@ They have misled many, so do not increase the wrongdoers except in confusion.
 {{< /r >}}
 
 
-25. Because of their wrongs, they were drowned, and were hurled into a Fire. 
+{{< s v="25" >}} Because of their wrongs, they were drowned, and were hurled into a Fire. 
 
-26. Noah said:
+{{< s v="26" >}} Noah said:
 
 {{< r a="Noah" >}}
 My Lord, do not leave a single unbeliever alive. If You leave them, they will mislead your servants, and will breed only wicked unbelievers.

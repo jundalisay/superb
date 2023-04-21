@@ -16,7 +16,7 @@ aliases:
 ---
 
 
-In his Principles of Political Economy and Taxation, David Ricardo criticizes Adam Smith's wheat-based valuation and replaces it with his own theory which is based on money-wages. 
+In his [Principles of Political Economy and Taxation](https://en.wikipedia.org/wiki/On_the_Principles_of_Political_Economy_and_Taxation), David Ricardo criticizes Adam Smith's wheat-based valuation and replaces it with his own theory which is based on money-wages. 
 
 By looking at his work, we can see that he never understood the metaphysics behind Smith's labor theory of value in the first place. We go through his reasoning below. 
 
@@ -28,23 +28,24 @@ Adam Smith said that the value of all things was relative to the amount of labou
 > Our Comment: Smith uses wheat and labour for real value, and precious metals for nominal value.
 
 {{< quote ava="ric" >}}
-If it were true that worker's reward was always proportional to what he produced, then he could buy other things of equal value.But they are not equal.The measure of value is an invariable standard, whereas the price of commodities varies. Adam Smith, said that the value of gold and silver varies, so he chose wheat or labour as an invariable medium.
+If it were true that worker's reward was always proportional to what he produced, then he could buy other things of equal value. But they are not equal. The measure of value is an invariable standard, whereas the price of commodities varies. Adam Smith, said that the value of gold and silver varies, so he chose wheat or labour as an invariable medium.
 {{< /quote >}}
 
-> Our Comment: Here it is so obvious that Ricardo misunderstands Smith. Although he correctly mentions Smith having precious metals as a variable measure (nominal value) and wheat as an invariable measure (real value), he does not understand that bothare not to be used together, just as you do not compare apples to oranges if you want to get the relative value of an apple (instead, you compare it with other apples).
+> Our Comment: Here it is so obvious that Ricardo misunderstands Smith. Although he correctly mentions Smith having precious metals as a variable measure (nominal value) and wheat as an invariable measure (real value), he does not understand that both are **not to be used together**, just as you do not compare apples to oranges if you want to get the relative value of an apple. Instead, you compare it with other apples.
+
 
 {{< quote ava="ric" >}}
 Gold and silver are subject to fluctuations, but why is wheat exempted?
 {{< /quote >}}
 
-> Our Comment: Because of that very basic misunderstanding, Ricardo asks many silly questions. Wheat is exempted because it is a type of food which leads to life which cannot be quantified. This absurd question can be thrown back by asking: 'What is the price of your existence and how does it fluctuate?' The existential price of wheat or rice is a ratio of the wheat or rice needed for a human to grow wheat or rice in general. If a human needs a minimum of 300 grams rice per day to live and it takes 120 days to grow and harvest rice, then the price of whatever was harvested is 36kg of rice. Human wealth and population therefore is ultimately determined by the productivity of food as the requirement for life. As proof, there is no food production in Mars, the Sahara, or Antartica and so those places have no population, wealth, nor GDP.
+> Our Comment: Because of that very basic misunderstanding, Ricardo asks many silly questions. Wheat is exempted because it is a type of food which leads to *life* which cannot be quantified. This absurd question can be thrown back by asking: 'What is the price of your existence and how does it fluctuate?' The existential price of wheat or rice is a ratio of the wheat or rice needed for a human to grow wheat or rice in general. If a human needs a minimum of 300 grams rice per day to live and it takes 120 days to grow and harvest rice, then the price of whatever was harvested is 36 kilograms of rice. Human wealth and population therefore is ultimately determined by the productivity of food as the requirement for life. As proof, there is no food production in Mars, the Sahara, or Antartica and so those places have no population, wealth, nor GDP.
 
 
 {{< quote ava="ric" >}}
 Double the work may be required to produce food and necessaries at one time, than another time, but the worker's reward could be reduced. If the worker's prior wages were in food and necessaries, he probably could not have subsisted if that amount was reduced. Food and necessaries would have risen 100% or to 2n if it were estimated by the amount of labour needed to produce them. They would not have increased in value, if measured by the amount of labour for which they will exchange.
 {{< /quote >}}
 
-> Our Comment: this actually happens during hyperinflation wherein nominal prices even of wages can increase 100%, but the real value is halved.
+> Our Comment: This actually happens during hyperinflation wherein nominal prices even of wages can increase 100%, but the real value is halved.
 
 {{< quote ava="ric" >}}
 The same is true between countries. In America and Poland, a year's labour will produce much more wheat than in England. But the amount of wheat awarded to the worker is not proportional to the produce in each country.
@@ -56,7 +57,7 @@ The same is true between countries. In America and Poland, a year's labour will 
 If the worker's shoes and clothing could be produced at 25% of the cost in labour, they would probably fall 75%. But it is not true that:<ul><li>the worker would be able to permanently consume four coats, or four shoes instead of one</li><li>his wages would not change because of competition</li></ul><br><br>If such cost reductions extended to all the worker's consumed goods, we would find him only having a few additional enjoyments, even if cost of those commodities were reduced significantly and the work needed to produce them were also reduced.
 {{< /quote >}}
 
-> Our Comment: If web development were outsourced to India from the US at 25% cost, then the cost of website-making as a whole can be reduced significantly. The Indian programmer will certainly enjoy more but the American programmer might not. This is because their wages are nominal and not measured in rice or wheat or wheat or Big Macs (the Big Mac index is similar in essence to Smith's wheat valuation).]*
+> Our Comment: If web development were outsourced to India from the US at 25% cost, then the cost of website-making as a whole can be reduced significantly. The Indian programmer will certainly enjoy more, but the American programmer might not. This is because their wages are nominal and not measured in rice or wheat or wheat or Big Macs (the Big Mac index is similar in essence to Smith's wheat valuation).]*
 
 {{< quote ava="ric" >}}
 Adam Smith is therefore wrong  in saying, "that as labour may sometimes buy a varying amount of goods, it is their value which varies, not the value of the labour which buys them;" and therefore, "that labour alone never varying in its own value, is alone the ultimate and real standard by which the value of all commodities can at all times and places be estimated and compared"

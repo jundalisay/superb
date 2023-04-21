@@ -109,7 +109,14 @@ Unless the secretions or blood of a patient get some chance to mingle with the b
 
 Leprosy is mainly a disease of the poor. Unless the masses are provided with sufficient nutritious food, the spread of the disease among them cannot be totally checked.
 
-For a patient, either the fruit or leaves of ucche – [[(bitter gourd (Momordica charantia Linn.) has fewer qualities)]] – or paltá, neem (Azadirachta indica A. Juss.) or shobháiṋjana flowers, leaves or stems should be an item on the menu every day. Heleiṋcá, gimá, bráhmii or some other leafy vegetable should also be taken daily.
+For a patient, any of the following should be eaten everyday:
+- the fruit or leaves of ucche
+- bitter gourd (Momordica charantia Linn.
+- paltá
+- neem (Azadirachta indica A. Juss.) 
+- leaves, flowers, or stems of shobháiṋjana
+
+Heleiṋcá, gimá, bráhmii or some other leafy vegetable should also be taken daily.
 
 
 ## Remedies:

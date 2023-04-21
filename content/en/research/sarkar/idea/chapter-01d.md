@@ -76,7 +76,7 @@ The food we eat mixes with the digestive fluids.
 - The essence of rasa is transformed into blood.
   - Its waste matter is once again rejected. 
 - The essence of blood changes into flesh.
-- The essence of flesh changes into fat (meda or vasá).
+- The essence of flesh changes into fat (meda or vasa).
 - This goes on until it changes into bone, bone marrow, and ultimately into shukra. 
 
 
@@ -93,7 +93,7 @@ The physical body is made up of these 7 materials, of which shukra is the final 
 
 The vital fluid shukra has 3 stages:
 
-1. lymph, or práńa-rasa (lasiká)
+1. lymph, or prana-rasa (lasika)
 2. spermatozoa
 3. seminal fluid.:[^1]
 

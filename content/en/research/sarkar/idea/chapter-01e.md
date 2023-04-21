@@ -74,12 +74,11 @@ The átman witnesses the mind itself. The ultimate residence of the mind is the
 
 
 
-## Structural Dissociation from the Lack of Vital Energy
+## Structural Dissociation [Big Bang] from the Lack of Vital Energy
 
-Structural Dissociation (jad́asphot́a) happens when celestial bodies lose vital energy. This can be:
-- instantaneous
+Structural Dissociation (jadasphota) happens when celestial bodies lose vital energy. This can be:
+- instantaneous, or
 - gradual
-
 
 Instantaneous structural dissociation happens when static Activity <!-- Prakrti --> continues exerting static pressure<!--  or bala --> on a lifeless unit structure. 
 - This compresses the solid body until it creates a tremendous reaction within the physical body affecting both the unifying and divisive forces. 
