@@ -86,5 +86,5 @@ ISAIAH, as a machine learning hub, can interpret data from non-economic sciences
 _ | Superphysics paradigm | End Goal
 --- | --- | ---
 Economic data | Supereconomics | Real Prices, [Clearing Fund Rates](/research/schumacher/pool-clearing/part-1)
-Health data |  [Medical Superphysics](/medical) | Disease prediction
+Health data |  [Bio Superphysics](/medical) | Disease prediction
 Historical data | [Supersociology](/social/supersociology) | Social and political predictions 

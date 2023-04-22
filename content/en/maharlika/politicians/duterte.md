@@ -69,7 +69,7 @@ The leaders should match the cycle that their society is in, so that their polic
 According to [our social cycles model](https://superphysics.org/social/supersociology/principles/law-social-cycles)*, the Philippines is currently in a tyranny cycle, to which a dictatorship is the best kind of leader. 
 
 
-> *The rough equivalent of Cambridge Analytica to this is its psychographics and OCEAN model, just as Myers-Briggs has its E N T J classification. Our Medical Superphysics uses a 10-aspect model which we still have to name
+> *The rough equivalent of Cambridge Analytica to this is its psychographics and OCEAN model, just as Myers-Briggs has its E N T J classification. Our Bio Superphysics uses a 10-aspect model which we still have to name
 
 
 

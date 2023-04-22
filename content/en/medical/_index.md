@@ -1,5 +1,5 @@
 ---
-title: "Medical Superphysics"
+title: "Bio Superphysics"
 image: "/photos/psych/freedom.jpg"
 type: "featured"
 date: 2020-10-31

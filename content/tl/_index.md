@@ -84,7 +84,7 @@ articles2:
 
 tricon3:
   title : "Ang Kaluluwa ng Buhay"
-  heading : "Medical Superphysics"
+  heading : "Bio Superphysics"
   subtitle : "Base sa 5 medikal na agham"
   items:
     - url : "/medical/physical/principles/5-paradigms"

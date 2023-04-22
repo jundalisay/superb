@@ -15,7 +15,7 @@ aliases:
   /articles/economics/producers-consumers-surplus-deadweight-loss  
 ---
 
-<!-- Update March 2020: Since 2016, our new science has been warning of a global economic crisis to occur in 2019. This is how we predicted it. The crisis is now here, so we will pause Superphysics, as it has already done its part and we have already built the new economic system called Tao to solve it (whether people will use it is another question that is beyond us). We will shift focus on a solution for Covid via its sister science which we call Medical Superphysics to disrupt Western Medicine and create Medical Singularity just as Superphysics aims to disrupt Economics with Economic Singularity. -->
+<!-- Update March 2020: Since 2016, our new science has been warning of a global economic crisis to occur in 2019. This is how we predicted it. The crisis is now here, so we will pause Superphysics, as it has already done its part and we have already built the new economic system called Tao to solve it (whether people will use it is another question that is beyond us). We will shift focus on a solution for Covid via its sister science which we call Bio Superphysics to disrupt Western Medicine and create Medical Singularity just as Superphysics aims to disrupt Economics with Economic Singularity. -->
 
 According to Economics, a market dis-equilibrium creates three inefficiencies:
 - [Producer’s Surplus](https://www.investopedia.com/terms/p/producer_surplus.asp) — defined as “the difference between how much of a good the producer is willing to supply versus how much he receives,” or the gain the producer receives

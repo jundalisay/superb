@@ -6874,7 +6874,7 @@ body {
 .soc, .Socrates, .socrates {
   background-image: url(/icons/socrates.png); }
 
-.spmed, .Medical-Superphysics {
+.spmed, .Bio-Superphysics, .Medical-Superphysics {
   background-image: url(/icons/spmed50.png) !important; }
 
 .pantry, .tao {
@@ -6919,7 +6919,7 @@ body {
 
 .asker, .Asker {
   background-color: gainsboro;
-  background-image: url(/avatars/g01.png) !important; }
+  background-image: url(/icons/g09.png) !important; }
 
 .Wang-Sun-Ki, .Tsz-Lu {
   background-color: gainsboro;

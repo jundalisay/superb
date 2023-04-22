@@ -131,18 +131,18 @@ Can you give an example? How would Superphysics solve a headache?
 {{< /r >}}
 
 
-## Medical Superphysics
+## Bio Superphysics
 
-{{< l ava="Medical-Superphysics" >}}
+{{< l ava="Bio-Superphysics" >}}
 By knowing the root cause of the headache. The cause could be diet, stress, congenital problem, bacteria, etc. The person might be doing something that is too stressful for his brain. 
 
 Medical science deals with the headache by masking its pain (usually via Paracetamol) and not really dealing with what is causing the pain. This is to process patients faster since the body has its own natural healing mechanism. However, this also means that the headache can come back. Moreover, the doctor can only work with the data that the patient gives. 
 
-Medical Superphysics gets all the data about the patient to find the pattern on which **[layer](/medical/physical/principles/5-paradigms/)** the cause is in. It then routes that patient to the proper specialist whether it be from Western medicine, yoga, Chinese medicine, homeopathy, etc.  
+Bio Superphysics gets all the data about the patient to find the pattern on which **[layer](/medical/physical/principles/5-paradigms/)** the cause is in. It then routes that patient to the proper specialist whether it be from Western medicine, yoga, Chinese medicine, homeopathy, etc.  
 
 <!-- 
 , on the other hand, gets not only all the data from the person to find out what the cause, but also the patterns from all the data. This is more difficult and time-consuming, but is able to give more lasting solutions.
-Medical Superphysics gives the person to question himself and extract data from his habits and memory so he can find the root cause because
+Bio Superphysics gives the person to question himself and extract data from his habits and memory so he can find the root cause because
 
 This technique is the original Socratic Dialectics and is actually done by Chinese medicine and Homeopathy. the Socratic-dialectical method is an upgrade of the scientific method which has a limited dataset. --> 
 {{< /l >}}
@@ -154,7 +154,7 @@ This technique is the original Socratic Dialectics and is actually done by Chine
 So you want everyone to switch to alternative medicine?
 {{< /r >}}
 
-{{< l ava="Medical-Superphysics" >}}
+{{< l ava="Bio-Superphysics" >}}
 No. Each [medical paradigm](/medical/physical/principles/5-paradigms) is a tool dealing with the five layers. You choose the medical paradigm for the right layer of the disease just as you use a hammer for nails and a screwdriver for screws.  It would be very ineffective to use a hammer to drive screws. 
 
 But people often use alternative medicine for the wrong purpose and so it unfairly gets a bad reputation. 
@@ -234,11 +234,11 @@ We need to prove that our principles are solid by demonstrating it in the real w
 
 We've already proven Social Superphysics through our correct predictions both in [politics](/social/cycles/predictions) and [economics](/social/supersociology/precrisis-years). We are already testing our points-based economic system to solve the current stagflation, something that Economics has no solution for. So no worries with those. 
 
-But we still need to prove that Medical Superphysics and Material Superphysics also work by curing diseases and by realizing fusion, levitation, and teleportation (actions at a distance) via the aether of Maxwell and Fresnell.
+But we still need to prove that Bio Superphysics and Material Superphysics also work by curing diseases and by realizing fusion, levitation, and teleportation (actions at a distance) via the aether of Maxwell and Fresnell.
 
 Medicine is highly regulated and Material experiments are expensive. We aim to surmount both impediments through our economic system.
 
-This is why, until 2030, most of our work is on Social Superphysics as economics and policies. The work on Medical and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on levitation](/material/levitation).     
+This is why, until 2030, most of our work is on Social Superphysics as economics and policies. The work on Bio and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on levitation](/material/levitation).     
 
 <!-- In the past, Material Superphysics was proven by miracles such as Jesus walking on water or Buddhist monks levitating. But this was not replicable. So we use Tesla's spacetime priniples which are opposite those of Einstein's General Relativity.  -->
 {{< /l >}}

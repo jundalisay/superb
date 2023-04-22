@@ -3,13 +3,13 @@
 heading: Chapter 3
 title: "The 5 Medical Paradigms"
 linkTitle: "Five Paradigms"
-description: "Medical Superphysics uses 5 medical paradigms which are aligned with the 5 layers of Superphysics"
+description: "Bio Superphysics uses 5 medical paradigms which are aligned with the 5 layers of Superphysics"
 # date: "2020-01-01"
 date: 2020-01-25
 weight: 8
 image: "/photos/balancerock.jpg"
 author: "Juan"
-# categories: ["Medical Superphysics"]
+# categories: ["Bio Superphysics"]
 tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
 icon: "/icons/spmed.png"
 aliases:
@@ -43,7 +43,7 @@ Material | Strong | Earth | Pritvi | 金 solid metal
 
 ## The 5 Medical Paradigms
 
-We apply these layers into Medical Superphysics by assigning a medical tradition to each:
+We apply these layers into Bio Superphysics by assigning a medical tradition to each:
 
 Layer | Greek Name | Paradigm | Description
 --- | --- | --- | --- 
@@ -85,13 +85,13 @@ These provide the doctor with wave-data that is not present to the Western docto
 - Mental health issues are patched with chemicals that merely mask the symptoms
 - Viral disease are patched with vaccines that need boosters, or are not solved at all, such as in the case of AIDS and dengue
 
-Medical Superphysics uses Socrates' Dialectics, which studies the hidden patterns from observable data in order to not get stuck on observables alone.
+Bio Superphysics uses Socrates' Dialectics, which studies the hidden patterns from observable data in order to not get stuck on observables alone.
  -->
 
 
 ## Each tradition has pros and cons 
 
-Superphysics respects all perceptions, especially those that are useful or have utility. This is why all five traditions have equal respect in Medical Superphysics. 
+Superphysics respects all perceptions, especially those that are useful or have utility. This is why all five traditions have equal respect in Bio Superphysics. 
 
 These five traditions are like tools in a toolbox. There is no single tool that can fix a complex system like a car. Instead, all tools have their purpose. 
 
@@ -157,7 +157,7 @@ These will give a *superhysician* a wider range of tools and therapies to cure h
 
 Western Medicine is usually more expensive because it has to be tested in material rigors which need material resources. Homeopathy, which is its extreme opposite, is cheaper because it uses the fewest material resources such as water and an electrical device for analysis.
 
-Thus, the Superphysician can make customized cures whatever the financial status or social class of the patient may be. Western Medicine often fails to serve the destitute and needy, but this will no longer be the case in Medical Superphysics. 
+Thus, the Superphysician can make customized cures whatever the financial status or social class of the patient may be. Western Medicine often fails to serve the destitute and needy, but this will no longer be the case in Bio Superphysics. 
 
 In fact, we envision diagnosis to be done by an artificially intelligent device that can be accessed for free by anyone. The suggested medicines will then be made available through a [points-based purchase system](https://pantrypoints.com) where the poor can pay later with their labor *after* they are cured. 
 

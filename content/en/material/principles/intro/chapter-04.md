@@ -66,7 +66,7 @@ According to Descartes, through an eternal revolution from rest to motion and mo
 Creation goes on to make the 5th, 6th, and 7th dimensions*. However, only the four dimensions are visible to our ordinary senses, since the 5th to 7th are metaphysical in essence. 
 
 
-> *The 7 dimensions match the 7 chakras in Hinduism and is essential in Ayurveda, which we classify under [Medical Superphysics](/medical). The sequence of creation is actually in reverse. From the Creator's perspective, it starts from the 7th then goes down to the 1st dimension. But from our perspective as 'createes', it's from the 1st to the 7th.  
+> *The 7 dimensions match the 7 chakras in Hinduism and is essential in Ayurveda, which we classify under [Bio Superphysics](/medical). The sequence of creation is actually in reverse. From the Creator's perspective, it starts from the 7th then goes down to the 1st dimension. But from our perspective as 'createes', it's from the 1st to the 7th.  
 
 
 Thus, spacetime is created by the mere existence or popping-in of the qosts from the aether. This gives the **illusion** of movement by one qost against the other when in fact, none of them are moving. The only real movement is their appearance into reality or actuality coming from nonreality or probability. 
@@ -174,7 +174,7 @@ These two make objects appear to move, depending on the rules of their layer and
 
 Name | Physics Name | Manifestation | Practical Goal
 --- | --- | --- | ---
-[Aethereal Relativity](/material/principles/aethereal-relativity) | Pseudo-science | Movement and transformation for qoas (ideas) between probabilities or multiverses inside minds | Medical Superphysics: know whether a person is moving towards disease so his course can be changed<br>Supersociology: know where the feeling of society is heading, so it doesn't go into anarchy<br>Economics: know whether the economy is moving towards poverty and inequality
+[Aethereal Relativity](/material/principles/aethereal-relativity) | Pseudo-science | Movement and transformation for qoas (ideas) between probabilities or multiverses inside minds | Bio Superphysics: know whether a person is moving towards disease so his course can be changed<br>Supersociology: know where the feeling of society is heading, so it doesn't go into anarchy<br>Economics: know whether the economy is moving towards poverty and inequality
 [Gravitational Relativity](/material/principles/gravitational-relativity) | General Relativity | Movement of supermassive blackholes (qosts) as the expansion of the universe and galaxy rotation | [Allow fusion](/articles/material/fusion) by levitating plasma, and allow teleportation to other galaxies
 Radiant Relativity | Special Relativity | Movement and transformation for photons (quanta of light or qol) and electrons (quanta of electromagnetism or qoe) | Make [light-based computing](/material/solutions/light-based-computing) more practical
 [Transformative Relativity](/material/principles/radioactive-relativity) | Feynman Diagrams | Movement and transformation for neutrons | Allow alchemy 

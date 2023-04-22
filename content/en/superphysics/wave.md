@@ -38,7 +38,7 @@ Superphysics then is the paradigm that exlains how these 2 forces create both ph
 
 - Material Superhysics exlains physical phenomena.
 - Social Superphysics explains metaphysical phenomena as the changing feelings within societies. 
-- Medical Superphysics explains phenomena that is in between the physical and metaphysical as the interaction of living organisms with the material environment.
+- Bio Superphysics explains phenomena that is in between the physical and metaphysical as the interaction of living organisms with the material environment.
 
 
 We now have a framework for solving prpblems in physics, society, and health by using it to anaylze cause and effect.

@@ -145,7 +145,7 @@ This categorization system also works for Physics as artificial intelligence or 
 For example, Physicists are unable to create real AI because they neglect the feeling aspect. We solve this by adding social interaction data as part of the training data for our proposed Artificial Sentience system called ISAIAH.
 
 <!-- The separation of memory from remembering is useful in:
-- Medical Superphysics for memory problems, dementia, and
+- Bio Superphysics for memory problems, dementia, and
 - Material Superphysics for the creation of artificial sentience. -->
 
 <!-- For example, the interplay of desire, mind-memory, and consciousness explains why  -->
@@ -153,6 +153,6 @@ For example, Physicists are unable to create real AI because they neglect the fe
 
 ## Remembering, Learning, and Expanding
 
-The other abilities of the mind can be explained in Medical Superphysics. 
+The other abilities of the mind can be explained in Bio Superphysics. 
 
 The next chapter will explain the layers of the mind, as the layers of the universe. 

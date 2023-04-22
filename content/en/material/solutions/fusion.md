@@ -188,7 +188,7 @@ This is the same technique used by UFO's to lift themselves without needing boos
 Fusion is thus created when a sentient computer manipulates the gravitational signature of hydrogen, as deuterium, as to both confine and levitate them. This is the same thing that stars ([stellar qosts](/material/principles/qost)) naturally do to clouds of gas and dust in a galaxy to start fusion and actually become stars*.
 
 
-> *This implies that stars are sentient. This sentience is [the origin of life](/medical/physical/solutions/covid-flu-star) in the universe and is the connection point between Material and Medical Superphysics
+> *This implies that stars are sentient. This sentience is [the origin of life](/medical/physical/solutions/covid-flu-star) in the universe and is the connection point between Material and Bio Superphysics
 
 
 

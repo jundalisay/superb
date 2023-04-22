@@ -25,7 +25,7 @@ The First Law of Value states:
 This law is derived from the Third Law of Thermodynamics which says that absolute zero temperature is impossible to reach or maintain. 
 
 This law crosses over:
-- to Medical Superphysics as everything being able to affect a person's health in varying degrees. 
+- to Bio Superphysics as everything being able to affect a person's health in varying degrees. 
 - to Supersociology as everyone's opinion or expression has a value to a society
 
 

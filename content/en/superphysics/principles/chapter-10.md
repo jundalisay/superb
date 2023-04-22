@@ -179,7 +179,7 @@ Superphysics is then split up into three, based on a perception's relation to th
 
 1. [Material Superphysics](/material) — This is based on the soul of the physical universe. It aims to solve problems that physics cannot, such as faster-than-light travel, time travel, alternative energy sources. This is patterned from Book 1 of *A Treatise of Human Nature* but is based on Descartes 
 
-2. [Medical Superphysics](/medical) — This is based on the individual living soul, as humans (maybe animals and plants can be added in the future). It aims to solve problems that medical science cannot, such as cancer, heart disease, mental issues, etc. This is derived from Book 2 but is based on Asian sciences such as yoga (Patanjali), chi, and the doshas. 
+2. [Bio Superphysics](/medical) — This is based on the individual living soul, as humans (maybe animals and plants can be added in the future). It aims to solve problems that medical science cannot, such as cancer, heart disease, mental issues, etc. This is derived from Book 2 but is based on Asian sciences such as yoga (Patanjali), chi, and the doshas. 
 
 3. [Social Superphysics](/social) — This is based on the soul of society as a collection of individual souls. It aims to solve problems that economics and political science cannot, such as recessions, inequality, revolutions, etc. This is derived from Book 3
   - Supersociology is the subset that deals with socio-political principles and is based on Socrates and Ibn Khaldun
@@ -203,7 +203,7 @@ To solve this, we add proper metaphysics, defined by David Hume and already know
 
 The Eastern concept of Sunya, or Hume’s concept of vacuum, is the foundation of the faster-then-light travel and anti-gravitation of Superphysics. Without it, such teleportation technology would be unthinkable.
 
-The understanding of this metaphysics will be more easily understood in its first implementation as Pantrynomics, which is under Social Superphysics. Unlike Material Superphysics which requires specialized equipment and unlike Medical Superphysics which is highly regulated, Social Superphysics is mostly behavioural and historical. This makes it cheaper to research and implement solutions for.
+The understanding of this metaphysics will be more easily understood in its first implementation as Pantrynomics, which is under Social Superphysics. Unlike Material Superphysics which requires specialized equipment and unlike Bio Superphysics which is highly regulated, Social Superphysics is mostly behavioural and historical. This makes it cheaper to research and implement solutions for.
 
 For example, one of the end goals of Pantrynomics is economic singularity wherein an ego-less artificial intelligence maps the economy to coordinate supply and demand to ensure that everyone has adequate resources to exist and reach their life goals. This is similar to the end goal of Material Superphysics which is a space-time singularity map wherein an artificial intelligence knows all space-time coordinates in advance so that it can coordinate spaceships traveling into each location.
 

@@ -180,7 +180,7 @@ articles2:
 
 tricon3:
   title : "The Soul of Living Entities"
-  heading : "Medical Superphysics"
+  heading : "Bio Superphysics"
   subtitle : "Based on five medical paradigms"
   items:
     - url : "/medical/physical/principles/5-paradigms"

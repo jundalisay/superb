@@ -2,7 +2,7 @@
 title: "Halal Food"
 # heading: Plotting their 'landing zones'
 date: 2023-04-04
-image: /photos/medival/arab.jpg
+image: /photos/medieval/arab.jpg
 description: "Non-halal or unlawful food in Islam are those that are included in the following list"
 author: Juan
 # icon: /icons/spmed.png

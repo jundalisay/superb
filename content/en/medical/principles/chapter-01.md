@@ -7,7 +7,7 @@ weight: 2
 image: "/photos/social/monkey.jpg"
 description: "David Hume's Idea of the Self explains why there are 3 billion yous"
 # keywords: ["David Hume"]
-# categories: ["Medical Superphysics"]
+# categories: ["Bio Superphysics"]
 tags: ["David Hume", "Ego"]
 author: "Juan"
 icon: /icons/spmed.png

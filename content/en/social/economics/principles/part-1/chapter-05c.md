@@ -35,7 +35,7 @@ To solve the problems caused by market forces in agriculture, we introduce a new
 Agricultural Supereconomics applies the Four Laws of Supereconomics onto agriculture. 
 
 Moreover, it connects the following knowledge-groups:
-- agriculture to human nutrition and plant/animal nutrition via Medical Superphysics 
+- agriculture to human nutrition and plant/animal nutrition via Bio Superphysics 
 - agriculture to communities via Supersociology
 - agriculture to chemistry via Material Superphysics
 - agriculture to economics via Supereconomics

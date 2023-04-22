@@ -32,13 +32,13 @@ Its base or core is Asian philosophy since the Hindus, Buddhists, Taoists alread
 It is divided into three:
 
 
-_ | [Material Superphysics](/material) | [Medical Superphysics](/medical) | [Social Superphysics](/social)
+_ | [Material Superphysics](/material) | [Bio Superphysics](/medical) | [Social Superphysics](/social)
 --- | --- | --- | ---
 Goal | To discover levitation, teleportation, and gravity-based energy by using gravitational signatures | Solve all diseases, even viruses and mental health issues, create Artificial Sentience for predicting health issues  | Solve social problems, even economics and politics such as financial crisis and war, create Artificial Sentience for preventing crises. Create a global constitution, national constitution template, and organic law as a unified political system
-Example Technologies | Cargo ship levitation, Fusion via levitation of plasma | Five medical paradigms known to all, Agriculture on seawater (Medical Superphysics for plants) | Free Trade system, Confirmation Elections, Constitutional Virtues 
+Example Technologies | Cargo ship levitation, Fusion via levitation of plasma | Five medical paradigms known to all, Agriculture on seawater (Bio Superphysics for plants) | Free Trade system, Confirmation Elections, Constitutional Virtues 
 Method | Redefines E = mc^2  into E = G<sub>l</sub>  as template for all movement in the physical and metaphysical universe | This opens up the principles of chi or vayu of Traditional Chinese Medicine (TCM), pitta kapha and rakta of Ayurveda, acidic-alkaline of Naturopathy, and like-cures-like of Homeopathy | Plot the social cycles of each society, apply the Four Laws of Value. Find common patterns in national constitutions
 Source | Patterned after A Treatise of Human Nature Book 1 | Patterned after Book 2 | Patterned after Book 3
-Notes | This requires a total refutation of Einstein, to be replaced by Lorentz-Poincare  | This is divided into Human, Animal, and Plant. While "medical science" is based on Western medicine, "Human Medical Superphysics" is based on a combination of Western medicine, TCM, Ayurveda, naturopathy, and homeopathy, turing the doctor into a superdoctor | This is made up of Economic Superphysics (Supereconomics) for economic problems and Supersociology for social problems. This turns the economist into a supereconomist and a sociologist and lawmaker into a supersociologist and superlawmaker.
+Notes | This requires a total refutation of Einstein, to be replaced by Lorentz-Poincare  | This is divided into Human, Animal, and Plant. While "medical science" is based on Western medicine, "Human Bio Superphysics" is based on a combination of Western medicine, TCM, Ayurveda, naturopathy, and homeopathy, turing the doctor into a superdoctor | This is made up of Economic Superphysics (Supereconomics) for economic problems and Supersociology for social problems. This turns the economist into a supereconomist and a sociologist and lawmaker into a supersociologist and superlawmaker.
 
 
 {{< img src="/graphics/super/5layers4.jpg" alt="Superphysics" cap="Superphysics goes for the mysterious, invisible-but-unlimited-and-everywhere Aether (the spooky Actor from a distance) instead of being stuck with oh-so-obvious-but-limited Matter" >}}
@@ -55,7 +55,7 @@ It pointed to a series of crises from 2019 to 2030, which we call The Great Stag
 
 
 {{< me d="April 2021" >}}
-The crisis years came via Covid. It turned out that the medical system was the first one to break down. This led us to create [Pantry Health](https://pantrypoints.com/health) as an implementation of Medical Superphysics as a solution. Our model predicts that the financial system will be the next one to crash at year X, which led us to create the [Points Banking](https://pantrypoints.com/banking). Economic and political systems will be stressed much later.
+The crisis years came via Covid. It turned out that the medical system was the first one to break down. This led us to create [Pantry Health](https://pantrypoints.com/health) as an implementation of Bio Superphysics as a solution. Our model predicts that the financial system will be the next one to crash at year X, which led us to create the [Points Banking](https://pantrypoints.com/banking). Economic and political systems will be stressed much later.
 {{< /me >}}
 
 

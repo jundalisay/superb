@@ -162,7 +162,7 @@ MoT then becomes the foundation of Superphysics. Unlike metaphysical principles 
 
 {{< me date="December 2021" >}}
 Examples of real-world evidence are:
-- Medical Superphysics: the success of traditional Chinese medicine against Covid, relative to their total lack in the West
+- Bio Superphysics: the success of traditional Chinese medicine against Covid, relative to their total lack in the West
 - Economic Superphysics: the prediction of the crisis years starting in 2019 onwards, relative to a prediction of a recovery in 2021 from pent-up demand and vaccine success
 - Social Superphysics: the low cases of mass shootings, conflict, and revolutions in Asia, relative to the Americas and Africa
 - Material Superphysics: the prediction that fusion will not work because artificial gravity has not been discovered yet
@@ -182,7 +182,7 @@ Engels and Marx then fully corrupted this idea by saying that the churning was c
 Since then, the metaphysical and dharmic nature of Socratic dialetics have been forgotten. Dialectics nowadays refers to Hegel's dialectics that do not have any metaphysics nor even any mysticism*.
 
 
-> *The Republic clearly talks about reincarnation and chakras in [the Story of Er](/research/socrates/simple-republic/book-10/chapter-3). This adds to our dialectical dataset which also includes those from Hinduism and Buddhism. These then lead to principles in Medical Superphysics that mirror Ayurveda, Chinese Medicine, and Homeopathy
+> *The Republic clearly talks about reincarnation and chakras in [the Story of Er](/research/socrates/simple-republic/book-10/chapter-3). This adds to our dialectical dataset which also includes those from Hinduism and Buddhism. These then lead to principles in Bio Superphysics that mirror Ayurveda, Chinese Medicine, and Homeopathy
 
 
 

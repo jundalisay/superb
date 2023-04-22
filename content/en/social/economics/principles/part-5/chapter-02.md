@@ -48,4 +48,6 @@ Superphysics is implemented through independent nodes, as servers, for each popu
 
 Each node runs a server which delivers an Economy-as-a-Service or EaaS for the town or city. External nodes are connected via Pool Clearing from EF Schumacher. The system can be run by artificial intelligence or AI following the maxims of David Hume, Spinoza, Montesquieu, and Socrates. 
 
-Earth-nodes can be connected to Martian nodes by simply extending Pool Clearing. This would then require an interplanetary organization, built according to the principles of Supersociology, to administer the resource allocation or supereconomics between different planets. Medical Superphysics would deal with the potential diseases and health issues in those new places while Material Superphysics would deal with meeting the energy needs.  
+Earth-nodes can be connected to Martian nodes by simply extending Pool Clearing. This would then require an interplanetary organization, built according to the principles of Supersociology, to administer the resource allocation or supereconomics between different planets. 
+
+Bio Superphysics would deal with the potential diseases and health issues in those new places while Material Superphysics would deal with meeting the energy needs.  

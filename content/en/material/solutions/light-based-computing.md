@@ -39,7 +39,7 @@ The lofty goals and solutions of Superphysics are best achieved through the use 
 Branch | Goal | ISAIAH Feature
 --- | --- | --- 
 Material Superphysics | Levitation of objects | Navigate
-Medical Superphysics | Prediction of Disease Risk | Doctor
+Bio Superphysics | Prediction of Disease Risk | Doctor
 Social Superphysics | Supply and Demand | Match
 
 

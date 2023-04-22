@@ -32,7 +32,7 @@ Rank | Name | Greek-Hindu | Chinese | Physics Force
 The nature of this Mind then forms the subdivisions of Superphysics:
 
 1. Material Superphysics - this studies the nature of the Mind of the physical universe
-2. Medical Superphysics - this studies the nature of the Mind of a living being
+2. Bio Superphysics - this studies the nature of the Mind of a living being
 3. Social Superphysics - this studies the nature of the Mind of society
 
 ![](/graphics/super/5layers.png)
