@@ -36,6 +36,9 @@ Our model clearly says that the war will go on up to a specific year when Russsi
 - the withdrawal of NATO in Afghanistan 
 - the withdrawal of the US in Vietnam 
 
+
+It might even merge with the coming China-Taiwan war.
+
 The mess left behind by Western policy in Libya, Syria, and Iraq are further proofs of how a conflict can create a perpetual state of crisis.
 
 
@@ -51,14 +54,34 @@ This is similar to North Vietnam engaging in a long war against US-supported Sou
 
 China will then take a more prominent role in the peace negotiations, as well as the reconstruction of Ukraine which will have its eastern part going to Russia. 
 
-After Ukraine gets accepted into the EU and NATO, the usual problems will arise such as regulatory issues, corruption, exodus of Ukraniains, and cultural differences. Instead of the Western mentality affecting and improving the Slavic mentality, it will be the Slavic spreading onto the Western or Roman mentality.
+After many years, after Ukraine gets accepted into the EU and NATO, the usual problems will arise such as:
+- regulatory issues
+- corruption
+- exodus of Ukrainiains, and
+- cultural differences. 
 
-The greater role of China, as Confucian mentality, and the spread of Slavic culture are consequences of the decline of Western civilzation. We had called this "[The Mongol Vision](/social/cycles/russia)". The massacre at Bucha is proof of the Mongol mentality within the soul of Russian society. 
+Instead of the Western mentality affecting and improving the Slavic mentality, it will be the Slavic spreading onto the Western or Roman mentality.
+
+The greater role of China, as Confucian mentality, and the spread of Slavic culture are consequences of the decline of Western civilzation. We had called this "[The Mongol Vision](/social/cycles/russia)"*. The massacre at Bucha is proof of the Mongol mentality within the soul of Russian society. 
+
+
+> *The Ukrainians, as the Kievan Rus, made a fatal mistake of not surrendering to the Mongols in 1240. This led to their destruction. The Russians, on the other hand, surrendered. This allowed Russia to survive and be the leader of the Rus. Modern Ukraine had a chance to avoid the mistake that their ancestors made, only to blow that chance in 2014-2022. The root of the problem in Ukraine is that it is a fertile country in a barren neighborhood.
+
 
 {{< img src="/photos/medieval/mongols.jpg" alt="Mongol massacre" cap="The Mongols were known to massacre a lot of innocent people" >}}
 
 
-Our solution for Ukraine is still the same: It should agree to peace as soon as possble as each day of delay divides the Slav mental wave as it spreads across Europe. More importantly, it will end the current food and supply chain crisis that affects most people on Earth. 
+## The Same Problem All Over Again
+
+Our solution for both Ukraine in 2022 and Ukraine in 1240 are still the same: It should agree to peace as soon as possible.
+
+This is because each day of delay divides the Slav mental wave as it spreads across Europe. More importantly, it will end the current food and supply chain crisis that affects most people on Earth. 
 
 
-{{< img src="/graphics/social/beheading.jpg" alt="Russian beheadings" cap="Update April 16, 2023: The news about Russian soldiers beheading Ukrainian soliders is very much in line with Mongol behavior. It is useless for Zelensky to call such Russians as beasts just as the criticisms of the 13th century Europeans against the Mongols didn't change the course of history. Instead, it would be better for Zelensky to listen to the demands of Putin, overseen by Xi Jinping. Prior to the war, Puti was asking Ukraine to join the Russian customs union instead of joining the EU. That customs union would have prevented so many of the problems that the world has today, so that the world can focus better on the bigger natural problem called global warming." >}}
+{{< img src="/graphics/social/beheading.jpg" alt="Russian beheadings" cap="Update April 16, 2023: The news about Russian soldiers beheading Ukrainian soliders is very much in line with Mongol behavior. It is useless for Zelensky to call such Russians as beasts just as the criticisms of the 13th century Europeans against the Mongols didn't change the course of history. Instead, it would be better for Zelensky to listen to the demands of Putin, overseen by Xi Jinping. Prior to the war, Putin was asking Ukraine to join the Russian customs union instead of joining the EU. That customs union would have prevented so many of the problems that the world has today, so that the world can focus better on the bigger natural problem called global warming." >}}
+
+
+
+PBS has a good documentary on the civil war in Ukraine:
+
+{{< youtube urg1NTAo53k >}}
