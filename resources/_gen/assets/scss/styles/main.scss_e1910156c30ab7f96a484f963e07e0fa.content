@@ -6931,7 +6931,7 @@ body {
 
 .Protagoras, .angry, .Boomer, .Duke-Ting, .Father-of-Abraham {
   background-color: #ffc8d5;
-  background-image: url(/icons/g10.png); }
+  background-image: url(/icons/g08.png); }
 
 .Allah {
   background-color: white;

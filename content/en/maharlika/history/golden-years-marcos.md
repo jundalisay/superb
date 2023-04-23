@@ -22,7 +22,7 @@ A major topic of political debate in the Philippines that often crops up every e
 - Conservatives, right-wingers, and traditional politicians would say that there were Golden Years under Marcos and that the country could have prospered if Marcos had continued his rule
 
 
-![Marcos family in power](https://sorasystem.sirv.com/photos/mh/marcoses.jpeg)
+{{< img src="https://sorasystem.sirv.com/photos/mh/marcoses.jpeg" alt="Marcos family in power" cap="The Marcos family" >}}
 
 
 To resolve this debate in a logical, data-driven way, we shall analyze the Marcos era and the causes and effects of his policies. 
@@ -47,7 +47,8 @@ The question then becomes: Could the early growth have been sustained as to avoi
 
 The answer to this is no, simply because the entire policy was a mistake of Diosdado Macapagal to begin with.
 
-![Diosdado Macapagal]("https://sorasystem.sirv.com/photos/mh/macapagal.jpg")
+{{< img src="/photos/macapagal.jpg" alt="Diosdado Macapagal" cap="Diosdado Macapagal" >}}
+
 
 
 ## Macapagal Made the Collapse Inevitable
@@ -67,7 +68,7 @@ The problem with this policy is that **it takes a long time to generate wealth**
 - China started the same policy in the 1980s through Deng Xiaoping. It took around 30 years for China to become an industrial country as seen in their ZTE, Huawei, and the Three Gorges Dam.
 
 
-But after industry is established, those industrial companies became cash cows that made their countries wealthy. This long period of industrialization requires a long period political stability and consistent policies:
+But after industry is established, those industrial companies became cash cows that made their countries wealthy. This long period of industrialization requires **a long period political stability and consistent policies**:
 
 
 Country | Period | Stabilizer | Result
@@ -80,9 +81,15 @@ China | 1980s | Communist Party | Crackdown on Tiananmen allowed Deng to switch<
 
 
 
-Unfortunately, the Philippine elite could not wait such a long period of time to get wealthy. This is because they were descended from *encomienda* agricultural system established by the Spanish*. That system earned by the exports of cash crops such as sugar and tobacco. The investment for such crops can be done within a year, with revenues coming in subsequent years. This makes the elite short-sighted and not capable of serious long-term investments. 
+Unfortunately, the Philippine elite could not wait such a long time to get wealthy. This is because they were descended from *encomienda* agricultural system established by the Spanish*. 
 
-> *This is why Spanish colonization was the worst thing to happen to the Philippines, as well as to South America. Without the Spanish, the country would be economically in between Taiwan and Malaysia. Politically, Brunei would make Visayas and Mindanao Islamic, while Limahong would have made Northern Luzon a part of Taiwan. 
+That system earned by the exports of cash crops such as sugar and tobacco. The investment for such crops can be done within a year, with revenues coming in subsequent years. This makes the elite short-sighted* and not capable of serious long-term investments.
+
+<!-- > *The same problem afflicts South America which followed the Spanish-Portuguese system. Argentina, for example, always has regular financial crises. -->
+
+> *This is why Spanish colonization was the worst thing to happen to the Philippines, as well as to South America. Without the Spanish, the country would be economically in between Taiwan and Malaysia.
+
+<!-- Politically, Brunei would make Visayas and Mindanao Islamic, while Limahong would have made Northern Luzon a part of Taiwan.  -->
 
 
 
@@ -92,23 +99,21 @@ Unfortunately, the Philippine elite could not wait such a long period of time to
 The British, Dutch, and Germans, on the other hand, did not focus on cash crops like the Spanish. Instead, they focused on science and technology. An easy proof is that the greatest physicists such as Newton, Maxwell, Lorentz, and Einstein come from those countries*. 
 
 
-> *This is because Britain had iron ore which is essential in electromagnetism
+> *This is because Britain had iron ore which is essential in electromagnetism. Having material resources, together with a strong culture of science and technology, allowed the British to invent the steam engine which led to industrialization. Spain and India also had iron ore, but preferred religion over science.
 
 
-Having material resources, together with a strong culture of science and technology*, allowed the British to invent the steam engine which led to industrialization. 
-
-> *Spain and India also had iron ore, but preferred religion over science
-
-
-This then multiplied their productivity, allowing them to dominate the world*. 
-
+This then multiplied European productivity, allowing them to dominate the world*. 
 
 > *Currently, it is China that has the highest national productivity growth. This explains their growing dominance. Unlike British productivity, Chinese productivity is based on social unity espoused by Confucianism as filial piety. 
 
 
-Instead of thinking of a long-term strategy to make the country wealthy, Macapagal sabotaged Garcia's plan and reversed the policy: **the riches would come first, and the burdens would come in later**. Instead of long-term policy of industrialization and export-promotion, Macapagal favored free importation to be counterbalanced by import-substitution.
+Instead of thinking of a long-term strategy to make the country wealthy, Macapagal sabotaged Garcia's plan and reversed the policy: **the riches would come first, and the burdens would come in later**. 
 
-This is the opposite of the policies of Japan, Singapore, Taiwan and South Korea, and is similar to those of Latin America, specifically **Argentina**. This is because South America was also colonized by Spain and Portugal and their elite also got wealthy by exporting cash crops such as soybeans, rubber, and coffee. A proof of the folly of Argentina's long-term policy is their **frequent financial crises** which arises from the seasonal nature of their cash crop exports.
+Instead of a long-term policy of industrialization and export-promotion, Macapagal favored free importation to be counterbalanced by import-substitution.
+
+This is the opposite of the policies of Japan, Singapore, Taiwan and South Korea, and is similar to those of Latin America, specifically **Argentina**. 
+
+This is because South America was also colonized by Spain and Portugal and their elite also got wealthy by exporting cash crops such as soybeans, rubber, and coffee. A proof of the folly of Argentina's long-term policy is their **frequent financial crises** which arises from the seasonal nature of their cash crop exports.
 
 In contrast, Japan, Singapore, Taiwan and South Korea did not have much arable lands and so they had no choice but to industrialize and consequently become Asian Tigers. They do not have financial crisis as often, since the demand for electronics, machines, and vehicles are pretty predictable. Anyone can predict that airconditioners will be in demand during the summer. But how can a Banana Republic predict when bananas will be in demand? 
 
@@ -169,9 +174,7 @@ The devaluation policy began on January 22, 1962 made borrowing easy:
 
 > 2. It  -->
 
-
-
-![Marcos and Reagan](https://sorasystem.sirv.com/photos/mh/marcos3.jpeg)
+{{< img src="https://sorasystem.sirv.com/photos/mh/marcos3.jpeg" cap="Marcos and Reagan" alt="Marcos and Reagan" >}}
 
 This was a form of devaluation which was a common tactic of ancient and medieval Europe for <!-- userpers --> kings to get rich quick<!--  and eventually become real kings -->. Montesquieu explains:
 
@@ -182,7 +185,9 @@ This was a form of devaluation which was a common tactic of ancient and medieval
 {{< /quote >}}
 
 
-Marcos used this debt-driven growth to get free money. In reality, it was paid for by Filipinos through inflation which manifested as the skyrocketing poverty during the stagnation period in the late 1970's. 
+Marcos used this debt-driven growth to get free money.
+
+In reality, it was paid for by Filipinos through inflation which manifested as the skyrocketing poverty during the stagnation period in the late 1970's. 
 
 Marcos kept on doing this until the peso fell to ₱14 in 1983 and banks stopped lending. This is similar to how Lebanon sustained its economy for many years with a state-run Ponzi investment scheme.
 
@@ -190,9 +195,15 @@ Marcos kept on doing this until the peso fell to ₱14 in 1983 and banks stopped
 
 Marcos tasked his economist Cesar Virata to find new lenders, but could not find any. Without new loans, the Philippine economy collapsed, causing a capital flight leading to a -7% GDP in 1984 & 1985. It finally led to the coup by Ramos and Enrile in 1986 which was overshadowed and hijacked by the EDSA Revolution.
 
-During those stagnation years, Filipinos had no choice but to export themselves as overseas workers to earn the dollars needed to prop up the economy. <!--  because the imports (and therefore life in the country) had become too expensive. --> The most absurd thing is that instead of correcting Marcos' policy mistake, **the Philippine elite who led the succeeding administrations even made overseas workers as policy!** 
+During those stagnation years, Filipinos had no choice but to export themselves as overseas workers to earn the dollars needed to prop up the economy. <!--  because the imports (and therefore life in the country) had become too expensive. --> The most absurd thing is that instead of correcting Marcos' policy mistake, **the Philippine elite who led the succeeding administrations even made overseas workers as a state policy!** 
 
-The governments from Cory to Noynoy created a **state-sponsored slavery policy** through the institutions called the POEA, OWWA, POLO, OEC, etc. [These turn overseas workers into cash cows](https://www.bworldonline.com/remittances-recover-in-july-to-grow-fastest-in-nine-months-bsp-data/) for the government which then praises them back as 'modern heroes'.
+The governments from Cory to Noynoy created a **state-sponsored slavery policy** through institutions:
+- POEA
+- OWWA
+- POLO
+- OEC, etc. 
+
+[These turn overseas workers into cash cows](https://www.bworldonline.com/remittances-recover-in-july-to-grow-fastest-in-nine-months-bsp-data/) for the government which then praises them back as 'modern heroes'.
 
 {{< img src="https://qph.fs.quoracdn.net/main-qimg-c330e0dceb7b3071cbf6374219122c90-mzj" cap="During the colonial era, the country exported cash crops. During the neoliberal era, the country exports its own people." >}}
 
@@ -211,7 +222,9 @@ The interviews of Cesar Virata shows that he didn’t seem to know about the con
 
 Other countries, such as Taiwan and South Korea, were not as ignorant as Virata. They were able to switch from import-substitution to export-promotion faster. 
 
-So it was simply a case of Philippine policymakers being ignorant (bobo, tanga). Thus, South America and the Philippines were ignorant, while the Asian Tigers were not. This is consistent with our earlier assertion that the easy money from cash crops made the elite, not only lazy, but also ignorant (bobo, tanga) relative to the elite of countries that had no cash crops.
+So it was simply a case of Philippine policymakers being ignorant (bobo, tanga). Thus, South America and the Philippines were bobo, while the Asian Tigers were not. 
+
+This is consistent with our earlier assertion that the easy money from cash crops made the elite, not only lazy, but also bobo and tanga relative to the elite of countries that had no cash crops.
 
 David Hume would go against import substitution:
 

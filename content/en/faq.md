@@ -32,7 +32,7 @@ So it's pseudo-science because it has metaphysics?
 {{< /r >}}
 
 {{< l ava="sp" >}}
-No. Superphysics upgrades science by adding metaphysics, similar to how Android is an upgrade of traditional phone operating systems by adding installable apps.
+No. Superphysics upgrades science by adding metaphysics, similar to how Android is an upgrade of cellphones by adding installable apps.
 
 Do we call a Samsung Android as a pseudo-Nokia 3310? 
 {{< /l>}}
@@ -51,7 +51,7 @@ Superstitious narrations of sorceries, witchcrafts, dreams, divinations, and the
 {{< /q >}}
 
 {{< l ava="sp" >}}
-Socratic Dialectics makes up the core of this 'super' upgrade as part of the process of data gathering, probing, and experimenting. 
+**Socratic Dialectics** makes up the core of this 'super' upgrade as part of the process of data gathering, probing, and experimenting. 
 {{< /l >}}
 
 {{< r ava="asker" >}}
@@ -61,7 +61,7 @@ How is Socratic Dialectics different from Dialectics?
 {{< l ava="sp" >}}
 The original dialectics was defined by Socrates to be based on Pythagorean metaphysics. But Aristotle hijacked dialectics and made his own version based an his own matter-based metaphysics (as 'substance'). The Germans, like Kant, Engels, Marx, and Einstein followed Aristotle. 
 
-This led to Dialectical Materialism which is based on limited human logic and has caused a lot of problems in the world via Marxism and Communism. The goals of Marxism of freedom and justice are very good and noble, but its underlying metaphysics is totally junk. This leads to suffering instead of goodness.
+This led to **Dialectical Materialism** which is based on limited human logic and has caused a lot of problems in the world via Marxism and Communism. The goals of Marxism of freedom and justice are very good and noble, but its underlying metaphysics is totally junk. This leads to suffering instead of goodness.
 
 Its rival Capitalism also embraces Aristotle, as proven by Ayn Rand and the subsequent 2008 Financial Crisis which also caused suffering.   
 

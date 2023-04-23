@@ -42,7 +42,11 @@ The debt is in money which is the expertise of the monied interests. **Thus, the
 
 It would be like getting thieves to be in charge of security in your estate. They would allow expert burglaries which can only be solved by themselves to keep themselves employed and relevant while gaining commissions from those burglars. This leads to a double revenue stream to help keep them in power for a very long time until someone can connect the dots and expose their scam.   
 
-Such a genius scheme in macroeconomics really began in the 1970s after the Nixon shock. 
+Such a genius scheme in macroeconomics really began in the 1970s after the Nixon shock. Billionaire investor Jeremy Grantham explains:
+
+{{< youtube hIKG2YpFoFQ >}}
+
+
 
 The profit maximization doctrine of the merchant class stops growth. And so the merchant class lobbies for public debt, as Keynesian "deficit spending". This is really paid for by the entire society. 
 
