@@ -1,7 +1,7 @@
 ---
 title: "The tables of review"
 heading: Chapter 6
-weight: 1
+weight: 12
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png
@@ -9,33 +9,39 @@ icon: /icons/bacon.png
 
 
 
-{{< s v="18" >}} We must now offer an example of the exclusion or rejection of natures found by the tables of review, not to be of the form of heat; 
+{{< s v="18" >}} We must now offer an example of the exclusion or rejection of natures found by the tables of review.
+<!-- , not to be of the form of heat;  -->
 
-First we premise that each table, each single instance contained in them, is sufficient for the rejection of any nature. 
+First we premise that each table, each single instance [row] in it, is enough to reject any nature. 
 
-Every contradictory instance destroys a hypothesis as to the form. 
+Every a contradictory instance destroys a hypothesis as to the essence [described by that table]. 
 
-Still, we redouble or repeat the exclusive in order to show the use of the tables.
+Still, werepeat the exclusive in order to show the use of the tables.
 
-An Example of the Exclusive Table, or of the Rejection of Natures from the Form of Heat
+Here is an Example of the Exclusive Table, or of the Rejection of Natures from the Form of Heat:
 
-1. On account of the sun’s rays, reject elementary (or terrestrial) nature.
-2. On account of common fire, and particularly subterranean fires (which are the most remote and secluded from the rays of the heavenly bodies), reject celestial nature.
-3. On account of the heat acquired by every description of substances (as minerals, vegetables, the external parts of animals, water, oil, air, etc.) by mere approximation to the fire or any warm body, reject all variety and delicate texture of bodies.[150]
-4. On account of iron and ignited metals, which warm other bodies, and yet neither lose their weight nor substance, reject the imparting or mixing of the substance of the heating body.
-5. On account of boiling water and air, and also those metals and other solid bodies which are heated, but not to ignition, or red heat, reject flame or light.
-6. On account of the rays of the moon and other heavenly bodies (except the sun), again reject flame or light.
-7. On account of the comparison between red-hot iron and the flame of spirits of wine (for the iron is more hot and less bright, while the flame of spirits of wine is more bright and less hot), again reject flame and light.
-8. On account of gold and other ignited metals, which are of the greatest specific density, reject rarity.
-9. On account of air, which is generally found to be cold and yet continues rare, reject rarity.
-10. On account of ignited iron,[103] which does not swell in bulk, but retains the same apparent dimension, reject the absolute expansive motion of the whole.
-11. On account of the expansion of the air in thermometers and the like, which is absolutely moved and expanded to the eye, and yet acquires no manifest increase of heat, again reject absolute or expansive motion of the whole.
-12. On account of the ready application of heat to all substances without any destruction or remarkable alteration of them, reject destructive nature or the violent communication of any new nature.
-13. On account of the agreement and conformity of the effects produced by cold and heat, reject both expansive and contracting motion as regards the whole.[151]
-14. On account of the heat excited by friction, reject principal nature, by which we mean that which exists positively, and is not caused by a preceding nature.
+n | Rejection | Basis
+--- | --- | ---
+1 | Terrestrial nature of heat | The sun’s rays 
+2 | Celestial nature of heat | Common fire and subterranean fires away from the sun
+3 | All variety and delicate texture of bodies[150] | The heat acquired by minerals, water, oil, air, vegetables, the external parts of animals, etc.  
+<!-- ) by mere approximation to the fire or any warm body, reject  -->
+4 | The imparting or mixing of the substance of the heating body | Iron and ignited metals which warm other bodies, yet neither lose their weight nor substance
+5 | Flame or light | Boiling water and air, and also those metals and other solid bodies which are heated, but not to ignition, or red heat
+6 | Flame or light | The rays of the moon and other heavenly bodies (except the sun)
+7 | Flame and light | The comparison between red-hot iron and the flame of spirits of wine (for the iron is more hot and less bright, while the flame of spirits of wine is more bright and less hot)
+8 | Rarity | Gold and other ignited metals, which are of the greatest specific density
+9 | Rarity | Cold air
+10 | The absolute expansive motion of the whole | Ignited iron,[103] which does not swell in bulk, but retains the same apparent dimension
+11 | The absolute or expansive motion of the whole | The expansion of the air in thermometers and the like, which is absolutely moved and expanded to the eye, and yet acquires no manifest increase of heat
+12 | The destructive nature or the violent communication of any new nature | The ready application of heat to all substances without any destruction or remarkable alteration of them
+13 | The expansive and contracting motion as regards the whole.[151] | The agreement and conformity of the effects produced by cold and heat
+14 | The principal nature by which we mean that which exists positively, and is not caused by a preceding nature | The heat excited by friction
+
+
 There are other natures to be rejected; but we are merely offering examples, and not perfect tables.
 
-None of the above natures are of the form of heat; and man is freed from them all in his operation upon heat.
+None of the above natures are of the form of heat. Man is freed from them all in his operation upon heat.
 
 
 {{< s v="19" >}} The foundations of true induction are in the exclusive table. 
@@ -48,7 +54,9 @@ It is clearly a rejection of simple natures. But if we have not as yet good and 
 
 Some of the above, as the notion of elementary and celestial nature, and rarity, are vague and ill defined. 
 
-We, therefore, who are neither ignorant nor forgetful of the great work which we attempt, in rendering the human understanding adequate to things and nature, by no means rest satisfied with what we have hitherto enforced, but push the matter further, and contrive and prepare more powerful aid for the use of the understanding, which we will next subjoin. And, indeed, in the interpretation of nature the mind is to be so prepared and formed, as to rest itself on proper degrees of certainty, and yet to remember (especially at first) that what is present depends much upon what remains behind.
+We, therefore, who are neither ignorant nor forgetful of the great work which we attempt, in rendering the human understanding adequate to things and nature, by no means rest satisfied with what we have hitherto enforced, but push the matter further, and contrive and prepare more powerful aid for the use of the understanding, which we will next subjoin. 
+
+In the interpretation of nature the mind is to be so prepared and formed, as to rest itself on proper degrees of certainty, and yet to remember (especially at first) that what is present depends much upon what remains behind.
 
 
 {{< s v="20" >}} Truth emerges more readily from error than confusion. 

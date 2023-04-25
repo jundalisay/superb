@@ -1,7 +1,7 @@
 ---
 title: "The Precepts and The Table of Existence and Presence"
 heading: Chapter 3
-weight: 1
+weight: 6
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

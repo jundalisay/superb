@@ -1,7 +1,7 @@
 ---
 title: "Proximate Instances wanting the Nature of Heat"
 heading: Chapter 1
-weight: 1
+weight: 8
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

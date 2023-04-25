@@ -16,10 +16,13 @@ aliases:
 
 According to Socrates, all societies [have alternating cycles](/research/socrates/simple-republic/book-8/chapter-1) that begin with democracy that switches to tyranny, then aristocracy, then oligarchy, and finally back to democracy.
 
-1. A democracy is dominated by **working-class people**. Its positive aspect is social justice, while its negative is chaos and mob rule. This chaos leads people to want order, paving the way for tyranny
-2. A tyranny is dominated by **warriors, leaders, and generals**. Its positive aspect is peace and order, while its negative is abuse and corruption. This abuse leads people to want wisdom, paving the way for aristocrats
-3. An aristocracy is dominated by **intellectuals and thinkers**. Its positive aspect is wisdom, and scientific and cultural advancement, while its negative is dogma and stagnation. This stagnation leads people to want material wealth, paving the way for oligarchs
-4. An oligarchy is dominated by **traders, speculators, and businessmen**. Its positive is material progress, its negative is inequality and environmental destruction. This injustice leads people to want justice, paving the way for democracy
+
+Time | Cycle | Dominant People | Positive Aspect | Negative Aspect | Description
+--- | --- | --- |  --- | --- | --- 
+1 | Democracy | **Working-class** | Social justice | Chaos and mob rule | The democratic chaos leads people to want order, paving the way for tyranny
+2 | Tyranny | **Warriors, leaders, and generals** | Peace and order | Abuse and corruption | The tyrannical abuse leads people to want wisdom, paving the way for aristocrats
+3 | Aristocracy | **Intellectuals and thinkers** | Wisdom, scientific, and cultural advancement | Dogma and stagnation | The stagnation leads people to want material wealth, paving the way for oligarchs
+4 | Oligarchy | **Traders, speculators, and businessmen** | Material progress | Inequality and environmental destruction | The injustice leads people to want justice, paving the way for democracy
 
 
 {{< quote ava="soc" >}}
@@ -60,8 +63,7 @@ An easy mnemomic is "W-W-T-T" which stands for Worker-Warrior-Thinker-Trader. In
 - Priests, Technocrats, Researchers, and Nazis fall under **Thinkers** or Socratic Conservatives
 - Big Businesses and Free marketeers fall under **Traders** or Socratic NeoLiberals
 
-![Social Cycles](/graphics/social/cycles.png)
-
+{{< img src="/graphics/social/cycles.png" alt="Social Cycles" >}} 
 
 This makes:
 - Workers and Traders <!-- Socratic Liberals and Neoliberals --> as the Socratic Left Wing

@@ -1,7 +1,7 @@
 ---
 title: "The Reign of Man"
 heading: Chapter 1
-weight: 1
+weight: 2
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

@@ -1,8 +1,8 @@
 ---
-title: "PAMPHILUS TO HERMIPPUS"
+title: "Pamphilus To Hermippus"
 heading: "Part 0"
-description: "The Difference in the feelings of the ancients and modersn lead to their differences in eloquence"
-image: /covers/morals.png
+description: "The ancient philosophers conveyed most of their instruction in the form of dialogue. But dialogues have been little practised in later ages and have seldom succeeded when attempted"
+image: /covers/religion.png
 weight: 30
 author: David Hume
 icons: /icons/hume.png
@@ -26,11 +26,23 @@ There are some subjects, however, to which dialogue-writing is peculiarly adapte
 
 Any point of doctrine, which is so obvious that it scarcely admits of dispute, but at the same time so important that it cannot be too often inculcated, seems to require some such method of handling it; where the novelty of the manner may compensate the triteness of the subject; where the vivacity of conversation may enforce the precept; and where the variety of lights, presented by various personages and characters, may appear neither tedious nor redundant.
 
-Any question of philosophy, on the other hand, which is so OBSCURE and UNCERTAIN, that human reason can reach no fixed determination with regard to it; if it should be treated at all, seems to lead us naturally into the style of dialogue and conversation. Reasonable men may be allowed to differ, where no one can reasonably be positive. Opposite sentiments, even without any decision, afford an agreeable amusement; and if the subject be curious and interesting, the book carries us, in a manner, into company; and unites the two greatest and purest pleasures of human life, study and society.
+Any question of philosophy, on the other hand, which is so OBSCURE and UNCERTAIN, that human reason can reach no fixed determination with regard to it; if it should be treated at all, seems to lead us naturally into the style of dialogue and conversation. 
 
-Happily, these circumstances are all to be found in the subject of NATURAL RELIGION. What truth so obvious, so certain, as the being of a God, which the most ignorant ages have acknowledged, for which the most refined geniuses have ambitiously striven to produce new proofs and arguments? What truth so important as this, which is the ground of all our hopes, the surest foundation of morality, the firmest support of society, and the only principle which ought never to be a moment absent from our thoughts and meditations? But, in treating of this obvious and important truth, what obscure questions occur concerning the nature of that Divine Being, his attributes, his decrees, his plan of providence? These have been always subjected to the disputations of men; concerning these human reason has not reached any certain determination. But these are topics so interesting, that we cannot restrain our restless inquiry with regard to them; though nothing but doubt, uncertainty, and contradiction, have as yet been the result of our most accurate researches.
+Reasonable men may be allowed to differ, where no one can reasonably be positive. Opposite sentiments, even without any decision, afford an agreeable amusement; and if the subject be curious and interesting, the book carries us, in a manner, into company; and unites the two greatest and purest pleasures of human life, study and society.
 
-This I had lately occasion to observe, while I passed, as usual, part of the summer season with CLEANTHES, and was present at those conversations of his with PHILO and DEMEA, of which I gave you lately some imperfect account. Your curiosity, you then told me, was so excited, that I must, of necessity, enter into a more exact detail of their reasonings, and display those various systems which they advanced with regard to so delicate a subject as that of natural religion. The remarkable contrast in their characters still further raised your expectations; while you opposed the accurate philosophical turn of CLEANTHES to the careless scepticism of PHILO, or compared either of their dispositions with the rigid inflexible orthodoxy of DEMEA. My youth rendered me a mere auditor of their disputes; and that curiosity, natural to the early season of life, has so deeply imprinted in my memory the whole chain and connection of their arguments, that, I hope, I shall not omit or confound any considerable part of them in the recital.
+Happily, these circumstances are all to be found in the subject of NATURAL RELIGION. 
+
+What truth so obvious, so certain, as the being of a God, which the most ignorant ages have acknowledged, for which the most refined geniuses have ambitiously striven to produce new proofs and arguments? 
+
+What truth so important as this, which is the ground of all our hopes, the surest foundation of morality, the firmest support of society, and the only principle which ought never to be a moment absent from our thoughts and meditations? 
+
+But, in treating of this obvious and important truth, what obscure questions occur concerning the nature of that Divine Being, his attributes, his decrees, his plan of providence? These have been always subjected to the disputations of men; concerning these human reason has not reached any certain determination. But these are topics so interesting, that we cannot restrain our restless inquiry with regard to them; though nothing but doubt, uncertainty, and contradiction, have as yet been the result of our most accurate researches.
+
+This I had lately occasion to observe, while I passed, as usual, part of the summer season with CLEANTHES, and was present at those conversations of his with PHILO and DEMEA, of which I gave you lately some imperfect account. Your curiosity, you then told me, was so excited, that I must, of necessity, enter into a more exact detail of their reasonings, and display those various systems which they advanced with regard to so delicate a subject as that of natural religion. 
+
+The remarkable contrast in their characters still further raised your expectations; while you opposed the accurate philosophical turn of CLEANTHES to the careless scepticism of PHILO, or compared either of their dispositions with the rigid inflexible orthodoxy of DEMEA. 
+
+My youth rendered me a mere auditor of their disputes; and that curiosity, natural to the early season of life, has so deeply imprinted in my memory the whole chain and connection of their arguments, that, I hope, I shall not omit or confound any considerable part of them in the recital.
 
 
 

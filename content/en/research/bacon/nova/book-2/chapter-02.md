@@ -1,7 +1,7 @@
 ---
 title: "Rule for transforming bodies"
 heading: Chapter 1b
-weight: 1
+weight: 4
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

@@ -3,16 +3,14 @@ title: "Land Reform Principles of Adam Smith"
 heading: Chapter 9b
 weight: 36
 # date: 2022-08-02
-
 # date: 2016-02-07
 description: "According to Adam Smith, Land Reform should focus on the productivity of the land"
 image: /photos/objects/egypt.jpg
 youtube: "rVP73TV2X0s"
-author: Juan Dalisay Jr
+author: Juan
 icon: /icons/pantry.png
 ---
 
-<!-- Was there a passage in Wealth of Nations where Adam Smith said one should only own as much land ? -->
 
 In Book 3, Chap 2, Adam Smith writes that people should own land only as they can productively use:
 
