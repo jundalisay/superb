@@ -3,7 +3,7 @@ title: "Philo"
 heading: "Part 1"
 description: "The ancient philosophers conveyed most of their instruction in the form of dialogue. But dialogues have been little practised in later ages and have seldom succeeded when attempted"
 image: /covers/religion.png
-weight: 30
+weight: 8
 author: David Hume
 icons: /icons/hume.png
 --- 
