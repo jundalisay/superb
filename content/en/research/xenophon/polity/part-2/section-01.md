@@ -1,4 +1,5 @@
 ---
+heading: Section 1
 title: "Lycurgus' Constitution"
 description: "The Polity Of The Athenians And The Spartans"
 image: "/covers/polity.jpg"

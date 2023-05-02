@@ -1,7 +1,17 @@
+---
+heading: Section 13
+title: "The power assigned by Lycurgus to the king during a campaign."
+description: "The Polity Of The Athenians And The Spartans"
+image: "/covers/polity.jpg"
+author: Xenophon
+weight: 10
+---
 
-XIII
 
-I will now give a detailed account of the power and privilege assigned by Lycurgus to the king during a campaign. To begin with, so long as he is on active service, the state maintains the king and those with him. (1) The polemarchs mess with him and share his quarters, so that by dint of constant intercourse they may be all the better able to consult in common in case of need. Besides the polemarch three other members of the peers (2) share the royal quarters, mess, etc. The duty of these is to attend to all matters of commisariat, (3) in order that the king and the rest may have unbroken leisure to attend to affairs of actual warfare.
+
+To begin with, so long as he is on active service, the state maintains the king and those with him. 
+
+(1) The polemarchs mess with him and share his quarters, so that by dint of constant intercourse they may be all the better able to consult in common in case of need. Besides the polemarch three other members of the peers (2) share the royal quarters, mess, etc. The duty of these is to attend to all matters of commisariat, (3) in order that the king and the rest may have unbroken leisure to attend to affairs of actual warfare.
 
  (1) I.e. "the Thirty." See "Ages." i. 7; "Hell." III. iv. 2; Plut.
     "Ages." 6 (Clough, iv. 6); Aristot. "Pol." ii. 9, 29.
@@ -9,6 +19,7 @@ I will now give a detailed account of the power and privilege assigned by Lycurg
  (2) For these {oi omoioi}, see "Cyrop." I. v. 5; "Hell." III. iii. 5.
 
  (3) Lit. "supplies and necessaries."
+
 But I will resume at a somewhat higher point and describe the manner in which the king sets out on an expedition. As a preliminary step, before leaving home he offers sacrifice (in company with (4) his staff) to Zeus Agetor (the Leader), and if the victims prove favourable then and there the priest, (5) who bears the sacred fire, takes thereof from off the altar and leads the way to the boundaries of the land. Here for the second time the king does sacrifice (6) to Zeus and Athena; and as soon as the offerings are accepted by those two divinities he steps across the boundaries of the land. And all the while the fire from those sacrifices leads the way, and is never suffered to go out. Behind follow beasts for sacrifice of every sort.
 
  (4) Lit. reading {kai oi sun auto}, after L. Dindorf, "he and those

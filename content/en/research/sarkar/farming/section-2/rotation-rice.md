@@ -12,25 +12,47 @@ aliases:
 
 ## Rice (Paddy)
 
+
+### 3 harvests: Rice + Peas and lentils
+
 The rái and yellow but not the red varieties of mustard, khesári, the small black variety of peas, Bengal gram and lentils (the small variety) can all be sown as “pigeon crops” with paddy.
 
-The rice is planted in Shrávańa, and then in the last week of Áshvina [[the “pigeon crop” is tossed into the field without tilling the soil or applying fertilizers.]] After the rice has been harvested, the “pigeon crop” remains in the field until maturity.
+The rice is planted in Shrávańa, and then in the last week of Áshvina [[the “pigeon crop” is tossed into the field without tilling the soil or applying fertilizers.]] 
 
-When “pigeon crops” are grown, only three instead of four paddy crops can be harvested in a year, but mixed crops can be cultivated. For example, cow pea may be planted with áus in the month of Aśádha. 
+After the rice has been harvested, the “pigeon crop” remains in the field until maturity.
 
-After the áus paddy has been harvested, the cow pea stands alone in the field because it has a maturing period of nine months. During this period a second associate crop should be sown, preferably a fibre crop. In such cases the field will not yield four crops of paddy in a year. Other crops such as green gram, radish, onion and in certain seasons pisciculture do not interfere with four paddy harvests in a year.
+When “pigeon crops” are grown, only 3 instead of 4 paddy crops can be harvested in a year, but mixed crops can be cultivated. 
+- For example, cow pea may be planted with áus in the month of Aśádha. 
 
-The system for reaping four crops of rice per year is as follows. All varieties of paddy should stay one month, or one and a half months in unusual circumstances, in the nursery, and two and a half or three months in the field after being transplanted as seedlings.
+After the áus paddy has been harvested, the cow pea stands alone in the field because it has a maturing period of 9 months. During this period a second associate crop should be sown, preferably a fibre crop. 
+
+In such cases, the field will not yield 4 crops of paddy in a year. 
+
+Other crops such as green gram, radish, onion and in certain seasons pisciculture do not interfere with 4 paddy harvests in a year.
+
+
+### 4 harvests: Rice + Peas and lentils
+
+The system for reaping 4 crops of rice per year is as follows. 
+
+All varieties of paddy should stay in the nursery 1 month, or 1.5 months in unusual circumstances. They are then transplanted as seedlings and stay 2.5 or 3 months in the field.
 
 The following system should be used for planting paddy:
 
 1. Half of Vaeshákha, Jyaeśt́ha, Aśáŕha and half of Shrávańa – áus paddy.
 
-Plough the field six times in water by tractor. Plough four times in the first two days – two times the first day, two times the second day. Leave the field submerged in water for eight more days. Add organic fertilizers and compost. Plough again two more times. On the last ploughing use NPK (nitrogen, potassium and phosphate) fertilizers if appropriate.
+Plough the field six times in water by tractor. Plough four times in the first two days – two times the first day, two times the second day. Leave the field submerged in water for 8 more days. 
 
-While growing áus paddy, the soil should be wet but not waterlogged. Between every two áus plants, one rainy season radish should be sown. Radish may be sown in the áus field for the entire period. In a transplanted áus field, a “pigeon crop” of green gram may be sown. There should be no accumulation of water in the áus field – water should be able to move freely in and out of the field. Green gram is grown for the second two months. Of all the seasonal varieties of rice, áus paddy gives the lowest yield.
+Add organic fertilizers and compost. Plough again 2 more times. 
+
+On the last ploughing use NPK (nitrogen, potassium and phosphate) fertilizers if appropriate.
+
+While growing áus paddy, the soil should be wet but not waterlogged. Between every two áus plants, one rainy season radish should be sown. 
+
+Radish may be sown in the áus field for the entire period. In a transplanted áus field, a “pigeon crop” of green gram may be sown. There should be no accumulation of water in the áus field – water should be able to move freely in and out of the field. Green gram is grown for the second two months. Of all the seasonal varieties of rice, áus paddy gives the lowest yield.
 
 In the first week of Shrávańa the áus is harvested. Plough and fertilize the field again as above to prepare for the next crop.
+
 
 2. Half of Shrávańa, Bhádra, Áshvina and half of Kárttika – áman paddy.
 
@@ -40,6 +62,7 @@ During the production of áman paddy there should always be a lot of water in t
 Of all the seasonal varieties of rice, áman paddy gives the highest yield. Its straw is also long and very useful in making mats and other products.
 
 One month before the harvest in Áshvina, the seedlings of early boro paddy should be started. After the harvest, the field should again be prepared as above.
+
 
 3. Half of Kárttika, Agraháyańa, Paośa and half of Mágha – early boro paddy.
 
@@ -65,5 +88,3 @@ Seeds from the big onions are used to produce small onions, and the onion tubers
 Kusum flower can be planted as a boundary plant around the late boro field and can also be harvested. If there is enough water, pisciculture may be practiced with late boro and hot small onions.
 
 All paddy requires clay soil. Where there is water in the field, care must be taken to ensure that the heads of the paddy stalks are not submerged.
-
-

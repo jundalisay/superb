@@ -1,10 +1,10 @@
 ---
 heading: Section 8
-title: "The Spartan Economy"
-description: "The Economy Of The Spartans"
+title: "The Spartan Discipline"
+description: "The Discipline of The Spartans"
 image: "/covers/polity.jpg"
 author: Xenophon
-weight: 3
+weight: 16
 ---
 
 

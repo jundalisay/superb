@@ -1,4 +1,5 @@
 ---
+heading: Section 2
 title: "The Athenian Military"
 description: "The Polity Of The Athenians And The Spartans"
 image: "/covers/polity.jpg"
