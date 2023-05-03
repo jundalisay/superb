@@ -1,7 +1,7 @@
 ---
-title:  "THE LUMINIFEROUS MEDIUM, FROM BRADLEY TO FRESNEL"
+title:  "The Luminiferous Medium, From Bradley To Fresnel"
 heading:  "Chapter 4"
-weight: 8
+weight: 20
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
 description: ""
@@ -9,7 +9,17 @@ description: ""
 
 
 
-Although Newton, as we have seen, refrained from committing himself to any doctrine regarding the ultimate nature of light, the writers of the next generation interpreted his criticism of the wave-theory as equivalent to an acceptance of the corpuscular hypothesis. As it happened, the chief optical discovery of this period tended to support the latter theory, by which it was first and most readily explained. In 1728 James Bradley (b. 1692, d. 1762), at that time Savilian Professor of Astronomy at Oxford, sent to the Astronomer Royal (Halley) an "Account of a new discovered motion of the Fix'd Stars."[1] In observing the star γ in the head of the Dragon, he had found that during the winter of 1725–6 the transit across the meridian was continually more southerly, while during the following summer its original position was restored by a motion northwards. Such an effect could not be explained as a result of parallax, and eventually Bradley guessed it to be due to the gradual propagation of light.[2]
+Newton refrained from committing to any doctrine regarding the ultimate nature of light.
+
+The next generation writers interpreted his criticism of the wave-theory as an acceptance of the corpuscular hypothesis. 
+
+The chief optical discovery of this period tended to support the latter theory, by which it was first and most readily explained. 
+
+In 1728 James Bradley (b. 1692, d. 1762), at that time Savilian Professor of Astronomy at Oxford, sent to the Astronomer Royal (Halley) an "Account of a new discovered motion of the Fix'd Stars."[1] 
+
+In observing the star γ in the head of the Dragon, he had found that during the winter of 1725–6 the transit across the meridian was continually more southerly, while during the following summer its original position was restored by a motion northwards. 
+
+Such an effect could not be explained as a result of parallax, and eventually Bradley guessed it to be due to the gradual propagation of light.[2]
 
 A history of the theories of aether and electricity. Whittacker E.T. (1910).pdf
 Thus, let CA denote a ray of light, falling on the line BA; and suppose that the eye of the observer is travelling along BA, with a velocity which is to the velocity of light as BA is to CA. Then the corpuscle of light, by which the object is discernible to the eye at A, would have been at C when the eye was at B. The tube of a telescope must therefore be pointed in the direction BC, in order to receive the rays from an object whose light is really propagated in the direction CA. The angle BCA measures the difference between the real and apparent positions of the object; and it is evident from the figure that the sine of this angle is to the sine of the visible inclination of the object to the line in which the eye is moving, as the velocity of the eye is to the velocity of light. Observations such as Bradley's will therefore enable us to deduce the ratio of the mean orbital velocity of the earth to the velocity of light, or, as it is called, the constant of aberration; from its value Bradley calculated that light is propagated from the sun to the earth in 8 minutes 12 seconds, which, as he remarked, "is as it were a Mean betwixt what had at different times been determined from the eclipses of Jupiter's satellites."[3]

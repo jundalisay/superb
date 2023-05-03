@@ -36,24 +36,15 @@ Jesus said, "Do not tell lies, and do not do what you hate, for all things are p
 sight of heaven. For nothing hidden will not become manifest, and nothing covered will
 remain without being uncovered."
 
-{{< sup v="7" >}} Jesus said, "Blessed is the lion which becomes man when consumed by man; and
-cursed is the man whom the lion consumes, and the lion becomes man."
+{{< sup v="7" >}} "Blessed is the lion which becomes man when consumed by man. Cursed is the man whom the lion consumes, and the lion becomes man."
 
-(8) And he said, "The man is like a wise fisherman who cast his net into the sea and drew it up from the sea full of small fish. Among them the wise fisherman found a fine large fish. He threw all the small fish back into the sea and chose the large fish without difficulty. Whoever has ears to hear, let him hear."
+{{< sup v="8" >}} "The man is like a wise fisherman who cast his net into the sea and drew it up from the sea full of small fish. Among them the wise fisherman found a fine large fish. He threw all the small fish back into the sea and chose the large fish without difficulty. Whoever has ears to hear, let him hear."
 
-(9) Jesus said, "Now the sower went out, took a handful (of seeds), and scattered them.
-Some fell on the road; the birds came and gathered them up. Others fell on the rock, did
-not take root in the soil, and did not produce ears. And others fell on thorns; they choked
-the seed(s) and worms ate them. And others fell on the good soil and it produced good
-fruit: it bore sixty per measure and a hundred and twenty per measure."
+{{< sup v="9" >}} "Now the sower went out, took a handful of seeds, and scattered them. Some fell on the road; the birds came and gathered them up. Others fell on the rock, did not take root in the soil, and did not produce ears. And others fell on thorns; they choked the seed(s) and worms ate them. And others fell on the good soil and it produced good fruit: it bore 60 per measure and 120 per measure."
 
-(10) Jesus said, "I have cast fire upon the world, and see, I am guarding it until it blazes."
+{{< sup v="10" >}} "I have cast fire upon the world, and see, I am guarding it until it blazes."
 
-(11) Jesus said, "This heaven will pass away, and the one above it will pass away. The
-dead are not alive, and the living will not die. In the days when you consumed what is
-dead, you made it what is alive. When you come to dwell in the light, what will you do?
-On the day when you were one you became two. But when you become two, what will
-you do?"
+{{< sup v="11" >}} "This heaven will pass away, and the one above it will pass away. The dead are not alive, and the living will not die. In the days when you consumed what is dead, you made it what is alive. When you come to dwell in the light, what will you do? On the day when you were one you became two. But when you become two, what will you do?"
 
 (12) The disciples said to Jesus, "We know that you will depart from us. Who is to be our
 leader?"

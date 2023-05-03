@@ -1,7 +1,7 @@
 ---
-title:  "THE AETHER AS AN ELASTIC SOLID"
+title:  "The Aether As An Elastic Solid"
 heading:  "Chapter 5"
-weight: 10
+weight: 30
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
 description: ""

@@ -1,13 +1,11 @@
 ---
-title: "The Theory Of Aether And Electrons In The Closing Years Of The Nineteenth Century"
+title: "The Theory Of Aether And Electrons In The End of the 19th Century"
 heading: "Chapter 12"
-weight: 24
+weight: 100
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
 description: ""
 ---
-
-
 
 
 Maxwell and Hertz tried to extend the theory of the electromagnetic field to the case in which ponderable bodies are in motion. But they were not successful. 
@@ -22,7 +20,11 @@ The phenomena of aberration had been explained by Young[4] on the assumption tha
 
 But Stokes[5] showed in 1845 that this is not the only possible explanation.
 
-For suppose that the motion of the earth communicates motion to the neighbouring portions of the aether; this may be regarded as superposed on the vibratory motion which the aethereal particles have when transmitting light: the orientation of the wave-fronts of the light will consequently in general be altered; and the direction in which a heavenly body is seen, being normal to the wavefronts will thereby be allected. But if the aethereal motion is irrotational, so that the elements of the aether do not rotate, it is easily seen that the direction of propagation of the light in space is unaffected; the luminous disturbance is still propagated in straight lines from the star, while the normal to the wave-front at any point deviates from this line of propagation by the small angle u/c, where u denotes the component of the aethereal velocity at the point, resolved at right angles to the line of propagation, and c denotes the velocity of light. If it be supposed that the aether near the earth is at rest relatively to the earth's surface, the star will appear to be displaced towards the direction in which the earth is moving, through an angle measured by the ratio of the velocity of the earth to the velocity of light, multiplied by the sine of the angle between the direction of the earth's motion and the line joining the earth and star. This is precisely the law of aberration.
+For suppose that the motion of the earth communicates motion to the neighbouring portions of the aether; this may be regarded as superposed on the vibratory motion which the aethereal particles have when transmitting light: the orientation of the wave-fronts of the light will consequently in general be altered; and the direction in which a heavenly body is seen, being normal to the wavefronts will thereby be allected. 
+
+But if the aethereal motion is irrotational, so that the elements of the aether do not rotate, it is easily seen that the direction of propagation of the light in space is unaffected; the luminous disturbance is still propagated in straight lines from the star, while the normal to the wave-front at any point deviates from this line of propagation by the small angle u/c, where u denotes the component of the aethereal velocity at the point, resolved at right angles to the line of propagation, and c denotes the velocity of light. 
+
+If it be supposed that the aether near the earth is at rest relatively to the earth's surface, the star will appear to be displaced towards the direction in which the earth is moving, through an angle measured by the ratio of the velocity of the earth to the velocity of light, multiplied by the sine of the angle between the direction of the earth's motion and the line joining the earth and star. This is precisely the law of aberration.
 
 An objection to Stokes's theory has been pointed out by several writers, amongst others by H. A. Lorentz.[6] 
 
@@ -54,20 +56,6 @@ Savary[12] long ago remarked that when the plane of the orbit of a double star i
 
 Yvon Villarceau[13] showed that the effect might be represented by a constant alteration of the elliptic elements of the orbit (which alteration is of course beyond detection), together with a periodic inequality, which may be completely specified by the following statement: the apparent coordinates of one star relative to the other have the values which in the absence of this effect they would have at an earlier or later instant, differing from the actual time by the amount
 
-�
-1
-−
-�
-2
-�
-1
-+
-�
-2
-⋅
-�
-�
-
 where m1, and m2 denote the masses of the stars, c the velocity of light, and z the actual distance of the two stars from each other at the time when the light was emitted, resolved along the line of sight. In the existing state of double-star astronomy, this effect would be masked by errors of observation.
 
 Villarceau also examined the consequences of supposing that the velocity of light depends on the velocity of the source by which it is emitted.
@@ -76,13 +64,21 @@ If, for instance, the velocity of light from a star occulted by the moon were le
 
 The amount by which the image of the star could encroach on that of the disk on this account could not be so much as 0″·71; encroachment to the extent of more than 1″ has been observed, but is evidently to be attributed for the most part to other causes.
 
-Among the consequences of the finite velocity of propagation of light which are of importance in astronomy, a leading place must be assigned to the principle enunciated in 1842 by Christian Doppler,[14] that the motion of a source of light relative to an observer modifies the period of the disturbance which is received by him. The phenomenon resembles the depression of the pitch of a note when the source of sound is receding from the observer. In either case, the period of the vibrations perceived by the observer is (c + v)/c × the natural period, where v denotes the velocity of separation of the source and observer, and c denotes the velocity of propagation of the disturbance. If, e.g., the velocity of separation is equal to the orbital velocity of the earth, the D lines of sodium in the spectrum of the source will be displaced towards the red, as compared with lines derived from a terrestrial sodium flame, bs about one-tenth of the distance between them. The application of this principle to the determination of the relative velocity of ​stars in the line of sight, which has proved of great service in astrophysical research, was suggested by Fizeau in 1848.[15]
+Among the consequences of the finite velocity of propagation of light which are of importance in astronomy, a leading place must be assigned to the principle enunciated in 1842 by Christian Doppler,[14] that the motion of a source of light relative to an observer modifies the period of the disturbance which is received by him. The phenomenon resembles the depression of the pitch of a note when the source of sound is receding from the observer. 
 
-Passing now from the astronomical observatory, we must examine the information which has been gained in the physical laboratory regarding the effect of the earth's motion on optical phenomena. We have already[16] referred to the investigations by which the truth of Fresnel's formula was tested. An experiment of a different type was suggested in 1852 by Fizeau,[17] who remarked that, unless the aether is carried along by the earth, the radiation emitted by a terrestrial source should have different intensities in different directions. It was, however, shown long afterwards by Lorentz[18] that such an experiment would not be expected on theoretical grounds to yield a positive result; the amount of radiant energy imparted to an absorbing body is independent of the earth's motion. A few years later Fizeau investigated[19] another possible effect. If a beam of polarized light is sent obliquely through a glass plate, the azimuth of polarization is altered to an extent which depends, amongst other things, on the refractive index of the glass. Fizeau performed this experiment with sunlight, the light being sent through the glass in the direction of the terrestrial motion, and in the opposite direction; the readings seemed to differ in the two cases, but on account of experimental difficulties the result was indecisive.
+In either case, the period of the vibrations perceived by the observer is (c + v)/c × the natural period, where v denotes the velocity of separation of the source and observer, and c denotes the velocity of propagation of the disturbance. If, e.g., the velocity of separation is equal to the orbital velocity of the earth, the D lines of sodium in the spectrum of the source will be displaced towards the red, as compared with lines derived from a terrestrial sodium flame, bs about one-tenth of the distance between them. The application of this principle to the determination of the relative velocity of ​stars in the line of sight, which has proved of great service in astrophysical research, was suggested by Fizeau in 1848.[15]
+
+Passing now from the astronomical observatory, we must examine the information which has been gained in the physical laboratory regarding the effect of the earth's motion on optical phenomena. We have already[16] referred to the investigations by which the truth of Fresnel's formula was tested. 
+
+An experiment of a different type was suggested in 1852 by Fizeau,[17] who remarked that, unless the aether is carried along by the earth, the radiation emitted by a terrestrial source should have different intensities in different directions. It was, however, shown long afterwards by Lorentz[18] that such an experiment would not be expected on theoretical grounds to yield a positive result; the amount of radiant energy imparted to an absorbing body is independent of the earth's motion. A few years later Fizeau investigated[19] another possible effect. 
+
+If a beam of polarized light is sent obliquely through a glass plate, the azimuth of polarization is altered to an extent which depends, amongst other things, on the refractive index of the glass. Fizeau performed this experiment with sunlight, the light being sent through the glass in the direction of the terrestrial motion, and in the opposite direction; the readings seemed to differ in the two cases, but on account of experimental difficulties the result was indecisive.
 
 Some years later, the effect of the earth's motion on the rotation of the plane of polarization of light propagated along the axis of a quartz crystal was investigated by Mascart.[20] The result was negative, Mascart stating that the rotation could not have been altered by more than the (1/40,000)th part when the orientation of the apparatus was reversed from that of the terrestrial motion to the opposite direction. This was afterwards confirmed by Lord Rayleigh,[21] who found that the alteration, if it existed, could not amount to (1/100,000)th part.
 
-In terrestrial methods of determining the velocity of light the ray is made to retrace its path, so that any velocity which the earth might possess with respect to the luminiferous medium would affect the time of the double passage only by an amount proportional to the square of the constant of aberration.[22] In 1881, however, A. A. Michelson[23] remarked that the effect, though of the second order, should be manifested by a measurable difference between the times for rays describing equal paths parallel and perpendicular respectively to the direction of the earth's motion. Ho produced interference-fringes between two pencils of light which had traversed paths perpendicular to each other; but when the apparatus was rotated through a right angle, so that the difference would be reversed, the expected displacement of the fringes could not be perceived. This result was regarded by Michelson himself as a vindication of Stokes's theory,[24] in which the aether in the neighbourhood of the earth is supposed to be set in motion. Lorentz[25], however, showed that the quantity to be measured had only half the value supposed by Michelson, and suggested that the negative result of the experiment might be explained by that combination of Fresnel's and Stokes's theories which was developed in his own memoir[26]; since, if the velocity of the aether near the earth were (say) half the earth's velocity, the displacement of Michelson's fringes would be insensible.
+In terrestrial methods of determining the velocity of light the ray is made to retrace its path, so that any velocity which the earth might possess with respect to the luminiferous medium would affect the time of the double passage only by an amount proportional to the square of the constant of aberration.[22] In 1881, however, A. A. Michelson[23] remarked that the effect, though of the second order, should be manifested by a measurable difference between the times for rays describing equal paths parallel and perpendicular respectively to the direction of the earth's motion. 
+
+Ho produced interference-fringes between two pencils of light which had traversed paths perpendicular to each other; but when the apparatus was rotated through a right angle, so that the difference would be reversed, the expected displacement of the fringes could not be perceived. This result was regarded by Michelson himself as a vindication of Stokes's theory,[24] in which the aether in the neighbourhood of the earth is supposed to be set in motion. Lorentz[25], however, showed that the quantity to be measured had only half the value supposed by Michelson, and suggested that the negative result of the experiment might be explained by that combination of Fresnel's and Stokes's theories which was developed in his own memoir[26]; since, if the velocity of the aether near the earth were (say) half the earth's velocity, the displacement of Michelson's fringes would be insensible.
 
 <!-- A sequel to the experiment of Michelson and Morley was performed -->
 
@@ -148,407 +144,34 @@ The theory which he adopted in this fundamental case was a combination of Clausi
 
 Suppose that e(x, y, z) and e′(x′, y′, z′) are two electrons. In the theory of Clausius,[37] the kinetic potential of their mutual action is
 
-�
-�
-′
-�
-(
-�
-˙
-�
-˙
-′
-+
-�
-˙
-�
-˙
-′
-+
-�
-˙
-�
-˙
-′
-−
-�
-2
-)
-{\displaystyle {\frac {ee^{\prime }}{r}}({\dot {x}}{\dot {x}}^{\prime }+{\dot {y}}{\dot {y}}^{\prime }+{\dot {z}}{\dot {z}}^{\prime }-c^{2})};
 
 so when any number of electrons are present, the part of the ​kinetic potential which concerns any one of them—say, e—may be written
 
-�
-�
-=
-�
-(
-�
-�
-�
-˙
-+
-�
-�
-�
-˙
-+
-�
-�
-�
-˙
-−
-�
-2
-�
-)
 
 where a and φ denote potential functions, defined by the
-
-�
-=
-∭
-�
-′
-�
-′
-�
- 
-�
-�
-′
- 
-�
-�
-′
- 
-�
-�
-′
-,
-�
-=
-∭
-�
-′
-�
- 
-�
-�
-′
- 
-�
-�
-′
- 
-�
-�
 
 ρ denoting the volume-density of electric charge, and v its velocity, and the integration being taken over all space.
 
 We shall now reject Clausius' assumption that electrons act instantaneously at a distance, and replace it by the assumption that they act on each other only through the mediation of an aether which fills all space, and satisfies Maxwell's equations, This modification may be effected in Clausius' theory without difficulty; for, as we have seen,[38] if the state of Maxwell's aether at any point is defined by the electric vector d and magnetic vector h,[39] these vectors may be expressed in terms of potentials a and φ by the equations
 
-�
-=
-�
-2
-grad 
-�
-−
-�
-˙
-,
-ℎ
-=
-curl 
-�
-
 and the functions a and φ may in turn be expressed in terms of the electric charges by the equations
-
-�
-=
-∭
-{
-(
-�
-�
-�
-¯
-)
-′
-/
-�
-}
- 
-�
-�
-′
- 
-�
-�
-′
- 
-�
-�
-′
-,
-�
-=
-∭
-{
-(
-�
-¯
-)
-′
-/
-�
-}
- 
-�
-�
-′
- 
-�
-�
-′
- 
-�
-�
 
 where the bars indicate that the values of (ρvx)′ and (ρ)′ refer to the instant (t - r/c). Comparing these formulae with those given above for Clausius' potentials, we see that the only change which it is necessary to make in Clausius' theory is that of retarding the potentials in the way indicated by L. Lorenz.[40] The electric and magnetic forces, thus defined in terms of the ​position and motion of the charges, satisfy the Maxwellian equations
 
-{
-div 
-�
-=
-4
-�
-�
-2
-�
-,
-div 
-ℎ
-=
-0
-,
-curl 
-�
-=
-−
-ℎ
-˙
-,
-curl 
-ℎ
-=
-4
-�
-�
-�
-.
 
 The theory of Lorentz is based on these four aethereal equations of Maxwell, together with the equation which determines the ponderomotive force on a charged particle; this, which we shall now derive, is the contribution furnished by Clausius' theory. The Lagrangian equations of motion of the electron e are
 
-�
-�
-�
-(
-∂
-�
-∂
-�
-˙
-)
-−
-∂
-�
-∂
-�
-=
-0
 
 and two similar equations, where L denotes the total kinetic potential due to all causes, electric and mechanical. The ponderomotive force exerted on the electron by the electromagnetic field has for its x-component
 
-∂
-�
-�
-∂
-�
-−
-�
-�
-�
-(
-∂
-�
-�
-∂
-�
-˙
-)
-
-or
-
-�
-(
-∂
-�
-�
-∂
-�
-�
-˙
-+
-∂
-�
-�
-∂
-�
-�
-˙
-+
-∂
-�
-�
-∂
-�
-�
-˙
-−
-�
-2
-∂
-�
-∂
-�
-)
-−
-�
-�
-�
-�
-�
-�
-
 which, since
 
-�
-�
-�
-�
-�
-=
-∂
-�
-�
-∂
-�
-+
-∂
-�
-�
-∂
-�
-�
-˙
-+
-∂
-�
-�
-∂
-�
-�
-˙
-+
-∂
-�
-�
-∂
-�
-�
 
 reduces to
 
-−
-�
-(
-�
-2
-∂
-�
-∂
-�
-+
-∂
-�
-�
-∂
-�
-)
-+
-�
-�
-˙
-(
-∂
-�
-�
-∂
-�
-−
-∂
-�
-�
-∂
-�
-)
-+
-�
-�
-˙
-(
-∂
-�
-�
-∂
-�
-−
-∂
-�
-�
-∂
-�
 
-or
-�
-�
-�
-+
-�
-(
-�
-˙
-ℎ
-�
-−
-�
-˙
-ℎ
-�
-)
 so that the force in question is
 
-�
-�
-+
-�
-[
-�
-.
-ℎ
-]
 
 This was Lorentz' expression for the ponderomotive force on an electrified corpuscle of charge e moving with velocity v in a field defined by the electric force d and magnetic force h.
 
@@ -559,170 +182,30 @@ The electromagnetic field in ponderable bodies, which to our senses appears in g
 Lorentz supposed that the phenomena of electrostatic charge and of conduction-currents are due to the presence or motion of simple electrons such as have been considered above. The part of 
 �
 ¯{\displaystyle {\bar {\rho }}} arising from these is the measurable density of electrostatic charge; this we shall denote by ρ1. If w denote the velocity of the ponderable matter, and if the velocity v of the electrons be written w + u, then the quantity 
-�
-�
-¯{\displaystyle {\bar {\rho \mathbf {v} }}}, so far as it arises from electrons of this type, may be written 
-�
-1
-�
-+
-�
-�
-¯{\displaystyle \rho _{1}\mathbf {w} +{\bar {\rho \mathbf {u} }}}. The former of these terms represents the convection-current, and the latter the conduction-current.
 
-Consider next the phenomena of dielectrics. Following Faraday, Thomson, and Mossotti,[42] Lorentz supposed that each dielectric molecule contains corpuscles charged vitreously and also corpuscles charged resinously. These in the absence of an ​external field are so arranged as to neutralize each other's electric fields outside the molecule. For simplicity we may suppose that in each molecule only one corpuscle, of charge e, is capable of being displaced from its position; it follows from what has been assumed that the other corpuscles in the molecule exert the same electrostatic action as a charge – e situated at the original position of this corpuscle. Thus if e is displaced to an adjacent position, the entire molecule becomes equivalent to an electric doublet, whose moment is measured by the product of e and the displacement of e. The molecules in unit volume, taken together, will in this way give rise to a (vector) electric moment per unit volume, P, which may be compared to the (vector) intensity of magnetization in Poisson's theory of magnetism.[43] As in that theory, we may replace the doublet-distribution P of the scalar quantity ρ by a volume-distribution of ρ, determined by the equation[44]
+, so far as it arises from electrons of this type, may be written 
 
-�
-¯
-=
-−
-div 
-�
-{\displaystyle {\bar {\rho }}=-{\text{div }}\mathbf {P} }.
+ The former of these terms represents the convection-current, and the latter the conduction-current.
+
+Consider next the phenomena of dielectrics. Following Faraday, Thomson, and Mossotti,[42] Lorentz supposed that each dielectric molecule contains corpuscles charged vitreously and also corpuscles charged resinously. These in the absence of an ​external field are so arranged as to neutralize each other's electric fields outside the molecule. For simplicity we may suppose that in each molecule only one corpuscle, of charge e, is capable of being displaced from its position; it follows from what has been assumed that the other corpuscles in the molecule exert the same electrostatic action as a charge – e situated at the original position of this corpuscle. Thus if e is displaced to an adjacent position, the entire molecule becomes equivalent to an electric doublet, whose moment is measured by the product of e and the displacement of e. The molecules in unit volume, taken together, will in this way give rise to a (vector) electric moment per unit volume, P, which may be compared to the (vector) intensity of magnetization in Poisson's theory of magnetism.[43] As in that theory, we may replace the doublet-distribution P of the scalar quantity ρ by a volume-distribution of ρ, determined by the equation[44
 
 This represents the part of 
-�
-¯{\displaystyle {\bar {\rho }}} due to the dielectric molecules.
+
+ due to the dielectric molecules.
 
 Moreover, the scalar quantity ρwx, has also a doublet-distribution, to which the same theorem may be applied; the average value of the part of ρwx, due to dielectric molecules, is therefore determined by the equation
 
-�
-�
-�
-¯
-=
-−
-div 
-(
-�
-�
-�
-)
-=
-−
-�
-�
-div 
-�
-−
-(
-�
-.
-∇
-)
-�
-�
-{\displaystyle {\bar {\rho w_{x}}}=-{\text{div }}(w_{x}\mathbf {P} )=-w_{x}{\text{div }}\mathbf {P} -(\mathbf {P.} \nabla )w_{x}},
 
-or
+We have now to find that part of  which is due to dielectric molecules. For a single doublet of moment p we have, by differentiation,
 
-�
-�
-¯
-=
-−
-div 
-�
-.
-�
-−
-(
-�
-.
-∇
-)
-�
-{\displaystyle {\bar {\rho \mathbf {w} }}=-{\text{div }}\mathbf {P.w} -(\mathbf {P.} \nabla )\mathbf {w} }.
-
-We have now to find that part of 
-�
-�
-¯{\displaystyle {\bar {\rho \mathbf {u} }}} which is due to dielectric molecules. For a single doublet of moment p we have, by differentiation,
-
-∭
-�
-�
- 
-�
-�
- 
-�
-�
- 
-�
-�
-=
-�
-�
-/
-�
-�
-{\displaystyle \textstyle \iiint \rho \mathbf {u} \ dx\ dy\ dz=d\mathbf {p} /dt},
 
 where the integration is taken throughout the molecule; so that
 
-∭
-�
-�
- 
-�
-�
- 
-�
-�
- 
-�
-�
-=
-(
-�
-/
-�
-�
-)
-(
-�
-�
-)
-{\displaystyle \textstyle \iiint \rho \mathbf {u} \ dx\ dy\ dz=(d/dt)(V\mathbf {P} )},
-
 where the integration is taken throughout a volume V, which ​encloses a large number of molecules, but which is small compared with measurable quantities; and this equation may be written
 
-�
-�
-¯
-=
-1
-�
-�
-�
-�
-(
-�
-�
-)
-{\displaystyle {\bar {\rho \mathbf {u} }}={\frac {1}{V}}{\frac {d}{dt}}(VP)}.
+
 
 Now, if Ṗ refers to differentiation at a fixed point of space (as opposed to a differentiation which accompanies the moving body), we have
-
-(
-�
-/
-�
-�
-)
-�
-=
-�
-˙
-+
-(
-�
-.
-∇
-)
-�
-{\displaystyle (d/dt)\mathbf {P} =\mathbf {\dot {P}} +(\mathbf {w.} \nabla )\mathbf {P} },
 
 and
 (
@@ -811,131 +294,24 @@ This equation determines the part of
 
 The general equations of the aether thus become, when the averaging process is performed,
 
-div 
-�
-¯	
-=
-4
-�
-�
-2
-�
-1
-−
-4
-�
-�
-2
-div 
-�
-,
-div 
-ℎ
-¯
-=
-0
-,
-curl 
-�
-¯	
-=
-−
-ℎ
-˙
-¯
-,
-curl 
-ℎ
-¯	
-=
-(
-1
-/
-�
-2
-)
-�
-˙
-¯
-+
-4
-�
-{
 convection-current
 +
 conduction-current
-+
-�
-˙
-+
-curl 
-[
-�
-.
-�
-]
-}
-.
-{\displaystyle {\begin{matrix}{\text{div }}\mathbf {\bar {d}} &=&4\pi c^{2}\rho _{1}-4\pi c^{2}{\text{div }}\mathbf {P} ,\qquad {\text{div }}\mathbf {\bar {h}} =0,\\{\text{curl }}\mathbf {\bar {d}} &=&-\mathbf {\bar {\dot {h}}} ,\\{\text{curl }}\mathbf {\bar {h}} &=&(1/c^{2})\mathbf {\bar {\dot {d}}} +4\pi \left\{{\begin{matrix}{\text{convection-current}}+{\text{conduction-current}}\\+\mathbf {\dot {P}} +{\text{curl }}[\mathbf {P.w} ]\end{matrix}}\right\}.\end{matrix}}}.
+
 
 In order to assimilate those to the ordinary electromagnetic equations, we must evidently write
 
-�
-¯
-=
-�
 ,
 the electric force;
-(
-1
-/
-4
-�
-�
-2
-)
-�
-+
-�
-=
-�
+
 ,
 the electric induction;
-ℎ
-¯
-=
-�
+
 ,
 the electric vector.
-{\displaystyle {\begin{matrix}\mathbf {\bar {d}} =\mathbf {E} ,&{\text{the electric force;}}\\(1/4\pi c^{2})\mathbf {E} +\mathbf {P} =\mathbf {D} ,&{\text{the electric induction;}}\\\mathbf {\bar {h}} =\mathbf {H} ,&{\text{the electric vector.}}\end{matrix}}}
+
 
 The equations then become (writing ρ for ρ1, as there is no longer any need to use the subscript),
-
-div 
-�
-=
-�
-,
-−	
-curl 
-�
-=
-�
-˙
-,
-div 
-�
-=
-0
-,
-curl 
-�
-=
-4
-�
-�
-,
-{\displaystyle {\begin{matrix}{\text{div }}\mathbf {D} &=&\rho ,\qquad \qquad -&{\text{curl }}\mathbf {E} &=&\mathbf {\dot {H}} ,\\{\text{div }}\mathbf {H} &=&0,\qquad \qquad &{\text{curl }}\mathbf {H} &=&4\pi \mathbf {S} ,\end{matrix}}}
 
 where
 
@@ -953,139 +329,16 @@ That a magnetic field is produced when an uncharged dielectric is in motion at r
 
 Hitherto we have taken no account of the possible magnetization of the ponderable body. This would modify the equations in the usual manner,[51] so that they finally take the form
 
-div 
-�
-=
-�
-,
-(
-�
-)
-div 
-�
-=
-0
-,
-(
-�
-�
-)
-curl 
-�
-=
-4
-�
-�
-,
-(
-�
-�
-�
-)
-−
-curl 
-�
-=
-�
-˙
-,
-(
-�
-�
-)
-,
-{\displaystyle {\begin{matrix}{\text{div }}&\mathbf {D} &=&\rho ,\qquad \qquad (I)\\{\text{div }}&\mathbf {B} &=&0,\qquad \qquad (II)\\{\text{curl }}&\mathbf {H} &=&4\pi \mathbf {S} ,\qquad \qquad (III)\\-{\text{curl }}&\mathbf {E} &=&\mathbf {\dot {B}} ,\qquad \qquad (IV),\end{matrix}}}
-
 where S denotes the total current formed of the displacementcurrent, the convection-current, the conduction-current, and the current of dielectric convection. Moreover, since
-
-�
-=
-�
-�
-¯
-+
-�
-˙
-/
-4
-�
-�
-2
-{\displaystyle \mathbf {S} ={\bar {\rho \mathbf {v} }}+\mathbf {\dot {d}} /4\pi c^{2}},
 
 we have
 
-div 
-�
-=
-div 
-�
-�
-¯	
-+
-(
-1
-/
-4
-�
-�
-2
-)
-div 
-(
-∂
-�
-¯
-/
-∂
-�
-)
-div 
- 
-=
-div 
-�
-�
-¯	
-+
-∂
-�
-¯
-/
-∂
-�
-{\displaystyle {\begin{matrix}{\text{div }}\mathbf {S} &=&{\text{div }}{\bar {\rho \mathbf {v} }}&+&(1/4\pi c^{2}){\text{div }}(\partial \mathbf {\bar {d}} /\partial t)\\{\text{div }}\ &=&{\text{div }}{\bar {\rho \mathbf {v} }}&+&\partial {\bar {\rho }}/\partial t\end{matrix}}},
-
-​which vanishes by virtue of the principle of conservation of electricity. Thus
-div 
-�
-=
-0
-,
-(
-�
-)
-{\displaystyle {\text{div }}\mathbf {S} =0,\qquad \qquad (V)}
+which vanishes by virtue of the principle of conservation of electricity. Thus
 
 or the total current is a circuital vector, Equations (I) to (V) are the fundamental equations of Lorentz' theory of electrons.
 
 We have now to consider the relation by which the polarization P of dielectrics is determined. If the dielectric is moving with velocity w, the ponderomotive force on unit electric charge moving with it is (as in all theories)[52]
 
-�
-′
-=
-�
-+
-[
-�
-.
-�
-]
-.
-(
-1
-)
-{\displaystyle \mathbf {E} ^{\prime }=\mathbf {E} +[\mathbf {w.B} ].\qquad \qquad (1)}
 
 In order to connect P with E′, it is necessary to consider the motion of the corpuscles. Let e denote tho charge and m the mass of a corpuscle, (ξ, η, ζ, ) its displacement from its position of equilibrium, k2(ξ, η, ζ, ) the restitutive force which retains it in the vicinity of this point; then the equations of motion of the corpuscle are
 
@@ -1128,408 +381,46 @@ and similar equations in η and ζ. When the corpuscle is set in motion by light
 
 Substituting these values in the equations of motion, we obtain
 
-�
-(
-�
-2
-−
-�
-�
-2
-)
-=
-�
-�
-0
 ,
 and therefore
-�
-(
-�
-2
-−
-�
-�
-2
-)
-=
-�
-�
-�
-′{\displaystyle A(k^{2}-mn^{2})=eE_{0},\qquad {\text{and therefore}}\qquad \xi (k^{2}-mn^{2})=eE_{x}^{\prime }}.
 
 Thus, if N denote the number of polarizable molecules per unit volume, the polarization is determined by the equation
 
-�
-=
-�
-�
-(
-�
-,
-�
-,
-�
-)
-=
-�
-�
-2
-�
-′
-/
-(
-�
-2
-−
-�
-�
-2
-)
-{\displaystyle \mathbf {P} =Ne(\xi ,\eta ,\zeta )=Ne^{2}\mathbf {E} ^{\prime }/(k^{2}-mn^{2})}.
 
 In the particular case in which the dielectric is at rest, this equation gives
-
-=
-(
-1
-/
-4
-�
-�
-2
-)
-�
-+
-�
-=
-(
-1
-/
-4
-�
-�
-2
-)
-�
-+
-�
-�
-2
-�
-/
-(
-�
-2
-−
-�
-�
-2
-)
-{\displaystyle =(1/4\pi c^{2})\mathbf {E} +\mathbf {P} =(1/4\pi c^{2})\mathbf {E} +Ne^{2}\mathbf {E} /(k^{2}-mn^{2})}.
-
 But, as we have seen[53] D bears to E the ratio μ2/4πc2, where μ ​denotes the refractive index of the dielectric; and therefore the refractive index is determined in terms of the frequency by the equation
-
-�
-2
-=
-1
-+
-4
-�
-�
-2
-�
-2
-�
-/
-(
-�
-2
-−
-�
-�
-2
-)
-{\displaystyle \mu ^{2}=1+4\pi e^{2}c^{2}N/(k^{2}-mn^{2})}.
 
 This formula is equivalent to that which Maxwell and Sellmeier[54] had derived from the elastic-solid theory. Though superficially different, the derivations are alike in their essential feature, which is the assumption that the molecules of the dielectric contain systems which possess free periods of vibration, and which respond to the oscillations of the incident light. The formula may be derived on electromagnetic principles without any explicit reference to electrons; all that is necessary is to assume that the dielectric polarization has a free period of vibration.[55]
 
 When the luminous vibrations are very slow, so that n is small, μ2 reduces to the dielectric constant ε[56]; so that the theory of Lorentz leads to the expression
 
-�
-=
-1
-+
-4
-�
-�
-�
-2
-�
-2
-/
-�
-2
-{\displaystyle \epsilon =1+4\pi Ne^{2}c^{2}/k^{2}}
-
-​for the specific inductive capacity in terms of the number and circumstances of the electrons.[57]
+for the specific inductive capacity in terms of the number and circumstances of the electrons.[57]
 Returning now to the case in which the dielectric is supposed to be in motion, the equation for the polarization may be written
 
-4
-�
-�
-2
-�
-=
-(
-�
-2
-−
-1
-)
-�
-′
-;
-(
-2
-)
-{\displaystyle 4\pi c^{2}\mathbf {P} =(\mu ^{2}-1)\mathbf {E} ^{\prime };\qquad \qquad (2)}
 
 from this equation, Fresnel's formula for the velocity of light in a moving dielectric may be deduced. For, let the axis of z be taken parallel to the direction of motion of the dielectric, which is supposed to be also the direction of propagation of the light; and, considering a plane-polarized wave, take the axis of x parallel to the electric vector, so that the magnetic vector must be parallel to the axis of y. Then equation (III) above becomes
-
-−
-∂
-�
-�
-/
-∂
-�
-=
-4
-�
-�
-˙
-�
-+
-4
-�
-�
-∂
-�
-�
-/
-∂
-�
-{\displaystyle -\partial H_{y}/\partial z=4\pi \mathbf {\dot {D}} _{x}+4\pi w\partial P_{x}/\partial z};
-
 equation (IV) becomes (assuming B equal to II, as is always the case in optics),
-
-−
-∂
-�
-�
-/
-∂
-�
-=
-�
-˙
-�
-{\displaystyle -\partial E_{x}/\partial z={\dot {H}}_{y}}.
-
 The equation which defines the electric induction gives
-
-�
-�
-=
-(
-1
-/
-4
-�
-�
-2
-)
-�
-�
-+
-�
-�
-{\displaystyle D_{x}=(1/4\pi c^{2})E_{x}+P_{x}};
 
 and equations (1) and (2) give
 
-4
-�
-�
-2
-�
-�
-=
-(
-�
-2
-−
-1
-)
-(
-�
-�
-−
-�
-�
-�
-)
-{\displaystyle 4\pi c^{2}P_{x}=(\mu ^{2}-1)(E_{x}-wH_{y})}.
-
 Eliminating D., Px, and Ily, we have
-
-�
-2
-∂
-2
-�
-�
-∂
-�
-2
-=
-∂
-2
-�
-�
-∂
-�
-2
-+
-(
-�
-2
-−
-1
-)
-(
-∂
-∂
-�
-+
-�
-∂
-∂
-�
-)
-2
-�
-�
-{\displaystyle c^{2}{\frac {\partial ^{2}E_{x}}{\partial z_{2}}}={\frac {\partial ^{2}E_{x}}{\partial t^{2}}}+\left(\mu ^{2}-1\right)\left({\frac {\partial }{\partial t}}+w{\frac {\partial }{\partial z}}\right)^{2}E_{x}};
-
 or, neglecting w/cº,
 
-∂
-2
-�
-�
-∂
-�
-2
-=
-�
-2
-�
-2
-∂
-2
-�
-�
-∂
-�
-2
-+
-�
-2
-∂
-2
-�
-�
-∂
-�
-∂
-�
-{\displaystyle {\frac {\partial ^{2}E_{x}}{\partial z^{2}}}={\frac {\mu ^{2}}{c^{2}}}{\frac {\partial ^{2}E_{x}}{\partial t^{2}}}+{\frac {}{c^{2}}}{\frac {\partial ^{2}E_{x}}{\partial t\partial z}}}.[58]
-
 Substituting 
-�
-�
-=
-�
-�
-(
-�
-−
-�
-/
-�
-)
-−
-1
+
 {\displaystyle E_{x}=e^{n(t-z/V){\sqrt {-1}}}}, so that V denotes the velocity of light in the moving dielectric with respect to the fixed aether we have
 
-�
-2
-=
-�
-2
-�
-2
-−
-2
-�
-(
-�
-2
-−
-1
-)
-�
-{\displaystyle c^{2}=\mu ^{2}V^{2}-2w(\mu ^{2}-1)V},
 
 ​or (neglecting w2/c2)
-�
-=
-�
-�
-+
-�
-2
-−
-1
-�
-2
-�
-{\displaystyle V={\frac {c}{\mu }}+{\frac {\mu ^{2}-1}{\mu ^{2}}}w},
+
 
 which is the formula of Fresnel.[59] The hypothesis of Fresnel, that a ponderable body in motion carries with it the excess of aether which it contains as compared with space free from matter, is thus seen to be transformed in Lorentz' theory into the supposition that the polarized molecules of the dielectric, like so many small condensers, increase the dielectric constant, and that it is (so to speak) this augmentation of the dielectric constant which travels with the moving matter. One evident objection to Fresnel's theory, namely, that it required the relative velocity of aether and matter to be different for light of different colours, is thus removed; for the theory of Lorentz only requires that the dielectric constant should have different values for light of different colours, and of this a satisfactory explanation is provided by the theory of dispersion.
 
 The correctness of Lorentz' hypothesis, as opposed to that of Hertz (in which the whole of the contained aether was supposed to be transported with the moving body), was afterwards confirmed by various experiments. In 1901 R. Blondlot[60] drove a current of air through a magnetic field, at right angles to the lines of magnetic force. The air-current was made to pass between the faces of a condenser, which were connected by a wire, so as to be at the same potential. An electromotive force E′ would be produced in the air by its motion in the magnetic field; and, according to the theory of Hertz, this should produce an electric induction D of amount (ε/4πc2)E′ (where ε denotes the specific inductive capacity of the air, which is practically unity); so that, according to Hertz, the faces of the condenser should become charged. According to Lorentz theory, on the other hand, the electric induction D is determined by the equation
 
-4
-�
-�
-2
-�
-=
-�
-+
-(
-�
-−
-1
-)
-�
-′{\displaystyle 4\pi c^{2}\mathbf {D} =\mathbf {E} +(\epsilon -1)\mathbf {E} ^{\prime }}
 
-​where E denotes the electric force on a charge at rest, which is zero in the present case. Thus, according to Lorentz' theory, the charges on the faces would have only (ε - 1)/ε of the values which they would have in Hertz' theory; that is, they would be practically zero. The result of Blondlot's experiment was in favour of the theory of Lorentz.
+where E denotes the electric force on a charge at rest, which is zero in the present case. Thus, according to Lorentz' theory, the charges on the faces would have only (ε - 1)/ε of the values which they would have in Hertz' theory; that is, they would be practically zero. The result of Blondlot's experiment was in favour of the theory of Lorentz.
 An experiment of a similar character was performed in 1905 by H. A. Wilson.[61] In this, the space between the inner and outer coatings of a cylindrical condenser was filled with the dielectric ebonite. When the coatings of such a condenser are maintained at a definite difference of potential, charges are induced on thein; and if the condenser be rotated on its axis in a magnetic field whose lines of force are parallel to the axis, these charges will be altered, owing to the additional polarization which is produced in the dielectric molecules by their motion in the magnetic field. As before, the value of the additional charge according to the theory of Lorentz is (ε - 1)/ε times its value as calculated by the theory of Hertz. The result of Wilson's experiments was, like that of Blondlot's, in favour of Lorentz.
 
 The reconciliation of the electromagnetic theory with Fresnel's law of the propagation of light in moving bodies was a distinct advance. But the theory of the motionless aether was hampered by one difficulty: it was, in its original form, incompetent to explain the negative result of the experiment of Michelson and Morley.[62] The adjustment of theory to observation in this particular was achieved by means of a remarkable hypothesis which must now be introduced.
@@ -4242,37 +3133,6 @@ where i denotes the saturation-current per unit area of surface (which is propor
 
 In order to account for these phenomena, Richardson[126]adopted the hypothesis which had previously been proposed[127] for the explanation of metallic conductivity; namely, that a metal is to be regarded as a sponge-like structure of comparatively large fixed positive ions and molecules, in the interstices of which negative electrons are in rapid motion. Since the electrons do not all escape freely at the surface, he postulated a superficial discontinuity of potential, sufficient to restrain most of them. Thus, let N denote the number of free electrons in unit volume of the metal; then in a parallelepiped whose height measured at right angles to the surface is dx, and whose base is of unit area, the number of electrons whose ​x-components of velocity are comprised between u and u + du is
 
-�
-−
-1
-2
-�
-−
-1
-�
-�
-−
-�
-2
-�
-2
- 
-�
-�
- 
-�
-�
-{\displaystyle \pi ^{-{\frac {1}{2}}}\alpha ^{-1}Nc^{-{\frac {u^{2}}{\alpha ^{2}}}}\ du\ dx}, where 
-3
-4
-�
-�
-2
-=
-�
-�
-{\displaystyle {\tfrac {3}{4}}m\alpha ^{2}=qT},
-
 m denoting the mass of an electron, T the absolute temperature, and q, the universal constant previously introduced.
 
 Now, an electron whose x-component of velocity is u will arrive at the interface within an interval dt of time, provided that at the beginning of this interval it is within a distance udt of the interface. So the number of electrons whose x-components of velocity are comprised between u and u + du which arrive at unit area of the interface in the interval dt is
@@ -4302,79 +3162,9 @@ Now, an electron whose x-component of velocity is u will arrive at the interface
 
 If the work which an electron must perform in order to escape through the surface layer be denoted by φ, the number of electrons emitted by unit area of metal in unit time is therefore
 
-∫
-1
-2
-�
-�
-2
-=
-�
-inf
-�
-−
-1
-2
-�
-−
-1
-�
-�
-−
-�
-2
-�
-2
-�
- 
-�
-�
-{\displaystyle \int _{{\tfrac {1}{2}}mu^{2}=\phi }^{\inf }\pi ^{-{\tfrac {1}{2}}}\alpha ^{-1}Ne^{-{\frac {u^{2}}{\alpha ^{2}}}}u\ du}, or 
-1
-2
-�
-−
-1
-2
-�
-�
-�
-−
-2
-�
-�
-�
-2
-{\displaystyle {\tfrac {1}{2}}\pi ^{-{\tfrac {1}{2}}}N\alpha e^{-{\frac {2\phi }{m\alpha ^{2}}}}}.
 
 The current issuing from unit area of the hot metal is thus
 
-1
-2
-�
-−
-1
-2
-�
-�
-�
-�
-−
-2
-�
-�
-�
-2
-{\displaystyle {\tfrac {1}{2}}\pi ^{-{\tfrac {1}{2}}}N\epsilon \alpha e^{-{\frac {2\phi }{m\alpha ^{2}}}}}, or 
-�
-�
-.
-(
-�
-�
-/
-3
-�
 �
 )
 1

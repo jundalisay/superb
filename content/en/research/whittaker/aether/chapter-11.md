@@ -1,7 +1,7 @@
 ---
-title:  "CONDUCTION IN SOLUTIONS AND GASES, FROM FARADAY TO J. J. THOMSON"
+title:  "Conduction In Solutions And Gases, From Faraday To Thomson"
 heading:  "Chapter 11"
-weight: 22
+weight: 90
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
 description: ""

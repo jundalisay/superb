@@ -1,7 +1,7 @@
 ---
-title:  "FARADAY."
+title:  "Faraday"
 heading:  "Chapter 6"
-weight: 12
+weight: 40
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
 description: ""
@@ -9,7 +9,11 @@ description: ""
 
 
 
-Towards the end of the year 1812, Davy received a letter in which the writer, a bookbinder's journeyman named Michael Faraday, expressed a desire to escape from trade, and obtain employment in a scientific laboratory. With the letter was enclosed a neatly written copy of notes which the young man—he was twenty-one years of age—had made of Davy's own public lectures. The great chemist replied courteously, and arranged an interview; at which he learnt that his correspondent had educated himself by reading the volumes which came into his hands for binding, "There were two," Faraday wrote later, "that especially helped me, the 'Encyclopaedia Britannica,' from which I gained my first notions of electricity, and Mrs. Marcet's Conversations on Chemistry, which gave me my foundation in that science." Already, before his application to Davy, he had performed a number of chemical experiments, and had made for himself a voltaic pile, with which he had decomposed several compound bodies.
+Towards the end of 1812, Davy received a letter in which the writer, a bookbinder's journeyman named Michael Faraday, expressed a desire to escape from trade, and obtain employment in a scientific laboratory. 
+
+With the letter was enclosed a neatly written copy of notes which the young man—he was twenty-one years of age—had made of Davy's own public lectures. The great chemist replied courteously, and arranged an interview; at which he learnt that his correspondent had educated himself by reading the volumes which came into his hands for binding, "There were two," 
+
+Faraday wrote later, "that especially helped me, the 'Encyclopaedia Britannica,' from which I gained my first notions of electricity, and Mrs. Marcet's Conversations on Chemistry, which gave me my foundation in that science." Already, before his application to Davy, he had performed a number of chemical experiments, and had made for himself a voltaic pile, with which he had decomposed several compound bodies.
 
 At Davy's recommendation Faraday was in the following spring appointed to a post in the laboratory of the Royal Institution, which had been established at the close of the eighteenth century under the auspices of Count Rumford; and here he remained for the whole of his active life, first as assistant, then as director of the laboratory, and from 1833 onwards as the occupant of a chair of chemistry which was founded for his benefit.
 

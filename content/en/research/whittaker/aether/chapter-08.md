@@ -1,16 +1,20 @@
 ---
-title:  "MAXWELL"
+title:  "Maxwell"
 heading:  "Chapter 8"
-weight: 16
+weight: 60
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
 description: ""
 ---
 
 
-Since the time of Descartes, natural philosophers have never ceased to speculate on the manner in which electric and magnetic influences are transmitted through space. About the middle of the nineteenth century, speculation assumed a definite form, and issued in a rational theory.
+Since the time of Descartes, natural philosophers have speculated how electric and magnetic influences are transmitted through space. 
 
-Among those who thought much on the matter was Karl Friedrich Gauss (b. 1777, d. 1855). In a letter[1] to Weber of date March 19, 1845, Gauss remarked that he had long ago proposed to himself to supplement the known forces which act between electric charges by other forces, such as would cause electric actions to be propagated between the charges with a finite velocity. But he expressed himself as determined not to publish his researches until he should have devised a mechanism by which the transmission could be conceived to be effected; and this he had not succeeded in doing.
+In the mid-19th century, speculation assumed a definite form, issued in a rational theory.
+
+Karl Friedrich Gauss (1777-1855) wrote a letter[1] to Weber of date March 19, 1845, remarking that he had long ago proposed to himself to supplement the known forces which act between electric charges by other forces, such as would cause electric actions to be propagated between the charges with a finite velocity.
+
+But he expressed himself as determined not to publish his researches until he should have devised a mechanism by which the transmission could be conceived to be effected; and this he had not succeeded in doing.
 
 More than one attempt to realize Gauss's aspiration was made by his pupil Riemann. In a fragmentary note,[2] t which appears to have been written in 1853, but which was not published until after his death, Riemann proposed an aether whose elements should be endowed with the power of resisting compression, and also (like the elements of MacCullagh's aether) of resisting changes of orientation. The former property he conceived to be the cause of gravitational and electrostatic effects, and the latter to be the cause of optical and magnetic phenomena. The theory thus outlined was apparently not developed further by its author; but in a short investigation[3] which was published posthumously in 1867,[4] he returned to the question of the process by which electric action is propagated through space. In this memoir he proposed to replace Poisson's equation for the electrostatic potential, namely,
 

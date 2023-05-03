@@ -1,7 +1,7 @@
 ---
-title:  "THE FOLLOWERS OF MAXWELL"
-heading:  "Chapter 1"
-weight: 20
+title:  "The Followers Of Maxwell"
+heading:  "Chapter 10"
+weight: 80
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
 description: ""

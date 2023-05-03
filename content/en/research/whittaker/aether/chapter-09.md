@@ -1,7 +1,7 @@
 ---
-title:  "MODELS OF THE AETHER"
+title:  "Models Of The Aether"
 heading:  "Chapter 9"
-weight: 18
+weight: 70
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
 description: ""
@@ -28,20 +28,6 @@ In order to represent the effect of varying permeability, Thomson abandoned the 
 We have seen above that in models of this kind the electric force is represented by the translatory velocity of the medium. It might therefore be expected that a strong electric field would perceptibly affect the velocity of propagation of light; and that this does not appear to be the case,[7] is an argument against the validity of the scheme.
 
 We now turn to the alternative conception, in which electric phenomena are regarded as rotatory, and magnetic force is represented by the linear velocity of the medium; in symbols,
-
-{
-4
-�
-�
-=
-curl 
-�
-,
-�
-=
-�
-˙
-{\displaystyle {\begin{cases}4\pi \mathbf {D} ={\text{curl }}\mathbf {e} ,\\\mathbf {H} ={\dot {\mathbf {e} }}\end{cases}}}
 
 where D denotes the electric displacement, H the magnetic force, and e the displacement of the medium. In Maxwell's memoir of 1855, and in most of the succeeding writings for many years, attention was directed chiefly to magnetic fields of a steady, or at any rate non-oscillatory, character; in such fields, the motion of the particles of the medium is continuously progressive; and it was consequently natural to suppose the medium to be fluid.
 

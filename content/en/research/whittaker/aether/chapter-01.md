@@ -1,5 +1,5 @@
 ---
-title:  "The Theories of the aether in the seventeenth century"
+title:  "The Theories of the Aether in the 17th Century"
 heading:  "Chapter 1"
 weight: 2
 author: Edmund Taylor Whittaker

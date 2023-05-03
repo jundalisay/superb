@@ -1,7 +1,7 @@
 ---
-title:  "THE MATHEMATICAL ELECTRICIANS OF THE MIDDLE OF THE NINETEENTH CENTURY"
+title:  "The Mathematical Electricians Of The Mid-19th Century"
 heading:  "Chapter 7"
-weight: 14
+weight: 50
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
 description: ""
@@ -14,14 +14,6 @@ While Faraday was engaged in discovering the laws of induced currents in his own
 Among the assumptions on which Neumann based his work was a rule which had been formulated, not long after Faraday's original discovery, by Ennil Lenz,[2] and which may be enunciated as follows: when a conducting circuit is moved in a magnetic field, the induced current flows in such a direction that the ponderomotive forces on it tend to oppose the motion,
 
 Let ds denote an element of the circuit which is in motion, and let Cds denote the component, taken in the direction of motion, of the ponderomotive force exerted by the inducing current on ds, when the latter is carrying unit current; so that the value of C is known from Ampère's theory. Then Lenz's rule requires that the product of O into the strength of the induced current should be negative. Neumann assumed that this is because it consists of a negative coefficient multiplying the square of C; that is, he assumed the induced electro- motive force to be proportional to C. He further assumed it to be proportional to the velocity v of the motion, and thus obtained for the electromotive force induced in ds the expression
-
-−
-�
-�
-�
-�
-�
-{\displaystyle -\epsilon vCds},
 
 where ε denotes a constant coefficient. By aid of this formula, ​in the earlier part[3] of the memoir, he calculated the induced currents in various particular cases.
 

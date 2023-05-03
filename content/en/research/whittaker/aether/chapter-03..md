@@ -1,7 +1,7 @@
 ---
 title: "Galvanism, Thom Galvani To Ohm"
 heading:  "Chapter 3"
-weight: 6
+weight: 12
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
 description: ""

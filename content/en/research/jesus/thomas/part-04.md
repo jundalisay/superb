@@ -7,32 +7,25 @@ image: "/covers/jesus.jpg"
 ---
 
 
+{{< sup v="72" >}} A man said to him, "Tell my brothers to divide my father's possessions with me."
 
-(72) A man said to him, "Tell my brothers to divide my father's possessions with me."
-He said to him, "O man, who has made me a divider?"
+Jesus replied"O man, who has made me a divider?"
+
 He turned to his disciples and said to them, "I am not a divider, am I?"
 
-(73) Jesus said, "The harvest is great but the laborers are few. Beseech the Lord,
-therefore, to send out laborers to the harvest."
+{{< sup v="73" >}} Jesus said, "The harvest is great but the laborers are few. Beseech the Lord, therefore, to send out laborers to the harvest."
 
-(74) He said, "O Lord, there are many around the drinking trough, but there is nothing in
+{{< sup v="74" >}} "O Lord, there are many around the drinking trough, but there is nothing in
 the cistern."
 
-(75) Jesus said, "Many are standing at the door, but it is the solitary who will enter the
+{{< sup v="75" >}} "Many are standing at the door, but it is the solitary who will enter the
 bridal chamber."
 
-(76) Jesus said, "The kingdom of the father is like a merchant who had a consignment of
-merchandise and who discovered a pearl. That merchant was shrewd. He sold the
-merchandise and bought the pearl alone for himself. You too, seek his unfailing and
-enduring treasure where no moth comes near to devour and no worm destroys."
+{{< sup v="76" >}} "The kingdom of the father is like a merchant who had a consignment of merchandise and who discovered a pearl. That merchant was shrewd. He sold the merchandise and bought the pearl alone for himself. You too, seek his unfailing and enduring treasure where no moth comes near to devour and no worm destroys."
 
-(77) Jesus said, "It is I who am the light which is above them all. It is I who am the all.
-From me did the all come forth, and unto me did the all extend. Split a piece of wood,
-and I am there. Lift up the stone, and you will find me there."
+{{< sup v="77" >}} "It is I who am the light which is above them all. It is I who am the all. From me did the all come forth, and unto me did the all extend. Split a piece of wood, and I am there. Lift up the stone, and you will find me there."
 
-(78) Jesus said, "Why have you come out into the desert? To see a reed shaken by the
-wind? And to see a man clothed in fine garments like your kings and your great men?
-Upon them are the fine garments, and they are unable to discern the truth."
+{{< sup v="78" >}} "Why have you come out into the desert? To see a reed shaken by the wind? And to see a man clothed in fine garments like your kings and your great men? Upon them are the fine garments, and they are unable to discern the truth."
 
 (79) A woman from the crowd said to him, "Blessed are the womb which bore you and
 the breasts which nourished you."
