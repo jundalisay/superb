@@ -1,7 +1,7 @@
 ---
 title: "Electric And Magnetic Science Prior To The Introduction Of The Potentials"
 heading: "Chapter 2"
-weight: 4
+weight: 8
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
 description: ""

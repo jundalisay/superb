@@ -9,7 +9,6 @@ description: ""
 
 
 
-
 The hypothesis which Grothuss and Davy had advanced[1] to explain the decomposition of electrolytes was open to serious objection in more than one respect. Since the electric force was supposed first to dissociate the molecules of the electrolyte into ions, and afterwards to set them in motion toward the electrodes, it would seem reasonable to expect that doubling the electric force would double both the dissociation of the molecules and the velocity of the ions, and would therefore quadruple the electrolysis—an inference which is not verified by observation. Moreover it might be expected, on Grothuss' theory, that some definite magnitude of electromotive force would be requisite for the dissociation, and that no electrolysis at all would take place when the electromotive force was below this value, which again is contrary to experience.
 
 A way of escape from these difficulties was first indicated, in 1850, by Alex. Williamson,[2] who suggested that in compound liquids decompositions and recombinations of the molecules are continually taking place throughout the whole mass of the liquid, quite independently of the application of an external electric force. An atom of one element in the compound is thus paired now with one and now with another atom of another element, and in the intervals between these alliances the atom may be regarded as entirely free. In 1857 this idea was made by R. Clausius,[3] of Zurich, the basis of a theory of electrolysis. According to it, the electromotive force emanating from the electrodes does not effect the dissociation of the electrolyte into ions, since a degree of dissociation sufficient for the purpose already exists in consequence of the perpetual mutability of the molecules of the electrolyte. Clausius assumed that these ions are in opposite electric conditions; the applied electric force therefore causes a general drift of all the ions of one kind towards the anode, and of all the ions of the other kind towards the cathode. These opposite motions of the two kinds of ions constitute the galvanic current in the liquid.
@@ -48,61 +47,11 @@ Let V denote the external electromotive force: we may, without loss of generalit
 
 In order that equilibrium may be re-established between the electrode and the solution when the fall of potential at the cathode is altered, it will be necessary not only that some hydrogen cations should come out of the solution and be deposited on the electrode, yielding up their charges, but also that there should be changes in the clustering of the charged ions of hydrogen, mercury, and sulphion in the layer of the solution immediately adjacent to the electrode. Each of these circumstances necessitates a flow of electricity in the outer circuit: in the one case to neutralize the charges of the cations deposited, and in the other case to increase the surface-density of electric charge on the electrode, which forms the opposite sheet of the quasi-condenser. Let Sf (V) denote the total quantity of electricity which has thus flowed in the circuit when the external electromotive force has attained the value V. Then evidently
 
-�
-�
-=
-�
-{
-�
-�
-(
-�
-)
-}
-{\displaystyle de=d\{Sf(V)\}};
-
 so
 
-�
-�
-=
-{
-�
-+
-�
-�
-(
-�
-)
-}
-�
-�
-+
-�
-�
-�
-′
-(
-�
-)
-�
-�
-{\displaystyle dE=\{\gamma +Vf(V)\}dS+VSf^{\prime }(V)dV}.
 
 Since this expression must be an exact differential, we have
 
-�
-�
-�
-�
-+
-�
-(
-�
-)
-=
-0
-{\displaystyle {\frac {d\gamma }{dV}}+f(V)=0};
 
 so that -dy/dV is equal to that flux of electricity per unit of new surface formed, which will maintain the surface in a constant condition (V being constant) when it is extended. Integrating the previous equation, we have
 
@@ -114,25 +63,6 @@ The theory so far is more or less independent of assumptions as to what actually
 
 A different view of the physical conditions at the polarized electrode was taken by Helmholtz,[17] who assumed that the ions of hydrogen which are brought to the cathode by the polarizing current do not give up their charges there, but remain in the vicinity of the electrode, and form one face of a quasi-condenser of which the other face is the electrode itself.[18] If σ denote the surface-density of electricity on either face of this quasicondenser, we have, therefore,
 
-�
-�
-=
-−
-�
-(
-�
-�
-)
-;
-so
-�
-=
-�
-�
-/
-�
-�
-{\displaystyle de=-d(S\sigma );\qquad {\text{so}}\qquad \sigma =d\gamma /dV}.
 
 This equation shows that when dγ/dV is zero—i.e., when the surface-tension is a maximum—o must be zero; that is to say, there must be no difference of potential between the mercury and the electrolyte. The external electromotive force is then balanced entirely by the discontinuity of potential at the other electrode H0; and thus a method is suggested of measuring the latter discontinuity of potential. All previous measurements of differences of potential had involved the employment of more than one interface; and it was not known how the measured difference of potential should be distributed among these interfaces; so that the suggestion of a means of measuring single differences of potential was a distinct advance, even though the hypotheses on which the method was based were somewhat insecure.
 
@@ -140,7 +70,9 @@ A further consequence deduced by Helmholtz from this theory leads to a second me
 
 This conception is realized in the dropping-electrode, in which a jet of mercury, falling from a reservoir into an electrolytic solution, is so adjusted that it breaks into drops when the jet touches the solution. According to Helmholtz's conclusion there is no difference of potential between the drops and the electrolyte; and therefore, the difference of potential between the electrolyte and a layer of mercury underlying it in the same vessel is equal to the difference of potential between this layer of mercury and the mercury in the upper reservoir, which difference is a measurable quantity.
 
-It will be seen that according to the theories both of Gibbs and of Helmholtz, and indeed according to all other theories on the subject,[19] dγ/dV is zero for an electrode whose surface is rapidly increasing—e.g., a dropping electrode; that is to say, the difference of potential between an ordinary mercury electrode and the electrolyte, when the surface-tension has its maximum value, is equal to the difference of potential between a dropping-electrode and the same electrolyte. This result has been experimentally verified by various investigators, who have shown that the applied electromotive force when the surface-tension has its maximum value in the capillary electrometer, is equal to the electromotive force of a cell having as electrodes a large mercury electrode and a dropping electrode.
+It will be seen that according to the theories both of Gibbs and of Helmholtz, and indeed according to all other theories on the subject,[19] dγ/dV is zero for an electrode whose surface is rapidly increasing—e.g., a dropping electrode; that is to say, the difference of potential between an ordinary mercury electrode and the electrolyte, when the surface-tension has its maximum value, is equal to the difference of potential between a dropping-electrode and the same electrolyte. 
+
+This result has been experimentally verified by various investigators, who have shown that the applied electromotive force when the surface-tension has its maximum value in the capillary electrometer, is equal to the electromotive force of a cell having as electrodes a large mercury electrode and a dropping electrode.
 
 Another memoir which belongs to the same period of Helmholtz' career, and which has led to important developments, was concerned with a special class of voltaic cells. The most usual type of cell is that in which the positive electrode is composed of a different metal from the negative electrode, and the evolution of energy depends on the difference in the chemical affinities of these metals for the liquids in the cell. But in the class of cells now considered[20] by Helmholtz, the two electrodes are composed of the same metal (say, copper); and the liquid (say, solution of copper sulphate) is more concentrated in the neighbourhood of one electrode than in the neighbourhood of the other. When the cell is in operation, the salt passes from the places of high concentration to the places of low concentration, so as to equalize its distribution, and this process is accompanied by the flow of a current in the outer circuit between the electrodes. Such cells had been studied experimentally by James Moser a short time previously[21] to Helmholtz' investigation.
 
@@ -148,187 +80,27 @@ The activity of the cell is due to the fact that the available energy of a solut
 
 of salt, in passing from a high to a low concentration, are therefore capable of supplying energy, just as a compressed gas is capable of supplying energy when its degree of compression is reduced. To examine the matter quantitatively, let nf(n/V) denote the term in the available energy of a solution, which is due to the dissolution of n gramme-molecules of salt in a volume V of pure solvent; the function f will of course depend also on the temperature. Then when dn gramme-molecules of solvent are evaporated from the solution, the decrease in the available energy of the system is evidently equal to the available energy of dn gramme-molecules of liquid solvent, less the available energy of dn gramme-molecules of the vapour of the solvent, together with nf(n/V) less nf{n/(V-vdn)}, where v denotes the volume of one gramme-molecule of the liquid. But this decrease in available energy must be equal to the mechanical work supplied to the external world, which is dn.p1(u′ – v), if p1, denote the vapour-pressure of the solution at the temperature in question, and {{Wikimath|v′ denote the volume of one gramme-molecule of vapour. We have therefore
 
-�
-�
-.
-�
-1
-(
-�
-′
-−
-�
-)
-=
+
 {\displaystyle dn.p_{1}(v^{\prime }-v)=}	-available energy of dn gramme-molecules of solvent vapour
 +available energy of dn gramme-molecules of liquid solvent
-+
-�
-�
-(
-�
-�
-)
-−
-�
-�
-{
-�
-/
-(
-�
-−
-�
-�
-�
-)
-}
-{\displaystyle nf(nV)-nf\{n/(V-vdn)\}}.
-Subtracting from this the equation obtained by making n zero, we have
 
-�
-�
-.
-(
-�
-1
-−
-�
-0
-)
-(
-�
-′
-−
-�
-)
-=
-�
-�
-(
-�
-/
-�
-)
-−
-�
-�
-{
-�
-/
-(
-�
-−
-�
-�
-�
-)
-}
-{\displaystyle dn.(p_{1}-p_{0})(v^{\prime }-v)=nf(n/V)-nf\{n/(V-vdn)\}},
+Subtracting from this the equation obtained by making n zero, we have
 
 where p0 denotes the vapour-pressure of the pure solvent at the temperature in question; so that
 
-(
-�
-1
-−
-�
-0
-)
-(
-�
-′
-−
-�
-)
-=
-−
-(
-�
-2
-/
-�
-2
-)
-�
-′
-(
-�
-/
-�
-)
-�
-{\displaystyle (p_{1}-p_{0})(v^{\prime }-v)=-(n^{2}/V^{2})f^{\prime }(n/V)v}.
 
-Now, it is known that when a salt is dissolved in water, the vapour-pressure is lowered in proportion to the concentration of the salt—at any rate when the concentration is small: in fact, by the law of Raoult, {{Wikimath|(p0-p1/p0, is approximately equal to nv/V; so that the previous equation becomes
-
-�
-0
-�
-(
-�
-′
-−
-�
-)
-=
-�
-�
-′
-(
-�
-/
-�
-)
-{\displaystyle p_{0}V(v^{\prime }-v)=nf^{\prime }(n/V)}.
+When a salt is dissolved in water, the vapour-pressure is lowered in proportion to the concentration of the salt -- at any rate, when the concentration is small: in fact, by the law of Raoult, {{Wikimath|(p0-p1/p0, is approximately equal to nv/V; so that the previous equation becomes
 
 Neglecting v in comparison with v′, and making use of the equation of state of perfect gases (namely,
 
-�
-0
-�
-′
-=
-�
-�
-{\displaystyle p_{0}v^{\prime }=RT}.
 
 where T denotes the absolute temperature, and R denotes the constant of the equation of state), we have
 
-�
-′
-(
-�
-/
-�
-)
-=
-�
-�
-�
-/
-�
-{\displaystyle f^{\prime }(n/V)=RTV/n},
 
 and therefore
 
-�
-(
-�
-/
-�
-)
-=
-�
-�
-log
-⁡
-(
-�
-/
-�
-)
-{\displaystyle f(n/V)=RT\log(n/V)}.
+
+
 
 Thus in the available energy of one gramme-molecule of a dissolved salt, the term which depends on the concentration is proportional to the logarithm of the concentration; and hence, if in a concentration-cell one gramme-molecule of the salt passes from a high concentration c2, at one electrode to a low concentration c1 at the other electrode, its available energy is thereby diminished by an amount proportional to log c2/c1. The energy which thus disappears is given up by the system in the form of electrical work; and therefore the electromotive force of the concentration-cell must be proportional to log c2/c1. The theory of solutions and their vapour-pressure was not at the time sufficiently developed to enable Helmholtz to determine precisely the coefficient of log c2/c1 in the expression.[22]
 
@@ -340,140 +112,27 @@ The general acceptance of Arrhenius' views was hastened by the advocacy of Ostwa
 
 If it be granted that ions can have any kind of permanent existence in a salt solution, it may be shown from thermodynamical considerations that the degree of dissociation must increase as te dilution increases, and that at infinite dilution there must be complete dissociation. For the available energy of a dilute solution of volume V, containing n1, gramme-molecules of one substance, n2 gramme-molecules of another, and so on, is (as may be shown by an obvious extension of the reasoning already employed in connexion with concentration-cells)[27]
 
-∑
-�
-�
-�
-�
-�
-(
-�
-)
-+
-�
-�
-∑
-�
-�
-�
-log
-⁡
-(
-�
-�
-/
-�
-)
-+
+
  the available energy
 {\displaystyle \sum _{r}n_{r}\phi _{r}(T)+RT\sum _{r}n_{r}\log(n_{r}/V)+{\text{ the available energy}}}
 
 possessed by the solvent before the introduction of the solutes, where φr(T) depends on T and on the nature of the rth solute, but not on V, and R denotes the constant which occurs in the equation of state of perfect gases. When the system is in equilibrium, the proportions of the reacting substances will be so adjusted that the available energy has a stationary value for small virtual alterations ∂n1, ∂n2, …… of the proportions; and therefore
 
-0
-=
-∑
-�
-�
-�
-�
-.
-�
-�
-(
-�
-)
-+
-�
-�
-∑
-�
-�
-�
-�
-.
-log
-⁡
-(
-�
-�
-/
-�
-)
-+
-�
-�
-∑
-�
-�
-�
-{\displaystyle 0=\sum _{r}\delta n_{r}.\phi _{r}(T)+RT\sum _{r}\delta n_{r}.\log(n_{r}/V)+RT\sum \delta n_{r}}.
+
+
 
 Applying this to the case of an electrolyte in which the disappearance of one molecule of salt indicated by the suffix 1) gives rise to one cation (indicated by the suffix 2) and one anion (indicated by the suffix 3), we have ∂n1 = -∂n2 = -∂n3; so the equation becomes
 
-0
-=
-�
-1
-(
-�
-)
-−
-�
-2
-(
-�
-)
-−
-�
-3
-(
-�
-)
-+
-�
-�
-log
-⁡
-(
-�
-1
-�
-/
-�
-2
-�
-3
-)
-−
-�
-�
-{\displaystyle 0=\phi _{1}(T)-\phi _{2}(T)-\phi _{3}(T)+RT\log(n_{1}V/n_{2}n_{3})-RT},
-
 or
 
-�
-1
-�
-/
-�
-2
-�
-3
-=
+
  a function of 
 �
  only
 {\displaystyle n_{1}V/n_{2}n_{3}={\text{ a function of }}T{\text{ only}}}.
 
 Since in a neutral solution the number of anions is equal to the number of cations, this equation may be written
-�
-2
-2
-=
-�
-�
-1
+
 ×
  a function of 
 �
@@ -486,188 +145,29 @@ The ideas of Arrhenius contributed to the success of Walther Nernst[28] in perfe
 
 In an electrolytic solution let the drift-velocity of the cations under unit electric force be u, and that of the anions be v, so that the fraction u/(u + v) of the current is transported by the cations, and the fraction v/(u + v) by the anions. If the concentration of the solution be c1 at one electrode, and c2, at the other, it follows from the formula previously found for the available energy that one gramme-ion of cations, in moving from one electrode to the other, is capable of yielding up an amount[29] RT log (c2/c1) of energy; while one gramme-ion of anions going in the opposite direction must absorb the same amount of energy. The total quantity of work furnished when one gramme-molecule of salt is transferred from concentration c2; to concentration c1 is therefore
 
-�
-−
-�
-�
-+
-�
-�
-�
-log
-⁡
-�
-2
-�
-1
-{\displaystyle {\frac {u-v}{u+v}}RT\log {c_{2}}{c_{1}}}
-
 The quantity of electric charge which passes in the circuit when one gramne-molecule of the salt is transferred is proportional to the valency ν of the ions, and the work furnished is proportional to the product of this charge and the electromotive force E of the cell; so that in suitable units we have
 
-�
-=
-�
-�
-�
-�
-−
-�
-�
-+
-�
-log
-⁡
-�
-2
-�
-1
-{\displaystyle E={\frac {RT}{\nu }}{\frac {u-v}{u+v}}\log {\frac {c_{2}}{c_{1}}}}.
+
 
 A typical concentration-cell to which this formula may be applied may be constituted in the following way:—Let a quantity of zinc amalgam, in which the concentration of zinc is c1, be in contact with a dilute solution of zinc sulphate, and let this in turn be in contact with a quantity of zinc amalgam of concentration c2. When the two masses of amalgam are connected by a conducting wire outside the cell, an electric current flows in the wire from the weak to the strong amalgam,[30] while zinc cations pass through the solution from the strong amalgam to the weak. The electromotive force of such a cell, in which the current may be supposed to be carried solely by cations, is
 
-�
-�
-�
-log
-⁡
-�
-2
-�
-1
-{\displaystyle {\frac {RT}{\nu }}\log {\frac {c_{2}}{c_{1}}}}
 
-Not content with the derivation of the electromotive force from considerations of energy, Nernst proceeded to supply a definite mechanical conception of the process of conduction in electrolytes. The ions are impelled by the electric force associated with the gradient of potential in the electrolyte. But this is not the only force which acts on them; for, since their available energy decreases as the concentration decreases, there must be a force assisting every process by which the concentration is decreased. The matter may be illustrated by the analogy of a gas compressed in a cylinder fitted with a piston; the available energy of the gas decreases as its degree of compression decreases; and therefore that movement of the piston which tends to decrease the compression is assisted by a force—the "pressure" of the gas on the piston. Similarly, if a solution were contained within a cylinder fitted with a piston which is permeable to the pure solvent but not to the solute, and if the whole were immersed in pure solvent, the available energy of the system would be decreased if the piston were to move outwards so as to admit more solvent into the solution; and therefore this movement of the piston would be assisted by a force—the "osmotic pressure of the solution," as it is called.[31]
+Not content with the derivation of the electromotive force from considerations of energy, Nernst proceeded to supply a definite mechanical conception of the process of conduction in electrolytes. The ions are impelled by the electric force associated with the gradient of potential in the electrolyte. But this is not the only force which acts on them; for, since their available energy decreases as the concentration decreases, there must be a force assisting every process by which the concentration is decreased. The matter may be illustrated by the analogy of a gas compressed in a cylinder fitted with a piston; the available energy of the gas decreases as its degree of compression decreases; and therefore that movement of the piston which tends to decrease the compression is assisted by a force—the "pressure" of the gas on the piston. 
+
+Similarly, if a solution were contained within a cylinder fitted with a piston which is permeable to the pure solvent but not to the solute, and if the whole were immersed in pure solvent, the available energy of the system would be decreased if the piston were to move outwards so as to admit more solvent into the solution; and therefore this movement of the piston would be assisted by a force—the "osmotic pressure of the solution," as it is called.[31]
 
 Consider, then, the case of a single electrolyte supposed to be perfectly dissociated; its state will be supposed to be the same at all points of any plane at right angles to the axis of x. Let ν denote the valency of the ions, and V the electric potential at any point. Since[32] the available energy of a given quantity of a substance in very dilute solution depends on the concentration in exactly the same way as the available energy of a given quantity of a perfect gas depends on its density, it follows that the osmotic pressure p for each ion is determined in terms of the concentration and temperature by the equation of state of perfect gases
 
-�
-�
-=
-�
-�
-�
-{\displaystyle Mp=RTc},
 
 where M denotes the molecular weight of the salt, and c the mass of salt per unit volume.
 
 Consider the cations contained in a parallelepiped at the place x, whose cross-section is of unit area and whose length is dx. The mechanical force acting on them due to the electric field is -(vc/M)dV/dx.dx, and the mechanical force on them due to the osmotic pressure is -dp/dx.dx. If u denote the velocity of drift of the cations in a field of unit electric force, the total amount of charge which would be transferred by cations across unit area in unit time under the influence of the electric forces alone would be -(uνe/M)dV/dx; so, under the influence of both forces, it is
 
-−
-�
-�
-�
-�
-(
-�
-�
-�
-�
-+
-�
-�
-�
-�
-�
-�
-�
-�
-)
-{\displaystyle -{\frac {uvc}{M}}\left({\frac {dV}{dx}}+{\frac {RT}{c\nu }}{\frac {dc}{dx}}\right)}.
 
 Similarly, if v denote the velocity of drift of the anions in a unit electric field, the charge transferred across unit area in unit time by the anions is
 
-�
-�
-�
-�
-(
-−
-�
-�
-�
-�
-+
-�
-�
-�
-�
-�
-�
-�
-�
-)
-{\displaystyle {\frac {v\nu c}{M}}\left(-{\frac {dV}{dx}}+{\frac {RT}{c\nu }}{\frac {dc}{dx}}\right)}.
-
 We have therefore, if the total current be denoted by i,
 
-�
-−
-(
-�
-+
-�
-)
-�
-�
-�
-�
-�
-�
-�
-−
-(
-�
-−
-�
-)
-�
-�
-�
-�
-�
-�
-�
-{\displaystyle i-(u+v){\frac {\nu c}{M}}{\frac {dV}{dx}}-(u-v){\frac {RT}{M}}{\frac {dc}{dx}}},
-
-or
-
-−
-�
-�
-�
-�
-�
-�
-=
-�
-�
-�
-(
-�
-+
-�
-)
-�
-�
-�
-+
-�
-−
-�
-�
-+
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-{\displaystyle -{\frac {dV}{dx}}dx={\frac {Mdx}{(u+v)\nu c}}i+{\frac {u-v}{u+v}}{\frac {RT}{\nu c}}{\frac {dc}{dx}}dx}.
 
 The first term on the right evidently represents the product of the current into the ohmic resistance of the parallelepiped dx, while the second term represents the internal electromotive force of the parallelepiped. It follows that if r denote the specific resistance, we must have
 
@@ -759,67 +259,9 @@ Crookes found that two adjacent pencils of cathode rays appeared to repel each o
 
 How admirably the molecular-torrent theory accounts for the deviation of the cathode rays by a magnetic field was shown by the calculations of Eduard Riecke in 1881.[51] If the axis of z be taken parallel to the magnetic force H, the equations of motion of a particle of mass m, charge e, and velocity (u, v, w) are
 
-�
-�
-�
-/
-�
-�
-=
-�
-�
-�
-,
-�
-�
-�
-/
-�
-�
-=
-−
-�
-�
-�
-,
-�
-�
-�
-/
-�
-�
-=
-0
-{\displaystyle mdu/dt=evH,\qquad mdv/dt=-euH,\qquad mdw/dt=0}.
 
 The last equation shows that the component of velocity of the particle parallel to the magnetic force is constant; the other equations give
 
-�
-=
-�
-sin
-⁡
-(
-�
-�
-�
-/
-�
-)
-,
-�
-=
-�
-cos
-⁡
-(
-�
-�
-�
-/
-�
-)
-{\displaystyle u=A\sin(eHt/m),\qquad v=A\cos(eHt/m)},
 
 showing that the projection of the path on a plane at right angles to the magnetic force is a circle. Thus, in a magnetic field the particles of the molecular torrent describe spiral paths whose axes are the lines of magnetic force.
 
@@ -829,13 +271,20 @@ But the hypothesis of Varley and Crookes was before long involved in difficultie
 
 It was further urged against the charged-particle theory that cathode rays are capable of passing through films of metal which are so thick as to be quite opaque to ordinary light;[56] it seemed inconceivable that particles of matter should not be stopped by even the thinnest gold-leaf. At the time of Hertz's experiments on the subject, an attempt to obviate this difficulty was made by J.-J. Thomson,[57] who suggested that the metallic film when bombarded by the rays might itself acquire the property of emitting charged particles, so that the rays which were observed on the further side need not have passed through the film. It was Thomson who ultimately found the true explanation; but this depended in part on another order of ideas, whose introduction and development must now be traced.
 
-The tendency, which was now general, to abandon the electron-theory of Weber in favour of Maxwell's theory involved certain changes in the conceptions of electric charge. In the theory of Weber, electric phenomena were attributed to the agency of stationary or moving charges, which could most readily be pictured as having a discrete and atom-like existence. The conception of displacement, on the other hand, which lay at the root of the Maxwellian theory, was more in harmony with the representation of electricity as something of a continuous nature; and as Maxwell's views met with increasing acceptance, the atomistic hypothesis seemed to have entered on a period of decay. Its revival was due largely to the advocacy of Helmholtz[58] who, in a lecture delivered to the Chemical Society of London in 1881, pointed out[59] that it was thoroughly in accord with the ideas of Faraday,[60] on which Maxwell's theory was founded. "If," he said, " we accept the hypothesis that the elementary substances are composed of atoms, we cannot avoid concluding that electricity also, positive as well as negative, is divided into definite elementary portions which behave like atoms of electricity."
+The tendency, which was now general, to abandon the electron-theory of Weber in favour of Maxwell's theory involved certain changes in the conceptions of electric charge.
+
+
+In Weber's theory, electric phenomena were attributed to the agency of stationary or moving charges, which could most readily be pictured as having a discrete and atom-like existence. 
+
+The conception of displacement, on the other hand, which lay at the root of the Maxwellian theory, was more in harmony with the representation of electricity as something of a continuous nature; and as Maxwell's views met with increasing acceptance, the atomistic hypothesis seemed to have entered on a period of decay. Its revival was due largely to the advocacy of Helmholtz[58] who, in a lecture delivered to the Chemical Society of London in 1881, pointed out[59] that it was thoroughly in accord with the ideas of Faraday,[60] on which Maxwell's theory was founded. "If," he said, " we accept the hypothesis that the elementary substances are composed of atoms, we cannot avoid concluding that electricity also, positive as well as negative, is divided into definite elementary portions which behave like atoms of electricity."
 
 When the conduction of electricity is considered in the light of this hypothesis, it seems almost inevitable to conclude that the process is of much the same character in gases as in electrolytes; and before long this view was actively maintained. It had indeed long been known that a compound gas might be decomposed by the electric discharge; and that in some cases the constituents are liberated at the electrodes in such a way as to suggest an analogy with electrolysis. The question had been studied in 1861 by Adolphe Perrot, who examined[61] the gases liberated by the passage of the electric spark through steam. He found that while the product of this action was a detonating mixture of hydrogen and oxygen, there was a decided preponderance of hydrogen at one pole and of oxygen at the other
 
 The analogy of gaseous conduction to electrolysis was applied by W. Giese,[62] of Berlin, in 1882, in order to explain the conductivity of the hot gases of flames. "It is assumed," he wrote, "that in electrolytes, even before the application of an external electromotive force, there are present atoms or atomic groups—the ions, as they are called—which originate when the molecules dissociate; by these the passage of electricity through the liquid is effected, for they are set in motion by the electric field and carry their charges with them. We shall now extend this hypothesis by assuming that in gases also the property of conductivity is due to the presence of ions. Such ions may be supposed to exist in small numbers in all gases at the ordinary temperature and pressure; and as the temperature rises their numbers will increase."
 
-Ideas similar to this were presented in a general theory of the discharge in rarefied gases, which was devised two years later by Arthur Schuster, of Manchester.[63] Schuster remarked that when hot liquids are maintained at a high potential, the vapours which rise from them are found to be entirely free from electrification, from which he inferred that a molecule striking an electrified surface in its rapid motion cannot carry away any part of the charge, and that one molecule cannot communicate electricity to another in an encounter in which both molecules remain intact. Thus he was led to the conclusion that dissociation of the gaseous molecules is necessary for the passage of electricity through gases.[64]
+Ideas similar to this were presented in a general theory of the discharge in rarefied gases, which was devised two years later by Arthur Schuster, of Manchester.[63] 
+
+Schuster remarked that when hot liquids are maintained at a high potential, the vapours which rise from them are found to be entirely free from electrification, from which he inferred that a molecule striking an electrified surface in its rapid motion cannot carry away any part of the charge, and that one molecule cannot communicate electricity to another in an encounter in which both molecules remain intact. Thus he was led to the conclusion that dissociation of the gaseous molecules is necessary for the passage of electricity through gases.[64]
 
 Schuster advocated the charged particle theory of cathode rays, and by extending and interpreting an experiment of Hittorf's was able to adduce strong evidence in its favour. He placed the positive and negative electrodes so close to each other that at very low pressures the Crookes' dark space extended from the cathode to beyond the anode. In these circumstances it was found that the discharge from the positive electrode always passed to the nearest point of the inner boundary of the Crookes' dark space—Which, of course, was in vessel; the opposite direction to the cathode. Thus, in the neighbourhood of the positive discharge, the current was flowing in two opposite directions at closely adjoining places; which could scarcely happen unless the current in one direction were carried by particles moving against the lines of force by virtue of their inertia,
 
@@ -903,20 +352,6 @@ Shortly afterwards Thomson himself published an account[88] of experiments in wh
 
 The electrostatic and magnetic deflexions taken together suffice to determine the ratio of the mass of a cathode particle to the charge which it carries. For the equation of motion of the particle is
 
-�
-�
-¨
-=
-�
-�
-+
-�
-[
-�
-.
-�
-]
-{\displaystyle m\mathbf {\ddot {r}} =e\mathbf {E} +e[\mathbf {v.H} ]},
 
 where r denotes the vector from the origin to the position of the particle; E and H denote the electric and magnetic forces; e the charge, m the mass, and v the velocity of the particle. By observing the circumstances in which the force eE, due to the electric field, exactly balances the force e[v.H], due to the magnetic field, it is possible to determine v; and it is readily seen from the above equation that a measurement of the deflexion in the magnetic field supplies a relation between v and m/e; so both v and m/e may be determined. Thomson found the value of m/e to be independent of the nature of the rarefied gas: its amount was 10-7 (grammes/electromagnetic units of charge), which is only about the thousandth part of the value of m/e for the hydrogen atom in electrolysis. If the charge were supposed to be of the same order of magnitude as that on an electrolytic ion, it would be necessary to conclude that the particle whose mass was thus measured is much smaller than the atom, and the conjecture might be entertained that it is the primordial unit or corpuscle of which all atoms are ultimately composed.[89]
 
@@ -930,10 +365,13 @@ The method employed by Thomson to determine n was founded on the discovery, to w
 
 Since the publication of Thomson's papers his general conclusions regarding the magnitudes of e and m/e for gaseous ions have been abundantly confirmed. It appears certain that electric charge exists in discrete units, vitreous and resinous, each of magnitude 1·5 x 10-19 coulombs approximately. Each ion, whether in an electrolytic liquid or in a gas, carries one (or an integral number) of these charges. An electrolytic ion also contains one or more atoms of matter, and a positive gaseous ion has a mass of the same order of magnitude as that of an atom of matter. But it is possible in many ways to produce in a gas negative ions which are not attached to atoms of matter; for these the inertia is only about one-thousandth of the inertia of an atom; and there is reason for believing that even this apparent mass is in its origin purely electrical.[96]
 
-The closing years of the nineteenth century saw the foundation of another branch of experimental science which is closely related to the study of conduction in gases. When Röntgen announced his discovery of the X-rays, and described their power of exciting phosphorescence, a number of other workers commenced to investigate this property more completely. In particular, Henri Becquerel resolved to examine the radiations which are emitted by the phosphorescent double sulphate of uranium and potassium after exposure to the sun. The result was communicated to the French Academy on February 24th, 1896.[97] "Let a photographic plate," he said, " be wrapped in two sheets of very thick black paper, such that the plate is not affected by exposure to the sun for a day. Outside the paper place a quantity of the phosphorescent substance, and expose the whole to the sun for several hours. When the plate is developed, it displays a silhouette of the phosphorescent substance. So the latter must emit radiations which are capable of passing through paper opaque to ordinary light, and of reducing salts of silver."
+
+The closing years of the 19th century saw the foundation of another branch of experimental science which is closely related to the study of conduction in gases. When Röntgen announced his discovery of the X-rays, and described their power of exciting phosphorescence, a number of other workers commenced to investigate this property more completely. In particular, Henri Becquerel resolved to examine the radiations which are emitted by the phosphorescent double sulphate of uranium and potassium after exposure to the sun. The result was communicated to the French Academy on February 24th, 1896.[97] "Let a photographic plate," he said, " be wrapped in two sheets of very thick black paper, such that the plate is not affected by exposure to the sun for a day. Outside the paper place a quantity of the phosphorescent substance, and expose the whole to the sun for several hours. When the plate is developed, it displays a silhouette of the phosphorescent substance. So the latter must emit radiations which are capable of passing through paper opaque to ordinary light, and of reducing salts of silver."
 
 At this time Becquerel supposed the radiation to have been excited by the exposure of the phosphorescent substance to the sun; but a week later he announced[98] that it persisted for an indefinite time after the substance had been removed from the sunlight, and after the luminosity which properly constitutes phosphorescence had died away; and he was thus led to conclude that the activity was spontaneous and permanent. It was soon found that those salts of uranium which do not phosphoresce—e.g., the uranous salts,—and the metal itself, all emit the rays; and it became evident that what Becquerel had discovered was a radically new physical property, possessed by the element uranium in all its chemical compounds.
 
-Attempts were now made to trace this activity in other substances. In 1898 it was recognized in thorium and its compounds;[99] and in the same year P. Curie and Madame Sklodowska Curie announced to the French Academy the separation from the mineral pitchblende of two new highly active elements, to which they gave the names of polonium[100] and radium.[101] A host of workers was soon engaged in studying the properties of the Becquerel rays. The discoverer himself had shown[102] in 1896 that these rays, like the X- and cathode rays, impart conductivity to gases. It was found in 1899 by Rutherford[103] that the rays from uranium are not all of the same kind, but that at least two distinct types are present; one of these, to which he gave the name α-rays, is readily absorbed; while another, which he named β-radiation, has a greater penetrating power. It was then shown by Giesel, Becquerel, and others, that part of the radiation is deflected by a magnetic field,[104] and part is not.[105] After this Monsieur and Madame Curie[106] found that the deviable rays carry negative electric charges, and Becquerel[107] succeeded in deviating them by an electrostatic field. The deviable or β-rays were thus clearly of the same nature as cathode rays; and when measurements of the electric and magnetic deviations gave for the ratio m/e a value of the order 10-7, the identity of the β-particles with the cathode-ray corpuscles was fully established.
+Attempts were now made to trace this activity in other substances. In 1898 it was recognized in thorium and its compounds;[99] and in the same year P. Curie and Madame Sklodowska Curie announced to the French Academy the separation from the mineral pitchblende of two new highly active elements, to which they gave the names of polonium[100] and radium.[101] A host of workers was soon engaged in studying the properties of the Becquerel rays. The discoverer himself had shown[102] in 1896 that these rays, like the X- and cathode rays, impart conductivity to gases. 
 
-The subsequent history of the new branch of physics thus created falls outside the limits of the present work. We must now consider the progress which was achieved in the general theory of aether and electricity in the last decade of the nineteenth century.
+It was found in 1899 by Rutherford[103] that the rays from uranium are not all of the same kind, but that at least two distinct types are present; one of these, to which he gave the name α-rays, is readily absorbed; while another, which he named β-radiation, has a greater penetrating power. It was then shown by Giesel, Becquerel, and others, that part of the radiation is deflected by a magnetic field,[104] and part is not.[105] After this Monsieur and Madame Curie[106] found that the deviable rays carry negative electric charges, and Becquerel[107] succeeded in deviating them by an electrostatic field. The deviable or β-rays were thus clearly of the same nature as cathode rays; and when measurements of the electric and magnetic deviations gave for the ratio m/e a value of the order 10-7, the identity of the β-particles with the cathode-ray corpuscles was fully established.
+
+<!-- The subsequent history of the new branch of physics thus created falls outside the limits of the present work. We must now consider the progress which was achieved in the general theory of aether and electricity in the last decade of the nineteenth century. -->

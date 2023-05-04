@@ -69,7 +69,7 @@ Oil-seeds include:
 - sesame
 - linseed
 - safflower
-- sunflower. 
+- sunflower
 
 
 It is most important to exchange seeds between India and the rest of the world. 
@@ -78,7 +78,7 @@ Sugar crops include:
 - sugar cane
 - sugar beet
 - date palm
-- palmyra. 
+- palmyra
 
 
 Spices include cloves, cumin, coriander, etc. 
