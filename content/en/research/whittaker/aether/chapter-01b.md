@@ -1,6 +1,6 @@
 ---
-title:  "The Theories of the Aether in the 17th Century"
-heading:  "Chapter 1"
+title:  "Descartes' Theory of the Aether"
+heading:  "Chapter 1b"
 weight: 4
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"

@@ -1,6 +1,6 @@
 ---
-title:  "The Theories of the Aether in the 17th Century"
-heading:  "Chapter 1"
+title:  "Hooke's Theory"
+heading:  "Chapter 1c"
 weight: 6
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
@@ -8,9 +8,20 @@ description: ""
 ---
 
 
-Hooke's next effort was to produce a mechanical theory of refraction, to replace that given by Descartes. "Because," he says, "all transparent mediums are not Homogeneous to one another, therefore we will next examine how this pulse or motion will be propagated through differingly transparent mediums. And here, according to the most acute and excellent Philosopher Des Cartes, I suppose the sine of the angle of inclination in the first medium to be to the sine of refraction in the second, as the density of the first to the density of the second. By density, I mean not the density in respect of gravity (with which the refractions or transparency of mediums hold no proportion), but in respect only to the trajection of the Rays of light, in which respect they only differ in this, that the one propagates the pulse more easily and weakly, the other more slowly, but more strongly. But as for the pulses themselves, they will by the refraction acquire another property, which we shall now endeavour to explicate.
+Hooke's next effort was to produce a mechanical theory of refraction, to replace that given by Descartes. 
 
-"We will suppose, therefore, in the first Figure, ACFD to be
+Hooke says:
+
+"Because all transparent mediums are not Homogeneous to one another, therefore we will next examine how this pulse or motion will be propagated through differingly transparent mediums. 
+
+According to the most acute and excellent Philosopher Descartes, I suppose the sine of the angle of inclination in the first medium to be to the sine of refraction in the second, as the density of the first to the density of the second. 
+
+By density, I mean not the density in respect of gravity (with which the refractions or transparency of mediums hold no proportion), but in respect only to the trajection of the Rays of light, in which respect they only differ in this, that the one propagates the pulse more easily and weakly, the other more slowly, but more strongly. 
+
+But as for the pulses themselves, they will by the refraction acquire another property, which we shall now endeavour to explicate."
+
+
+We will suppose, therefore, in the first Figure, ACFD to be
 
 A history of the theories of aether and electricity. Whittacker E.T. (1910).pdf
 a physical Ray, or ABC and DEF to be two mathematical Rays, trajected from a very remote point of a luminous body through an Homogeneous transparent medium LL, and DA, EB, FC, to be small portions of the orbicular impulses which must therefore cut the Rays at right angles: these Hays meeting with the plain surface NO of a medium that yields an easier transitus to the propagation of light, and falling obliquely' on it, they will in the medium MM be refracted towards the perpendicular of the surface. And because this medium is more easily trajected than the former by a third, therefore the point U of the orbicular pulse FC will be moved to H four spaces in the same time that F, the other end of it, is inoved to three spaces, therefore the whole refracted pulse to H shall be oblique to the refracted Rays CHK and GI."

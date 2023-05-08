@@ -52,7 +52,7 @@ articles1:
 tricon2:
   title : "The Soul of the Physical Universe"
   heading : "Material Superphysics"
-  subtitle : "Based on the five layers of the ancient Greek, Hindus, and Chinese"
+  subtitle : "Based on Descartes and the five layers of the ancient Greek, Hindus, and Chinese"
   icon : "/icons/spmat.png"
   link: "/material/principles"
   items:
@@ -89,7 +89,7 @@ articles2:
 tricon3:
   title : "The Soul of Living Entities"
   heading : "Bio Superphysics"
-  subtitle : "Based on five medical paradigms"
+  subtitle : "Based on the dynamics of the sentient energy"
   icon : "/icons/spmed.png"  
   link: "/medical/principles"
   items:

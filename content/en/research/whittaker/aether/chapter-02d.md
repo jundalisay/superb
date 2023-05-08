@@ -1,6 +1,6 @@
 ---
-title: "Wilhelm Jacob s'Gravesande"
-heading: "Chapter 2b"
+title: "The one-fluid theory of electricity"
+heading: "Chapter 2d"
 weight: 10
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
@@ -10,13 +10,19 @@ description: ""
 
 After Michell the law of the inverse square was maintained by Tobias Mayer[65] of Göttingen (b. 1723, d. 1762), better known as the author of Lunar Tables which were long in use; and by the celebrated mathematician, Johann Heinrich Lambert[66] (b. 1728, d. 1777)
 
-The promulgation of the one-fluid theory of electricity, in the middle of the eighteenth century, naturally led to attempts to construct a similar theory of magnetism; this was effected in 1759 by Aepinus,[67] who supposed the "poles" to be places at which a magnetic fluid was present in amount exceeding or falling short of the normal quantity. The permanence of magnets was accounted for by supposing the fluid to be entangled in their pores, so as to be with difficulty displaced. The particles of the fluid were assumed to repel each other, and to attract the particles of iron and steel; but, as Aepinus saw, in order to satisfactorily explain magnetic phenomena it was necessary to assume also a mutual repulsion among the material particles of the magnet.
+The one-fluid theory of electricity was promulgated in the mid-18th century.
+
+It naturally led to attempts to construct a similar theory of magnetism. This was effected in 1759 by Aepinus,[67] who supposed the "poles" to be places at which a magnetic fluid was present in amount exceeding or falling short of the normal quantity. 
+
+The permanence of magnets was accounted for by supposing the fluid to be entangled in their pores, so as to be with difficulty displaced. The particles of the fluid were assumed to repel each other, and to attract the particles of iron and steel; but, as Aepinus saw, in order to satisfactorily explain magnetic phenomena it was necessary to assume also a mutual repulsion among the material particles of the magnet.
 
 Subsequently two imponderable magnetic fluids, to which the names boreal and austral were assigned, were postulated by the Hollander Anton Brugmans (b. 1732, d. 1789) and by Wilcke. These fluids were supposed to have properties of mutual attraction and repulsion similar to those possessed by vitreous and resinous electricity.
 
 The writer who next claims our attention for his services both to magnetism and to electricity is the French physicist, Charles Augustin Coulomb[68] (b. 1736, d. 1806). By aid of the torsion-balance, which was independently invented by Michell and himself, he verified in 1785 Priestley's fundamental law that the repulsive force between two small globes charged with the same kind of electricity is in the inverse ratio of the square of the distance of their centres. In the second memoir he extended this law to the attraction of opposite electricities.
 
-Coulomb did not accept the one-fluid theory of Franklin, Aepinus, and Cavendish, but preferred a rival hypothesis which had been proposed in 1759 by Robert Symmer.[69] "My notion," said Symmer, "is that the operations of electricity do not depend upon one single positive power, according to the opinion generally received; but upon two distinct, positive, and active powers, which, by contrasting, and, as it were, counteracting each other, produce the various phenomena of electricity; and that, when a body is said to be positively electrified, it is not simply that it is possessed of a larger share of electric matter than in a natural state; nor, when it is said to be negatively electrified, of a less; but that, in the former case, it is possessed of a larger portion of one of those active powers, and in the latter, of a larger portion of the other; while a body in its natural state remains unelectrified, from an equal balance of those two powers within it."
+Coulomb did not accept the one-fluid theory of Franklin, Aepinus, and Cavendish, but preferred a rival hypothesis which had been proposed in 1759 by Robert Symmer.[69] 
+
+"My notion," said Symmer, "is that the operations of electricity do not depend upon one single positive power, according to the opinion generally received; but upon two distinct, positive, and active powers, which, by contrasting, and, as it were, counteracting each other, produce the various phenomena of electricity; and that, when a body is said to be positively electrified, it is not simply that it is possessed of a larger share of electric matter than in a natural state; nor, when it is said to be negatively electrified, of a less; but that, in the former case, it is possessed of a larger portion of one of those active powers, and in the latter, of a larger portion of the other; while a body in its natural state remains unelectrified, from an equal balance of those two powers within it."
 
 Coulomb developed this idea: "Whatever be the cause of electricity," he says,[70] "we can explain all the phenomena by supposing that there are two electric fluids, the parts of the same fluid repelling each other according to the inverse square of the distance, and attracting the parts of the other fluid according to the same inverse square law." "The supposition of two fluids," he adds, "is moreover in accord with all those discoveries of modern chemists and physicists, which have made known to a various pairs of gases whose elasticity is destroyed by their admixture in certain proportions—an effect which could pot take place without something equivalent to a repulsion between the parts of the same gas, which is the cause of its elasticity, and an attraction between the parts of different gases, which accounts for the loss of elasticity on combination."
 
@@ -42,55 +48,12 @@ When an excess of one of the electric fluids is communicated to a metallic body,
 
 Poisson went on to show that this result was by no means all that might with advantage be borrowed from the theory of + Attractions. Lagrange, in a memoir on the motion of gravitating bodies, had shown[77] that the components of the attractive force at any point can be simply expressed as the derivates of the function which is obtained by adding together the masses of all the particles of an attracting system, each divided by its distance from the point; and Laplace had shown[78] that this function V satisfies the equation
 
-∂
-2
-�
-∂
-�
-2
-+
-∂
-2
-�
-∂
-�
-2
-+
-∂
-2
-�
-∂
-�
-2
-=
-0
-{\displaystyle {\frac {\partial ^{2}V}{\partial x^{2}}}+{\frac {\partial ^{2}V}{\partial y^{2}}}+{\frac {\partial ^{2}V}{\partial z^{2}}}=0}
+
+
 in space free from attracting matter. Poisson himself showed later, in 1813,[79] that when the point (x, y, z) is within the substance of the attracting body, this equation of Laplace must be replaced by
 
-∂
-2
-�
-∂
-�
-2
-+
-∂
-2
-�
-∂
-�
-2
-+
-∂
-2
-�
-∂
-�
-2
-=
-4
-�
-�{\displaystyle {\frac {\partial ^{2}V}{\partial x^{2}}}+{\frac {\partial ^{2}V}{\partial y^{2}}}+{\frac {\partial ^{2}V}{\partial z^{2}}}=4\pi \rho }
+
+
 where ρ denotes the density of the attracting matter at the point. In the present memoir Poisson called attention to the utility of this function V in electrical investigations, remarking that its value over the surface of any conductor must be constant.
 
 The known formulae for the attractions of spheroids show that when a charged conductor is spheroidal, the repellent force acting on a small charged body immediately outside it will be directed at right angles to the surface of the spheroid, and will be proportional to the thickness of the surface-layer of electricity at this place. Poisson suspected that this theorem might be true for conductors not having the spheroidal form—a result which, as we have seen, had been already virtually given by Coulomb; and Laplace suggested to Poisson the following proof, applicable to the general case. The force at a point immediately outside the conductor can be divided into a part S due to the part of the charged surface immediately adjacent to the point, and a part due to the rest of the surface. At a point close to this, but just inside the conductor, the force S will still act; but the forces will evidently be reversed in direction. Since the resultant force at the latter point vanishes, we must have S=s; so the resultant force at the exterior point is 2s. But s is proportional to the charge per unit area of the surface, as is seen by considering the case of an infinite plate; which establishes the theorem.
@@ -105,141 +68,20 @@ His starting-point is Coulomb's doctrine of two imponderable magnetic fluids, ar
 
 Suppose that an amount m of the positive magnetic fluid is located at a point (x, y, z); the components of the magnetic intensity, or force exerted on unit magnetic pole, at a point (ξ, η, ζ) will evidently be
 
-−
-�
-∂
-∂
-�
-(
-1
-�
-)
-{\displaystyle -m{\frac {\partial }{\partial \xi }}\left({\frac {1}{r}}\right)}, 
-−
-�
-∂
-∂
-�
-(
-1
-�
-)
-{\displaystyle -m{\frac {\partial }{\partial \eta }}\left({\frac {1}{r}}\right)}, 
-−
-�
-∂
-∂
-�
-(
-1
-�
-)
-{\displaystyle -m{\frac {\partial }{\partial \zeta }}\left({\frac {1}{r}}\right)},
-
 where r denotes |(ξ-x)2 + (η-y)2 + (ζ-z)2|
-1
-2
-\frac{1}{2}. Hence if we consider next a magnetic element in which equal quantities of the two magnetic fluids are displaced from each other parallel to the x-axis, the components of the magnetic intensity at (ξ, η, ζ) will be the negative derivates, with respect to ξ, η, ζ respectively, of the function
 
-�
-∂
-∂
-�
-(
-1
-�
-)
-{\displaystyle A{\frac {\partial }{\partial x}}\left({\frac {1}{r}}\right)},
+
+Hence if we consider next a magnetic element in which equal quantities of the two magnetic fluids are displaced from each other parallel to the x-axis, the components of the magnetic intensity at (ξ, η, ζ) will be the negative derivates, with respect to ξ, η, ζ respectively, of the function
 
 where the quantity A, which does not involve (ξ, η, ζ), may be called the magnetic moment of the element: it may be measured by the couple required to maintain the element in equilibrium at a definite angular distance from the magnetic meridian.
 
 If the displacement of the two fluids from each other in the element is not parallel to the axis of s, it is easily seen that the expression corresponding to the last is
 
-�
-∂
-∂
-�
-(
-1
-�
-)
-+
-�
-∂
-∂
-�
-(
-1
-�
-)
-+
-�
-∂
-∂
-�
-(
-1
-�
-)
-{\displaystyle A{\frac {\partial }{\partial x}}\left({\frac {1}{r}}\right)+B{\frac {\partial }{\partial y}}\left({\frac {1}{r}}\right)+C{\frac {\partial }{\partial z}}\left({\frac {1}{r}}\right)},
-
 where the vector (A, B, C) now denotes the magnetic moment of the element.
 
 Thus the magnetic intensity at an external point (ξ, η, ζ) due to any magnetic body has the components
 
-(
-−
-∂
-�
-∂
-�
-,
-−
-∂
-�
-∂
-�
-,
-−
-∂
-�
-∂
-�
-)
-{\displaystyle \left(-{\frac {\partial V}{\partial \xi }},-{\frac {\partial V}{\partial \eta }},-{\frac {\partial V}{\partial \zeta }}\right)},
-
 where
-
-�
-=
-∭
-(
-�
-∂
-∂
-�
-+
-�
-∂
-∂
-�
-+
-�
-∂
-∂
-�
-)
-(
-1
-�
-)
-�
-�
-�
-�
-�
-�
-{\displaystyle V=\iiint \left(A{\frac {\partial }{\partial x}}+B{\frac {\partial }{\partial y}}+C{\frac {\partial }{\partial z}}\right)\left({\frac {1}{r}}\right)dxdydz}
 
 integrated throughout the substance of the magnetic body, and where the vector (A, B, C) or I represents the magnetic moment per unit-volume, or, as it is generally called, the magnetization. The function V was afterwards named by Green the magnetic potential.
 
@@ -248,18 +90,6 @@ Poisson, by integrating by parts the preceding expression for the magnetic poten
 the first integral being taken over the surface S of the magnetic body, and the second integral being taken throughout its volume. This formula shows that the magnetic intensity produced by the body in external space is the same as would be produced by a fictitious distribution of magnetic fluid, consisting of a layer over its surface, of surface-charge (I.ds) per element dS, together with a volume-distribution of density — div I throughout its substance. These fictitious magnetizations are generally known as Poisson's equivalent surface- and volume-distributions of magnetism.
 
 Poisson, moreover, perceived that at a point in a very small cavity excavated within the magnetic body, the magnetic potential has a limiting value which is independent of the shape of the cavity as the dimensions of the cavity tend to zero; but that this is not true of the magnetic intensity, which in such a small cavity depends on the shape of the cavity. Taking the cavity to be spherical, he showed that the magnetic intensity within it is
-
-g
-r
-a
-d
-�
-+
-4
-3
-�
-�
-{\displaystyle \mathrm {grad} V+{\frac {4}{3}}\pi \mathbf {I} },[82]
 
 where I denotes the magnetization at the place.
 
