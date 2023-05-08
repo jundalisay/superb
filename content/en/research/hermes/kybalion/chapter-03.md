@@ -44,15 +44,36 @@ To Webster, "Transmute" means "to change from one nature, form, or substance, in
 
 Accordingly, "Mental Transmutation" means the art of changing and transforming mental states, forms, and conditions, into others. So you may see that Mental Transmutation is the "Art of Mental Chemistry," if you like the term—a form of practical Mystic Psychology.
 
-But this means far more than appears on the surface. Transmutation, Alchemy, or Chemistry on the Mental Plane is important enough in its effects, to be sure, and if the art stopped there it would still be one of the most important branches of study known to man. But this is only the beginning. Let us see why!
+But this means far more than appears on the surface. 
+
+Transmutation, Alchemy, or Chemistry on the Mental Plane is important enough in its effects, to be sure, and if the art stopped there it would still be one of the most important branches of study known to man. 
+
+<!-- But this is only the beginning. Let us see why! -->
 
 The first of the Seven Hermetic Principles is the Principle of Mentalism, the axiom of which is "THE ALL is Mind; the Universe is Mental," which means that the Underlying Reality of the Universe is Mind; and the Universe itself is Mental—that is, "existing in the Mind of THE ALL." We shall consider this Principle in succeeding lessons, but let us see the effect of the principle if it be assumed to be true.
 
-If the Universe is Mental in its nature, then Mental Transmutation must be the art of CHANGING THE CONDITIONS OF THE UNIVERSE, along the lines of Matter, Force and mind. So you see, therefore, that Mental Transmutation is really the "Magic" of which the ancient; writers had so much to say in their mystical works, and about which they gave so few practical instructions. If All be Mental, then the art which enables one to transmute mental conditions must render the Master the controller of material conditions as well as those ordinarily called "mental."
+If the Universe is Mental in its nature, then Mental Transmutation must be the art of CHANGING THE CONDITIONS OF THE UNIVERSE, along the lines of Matter, Force and mind. 
 
-As a matter of fact, none but advanced Mental Alchemists have been able to attain the degree of power necessary to control the grosser physical conditions, such as the control of the elements of Nature; the production or cessation of tempests; the production and cessation of earthquakes and other great physical phenomena. But that such men have existed, and do exist today, is a matter of earnest belief to all advanced occultists of all schools. 
+Therefore, that Mental Transmutation is really the "Magic" mentioned by the ancient writers in their mystical works, and about which they gave so few practical instructions. 
 
-That the Masters exist, and have these powers, the best teachers assure their students, having had experiences which justify them in such belief and statements. These Masters do not make public exhibitions of their powers, but seek seclusion from the crowds of men, in order to better work their may along the Path of Attainment. We mention their existence, at this point, merely to call your attention to the fact that their power is entirely Mental, and operates along the lines of the higher Mental Transmutation, under the Hermetic Principle of Mentalism.
+If All is Mental, then the art which enables one to transmute mental conditions must render the Master the controller of material conditions as well as those ordinarily called "mental".
+
+Only the advanced Mental Alchemists have been able to attain the degree of power necessary to control the grosser physical conditions, such as:
+- the control of the elements of Nature
+- the production or cessation of tempests
+- the production and cessation of earthquakes and other great physical phenomena. 
+
+All the advanced occultists of all schools earnestly believe that such men have existed, and do exist today.
+
+The best teachers assure their students that the Masters exist and have these powers.
+
+<!-- having had experiences which justify them in such belief and statements.  -->
+
+These Masters do not make public exhibitions of their powers, but seek seclusion in order to better work their may along the Path of Attainment. 
+
+We mention their existence merely to point to the fact that their power:
+- is entirely Mental, and
+- operates along the lines of the higher Mental Transmutation, under the Hermetic Principle of Mentalism.
 
 
 {{< q >}}
@@ -70,7 +91,11 @@ The following operate along the same general lines:
 
 There is but one principle involved, no matter by what name the phenomena be called.
 
-The student and practitioner of Mental Transmutation works among the Mental Plane, transmuting mental conditions, states, etc., into others, according to various formulas, more or less efficacious. The various "treatments," "affirmations," "denials" etc., of the schools of mental science are but formulas, often quite imperfect and unscientific, of The Hermetic Art. The majority of modern practitioners are quite ignorant compared to the ancient masters, for they lack the fundamental knowledge upon which the work is based.
+The student and practitioner of Mental Transmutation works among the Mental Plane, transmuting mental conditions, states, etc., into others, according to various formulas, more or less efficacious. 
+
+The various "treatments," "affirmations," "denials" etc., of the schools of mental science are but formulas, often quite imperfect and unscientific, of The Hermetic Art. 
+
+The majority of modern practitioners are quite ignorant compared to the ancient masters, for they lack the fundamental knowledge upon which the work is based.
 
 The mental states, etc., of one's self, and the states of others, can be changed or transmuted by Hermetic Methods. 
 
@@ -78,7 +103,9 @@ This is done usually unconsciously, but often consciously by some understanding 
 
 Many students and practitioners of modern mental science know that every material condition depending upon the minds of other people may be changed or transmuted in accordance with the earnest desire, will, and "treatments" of person desiring changed conditions of life. 
 
-The public are so generally informed regarding these things at present, that we do not deem it necessary to mention the same at length, our purpose at this point being merely to show the Hermetic Principle and Art underlying all of these various forms of practice, good and evil, for the force can be used in opposite directions according to the Hermetic Principles of Polarity.
+<!-- The public are so generally informed regarding these things at present, that we do not deem it necessary to mention the same at length,  -->
+
+Our purpose here is merely to show the Hermetic Principle and Art underlying all of these various forms of practice, good and evil, for the force can be used in opposite directions according to the Hermetic Principles of Polarity.
 
 <!-- In this little book we shall state the basic principles of Mental
 Transmutation, that all who read may grasp the Underlying Principles,

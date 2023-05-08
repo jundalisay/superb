@@ -3,6 +3,18 @@ Qualimath 1 1 + instead of 1 + 1
 Superphysics is based on waves which need linear algebra to notate and compute. Moverover, no wave exists alone - all waves and even parts of the same wave are analogous or relative to another. This is different from particles which are discrete and can exist all alone. 
 
 
+-2/3  UP  CHARM TOP
++1/3  DOWN  STRANGE BOTTOM
+      
++1  ELECTRON  MUON  TAU
+  NEUTRINO  NEUTRINO  NEUTRINO
+      
+0 H Boson   
+1 Bosons    
+2     
+      
+1/3     
+
 
 ## Particle-based Math
 
